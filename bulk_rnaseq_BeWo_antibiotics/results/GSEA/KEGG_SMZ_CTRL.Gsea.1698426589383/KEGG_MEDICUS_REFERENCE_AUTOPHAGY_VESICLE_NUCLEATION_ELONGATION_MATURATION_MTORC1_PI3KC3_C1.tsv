@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RB1CC1	RB1 inducible coiled-coil 1 [Source:HGNC Symbol;Acc:HGNC:15574]	5875	0.2284129559993744	-0.31507716	No	
+row_1	PIK3C3	phosphatidylinositol 3-kinase catalytic subunit type 3 [Source:HGNC Symbol;Acc:HGNC:8974]	5991	0.2180006206035614	-0.2828106	No	
+row_2	MTOR	mechanistic target of rapamycin kinase [Source:HGNC Symbol;Acc:HGNC:3942]	7596	0.07465679943561554	-0.3666203	No	
+row_3	BECN1	beclin 1 [Source:HGNC Symbol;Acc:HGNC:1034]	7849	0.05192757397890091	-0.37255195	No	
+row_4	PIK3R4	phosphoinositide-3-kinase regulatory subunit 4 [Source:HGNC Symbol;Acc:HGNC:8982]	8163	0.02362670563161373	-0.38727587	No	
+row_5	NRBF2	nuclear receptor binding factor 2 [Source:HGNC Symbol;Acc:HGNC:19692]	8391	0.006469562649726868	-0.39987397	No	
+row_6	TELO2	telomere maintenance 2 [Source:HGNC Symbol;Acc:HGNC:29099]	8634	-0.015614273026585579	-0.4117355	No	
+row_7	AKT1S1	AKT1 substrate 1 [Source:HGNC Symbol;Acc:HGNC:28426]	10828	-0.19960083067417145	-0.508766	No	
+row_8	ATG101	autophagy related 101 [Source:HGNC Symbol;Acc:HGNC:25679]	11824	-0.2958681285381317	-0.5158365	Yes	
+row_9	RPTOR	regulatory associated protein of MTOR complex 1 [Source:HGNC Symbol;Acc:HGNC:30287]	11946	-0.3098102807998657	-0.46740848	Yes	
+row_10	TTI1	TELO2 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:29029]	12113	-0.3301524221897125	-0.4180473	Yes	
+row_11	ATG14	autophagy related 14 [Source:HGNC Symbol;Acc:HGNC:19962]	13288	-0.47170138359069824	-0.40432128	Yes	
+row_12	MLST8	MTOR associated protein, LST8 homolog [Source:HGNC Symbol;Acc:HGNC:24825]	13467	-0.5013916492462158	-0.3248656	Yes	
+row_13	ULK1	unc-51 like autophagy activating kinase 1 [Source:HGNC Symbol;Acc:HGNC:12558]	14186	-0.6197764277458191	-0.25684056	Yes	
+row_14	ATG13	autophagy related 13 [Source:HGNC Symbol;Acc:HGNC:29091]	14270	-0.6342030167579651	-0.14771996	Yes	
+row_15	DEPTOR	DEP domain containing MTOR interacting protein [Source:HGNC Symbol;Acc:HGNC:22953]	16156	-1.5745285749435425	0.021401713	Yes	

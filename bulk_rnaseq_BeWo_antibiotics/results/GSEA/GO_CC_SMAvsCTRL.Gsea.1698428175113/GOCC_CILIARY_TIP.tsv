@@ -1,0 +1,46 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KIF7	kinesin family member 7 [Source:HGNC Symbol;Acc:HGNC:30497]	274	1.8645572662353516	0.06377134	Yes	
+row_1	SMO	smoothened, frizzled class receptor [Source:HGNC Symbol;Acc:HGNC:11119]	807	1.3530802726745605	0.093962945	Yes	
+row_2	DYNC2H1	dynein cytoplasmic 2 heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2962]	917	1.2915056943893433	0.14203563	Yes	
+row_3	TTC30B	tetratricopeptide repeat domain 30B [Source:HGNC Symbol;Acc:HGNC:26425]	1152	1.1743754148483276	0.17923573	Yes	
+row_4	IFT46	intraflagellar transport 46 [Source:HGNC Symbol;Acc:HGNC:26146]	1634	1.0048797130584717	0.19751008	Yes	
+row_5	IFT80	intraflagellar transport 80 [Source:HGNC Symbol;Acc:HGNC:29262]	2148	0.8742362856864929	0.20884416	Yes	
+row_6	DYNLL2	dynein light chain LC8-type 2 [Source:HGNC Symbol;Acc:HGNC:24596]	2177	0.8662602305412292	0.24326636	Yes	
+row_7	IFT57	intraflagellar transport 57 [Source:HGNC Symbol;Acc:HGNC:17367]	2308	0.8386879563331604	0.27162498	Yes	
+row_8	WDR35	WD repeat domain 35 [Source:HGNC Symbol;Acc:HGNC:29250]	2329	0.8326693177223206	0.30504623	Yes	
+row_9	ODAD3	outer dynein arm docking complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:28303]	2812	0.7415972352027893	0.31239948	Yes	
+row_10	DYNC2LI1	dynein cytoplasmic 2 light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:24595]	2836	0.7382023930549622	0.34177464	Yes	
+row_11	KIF3A	kinesin family member 3A [Source:HGNC Symbol;Acc:HGNC:6319]	2923	0.7218088507652283	0.36743096	Yes	
+row_12	ARMC9	armadillo repeat containing 9 [Source:HGNC Symbol;Acc:HGNC:20730]	3438	0.6454901099205017	0.36927018	Yes	
+row_13	IFT43	intraflagellar transport 43 [Source:HGNC Symbol;Acc:HGNC:29669]	3917	0.582176685333252	0.37023294	Yes	
+row_14	DYNC2I2	dynein 2 intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:28296]	4112	0.5545654296875	0.38376793	Yes	
+row_15	SUFU	SUFU negative regulator of hedgehog signaling [Source:HGNC Symbol;Acc:HGNC:16466]	5688	0.38814857602119446	0.32375085	No	
+row_16	WDR19	WD repeat domain 19 [Source:HGNC Symbol;Acc:HGNC:18340]	5926	0.3635900318622589	0.3273229	No	
+row_17	IFT52	intraflagellar transport 52 [Source:HGNC Symbol;Acc:HGNC:15901]	6312	0.3235500156879425	0.32209545	No	
+row_18	GLI1	GLI family zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:4317]	6776	0.2825692892074585	0.31140953	No	
+row_19	CDKL5	cyclin dependent kinase like 5 [Source:HGNC Symbol;Acc:HGNC:11411]	6860	0.2741456925868988	0.31872344	No	
+row_20	IFT25	intraflagellar transport 25 [Source:HGNC Symbol;Acc:HGNC:25019]	6957	0.2663559913635254	0.325088	No	
+row_21	TRAF3IP1	TRAF3 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:17861]	6982	0.26486390829086304	0.33486733	No	
+row_22	KIF3B	kinesin family member 3B [Source:HGNC Symbol;Acc:HGNC:6320]	7177	0.25030291080474854	0.33583713	No	
+row_23	IFT74	intraflagellar transport 74 [Source:HGNC Symbol;Acc:HGNC:21424]	7600	0.21732161939144135	0.32443628	No	
+row_24	TTC21B	tetratricopeptide repeat domain 21B [Source:HGNC Symbol;Acc:HGNC:25660]	7861	0.19790568947792053	0.3200555	No	
+row_25	IFT22	intraflagellar transport 22 [Source:HGNC Symbol;Acc:HGNC:21895]	7983	0.18879365921020508	0.32200986	No	
+row_26	IFT27	intraflagellar transport 27 [Source:HGNC Symbol;Acc:HGNC:18626]	8390	0.15844528377056122	0.3089501	No	
+row_27	TTC26	tetratricopeptide repeat domain 26 [Source:HGNC Symbol;Acc:HGNC:21882]	8445	0.15399639308452606	0.3127024	No	
+row_28	IFT122	intraflagellar transport 122 [Source:HGNC Symbol;Acc:HGNC:13556]	8896	0.1224721372127533	0.29603258	No	
+row_29	KIFAP3	kinesin associated protein 3 [Source:HGNC Symbol;Acc:HGNC:17060]	9291	0.0946236178278923	0.28091657	No	
+row_30	IFT81	intraflagellar transport 81 [Source:HGNC Symbol;Acc:HGNC:14313]	9472	0.08155620843172073	0.27559358	No	
+row_31	CLUAP1	clusterin associated protein 1 [Source:HGNC Symbol;Acc:HGNC:19009]	10735	-0.006378973834216595	0.2149232	No	
+row_32	DYNLL1	dynein light chain LC8-type 1 [Source:HGNC Symbol;Acc:HGNC:15476]	12481	-0.1285284459590912	0.13597633	No	
+row_33	ULK3	unc-51 like kinase 3 [Source:HGNC Symbol;Acc:HGNC:19703]	12902	-0.1550927311182022	0.12210214	No	
+row_34	IFT20	intraflagellar transport 20 [Source:HGNC Symbol;Acc:HGNC:30989]	13279	-0.1831464171409607	0.11151098	No	
+row_35	CYLD	CYLD lysine 63 deubiquitinase [Source:HGNC Symbol;Acc:HGNC:2584]	13285	-0.18344448506832123	0.11884531	No	
+row_36	DYNLRB1	dynein light chain roadblock-type 1 [Source:HGNC Symbol;Acc:HGNC:15468]	13699	-0.21381062269210815	0.107733995	No	
+row_37	IFT88	intraflagellar transport 88 [Source:HGNC Symbol;Acc:HGNC:20606]	14453	-0.270606130361557	0.082551785	No	
+row_38	KIF3C	kinesin family member 3C [Source:HGNC Symbol;Acc:HGNC:6321]	15257	-0.337215781211853	0.05770619	No	
+row_39	SPEF1	sperm flagellar 1 [Source:HGNC Symbol;Acc:HGNC:15874]	15792	-0.389834463596344	0.048021864	No	
+row_40	IFT140	intraflagellar transport 140 [Source:HGNC Symbol;Acc:HGNC:29077]	17024	-0.5151395797729492	0.009858679	No	
+row_41	DYNC2I1	dynein 2 intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:21862]	17595	-0.5856215953826904	0.006521613	No	
+row_42	IFT172	intraflagellar transport 172 [Source:HGNC Symbol;Acc:HGNC:30391]	17709	-0.6009508371353149	0.02588317	No	
+row_43	GLI3	GLI family zinc finger 3 [Source:HGNC Symbol;Acc:HGNC:4319]	20098	-1.3348957300186157	-0.0342904	No	
+row_44	CILK1	ciliogenesis associated kinase 1 [Source:HGNC Symbol;Acc:HGNC:21219]	20344	-1.5973045825958252	0.019844366	No	

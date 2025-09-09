@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SCML1	Scm polycomb group protein like 1 [Source:HGNC Symbol;Acc:HGNC:10580]	156	2.0188326835632324	0.13075179	Yes	
+row_1	SCML2	Scm polycomb group protein like 2 [Source:HGNC Symbol;Acc:HGNC:10581]	498	1.4843919277191162	0.21316333	Yes	
+row_2	CBX6	chromobox 6 [Source:HGNC Symbol;Acc:HGNC:1556]	1062	1.1019344329833984	0.255546	Yes	
+row_3	CBX2	chromobox 2 [Source:HGNC Symbol;Acc:HGNC:1552]	1164	1.05683171749115	0.32281992	Yes	
+row_4	CBX7	chromobox 7 [Source:HGNC Symbol;Acc:HGNC:1557]	1567	0.9087928533554077	0.36155418	Yes	
+row_5	CBX4	chromobox 4 [Source:HGNC Symbol;Acc:HGNC:1554]	4056	0.4375353157520294	0.24102646	No	
+row_6	PCGF2	polycomb group ring finger 2 [Source:HGNC Symbol;Acc:HGNC:12929]	6219	0.19597181677818298	0.12349576	No	
+row_7	BMI1	BMI1 proto-oncogene, polycomb ring finger [Source:HGNC Symbol;Acc:HGNC:1066]	6401	0.1784961074590683	0.12491387	No	
+row_8	CBX8	chromobox 8 [Source:HGNC Symbol;Acc:HGNC:15962]	8232	0.017406834289431572	0.015119557	No	
+row_9	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase [Source:HGNC Symbol;Acc:HGNC:8127]	8456	-1.951831509359181E-4	0.0016064852	No	
+row_10	FOXK2	forkhead box K2 [Source:HGNC Symbol;Acc:HGNC:6036]	8520	-0.005504383239895105	-0.001832642	No	
+row_11	BAP1	BRCA1 associated protein 1 [Source:HGNC Symbol;Acc:HGNC:950]	9007	-0.04569333791732788	-0.028138652	No	
+row_12	RNF2	ring finger protein 2 [Source:HGNC Symbol;Acc:HGNC:10061]	11302	-0.2432285100221634	-0.15039402	No	
+row_13	YY1	YY1 transcription factor [Source:HGNC Symbol;Acc:HGNC:12856]	11791	-0.29144009947776794	-0.15975346	No	
+row_14	ASXL2	ASXL transcriptional regulator 2 [Source:HGNC Symbol;Acc:HGNC:23805]	12371	-0.3609972894191742	-0.16980174	No	
+row_15	PHC3	polyhomeotic homolog 3 [Source:HGNC Symbol;Acc:HGNC:15682]	12509	-0.37692520022392273	-0.15193316	No	
+row_16	FOXK1	forkhead box K1 [Source:HGNC Symbol;Acc:HGNC:23480]	13224	-0.4639418423175812	-0.1630204	No	
+row_17	MBD5	methyl-CpG binding domain protein 5 [Source:HGNC Symbol;Acc:HGNC:20444]	13601	-0.5215407609939575	-0.14960496	No	
+row_18	ASXL1	ASXL transcriptional regulator 1 [Source:HGNC Symbol;Acc:HGNC:18318]	13797	-0.5533868074417114	-0.1229987	No	
+row_19	HCFC1	host cell factor C1 [Source:HGNC Symbol;Acc:HGNC:4839]	13951	-0.5777040719985962	-0.09215591	No	
+row_20	PHC2	polyhomeotic homolog 2 [Source:HGNC Symbol;Acc:HGNC:3183]	14097	-0.6008453369140625	-0.059220627	No	
+row_21	MBD6	methyl-CpG binding domain protein 6 [Source:HGNC Symbol;Acc:HGNC:20445]	14445	-0.6701592206954956	-0.033724092	No	
+row_22	SCMH1	Scm polycomb group protein homolog 1 [Source:HGNC Symbol;Acc:HGNC:19003]	15284	-0.9158830642700195	-0.0209441	No	
+row_23	PHC1	polyhomeotic homolog 1 [Source:HGNC Symbol;Acc:HGNC:3182]	16003	-1.3705466985702515	0.030692637	No	

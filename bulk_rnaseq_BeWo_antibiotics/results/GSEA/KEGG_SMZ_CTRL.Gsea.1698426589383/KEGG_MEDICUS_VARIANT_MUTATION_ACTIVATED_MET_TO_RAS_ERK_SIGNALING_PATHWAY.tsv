@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SOS2	SOS Ras/Rho guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:11188]	5646	0.25021693110466003	-0.30471843	No	
+row_1	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	6338	0.18477848172187805	-0.31886762	No	
+row_2	KRAS	KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	7267	0.10338788479566574	-0.35960463	No	
+row_3	SOS1	SOS Ras/Rac guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:11187]	7495	0.082548588514328	-0.36097267	No	
+row_4	MAP2K2	mitogen-activated protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6842]	7594	0.07470175623893738	-0.3556983	No	
+row_5	NRAS	NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]	9001	-0.045294031500816345	-0.43413585	No	
+row_6	RAF1	Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]	10646	-0.18439659476280212	-0.50611746	No	
+row_7	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	11304	-0.2436649650335312	-0.5093643	No	
+row_8	ARAF	A-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:646]	12925	-0.4253544509410858	-0.5437139	Yes	
+row_9	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	13128	-0.45169174671173096	-0.4881439	Yes	
+row_10	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	14326	-0.6418375372886658	-0.46434703	Yes	
+row_11	MET	MET proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:7029]	14362	-0.6515011787414551	-0.36865368	Yes	
+row_12	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	14515	-0.6898874044418335	-0.27429014	Yes	
+row_13	BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	15614	-1.0746053457260132	-0.1795165	Yes	
+row_14	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	16144	-1.5566641092300415	0.022127897	Yes	

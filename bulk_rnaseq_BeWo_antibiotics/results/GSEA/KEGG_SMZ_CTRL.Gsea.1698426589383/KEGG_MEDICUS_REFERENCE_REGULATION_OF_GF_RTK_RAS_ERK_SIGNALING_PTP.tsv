@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DUSP6	dual specificity phosphatase 6 [Source:HGNC Symbol;Acc:HGNC:3072]	1344	0.9850242137908936	-0.0063778907	No	
+row_1	MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	1858	0.8230220079421997	0.025271563	No	
+row_2	MAPK9	mitogen-activated protein kinase 9 [Source:HGNC Symbol;Acc:HGNC:6886]	4205	0.42015784978866577	-0.0849192	No	
+row_3	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	6338	0.18477848172187805	-0.20008239	No	
+row_4	DUSP3	dual specificity phosphatase 3 [Source:HGNC Symbol;Acc:HGNC:3069]	8776	-0.02650074101984501	-0.34580365	No	
+row_5	MAPK14	mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	12014	-0.31801798939704895	-0.51779824	No	
+row_6	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	14326	-0.6418375372886658	-0.6089656	Yes	
+row_7	DUSP16	dual specificity phosphatase 16 [Source:HGNC Symbol;Acc:HGNC:17909]	14585	-0.7034958600997925	-0.57096994	Yes	
+row_8	DUSP10	dual specificity phosphatase 10 [Source:HGNC Symbol;Acc:HGNC:3065]	14607	-0.7075328230857849	-0.5182985	Yes	
+row_9	DUSP7	dual specificity phosphatase 7 [Source:HGNC Symbol;Acc:HGNC:3073]	15278	-0.9131950736045837	-0.48929206	Yes	
+row_10	DUSP8	dual specificity phosphatase 8 [Source:HGNC Symbol;Acc:HGNC:3074]	15519	-1.0319077968597412	-0.425166	Yes	
+row_11	DUSP9	dual specificity phosphatase 9 [Source:HGNC Symbol;Acc:HGNC:3076]	15667	-1.1082043647766113	-0.34958482	Yes	
+row_12	DUSP1	dual specificity phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:3064]	15859	-1.2407169342041016	-0.26656792	Yes	
+row_13	DUSP5	dual specificity phosphatase 5 [Source:HGNC Symbol;Acc:HGNC:3071]	15869	-1.2460209131240845	-0.17211299	Yes	
+row_14	DUSP4	dual specificity phosphatase 4 [Source:HGNC Symbol;Acc:HGNC:3070]	16464	-2.7655231952667236	0.0027282704	Yes	

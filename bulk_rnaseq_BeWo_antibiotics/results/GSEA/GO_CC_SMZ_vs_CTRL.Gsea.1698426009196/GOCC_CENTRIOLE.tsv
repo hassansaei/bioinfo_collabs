@@ -1,0 +1,147 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CEP19	centrosomal protein 19 [Source:HGNC Symbol;Acc:HGNC:28209]	187	2.0043563842773438	0.01935601	Yes	
+row_1	CCDC92	coiled-coil domain containing 92 [Source:HGNC Symbol;Acc:HGNC:29563]	405	1.6468700170516968	0.03185777	Yes	
+row_2	AGBL2	AGBL carboxypeptidase 2 [Source:HGNC Symbol;Acc:HGNC:26296]	474	1.5578124523162842	0.051054608	Yes	
+row_3	WDR62	WD repeat domain 62 [Source:HGNC Symbol;Acc:HGNC:24502]	529	1.4988714456558228	0.07013876	Yes	
+row_4	STARD9	StAR related lipid transfer domain containing 9 [Source:HGNC Symbol;Acc:HGNC:19162]	654	1.3946123123168945	0.08393475	Yes	
+row_5	SMO	smoothened, frizzled class receptor [Source:HGNC Symbol;Acc:HGNC:11119]	699	1.3530802726745605	0.10141758	Yes	
+row_6	CCDC102B	coiled-coil domain containing 102B [Source:HGNC Symbol;Acc:HGNC:26295]	770	1.3122639656066895	0.11690556	Yes	
+row_7	CIBAR1	CBY1 interacting BAR domain containing 1 [Source:HGNC Symbol;Acc:HGNC:30452]	797	1.2923153638839722	0.13446376	Yes	
+row_8	MAGI2	membrane associated guanylate kinase, WW and PDZ domain containing 2 [Source:HGNC Symbol;Acc:HGNC:18957]	962	1.1834160089492798	0.14301413	Yes	
+row_9	TEDC1	tubulin epsilon and delta complex 1 [Source:HGNC Symbol;Acc:HGNC:20127]	1091	1.1247671842575073	0.1526375	Yes	
+row_10	FBF1	Fas binding factor 1 [Source:HGNC Symbol;Acc:HGNC:24674]	1166	1.094570279121399	0.16471776	Yes	
+row_11	TSGA10	testis specific 10 [Source:HGNC Symbol;Acc:HGNC:14927]	1341	1.0298620462417603	0.17047897	Yes	
+row_12	CEP55	centrosomal protein 55 [Source:HGNC Symbol;Acc:HGNC:1161]	1369	1.0180641412734985	0.18396102	Yes	
+row_13	DZIP1	DAZ interacting zinc finger protein 1 [Source:HGNC Symbol;Acc:HGNC:20908]	1608	0.9388348460197449	0.18495032	Yes	
+row_14	FTCD	formimidoyltransferase cyclodeaminase [Source:HGNC Symbol;Acc:HGNC:3974]	1621	0.9345203042030334	0.19801253	Yes	
+row_15	LRRCC1	leucine rich repeat and coiled-coil centrosomal protein 1 [Source:HGNC Symbol;Acc:HGNC:29373]	1696	0.9138585329055786	0.2074423	Yes	
+row_16	AHI1	Abelson helper integration site 1 [Source:HGNC Symbol;Acc:HGNC:21575]	1970	0.8441253304481506	0.20516302	Yes	
+row_17	SFI1	SFI1 centrin binding protein [Source:HGNC Symbol;Acc:HGNC:29064]	2203	0.7878317832946777	0.20425975	Yes	
+row_18	CETN2	centrin 2 [Source:HGNC Symbol;Acc:HGNC:1867]	2383	0.7520066499710083	0.20567715	Yes	
+row_19	ODAD3	outer dynein arm docking complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:28303]	2434	0.7415972352027893	0.21386917	Yes	
+row_20	CEP97	centrosomal protein 97 [Source:HGNC Symbol;Acc:HGNC:26244]	2448	0.7398157119750977	0.22402194	Yes	
+row_21	KIF3A	kinesin family member 3A [Source:HGNC Symbol;Acc:HGNC:6319]	2533	0.7218088507652283	0.23009792	Yes	
+row_22	CEP164	centrosomal protein 164 [Source:HGNC Symbol;Acc:HGNC:29182]	2673	0.6960524320602417	0.23284264	Yes	
+row_23	TSKS	testis specific serine kinase substrate [Source:HGNC Symbol;Acc:HGNC:30719]	2719	0.6888254880905151	0.24052913	Yes	
+row_24	CEP78	centrosomal protein 78 [Source:HGNC Symbol;Acc:HGNC:25740]	2748	0.6834710836410522	0.24905	Yes	
+row_25	NIN	ninein [Source:HGNC Symbol;Acc:HGNC:14906]	2765	0.6812080144882202	0.25818208	Yes	
+row_26	HAP1	huntingtin associated protein 1 [Source:HGNC Symbol;Acc:HGNC:4812]	2782	0.6777858734130859	0.26726398	Yes	
+row_27	CROCC	ciliary rootlet coiled-coil, rootletin [Source:HGNC Symbol;Acc:HGNC:21299]	2824	0.670475959777832	0.27489614	Yes	
+row_28	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	2904	0.6568573117256165	0.28028798	Yes	
+row_29	ARMC9	armadillo repeat containing 9 [Source:HGNC Symbol;Acc:HGNC:20730]	2987	0.6454901099205017	0.285352	Yes	
+row_30	IFT43	intraflagellar transport 43 [Source:HGNC Symbol;Acc:HGNC:29669]	3412	0.582176685333252	0.271122	Yes	
+row_31	CETN3	centrin 3 [Source:HGNC Symbol;Acc:HGNC:1868]	3462	0.5738776326179504	0.27690777	Yes	
+row_32	BBS4	Bardet-Biedl syndrome 4 [Source:HGNC Symbol;Acc:HGNC:969]	3488	0.568782389163971	0.28390762	Yes	
+row_33	MDM1	Mdm1 nuclear protein [Source:HGNC Symbol;Acc:HGNC:29917]	3570	0.555785059928894	0.28770962	Yes	
+row_34	DYNC2I2	dynein 2 intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:28296]	3576	0.5545654296875	0.29557493	Yes	
+row_35	CCDC88A	coiled-coil domain containing 88A [Source:HGNC Symbol;Acc:HGNC:25523]	3698	0.5399552583694458	0.29699677	Yes	
+row_36	DZIP1L	DAZ interacting zinc finger protein 1 like [Source:HGNC Symbol;Acc:HGNC:26551]	3894	0.5153564810752869	0.294084	No	
+row_37	CPLANE2	ciliogenesis and planar polarity effector complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:28127]	4381	0.4516848623752594	0.2746107	No	
+row_38	CNTROB	centrobin, centriole duplication and spindle assembly protein [Source:HGNC Symbol;Acc:HGNC:29616]	4722	0.41593989729881287	0.26245332	No	
+row_39	CEP192	centrosomal protein 192 [Source:HGNC Symbol;Acc:HGNC:25515]	4740	0.41461440920829773	0.26762158	No	
+row_40	CBY1	chibby family member 1, beta catenin antagonist [Source:HGNC Symbol;Acc:HGNC:1307]	5027	0.3815213441848755	0.25785917	No	
+row_41	TOP2A	DNA topoisomerase II alpha [Source:HGNC Symbol;Acc:HGNC:11989]	5275	0.35254967212677	0.24976614	No	
+row_42	CEP162	centrosomal protein 162 [Source:HGNC Symbol;Acc:HGNC:21107]	5502	0.32708194851875305	0.24242726	No	
+row_43	IFT52	intraflagellar transport 52 [Source:HGNC Symbol;Acc:HGNC:15901]	5536	0.3235500156879425	0.24540067	No	
+row_44	TOPORS	TOP1 binding arginine/serine rich protein, E3 ubiquitin ligase [Source:HGNC Symbol;Acc:HGNC:21653]	5593	0.31659677624702454	0.24703701	No	
+row_45	SAXO2	stabilizer of axonemal microtubules 2 [Source:HGNC Symbol;Acc:HGNC:33727]	5807	0.29638949036598206	0.23994607	No	
+row_46	NEDD1	NEDD1 gamma-tubulin ring complex targeting factor [Source:HGNC Symbol;Acc:HGNC:7723]	5833	0.292853981256485	0.24289885	No	
+row_47	KIF24	kinesin family member 24 [Source:HGNC Symbol;Acc:HGNC:19916]	5879	0.2894030809402466	0.24472703	No	
+row_48	CCDC146	coiled-coil domain containing 146 [Source:HGNC Symbol;Acc:HGNC:29296]	6126	0.2665693759918213	0.23542662	No	
+row_49	POC1A	POC1 centriolar protein A [Source:HGNC Symbol;Acc:HGNC:24488]	6575	0.22736813127994537	0.21470387	No	
+row_50	SCLT1	sodium channel and clathrin linker 1 [Source:HGNC Symbol;Acc:HGNC:26406]	6638	0.22216959297657013	0.21463303	No	
+row_51	CCDC78	coiled-coil domain containing 78 [Source:HGNC Symbol;Acc:HGNC:14153]	6850	0.20530924201011658	0.20631362	No	
+row_52	WRAP73	WD repeat containing, antisense to TP73 [Source:HGNC Symbol;Acc:HGNC:12759]	6943	0.19735857844352722	0.20426789	No	
+row_53	WASHC1	WASH complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:24361]	7032	0.18999874591827393	0.202329	No	
+row_54	CEP44	centrosomal protein 44 [Source:HGNC Symbol;Acc:HGNC:29356]	7301	0.16777583956718445	0.19039819	No	
+row_55	TUBG1	tubulin gamma 1 [Source:HGNC Symbol;Acc:HGNC:12417]	7392	0.1594419926404953	0.18790373	No	
+row_56	RAN	RAN, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9846]	7578	0.14545446634292603	0.18010263	No	
+row_57	TTBK2	tau tubulin kinase 2 [Source:HGNC Symbol;Acc:HGNC:19141]	7579	0.1454387754201889	0.18223578	No	
+row_58	CEP43	centrosomal protein 43 [Source:HGNC Symbol;Acc:HGNC:17012]	7598	0.1442909836769104	0.18338549	No	
+row_59	STIL	STIL centriolar assembly protein [Source:HGNC Symbol;Acc:HGNC:10879]	7609	0.1437281370162964	0.18495655	No	
+row_60	ENKD1	enkurin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25246]	7634	0.14165371656417847	0.18574539	No	
+row_61	GLE1	GLE1 RNA export mediator [Source:HGNC Symbol;Acc:HGNC:4315]	7637	0.1413348913192749	0.18771096	No	
+row_62	WDR90	WD repeat domain 90 [Source:HGNC Symbol;Acc:HGNC:26960]	7920	0.11911468207836151	0.17431463	No	
+row_63	NPHP4	nephrocystin 4 [Source:HGNC Symbol;Acc:HGNC:19104]	7926	0.11851242929697037	0.17578435	No	
+row_64	CCNF	cyclin F [Source:HGNC Symbol;Acc:HGNC:1591]	7968	0.11569055914878845	0.17527948	No	
+row_65	PPP1R35	protein phosphatase 1 regulatory subunit 35 [Source:HGNC Symbol;Acc:HGNC:28320]	8009	0.1127147227525711	0.17478468	No	
+row_66	ODF2L	outer dense fiber of sperm tails 2 like [Source:HGNC Symbol;Acc:HGNC:29225]	8031	0.1106615662574768	0.17528005	No	
+row_67	TUBD1	tubulin delta 1 [Source:HGNC Symbol;Acc:HGNC:16811]	8036	0.11032258719205856	0.17668335	No	
+row_68	CEP76	centrosomal protein 76 [Source:HGNC Symbol;Acc:HGNC:25727]	8206	0.0972062200307846	0.1690338	No	
+row_69	HYLS1	HYLS1 centriolar and ciliogenesis associated [Source:HGNC Symbol;Acc:HGNC:26558]	8362	0.08425946533679962	0.16194613	No	
+row_70	IFT81	intraflagellar transport 81 [Source:HGNC Symbol;Acc:HGNC:14313]	8393	0.08155620843172073	0.16153133	No	
+row_71	NUBP2	NUBP iron-sulfur cluster assembly factor 2, cytosolic [Source:HGNC Symbol;Acc:HGNC:8042]	8736	0.055947184562683105	0.14398652	No	
+row_72	RABL2B	RAB, member of RAS oncogene family like 2B [Source:HGNC Symbol;Acc:HGNC:9800]	8783	0.05198689177632332	0.14227882	No	
+row_73	C2CD3	C2 domain containing 3 centriole elongation regulator [Source:HGNC Symbol;Acc:HGNC:24564]	8798	0.050981856882572174	0.14227477	No	
+row_74	SAXO1	stabilizer of axonemal microtubules 1 [Source:HGNC Symbol;Acc:HGNC:28566]	8812	0.049618951976299286	0.14230444	No	
+row_75	FBXW8	F-box and WD repeat domain containing 8 [Source:HGNC Symbol;Acc:HGNC:13597]	8874	0.04515376314520836	0.13969101	No	
+row_76	KIAA0586	KIAA0586 [Source:HGNC Symbol;Acc:HGNC:19960]	9052	0.031399790197610855	0.13064666	No	
+row_77	KIF2A	kinesin family member 2A [Source:HGNC Symbol;Acc:HGNC:6318]	9284	0.011755986139178276	0.11841441	No	
+row_78	POC1B	POC1 centriolar protein B [Source:HGNC Symbol;Acc:HGNC:30836]	9380	0.004959124140441418	0.11338565	No	
+row_79	ALMS1	ALMS1 centrosome and basal body associated protein [Source:HGNC Symbol;Acc:HGNC:428]	9421	0.0010041831992566586	0.11125238	No	
+row_80	CEP128	centrosomal protein 128 [Source:HGNC Symbol;Acc:HGNC:20359]	9470	-0.002023568144068122	0.10870446	No	
+row_81	RP2	RP2 activator of ARL3 GTPase [Source:HGNC Symbol;Acc:HGNC:10274]	9514	-0.004218364600092173	0.10645724	No	
+row_82	HTT	huntingtin [Source:HGNC Symbol;Acc:HGNC:4851]	9609	-0.009515339508652687	0.10154901	No	
+row_83	MPHOSPH9	M-phase phosphoprotein 9 [Source:HGNC Symbol;Acc:HGNC:7215]	9614	-0.00985749252140522	0.101478785	No	
+row_84	CAPG	capping actin protein, gelsolin like [Source:HGNC Symbol;Acc:HGNC:1474]	9667	-0.01456160843372345	0.09889997	No	
+row_85	ODF2	outer dense fiber of sperm tails 2 [Source:HGNC Symbol;Acc:HGNC:8114]	9976	-0.03791164606809616	0.08291644	No	
+row_86	ROCK1	Rho associated coiled-coil containing protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:10251]	10095	-0.04581094905734062	0.077251755	No	
+row_87	BCCIP	BRCA2 and CDKN1A interacting protein [Source:HGNC Symbol;Acc:HGNC:978]	10134	-0.0484749861061573	0.07592214	No	
+row_88	DCTN1	dynactin subunit 1 [Source:HGNC Symbol;Acc:HGNC:2711]	10209	-0.05468432232737541	0.072750404	No	
+row_89	CEP41	centrosomal protein 41 [Source:HGNC Symbol;Acc:HGNC:12370]	10339	-0.06476548314094543	0.06677303	No	
+row_90	CEP20	centrosomal protein 20 [Source:HGNC Symbol;Acc:HGNC:26435]	10409	-0.07043098658323288	0.06410074	No	
+row_91	AURKA	aurora kinase A [Source:HGNC Symbol;Acc:HGNC:11393]	10473	-0.07508383691310883	0.0618189	No	
+row_92	SSNA1	SS nuclear autoantigen 1 [Source:HGNC Symbol;Acc:HGNC:11321]	11160	-0.12819264829158783	0.026860956	No	
+row_93	WASH3P	WASP family homolog 3, pseudogene [Source:HGNC Symbol;Acc:HGNC:24362]	11237	-0.13355492055416107	0.024738612	No	
+row_94	RAB8A	RAB8A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:7007]	11408	-0.14479337632656097	0.01773331	No	
+row_95	CEP104	centrosomal protein 104 [Source:HGNC Symbol;Acc:HGNC:24866]	11583	-0.15679647028446198	0.010689256	No	
+row_96	CEP120	centrosomal protein 120 [Source:HGNC Symbol;Acc:HGNC:26690]	11603	-0.15796829760074615	0.011985878	No	
+row_97	CEP295	centrosomal protein 295 [Source:HGNC Symbol;Acc:HGNC:29366]	11752	-0.17096184194087982	0.0065457867	No	
+row_98	IFT20	intraflagellar transport 20 [Source:HGNC Symbol;Acc:HGNC:30989]	11904	-0.1831464171409607	0.0011233066	No	
+row_99	HERC2	HECT and RLD domain containing E3 ubiquitin protein ligase 2 [Source:HGNC Symbol;Acc:HGNC:4868]	11940	-0.18555663526058197	0.0019653684	No	
+row_100	PARP3	poly(ADP-ribose) polymerase family member 3 [Source:HGNC Symbol;Acc:HGNC:273]	12001	-0.19071371853351593	0.0015405712	No	
+row_101	CEP290	centrosomal protein 290 [Source:HGNC Symbol;Acc:HGNC:29021]	12124	-0.20040133595466614	-0.0020715334	No	
+row_102	SASS6	SAS-6 centriolar assembly protein [Source:HGNC Symbol;Acc:HGNC:25403]	12139	-0.20128363370895386	1.2889491E-4	No	
+row_103	CEP83	centrosomal protein 83 [Source:HGNC Symbol;Acc:HGNC:17966]	12298	-0.21412469446659088	-0.0052151266	No	
+row_104	CEP295NL	CEP295 N-terminal like [Source:HGNC Symbol;Acc:HGNC:44659]	12380	-0.21982072293758392	-0.0063407095	No	
+row_105	PLK4	polo like kinase 4 [Source:HGNC Symbol;Acc:HGNC:11397]	12403	-0.22138620913028717	-0.0042750365	No	
+row_106	MAPK15	mitogen-activated protein kinase 15 [Source:HGNC Symbol;Acc:HGNC:24667]	12577	-0.23441357910633087	-0.010126979	No	
+row_107	NEURL4	neuralized E3 ubiquitin protein ligase 4 [Source:HGNC Symbol;Acc:HGNC:34410]	12756	-0.2500241696834564	-0.016018461	No	
+row_108	IFT88	intraflagellar transport 88 [Source:HGNC Symbol;Acc:HGNC:20606]	12968	-0.270606130361557	-0.023380166	No	
+row_109	PCM1	pericentriolar material 1 [Source:HGNC Symbol;Acc:HGNC:8727]	13111	-0.28255030512809753	-0.02686139	No	
+row_110	POC5	POC5 centriolar protein [Source:HGNC Symbol;Acc:HGNC:26658]	13190	-0.28817933797836304	-0.026823258	No	
+row_111	CCHCR1	coiled-coil alpha-helical rod protein 1 [Source:HGNC Symbol;Acc:HGNC:13930]	13232	-0.29141780734062195	-0.02475073	No	
+row_112	TEDC2	tubulin epsilon and delta complex 2 [Source:HGNC Symbol;Acc:HGNC:25849]	13239	-0.2918855845928192	-0.020791844	No	
+row_113	IQCB1	IQ motif containing B1 [Source:HGNC Symbol;Acc:HGNC:28949]	13355	-0.3008618652820587	-0.022554593	No	
+row_114	CEP170	centrosomal protein 170 [Source:HGNC Symbol;Acc:HGNC:28920]	13488	-0.3160722553730011	-0.025007151	No	
+row_115	RTTN	rotatin [Source:HGNC Symbol;Acc:HGNC:18654]	13746	-0.3405507504940033	-0.033813175	No	
+row_116	CEP131	centrosomal protein 131 [Source:HGNC Symbol;Acc:HGNC:29511]	13912	-0.3602225184440613	-0.037390277	No	
+row_117	CEP152	centrosomal protein 152 [Source:HGNC Symbol;Acc:HGNC:29298]	14071	-0.3747740685939789	-0.040378056	No	
+row_118	CFAP20	cilia and flagella associated protein 20 [Source:HGNC Symbol;Acc:HGNC:29523]	14133	-0.38130709528923035	-0.03806112	No	
+row_119	CEP63	centrosomal protein 63 [Source:HGNC Symbol;Acc:HGNC:25815]	14253	-0.3945345878601074	-0.038664773	No	
+row_120	MKS1	MKS transition zone complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:7121]	14284	-0.3970121741294861	-0.034452792	No	
+row_121	KIAA0753	KIAA0753 [Source:HGNC Symbol;Acc:HGNC:29110]	14498	-0.418047159910202	-0.03975938	No	
+row_122	CEP350	centrosomal protein 350 [Source:HGNC Symbol;Acc:HGNC:24238]	14598	-0.4287383556365967	-0.038787365	No	
+row_123	CENPJ	centromere protein J [Source:HGNC Symbol;Acc:HGNC:17272]	14668	-0.4346810579299927	-0.036117192	No	
+row_124	OFD1	OFD1 centriole and centriolar satellite protein [Source:HGNC Symbol;Acc:HGNC:2567]	14730	-0.4433995187282562	-0.03288955	No	
+row_125	CEP135	centrosomal protein 135 [Source:HGNC Symbol;Acc:HGNC:29086]	14778	-0.45012274384498596	-0.028811494	No	
+row_126	IFT140	intraflagellar transport 140 [Source:HGNC Symbol;Acc:HGNC:29077]	15332	-0.5151395797729492	-0.050952	No	
+row_127	PLK1	polo like kinase 1 [Source:HGNC Symbol;Acc:HGNC:9077]	15349	-0.5167796611785889	-0.04423159	No	
+row_128	PLK2	polo like kinase 2 [Source:HGNC Symbol;Acc:HGNC:19699]	15365	-0.519525945186615	-0.037417203	No	
+row_129	CCP110	centriolar coiled-coil protein 110 [Source:HGNC Symbol;Acc:HGNC:24342]	15407	-0.5250905156135559	-0.031917397	No	
+row_130	PCNT	pericentrin [Source:HGNC Symbol;Acc:HGNC:16068]	15479	-0.5330750942230225	-0.027911479	No	
+row_131	CEP89	centrosomal protein 89 [Source:HGNC Symbol;Acc:HGNC:25907]	15843	-0.5850964784622192	-0.03882294	No	
+row_132	CCDC120	coiled-coil domain containing 120 [Source:HGNC Symbol;Acc:HGNC:28910]	15922	-0.5961646437644958	-0.03426759	No	
+row_133	CCDC57	coiled-coil domain containing 57 [Source:HGNC Symbol;Acc:HGNC:27564]	15990	-0.6045708656311035	-0.028998243	No	
+row_134	PLA2G3	phospholipase A2 group III [Source:HGNC Symbol;Acc:HGNC:17934]	16195	-0.639293372631073	-0.030576512	No	
+row_135	TUBGCP3	tubulin gamma complex associated protein 3 [Source:HGNC Symbol;Acc:HGNC:18598]	16209	-0.6414371728897095	-0.021866651	No	
+row_136	SPICE1	spindle and centriole associated protein 1 [Source:HGNC Symbol;Acc:HGNC:25083]	16559	-0.7117170691490173	-0.03016917	No	
+row_137	RAB11A	RAB11A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9760]	16666	-0.7289304137229919	-0.02517014	No	
+row_138	NUBP1	NUBP iron-sulfur cluster assembly factor 1, cytosolic [Source:HGNC Symbol;Acc:HGNC:8041]	16710	-0.7387659549713135	-0.016643757	No	
+row_139	RILPL1	Rab interacting lysosomal protein like 1 [Source:HGNC Symbol;Acc:HGNC:26814]	17381	-0.9160024523735046	-0.0391877	No	
+row_140	CCSAP	centriole, cilia and spindle associated protein [Source:HGNC Symbol;Acc:HGNC:29578]	17390	-0.9200007319450378	-0.026123647	No	
+row_141	CEP250	centrosomal protein 250 [Source:HGNC Symbol;Acc:HGNC:1859]	17422	-0.9354597330093384	-0.014067956	No	
+row_142	SDCCAG8	SHH signaling and ciliogenesis regulator SDCCAG8 [Source:HGNC Symbol;Acc:HGNC:10671]	17600	-1.0081480741500854	-0.008786335	No	
+row_143	AKNA	AT-hook transcription factor [Source:HGNC Symbol;Acc:HGNC:24108]	17637	-1.0279051065444946	0.004356752	No	
+row_144	CROCC2	ciliary rootlet coiled-coil, rootletin family member 2 [Source:HGNC Symbol;Acc:HGNC:51677]	18422	-1.6498483419418335	-0.013545664	No	
+row_145	HSPA6	heat shock protein family A (Hsp70) member 6 [Source:HGNC Symbol;Acc:HGNC:5239]	18626	-2.18302321434021	0.007571652	No	

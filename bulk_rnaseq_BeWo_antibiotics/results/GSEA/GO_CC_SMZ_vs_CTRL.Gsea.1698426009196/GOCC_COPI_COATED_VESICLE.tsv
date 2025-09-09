@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PACSIN1	protein kinase C and casein kinase substrate in neurons 1 [Source:HGNC Symbol;Acc:HGNC:8570]	4868	0.39944592118263245	-0.20606513	No	
+row_1	TMEM199	transmembrane protein 199 [Source:HGNC Symbol;Acc:HGNC:18085]	7063	0.18739156424999237	-0.29795045	No	
+row_2	PACS1	phosphofurin acidic cluster sorting protein 1 [Source:HGNC Symbol;Acc:HGNC:30032]	8085	0.10593519359827042	-0.33819667	No	
+row_3	TMED7	transmembrane p24 trafficking protein 7 [Source:HGNC Symbol;Acc:HGNC:24253]	8305	0.0882420688867569	-0.338037	No	
+row_4	TMED3	transmembrane p24 trafficking protein 3 [Source:HGNC Symbol;Acc:HGNC:28889]	8496	0.07367169857025146	-0.33828568	No	
+row_5	DIPK2A	divergent protein kinase domain 2A [Source:HGNC Symbol;Acc:HGNC:28490]	8522	0.07181274890899658	-0.32998243	No	
+row_6	TMED2	transmembrane p24 trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	10220	-0.05529496818780899	-0.41308334	No	
+row_7	CCDC115	coiled-coil domain containing 115 [Source:HGNC Symbol;Acc:HGNC:28178]	10226	-0.0554661899805069	-0.40590686	No	
+row_8	COPE	COPI coat complex subunit epsilon [Source:HGNC Symbol;Acc:HGNC:2234]	12584	-0.2349165827035904	-0.5001093	Yes	
+row_9	KDELR2	KDEL endoplasmic reticulum protein retention receptor 2 [Source:HGNC Symbol;Acc:HGNC:6305]	12823	-0.2566010355949402	-0.47837046	Yes	
+row_10	KDELR1	KDEL endoplasmic reticulum protein retention receptor 1 [Source:HGNC Symbol;Acc:HGNC:6304]	12949	-0.2681666314601898	-0.44905195	Yes	
+row_11	COPZ1	COPI coat complex subunit zeta 1 [Source:HGNC Symbol;Acc:HGNC:2243]	13356	-0.30092307925224304	-0.4303268	Yes	
+row_12	KDELR3	KDEL endoplasmic reticulum protein retention receptor 3 [Source:HGNC Symbol;Acc:HGNC:6306]	14281	-0.39683613181114197	-0.42636183	Yes	
+row_13	COPB2	COPI coat complex subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:2232]	14385	-0.4064474403858185	-0.37731338	Yes	
+row_14	COPB1	COPI coat complex subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:2231]	14457	-0.4143674373626709	-0.32549518	Yes	
+row_15	TMED10	transmembrane p24 trafficking protein 10 [Source:HGNC Symbol;Acc:HGNC:16998]	14908	-0.4653290808200836	-0.28705484	Yes	
+row_16	SCYL1	SCY1 like pseudokinase 1 [Source:HGNC Symbol;Acc:HGNC:14372]	15172	-0.4946868121623993	-0.23469995	Yes	
+row_17	COPG2	COPI coat complex subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:2237]	16255	-0.6502577662467957	-0.20515542	Yes	
+row_18	COPA	COPI coat complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:2230]	16898	-0.7791346311569214	-0.13484602	Yes	
+row_19	COPG1	COPI coat complex subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:2236]	17207	-0.8568040728569031	-0.036297683	Yes	
+row_20	ARCN1	archain 1 [Source:HGNC Symbol;Acc:HGNC:649]	17315	-0.8901893496513367	0.07745245	Yes	

@@ -1,0 +1,67 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TREX1	three prime repair exonuclease 1 [Source:HGNC Symbol;Acc:HGNC:12269]	438	1.548452377319336	0.043076597	Yes	
+row_1	UHRF1	ubiquitin like with PHD and ring finger domains 1 [Source:HGNC Symbol;Acc:HGNC:12556]	925	1.1642756462097168	0.06593828	Yes	
+row_2	PIF1	PIF1 5'-to-3' DNA helicase [Source:HGNC Symbol;Acc:HGNC:26220]	1295	1.0025231838226318	0.088632815	Yes	
+row_3	RADX	RPA1 related single stranded DNA binding protein, X-linked [Source:HGNC Symbol;Acc:HGNC:25486]	1611	0.8946506381034851	0.10975471	Yes	
+row_4	H2AX	H2A.X variant histone [Source:HGNC Symbol;Acc:HGNC:4739]	1685	0.873565673828125	0.14464396	Yes	
+row_5	ETAA1	ETAA1 activator of ATR kinase [Source:HGNC Symbol;Acc:HGNC:24648]	1718	0.8646324872970581	0.18162435	Yes	
+row_6	PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	2927	0.6094012260437012	0.1355986	Yes	
+row_7	PRIMPOL	primase and DNA directed polymerase [Source:HGNC Symbol;Acc:HGNC:26575]	2951	0.6050223112106323	0.16143847	Yes	
+row_8	POLD4	DNA polymerase delta 4, accessory subunit [Source:HGNC Symbol;Acc:HGNC:14106]	3302	0.547792375087738	0.16481611	Yes	
+row_9	PARP1	poly(ADP-ribose) polymerase 1 [Source:HGNC Symbol;Acc:HGNC:270]	3369	0.5359792709350586	0.18493266	Yes	
+row_10	RAD51D	RAD51 paralog D [Source:HGNC Symbol;Acc:HGNC:9823]	4531	0.3745831251144409	0.13119341	No	
+row_11	RFC3	replication factor C subunit 3 [Source:HGNC Symbol;Acc:HGNC:9971]	5137	0.30254727602005005	0.10802278	No	
+row_12	TEX264	testis expressed 264, ER-phagy receptor [Source:HGNC Symbol;Acc:HGNC:30247]	5248	0.2896815538406372	0.114375085	No	
+row_13	DONSON	DNA replication fork stabilization factor DONSON [Source:HGNC Symbol;Acc:HGNC:2993]	5502	0.26493197679519653	0.110916965	No	
+row_14	RPA3	replication protein A3 [Source:HGNC Symbol;Acc:HGNC:10291]	5968	0.22028861939907074	0.09255672	No	
+row_15	RFC4	replication factor C subunit 4 [Source:HGNC Symbol;Acc:HGNC:9972]	6068	0.21005941927433014	0.09599332	No	
+row_16	XRCC3	X-ray repair cross complementing 3 [Source:HGNC Symbol;Acc:HGNC:12830]	6311	0.18691827356815338	0.08969191	No	
+row_17	RPA2	replication protein A2 [Source:HGNC Symbol;Acc:HGNC:10290]	6388	0.17981748282909393	0.09316567	No	
+row_18	BLM	BLM RecQ like helicase [Source:HGNC Symbol;Acc:HGNC:1058]	6671	0.15543438494205475	0.08301433	No	
+row_19	WRN	WRN RecQ like helicase [Source:HGNC Symbol;Acc:HGNC:12791]	6844	0.14002354443073273	0.07885855	No	
+row_20	WDHD1	WD repeat and HMG-box DNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:23170]	6970	0.13064560294151306	0.07713875	No	
+row_21	EME2	essential meiotic structure-specific endonuclease subunit 2 [Source:HGNC Symbol;Acc:HGNC:27289]	7084	0.119859978556633	0.07566313	No	
+row_22	SMARCAD1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1 [Source:HGNC Symbol;Acc:HGNC:18398]	7261	0.10395771265029907	0.06964039	No	
+row_23	MMS22L	MMS22 like, DNA repair protein [Source:HGNC Symbol;Acc:HGNC:21475]	7410	0.09031104296445847	0.06470601	No	
+row_24	SMARCA5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5 [Source:HGNC Symbol;Acc:HGNC:11101]	7683	0.06727589666843414	0.051193837	No	
+row_25	MRE11	MRE11 homolog, double strand break repair nuclease [Source:HGNC Symbol;Acc:HGNC:7230]	7847	0.05206846073269844	0.043625567	No	
+row_26	POLA1	DNA polymerase alpha 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9173]	7863	0.05057244002819061	0.04499019	No	
+row_27	PRIM2	DNA primase subunit 2 [Source:HGNC Symbol;Acc:HGNC:9370]	7872	0.04970299080014229	0.046741355	No	
+row_28	CAMSAP3	calmodulin regulated spectrin associated protein family member 3 [Source:HGNC Symbol;Acc:HGNC:29307]	8044	0.032720811665058136	0.03781554	No	
+row_29	MCM10	minichromosome maintenance 10 replication initiation factor [Source:HGNC Symbol;Acc:HGNC:18043]	8263	0.014480947516858578	0.025210368	No	
+row_30	ZMIZ2	zinc finger MIZ-type containing 2 [Source:HGNC Symbol;Acc:HGNC:22229]	8334	0.009823362343013287	0.02139575	No	
+row_31	POLD3	DNA polymerase delta 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:20932]	8629	-0.015372463501989841	0.0042089685	No	
+row_32	PRIM1	DNA primase subunit 1 [Source:HGNC Symbol;Acc:HGNC:9369]	8945	-0.0401216559112072	-0.013140649	No	
+row_33	UBE2B	ubiquitin conjugating enzyme E2 B [Source:HGNC Symbol;Acc:HGNC:12473]	8948	-0.04022569581866264	-0.0114512835	No	
+row_34	POLH	DNA polymerase eta [Source:HGNC Symbol;Acc:HGNC:9181]	9010	-0.04608279466629028	-0.013086162	No	
+row_35	RTF2	replication termination factor 2 [Source:HGNC Symbol;Acc:HGNC:15890]	9039	-0.04838293418288231	-0.012610676	No	
+row_36	CHEK1	checkpoint kinase 1 [Source:HGNC Symbol;Acc:HGNC:1925]	9296	-0.071502685546875	-0.02495956	No	
+row_37	TONSL	tonsoku like, DNA repair protein [Source:HGNC Symbol;Acc:HGNC:7801]	9936	-0.12379642575979233	-0.058245312	No	
+row_38	RFC5	replication factor C subunit 5 [Source:HGNC Symbol;Acc:HGNC:9973]	9951	-0.12491686642169952	-0.05347284	No	
+row_39	RFC2	replication factor C subunit 2 [Source:HGNC Symbol;Acc:HGNC:9970]	10041	-0.13194991648197174	-0.052944668	No	
+row_40	EME1	essential meiotic structure-specific endonuclease 1 [Source:HGNC Symbol;Acc:HGNC:24965]	10044	-0.1320945918560028	-0.047119297	No	
+row_41	MCM3	minichromosome maintenance complex component 3 [Source:HGNC Symbol;Acc:HGNC:6945]	10305	-0.15437793731689453	-0.05598033	No	
+row_42	RECQL5	RecQ like helicase 5 [Source:HGNC Symbol;Acc:HGNC:9950]	10487	-0.1696208119392395	-0.05935093	No	
+row_43	POLD1	DNA polymerase delta 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9175]	10709	-0.19087205827236176	-0.06419728	No	
+row_44	MUS81	MUS81 structure-specific endonuclease subunit [Source:HGNC Symbol;Acc:HGNC:29814]	10752	-0.19428521394729614	-0.058004543	No	
+row_45	HMCES	5-hydroxymethylcytosine binding, ES cell specific [Source:HGNC Symbol;Acc:HGNC:24446]	11047	-0.21857155859470367	-0.06604315	No	
+row_46	TIPIN	TIMELESS interacting protein [Source:HGNC Symbol;Acc:HGNC:30750]	11100	-0.22290916740894318	-0.059169866	No	
+row_47	ZRANB3	zinc finger RANBP2-type containing 3 [Source:HGNC Symbol;Acc:HGNC:25249]	11392	-0.2534501552581787	-0.06545578	No	
+row_48	RAD51B	RAD51 paralog B [Source:HGNC Symbol;Acc:HGNC:9822]	11411	-0.25544556975364685	-0.05505006	No	
+row_49	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	11486	-0.26279181241989136	-0.047719102	No	
+row_50	DMAP1	DNA methyltransferase 1 associated protein 1 [Source:HGNC Symbol;Acc:HGNC:18291]	11531	-0.26761236786842346	-0.038346745	No	
+row_51	TP53BP1	tumor protein p53 binding protein 1 [Source:HGNC Symbol;Acc:HGNC:11999]	11700	-0.28153371810913086	-0.035888385	No	
+row_52	NBN	nibrin [Source:HGNC Symbol;Acc:HGNC:7652]	11793	-0.2916143834590912	-0.028354438	No	
+row_53	RAD18	RAD18 E3 ubiquitin protein ligase [Source:HGNC Symbol;Acc:HGNC:18278]	11809	-0.2939337491989136	-0.016033513	No	
+row_54	BAZ1B	bromodomain adjacent to zinc finger domain 1B [Source:HGNC Symbol;Acc:HGNC:961]	11813	-0.29462966322898865	-0.0029515093	No	
+row_55	POLD2	DNA polymerase delta 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9176]	11892	-0.3045763075351715	0.0060173674	No	
+row_56	POLA2	DNA polymerase alpha 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:30073]	11960	-0.3113800883293152	0.015961492	No	
+row_57	RPA1	replication protein A1 [Source:HGNC Symbol;Acc:HGNC:10289]	12136	-0.33262598514556885	0.020294378	No	
+row_58	RFC1	replication factor C subunit 1 [Source:HGNC Symbol;Acc:HGNC:9969]	13660	-0.531001091003418	-0.048416935	No	
+row_59	TIMELESS	timeless circadian regulator [Source:HGNC Symbol;Acc:HGNC:11813]	13806	-0.5541908740997314	-0.032284662	No	
+row_60	SMARCAL1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a like 1 [Source:HGNC Symbol;Acc:HGNC:11102]	14221	-0.6248325705528259	-0.0293306	No	
+row_61	XRCC2	X-ray repair cross complementing 2 [Source:HGNC Symbol;Acc:HGNC:12829]	14262	-0.632562518119812	-0.0032846737	No	
+row_62	RAD51C	RAD51 paralog C [Source:HGNC Symbol;Acc:HGNC:9820]	14521	-0.6907700300216675	0.012124685	No	
+row_63	CARM1	coactivator associated arginine methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:23393]	14558	-0.6974084377288818	0.041333273	No	
+row_64	BCL6	BCL6 transcription repressor [Source:HGNC Symbol;Acc:HGNC:1001]	14953	-0.7953352332115173	0.053179737	No	
+row_65	DNMT1	DNA methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2976]	15291	-0.9192078709602356	0.07406935	No	

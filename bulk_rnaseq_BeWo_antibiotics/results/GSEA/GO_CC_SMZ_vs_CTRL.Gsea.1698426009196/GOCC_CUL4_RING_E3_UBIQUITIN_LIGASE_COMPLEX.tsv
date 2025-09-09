@@ -1,0 +1,32 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	WDTC1	WD and tetratricopeptide repeats 1 [Source:HGNC Symbol;Acc:HGNC:29175]	1727	0.904513418674469	-0.0071823024	No	
+row_1	GLMN	glomulin, FKBP associated protein [Source:HGNC Symbol;Acc:HGNC:14373]	3082	0.6313263773918152	-0.020126177	No	
+row_2	DCAF16	DDB1 and CUL4 associated factor 16 [Source:HGNC Symbol;Acc:HGNC:25987]	6435	0.23968644440174103	-0.17650256	No	
+row_3	DCAF17	DDB1 and CUL4 associated factor 17 [Source:HGNC Symbol;Acc:HGNC:25784]	6524	0.23174332082271576	-0.15942448	No	
+row_4	DCAF4	DDB1 and CUL4 associated factor 4 [Source:HGNC Symbol;Acc:HGNC:20229]	7009	0.19270502030849457	-0.16714913	No	
+row_5	CRBN	cereblon [Source:HGNC Symbol;Acc:HGNC:30185]	7120	0.1841624528169632	-0.15571593	No	
+row_6	DCAF13	DDB1 and CUL4 associated factor 13 [Source:HGNC Symbol;Acc:HGNC:24535]	7617	0.14282584190368652	-0.16876766	No	
+row_7	DCAF11	DDB1 and CUL4 associated factor 11 [Source:HGNC Symbol;Acc:HGNC:20258]	7717	0.1336137056350708	-0.16149695	No	
+row_8	DTL	denticleless E3 ubiquitin protein ligase homolog [Source:HGNC Symbol;Acc:HGNC:30288]	8274	0.09128871560096741	-0.18259336	No	
+row_9	AMBRA1	autophagy and beclin 1 regulator 1 [Source:HGNC Symbol;Acc:HGNC:25990]	8548	0.06930343061685562	-0.19065168	No	
+row_10	DET1	DET1 partner of COP1 E3 ubiquitin ligase [Source:HGNC Symbol;Acc:HGNC:25477]	8675	0.06138794496655464	-0.19160832	No	
+row_11	COP1	COP1 E3 ubiquitin ligase [Source:HGNC Symbol;Acc:HGNC:17440]	8774	0.05265319347381592	-0.19189131	No	
+row_12	DCAF5	DDB1 and CUL4 associated factor 5 [Source:HGNC Symbol;Acc:HGNC:20224]	8924	0.04140157625079155	-0.1959534	No	
+row_13	DCAF8	DDB1 and CUL4 associated factor 8 [Source:HGNC Symbol;Acc:HGNC:24891]	8958	0.03874656930565834	-0.19407399	No	
+row_14	ERCC8	ERCC excision repair 8, CSA ubiquitin ligase complex subunit [Source:HGNC Symbol;Acc:HGNC:3439]	10103	-0.04614738002419472	-0.25079364	No	
+row_15	DCAF7	DDB1 and CUL4 associated factor 7 [Source:HGNC Symbol;Acc:HGNC:30915]	10453	-0.07346519082784653	-0.26251706	No	
+row_16	DCAF6	DDB1 and CUL4 associated factor 6 [Source:HGNC Symbol;Acc:HGNC:30002]	10466	-0.07429856061935425	-0.2561764	No	
+row_17	RBX1	ring-box 1 [Source:HGNC Symbol;Acc:HGNC:9928]	11241	-0.13374528288841248	-0.2849183	No	
+row_18	DCAF12	DDB1 and CUL4 associated factor 12 [Source:HGNC Symbol;Acc:HGNC:19911]	11365	-0.14169292151927948	-0.27816936	No	
+row_19	DCAF4L1	DDB1 and CUL4 associated factor 4 like 1 [Source:HGNC Symbol;Acc:HGNC:27723]	13968	-0.3661528527736664	-0.38263518	Yes	
+row_20	DCAF15	DDB1 and CUL4 associated factor 15 [Source:HGNC Symbol;Acc:HGNC:25095]	14227	-0.3924751579761505	-0.35952768	Yes	
+row_21	CUL4B	cullin 4B [Source:HGNC Symbol;Acc:HGNC:2555]	14364	-0.403783917427063	-0.32884642	Yes	
+row_22	TRPC4AP	transient receptor potential cation channel subfamily C member 4 associated protein [Source:HGNC Symbol;Acc:HGNC:16181]	14617	-0.4307857155799866	-0.30181903	Yes	
+row_23	DCAF10	DDB1 and CUL4 associated factor 10 [Source:HGNC Symbol;Acc:HGNC:23686]	15029	-0.47690311074256897	-0.2789443	Yes	
+row_24	CUL4A	cullin 4A [Source:HGNC Symbol;Acc:HGNC:2554]	15641	-0.5545771718025208	-0.2594454	Yes	
+row_25	DDB2	damage specific DNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:2718]	16015	-0.6084821820259094	-0.22217944	Yes	
+row_26	CDKN1B	cyclin dependent kinase inhibitor 1B [Source:HGNC Symbol;Acc:HGNC:1785]	16076	-0.6179825663566589	-0.16731589	Yes	
+row_27	DDA1	DET1 and DDB1 associated 1 [Source:HGNC Symbol;Acc:HGNC:28360]	16444	-0.6854308843612671	-0.12249957	Yes	
+row_28	FBXW5	F-box and WD repeat domain containing 5 [Source:HGNC Symbol;Acc:HGNC:13613]	16935	-0.7888830900192261	-0.07452741	Yes	
+row_29	DCAF1	DDB1 and CUL4 associated factor 1 [Source:HGNC Symbol;Acc:HGNC:30911]	16987	-0.8009751439094543	-0.0019895104	Yes	
+row_30	DDB1	damage specific DNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2717]	17643	-1.031665325164795	0.05998841	Yes	

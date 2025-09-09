@@ -1,0 +1,36 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AP1S3	adaptor related protein complex 1 subunit sigma 3 [Source:HGNC Symbol;Acc:HGNC:18971]	177	2.033594846725464	0.13135041	Yes	
+row_1	STON1	stonin 1 [Source:HGNC Symbol;Acc:HGNC:17003]	333	1.7205290794372559	0.24219966	Yes	
+row_2	AP3B2	adaptor related protein complex 3 subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:567]	1108	1.117879033088684	0.27828023	Yes	
+row_3	AP5M1	adaptor related protein complex 5 subunit mu 1 [Source:HGNC Symbol;Acc:HGNC:20192]	1497	0.9745773077011108	0.32504445	Yes	
+row_4	AP5B1	adaptor related protein complex 5 subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:25104]	2797	0.6760369539260864	0.302508	Yes	
+row_5	AP3M2	adaptor related protein complex 3 subunit mu 2 [Source:HGNC Symbol;Acc:HGNC:570]	3193	0.6124228835105896	0.32382426	Yes	
+row_6	CLBA1	clathrin binding box of aftiphilin containing 1 [Source:HGNC Symbol;Acc:HGNC:20126]	3257	0.6041668653488159	0.3622916	Yes	
+row_7	AP3S1	adaptor related protein complex 3 subunit sigma 1 [Source:HGNC Symbol;Acc:HGNC:2013]	4321	0.45839908719062805	0.33728477	Yes	
+row_8	VPS18	VPS18 core subunit of CORVET and HOPS complexes [Source:HGNC Symbol;Acc:HGNC:15972]	4578	0.43056121468544006	0.3534296	Yes	
+row_9	AP5S1	adaptor related protein complex 5 subunit sigma 1 [Source:HGNC Symbol;Acc:HGNC:15875]	4907	0.3953492343425751	0.36329296	Yes	
+row_10	AP1G2	adaptor related protein complex 1 subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:556]	4981	0.38553813099861145	0.3860894	Yes	
+row_11	AP1S2	adaptor related protein complex 1 subunit sigma 2 [Source:HGNC Symbol;Acc:HGNC:560]	5094	0.3725333511829376	0.40590358	Yes	
+row_12	AP3B1	adaptor related protein complex 3 subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:566]	7053	0.1881854385137558	0.31441143	No	
+row_13	AP2M1	adaptor related protein complex 2 subunit mu 1 [Source:HGNC Symbol;Acc:HGNC:564]	7214	0.1745098978281021	0.3179528	No	
+row_14	AP4B1	adaptor related protein complex 4 subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:572]	7291	0.16824650764465332	0.3255446	No	
+row_15	AP3M1	adaptor related protein complex 3 subunit mu 1 [Source:HGNC Symbol;Acc:HGNC:569]	7678	0.13757716119289398	0.31446463	No	
+row_16	AFTPH	aftiphilin [Source:HGNC Symbol;Acc:HGNC:25951]	8251	0.09305979311466217	0.2903734	No	
+row_17	AP4S1	adaptor related protein complex 4 subunit sigma 1 [Source:HGNC Symbol;Acc:HGNC:575]	8440	0.07780203223228455	0.28572437	No	
+row_18	VPS39	VPS39 subunit of HOPS complex [Source:HGNC Symbol;Acc:HGNC:20593]	8750	0.0547017827630043	0.27301678	No	
+row_19	AP4M1	adaptor related protein complex 4 subunit mu 1 [Source:HGNC Symbol;Acc:HGNC:574]	8996	0.03544297441840172	0.2623922	No	
+row_20	AP2B1	adaptor related protein complex 2 subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:563]	9253	0.014166769571602345	0.24970734	No	
+row_21	AP1M1	adaptor related protein complex 1 subunit mu 1 [Source:HGNC Symbol;Acc:HGNC:13667]	9756	-0.022055231034755707	0.22443673	No	
+row_22	AP2S1	adaptor related protein complex 2 subunit sigma 1 [Source:HGNC Symbol;Acc:HGNC:565]	10000	-0.03953054919838905	0.21420193	No	
+row_23	AP2A1	adaptor related protein complex 2 subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:561]	10170	-0.051425669342279434	0.20874095	No	
+row_24	AP1M2	adaptor related protein complex 1 subunit mu 2 [Source:HGNC Symbol;Acc:HGNC:558]	10193	-0.05350601673126221	0.21127112	No	
+row_25	AP1B1	adaptor related protein complex 1 subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:554]	10682	-0.0916946679353714	0.19156945	No	
+row_26	AP5Z1	adaptor related protein complex 5 subunit zeta 1 [Source:HGNC Symbol;Acc:HGNC:22197]	11473	-0.1494542360305786	0.15974557	No	
+row_27	AP3S2	adaptor related protein complex 3 subunit sigma 2 [Source:HGNC Symbol;Acc:HGNC:571]	11926	-0.1844274401664734	0.14838614	No	
+row_28	AP1G1	adaptor related protein complex 1 subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:555]	13046	-0.2770424783229828	0.10783343	No	
+row_29	SYNRG	synergin gamma [Source:HGNC Symbol;Acc:HGNC:557]	13285	-0.29479658603668213	0.11553927	No	
+row_30	STON2	stonin 2 [Source:HGNC Symbol;Acc:HGNC:30652]	14159	-0.38506969809532166	0.09559789	No	
+row_31	AP3D1	adaptor related protein complex 3 subunit delta 1 [Source:HGNC Symbol;Acc:HGNC:568]	14193	-0.3890412449836731	0.120772146	No	
+row_32	AP1S1	adaptor related protein complex 1 subunit sigma 1 [Source:HGNC Symbol;Acc:HGNC:559]	14960	-0.4706347584724426	0.11246684	No	
+row_33	AP2A2	adaptor related protein complex 2 subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:562]	15925	-0.597148597240448	0.10235133	No	
+row_34	AP4E1	adaptor related protein complex 4 subunit epsilon 1 [Source:HGNC Symbol;Acc:HGNC:573]	16562	-0.7121407389640808	0.11770668	No	

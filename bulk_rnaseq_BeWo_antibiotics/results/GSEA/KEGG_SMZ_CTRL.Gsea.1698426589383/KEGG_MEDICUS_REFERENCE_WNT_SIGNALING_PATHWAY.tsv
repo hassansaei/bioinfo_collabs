@@ -1,0 +1,35 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	WNT9A	Wnt family member 9A [Source:HGNC Symbol;Acc:HGNC:12778]	10	2.9762895107269287	0.10427971	Yes	
+row_1	FZD4	frizzled class receptor 4 [Source:HGNC Symbol;Acc:HGNC:4042]	144	2.0578219890594482	0.16872655	Yes	
+row_2	WNT6	Wnt family member 6 [Source:HGNC Symbol;Acc:HGNC:12785]	161	1.9971421957015991	0.23813622	Yes	
+row_3	WNT7B	Wnt family member 7B [Source:HGNC Symbol;Acc:HGNC:12787]	182	1.9375009536743164	0.3052013	Yes	
+row_4	FZD1	frizzled class receptor 1 [Source:HGNC Symbol;Acc:HGNC:4038]	431	1.556038737297058	0.34498507	Yes	
+row_5	FZD8	frizzled class receptor 8 [Source:HGNC Symbol;Acc:HGNC:4046]	528	1.458167552947998	0.3905453	Yes	
+row_6	FZD3	frizzled class receptor 3 [Source:HGNC Symbol;Acc:HGNC:4041]	1441	0.945572555065155	0.36851475	Yes	
+row_7	FZD10	frizzled class receptor 10 [Source:HGNC Symbol;Acc:HGNC:4039]	1482	0.9324018955230713	0.3989455	Yes	
+row_8	FRAT1	FRAT regulator of WNT signaling pathway 1 [Source:HGNC Symbol;Acc:HGNC:3944]	1527	0.9201434254646301	0.42870152	Yes	
+row_9	FZD6	frizzled class receptor 6 [Source:HGNC Symbol;Acc:HGNC:4044]	1597	0.8998934030532837	0.4562265	Yes	
+row_10	FZD2	frizzled class receptor 2 [Source:HGNC Symbol;Acc:HGNC:4040]	4399	0.3912922739982605	0.3000111	No	
+row_11	TCF7L1	transcription factor 7 like 1 [Source:HGNC Symbol;Acc:HGNC:11640]	5287	0.2863922119140625	0.25626788	No	
+row_12	LRP6	LDL receptor related protein 6 [Source:HGNC Symbol;Acc:HGNC:6698]	5925	0.224312886595726	0.22551054	No	
+row_13	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	5996	0.21723677217960358	0.22891752	No	
+row_14	FRAT2	FRAT regulator of WNT signaling pathway 2 [Source:HGNC Symbol;Acc:HGNC:16048]	6229	0.19442306458950043	0.22168805	No	
+row_15	WNT2B	Wnt family member 2B [Source:HGNC Symbol;Acc:HGNC:12781]	6447	0.17483192682266235	0.21467857	No	
+row_16	LRP5	LDL receptor related protein 5 [Source:HGNC Symbol;Acc:HGNC:6697]	7738	0.06144639849662781	0.13854828	No	
+row_17	TCF7	transcription factor 7 [Source:HGNC Symbol;Acc:HGNC:11639]	9308	-0.07265830039978027	0.0458794	No	
+row_18	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	9901	-0.12174873799085617	0.014238865	No	
+row_19	DVL3	dishevelled segment polarity protein 3 [Source:HGNC Symbol;Acc:HGNC:3087]	10862	-0.20271362364292145	-0.036883924	No	
+row_20	WNT1	Wnt family member 1 [Source:HGNC Symbol;Acc:HGNC:12774]	11052	-0.2188689261674881	-0.040642053	No	
+row_21	AXIN1	axin 1 [Source:HGNC Symbol;Acc:HGNC:903]	11712	-0.28281742334365845	-0.07067293	No	
+row_22	GSK3B	glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617]	11808	-0.2938588261604309	-0.06608309	No	
+row_23	WNT4	Wnt family member 4 [Source:HGNC Symbol;Acc:HGNC:12783]	11810	-0.2941763401031494	-0.05577679	No	
+row_24	DVL1	dishevelled segment polarity protein 1 [Source:HGNC Symbol;Acc:HGNC:3084]	11964	-0.31205233931541443	-0.054066066	No	
+row_25	DVL2	dishevelled segment polarity protein 2 [Source:HGNC Symbol;Acc:HGNC:3086]	13112	-0.45007261633872986	-0.107821584	No	
+row_26	FZD7	frizzled class receptor 7 [Source:HGNC Symbol;Acc:HGNC:4045]	14794	-0.7515076398849487	-0.18336509	No	
+row_27	TCF7L2	transcription factor 7 like 2 [Source:HGNC Symbol;Acc:HGNC:11641]	15049	-0.8219244480133057	-0.16981623	No	
+row_28	FZD5	frizzled class receptor 5 [Source:HGNC Symbol;Acc:HGNC:4043]	15236	-0.8938066363334656	-0.14960696	No	
+row_29	WNT7A	Wnt family member 7A [Source:HGNC Symbol;Acc:HGNC:12786]	15596	-1.0649539232254028	-0.13386646	No	
+row_30	WNT10B	Wnt family member 10B [Source:HGNC Symbol;Acc:HGNC:12775]	15838	-1.2249579429626465	-0.10532536	No	
+row_31	MYC	MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]	15847	-1.2311729192733765	-0.062423468	No	
+row_32	AXIN2	axin 2 [Source:HGNC Symbol;Acc:HGNC:904]	15991	-1.3513827323913574	-0.02347903	No	
+row_33	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	16144	-1.5566641092300415	0.022153433	No	

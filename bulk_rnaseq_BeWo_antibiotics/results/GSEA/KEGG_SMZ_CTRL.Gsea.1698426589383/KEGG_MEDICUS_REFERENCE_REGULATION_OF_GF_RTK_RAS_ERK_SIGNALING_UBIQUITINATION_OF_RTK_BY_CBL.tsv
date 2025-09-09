@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NGFR	nerve growth factor receptor [Source:HGNC Symbol;Acc:HGNC:7809]	711	1.3068640232086182	0.035018716	No	
+row_1	NTRK1	neurotrophic receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:8031]	5088	0.307270884513855	-0.2119829	No	
+row_2	PDGFRA	platelet derived growth factor receptor alpha [Source:HGNC Symbol;Acc:HGNC:8803]	5427	0.27256327867507935	-0.21618395	No	
+row_3	PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	5537	0.2606273591518402	-0.20721143	No	
+row_4	FGFR4	fibroblast growth factor receptor 4 [Source:HGNC Symbol;Acc:HGNC:3691]	6019	0.21518218517303467	-0.22351515	No	
+row_5	ERBB4	erb-b2 receptor tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3432]	6344	0.18402999639511108	-0.23216051	No	
+row_6	FGFR3	fibroblast growth factor receptor 3 [Source:HGNC Symbol;Acc:HGNC:3690]	6446	0.17486152052879333	-0.22783068	No	
+row_7	CBL	Cbl proto-oncogene [Source:HGNC Symbol;Acc:HGNC:1541]	11533	-0.2677064836025238	-0.5202542	No	
+row_8	ERBB2	erb-b2 receptor tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:3430]	13888	-0.5676990747451782	-0.6290654	Yes	
+row_9	MET	MET proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:7029]	14362	-0.6515011787414551	-0.618797	Yes	
+row_10	ERBB3	erb-b2 receptor tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3431]	14765	-0.7451518774032593	-0.5986237	Yes	
+row_11	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	14847	-0.7655122876167297	-0.55776674	Yes	
+row_12	CSF1R	colony stimulating factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:2433]	15157	-0.8598797917366028	-0.5250942	Yes	
+row_13	IGF1R	insulin like growth factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:5465]	15294	-0.9205652475357056	-0.4783022	Yes	
+row_14	INSR	insulin receptor [Source:HGNC Symbol;Acc:HGNC:6091]	15372	-0.9552168250083923	-0.4258605	Yes	
+row_15	FGFR1	fibroblast growth factor receptor 1 [Source:HGNC Symbol;Acc:HGNC:3688]	15700	-1.1277798414230347	-0.37826216	Yes	
+row_16	FLT1	fms related receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:3763]	15809	-1.2025700807571411	-0.31291142	Yes	
+row_17	FLT4	fms related receptor tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	15959	-1.3225139379501343	-0.24287574	Yes	
+row_18	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	16032	-1.4044855833053589	-0.1632696	Yes	
+row_19	EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	16493	-3.213573694229126	9.70258E-4	Yes	

@@ -1,0 +1,32 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TUBB3	tubulin beta 3 class III [Source:HGNC Symbol;Acc:HGNC:20772]	101	2.201996088027954	0.116388105	Yes	
+row_1	DNAL4	dynein axonemal light chain 4 [Source:HGNC Symbol;Acc:HGNC:2955]	377	1.6274991035461426	0.19025281	Yes	
+row_2	TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	1139	1.0679291486740112	0.20349146	Yes	
+row_3	TUBB4B	tubulin beta 4B class IVb [Source:HGNC Symbol;Acc:HGNC:20771]	1156	1.0594202280044556	0.26146573	Yes	
+row_4	TUBA4A	tubulin alpha 4a [Source:HGNC Symbol;Acc:HGNC:12407]	1212	1.0377432107925415	0.31586727	Yes	
+row_5	DNAH12	dynein axonemal heavy chain 12 [Source:HGNC Symbol;Acc:HGNC:2943]	1751	0.8546589016914368	0.33077213	Yes	
+row_6	DNAH2	dynein axonemal heavy chain 2 [Source:HGNC Symbol;Acc:HGNC:2948]	2472	0.6846209168434143	0.32517186	Yes	
+row_7	TUBB2A	tubulin beta 2A class IIa [Source:HGNC Symbol;Acc:HGNC:12412]	2741	0.6384282112121582	0.3444303	Yes	
+row_8	ACTR10	actin related protein 10 [Source:HGNC Symbol;Acc:HGNC:17372]	2815	0.6254835724830627	0.37480178	Yes	
+row_9	ACTR1A	actin related protein 1A [Source:HGNC Symbol;Acc:HGNC:167]	3177	0.5644295811653137	0.3842995	Yes	
+row_10	TUBB2B	tubulin beta 2B class IIb [Source:HGNC Symbol;Acc:HGNC:30829]	3500	0.5163670778274536	0.39348966	Yes	
+row_11	TUBA1B	tubulin alpha 1b [Source:HGNC Symbol;Acc:HGNC:18809]	3923	0.4536212682723999	0.3931204	No	
+row_12	DCTN5	dynactin subunit 5 [Source:HGNC Symbol;Acc:HGNC:24594]	4745	0.3477216362953186	0.36264634	No	
+row_13	TUBB6	tubulin beta 6 class V [Source:HGNC Symbol;Acc:HGNC:20776]	7132	0.11564423143863678	0.22429034	No	
+row_14	DNAL1	dynein axonemal light chain 1 [Source:HGNC Symbol;Acc:HGNC:23247]	7435	0.08804342150688171	0.21086264	No	
+row_15	DCTN3	dynactin subunit 3 [Source:HGNC Symbol;Acc:HGNC:2713]	7676	0.06773589551448822	0.20006742	No	
+row_16	TUBA1C	tubulin alpha 1c [Source:HGNC Symbol;Acc:HGNC:20768]	8782	-0.026985598728060722	0.13451383	No	
+row_17	DCTN2	dynactin subunit 2 [Source:HGNC Symbol;Acc:HGNC:2712]	8872	-0.03366129472851753	0.1309859	No	
+row_18	DCTN1	dynactin subunit 1 [Source:HGNC Symbol;Acc:HGNC:2711]	8913	-0.037668462842702866	0.13065441	No	
+row_19	TUBA3D	tubulin alpha 3d [Source:HGNC Symbol;Acc:HGNC:24071]	10141	-0.1397065669298172	0.06396916	No	
+row_20	DNAH5	dynein axonemal heavy chain 5 [Source:HGNC Symbol;Acc:HGNC:2950]	10483	-0.1693265289068222	0.05269733	No	
+row_21	DNAH17	dynein axonemal heavy chain 17 [Source:HGNC Symbol;Acc:HGNC:2946]	10550	-0.1756218820810318	0.05846368	No	
+row_22	TUBB	tubulin beta class I [Source:HGNC Symbol;Acc:HGNC:20778]	10827	-0.1995282769203186	0.052816667	No	
+row_23	DNALI1	dynein axonemal light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:14353]	11084	-0.22182266414165497	0.04962376	No	
+row_24	TUBA3E	tubulin alpha 3e [Source:HGNC Symbol;Acc:HGNC:20765]	12455	-0.37130093574523926	-0.012853497	No	
+row_25	DNAH1	dynein axonemal heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2940]	13347	-0.4828527569770813	-0.04005681	No	
+row_26	DCTN4	dynactin subunit 4 [Source:HGNC Symbol;Acc:HGNC:15518]	14238	-0.6282283663749695	-0.059110872	No	
+row_27	DCTN6	dynactin subunit 6 [Source:HGNC Symbol;Acc:HGNC:16964]	14582	-0.7030670046806335	-0.040807217	No	
+row_28	DNAI1	dynein axonemal intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:2954]	14871	-0.7721734046936035	-0.0153209595	No	
+row_29	ACTR1B	actin related protein 1B [Source:HGNC Symbol;Acc:HGNC:168]	15194	-0.8725405931472778	0.013686407	No	
+row_30	TUBA8	tubulin alpha 8 [Source:HGNC Symbol;Acc:HGNC:12410]	15780	-1.1871403455734253	0.044238117	No	

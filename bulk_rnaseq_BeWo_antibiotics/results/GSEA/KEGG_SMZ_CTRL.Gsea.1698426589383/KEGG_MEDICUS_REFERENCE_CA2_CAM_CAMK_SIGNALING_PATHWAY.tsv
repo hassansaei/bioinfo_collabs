@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CAMKK1	calcium/calmodulin dependent protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:1469]	1353	0.9820868968963623	0.0498349	Yes	
+row_1	MYLK2	myosin light chain kinase 2 [Source:HGNC Symbol;Acc:HGNC:16243]	1764	0.8511480093002319	0.13926375	Yes	
+row_2	CAMK1	calcium/calmodulin dependent protein kinase I [Source:HGNC Symbol;Acc:HGNC:1459]	2662	0.6527619957923889	0.17252664	Yes	
+row_3	MYLK4	myosin light chain kinase family member 4 [Source:HGNC Symbol;Acc:HGNC:27972]	2869	0.6174926161766052	0.2429503	Yes	
+row_4	CAMKK2	calcium/calmodulin dependent protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:1470]	2877	0.6167142987251282	0.32533517	Yes	
+row_5	CALM2	calmodulin 2 [Source:HGNC Symbol;Acc:HGNC:1445]	2986	0.5981248021125793	0.39910015	Yes	
+row_6	MYLK3	myosin light chain kinase 3 [Source:HGNC Symbol;Acc:HGNC:29826]	3239	0.5557306408882141	0.45844164	Yes	
+row_7	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	3756	0.47683534026145935	0.4911827	Yes	
+row_8	CALM3	calmodulin 3 [Source:HGNC Symbol;Acc:HGNC:1449]	4034	0.44156381487846375	0.53367865	Yes	
+row_9	CAMK2B	calcium/calmodulin dependent protein kinase II beta [Source:HGNC Symbol;Acc:HGNC:1461]	5517	0.26299071311950684	0.47913545	No	
+row_10	PHKG2	phosphorylase kinase catalytic subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:8931]	6042	0.21278098225593567	0.47593555	No	
+row_11	CAMK2D	calcium/calmodulin dependent protein kinase II delta [Source:HGNC Symbol;Acc:HGNC:1462]	8910	-0.0375392772257328	0.30714482	No	
+row_12	CAMK4	calcium/calmodulin dependent protein kinase IV [Source:HGNC Symbol;Acc:HGNC:1464]	9313	-0.07322243601083755	0.29260278	No	
+row_13	CAMK2G	calcium/calmodulin dependent protein kinase II gamma [Source:HGNC Symbol;Acc:HGNC:1463]	9438	-0.08385289460420609	0.29634377	No	
+row_14	CAMK1D	calcium/calmodulin dependent protein kinase ID [Source:HGNC Symbol;Acc:HGNC:19341]	11293	-0.24204297363758087	0.21643277	No	
+row_15	MYLK	myosin light chain kinase [Source:HGNC Symbol;Acc:HGNC:7590]	12088	-0.32622748613357544	0.21209532	No	
+row_16	PHKG1	phosphorylase kinase catalytic subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:8930]	12861	-0.4162878394126892	0.22118463	No	

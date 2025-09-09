@@ -1,0 +1,59 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRKN	parkin RBR E3 ubiquitin protein ligase [Source:HGNC Symbol;Acc:HGNC:8607]	156	2.0757529735565186	0.07384969	Yes	
+row_1	SPSB2	splA/ryanodine receptor domain and SOCS box containing 2 [Source:HGNC Symbol;Acc:HGNC:29522]	605	1.4301323890686035	0.106530026	Yes	
+row_2	FBXO2	F-box protein 2 [Source:HGNC Symbol;Acc:HGNC:13581]	1192	1.0864348411560059	0.11822624	Yes	
+row_3	FBXL2	F-box and leucine rich repeat protein 2 [Source:HGNC Symbol;Acc:HGNC:13598]	1309	1.0413155555725098	0.15325625	Yes	
+row_4	FBXO6	F-box protein 6 [Source:HGNC Symbol;Acc:HGNC:13585]	1326	1.0344856977462769	0.19336058	Yes	
+row_5	FBXO44	F-box protein 44 [Source:HGNC Symbol;Acc:HGNC:24847]	2612	0.7045859098434448	0.15257815	Yes	
+row_6	FBXO15	F-box protein 15 [Source:HGNC Symbol;Acc:HGNC:13617]	2887	0.66001296043396	0.16406617	Yes	
+row_7	FBXO3	F-box protein 3 [Source:HGNC Symbol;Acc:HGNC:13582]	3037	0.6376137137413025	0.18134822	Yes	
+row_8	FBXO32	F-box protein 32 [Source:HGNC Symbol;Acc:HGNC:16731]	3524	0.5633227825164795	0.17767704	Yes	
+row_9	FBXL6	F-box and leucine rich repeat protein 6 [Source:HGNC Symbol;Acc:HGNC:13603]	3538	0.5607205033302307	0.19918342	Yes	
+row_10	FBXO4	F-box protein 4 [Source:HGNC Symbol;Acc:HGNC:13583]	3646	0.5456326603889465	0.21506837	Yes	
+row_11	FBXO33	F-box protein 33 [Source:HGNC Symbol;Acc:HGNC:19833]	3705	0.5390467643737793	0.23331147	Yes	
+row_12	NCCRP1	NCCRP1, F-box associated domain containing [Source:HGNC Symbol;Acc:HGNC:33739]	3822	0.5238414406776428	0.24785258	Yes	
+row_13	FBXL17	F-box and leucine rich repeat protein 17 [Source:HGNC Symbol;Acc:HGNC:13615]	4012	0.49892735481262207	0.2575056	Yes	
+row_14	FBXL15	F-box and leucine rich repeat protein 15 [Source:HGNC Symbol;Acc:HGNC:28155]	4308	0.4602116346359253	0.25996026	Yes	
+row_15	FBXL4	F-box and leucine rich repeat protein 4 [Source:HGNC Symbol;Acc:HGNC:13601]	4697	0.4183639883995056	0.25578743	No	
+row_16	FBXL18	F-box and leucine rich repeat protein 18 [Source:HGNC Symbol;Acc:HGNC:21874]	5326	0.3471926748752594	0.23596925	No	
+row_17	SKP1	S-phase kinase associated protein 1 [Source:HGNC Symbol;Acc:HGNC:10899]	5712	0.30508652329444885	0.22747163	No	
+row_18	TMEM183A	transmembrane protein 183A [Source:HGNC Symbol;Acc:HGNC:20173]	5893	0.28851503133773804	0.22927459	No	
+row_19	CKS2	CDC28 protein kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:2000]	5927	0.28458932042121887	0.23877887	No	
+row_20	AMN1	antagonist of mitotic exit network 1 homolog [Source:HGNC Symbol;Acc:HGNC:27281]	6429	0.2399984449148178	0.22150426	No	
+row_21	FBXO31	F-box protein 31 [Source:HGNC Symbol;Acc:HGNC:16510]	6454	0.23808220028877258	0.22964816	No	
+row_22	CACYBP	calcyclin binding protein [Source:HGNC Symbol;Acc:HGNC:30423]	6471	0.23572948575019836	0.23812649	No	
+row_23	FBXL5	F-box and leucine rich repeat protein 5 [Source:HGNC Symbol;Acc:HGNC:13602]	6785	0.2113475501537323	0.22976558	No	
+row_24	FBXO25	F-box protein 25 [Source:HGNC Symbol;Acc:HGNC:13596]	7293	0.1681080162525177	0.20932385	No	
+row_25	CCNF	cyclin F [Source:HGNC Symbol;Acc:HGNC:1591]	7968	0.11569055914878845	0.17788099	No	
+row_26	FBXW4	F-box and WD repeat domain containing 4 [Source:HGNC Symbol;Acc:HGNC:10847]	7975	0.11507963389158249	0.18211678	No	
+row_27	FBXL20	F-box and leucine rich repeat protein 20 [Source:HGNC Symbol;Acc:HGNC:24679]	8084	0.10596556961536407	0.18054007	No	
+row_28	FBXL16	F-box and leucine rich repeat protein 16 [Source:HGNC Symbol;Acc:HGNC:14150]	8186	0.0980139747262001	0.17902265	No	
+row_29	BTRC	beta-transducin repeat containing E3 ubiquitin protein ligase [Source:HGNC Symbol;Acc:HGNC:1144]	8314	0.08767479658126831	0.17570624	No	
+row_30	FBXW8	F-box and WD repeat domain containing 8 [Source:HGNC Symbol;Acc:HGNC:13597]	8874	0.04515376314520836	0.147617	No	
+row_31	FBXO27	F-box protein 27 [Source:HGNC Symbol;Acc:HGNC:18753]	9466	-0.0010439327452331781	0.11607094	No	
+row_32	CUL5	cullin 5 [Source:HGNC Symbol;Acc:HGNC:2556]	9517	-0.0043582916259765625	0.11357114	No	
+row_33	FBXO45	F-box protein 45 [Source:HGNC Symbol;Acc:HGNC:29148]	9661	-0.01415389683097601	0.10648857	No	
+row_34	FBXO9	F-box protein 9 [Source:HGNC Symbol;Acc:HGNC:13588]	10793	-0.09928704053163528	0.04997079	No	
+row_35	SPSB3	splA/ryanodine receptor domain and SOCS box containing 3 [Source:HGNC Symbol;Acc:HGNC:30629]	10989	-0.11464998126029968	0.044088017	No	
+row_36	RBX1	ring-box 1 [Source:HGNC Symbol;Acc:HGNC:9928]	11241	-0.13374528288841248	0.035968248	No	
+row_37	FBXO7	F-box protein 7 [Source:HGNC Symbol;Acc:HGNC:13586]	11656	-0.16327498853206635	0.020305762	No	
+row_38	FBXL8	F-box and leucine rich repeat protein 8 [Source:HGNC Symbol;Acc:HGNC:17875]	11816	-0.17560698091983795	0.018760625	No	
+row_39	USP47	ubiquitin specific peptidase 47 [Source:HGNC Symbol;Acc:HGNC:20076]	12016	-0.1915554404258728	0.01570906	No	
+row_40	CKS1B	CDC28 protein kinase regulatory subunit 1B [Source:HGNC Symbol;Acc:HGNC:19083]	12028	-0.1929030418395996	0.022758953	No	
+row_41	FBXL12	F-box and leucine rich repeat protein 12 [Source:HGNC Symbol;Acc:HGNC:13611]	12551	-0.23212911188602448	0.004050368	No	
+row_42	FBH1	F-box DNA helicase 1 [Source:HGNC Symbol;Acc:HGNC:13620]	13186	-0.2879619598388672	-0.018433673	No	
+row_43	FBXL14	F-box and leucine rich repeat protein 14 [Source:HGNC Symbol;Acc:HGNC:28624]	13246	-0.2923966646194458	-0.010009896	No	
+row_44	FBXL19	F-box and leucine rich repeat protein 19 [Source:HGNC Symbol;Acc:HGNC:25300]	13289	-0.29496702551841736	-5.7574356E-4	No	
+row_45	DMAC2	distal membrane arm assembly component 2 [Source:HGNC Symbol;Acc:HGNC:25496]	13331	-0.29860711097717285	0.009055982	No	
+row_46	FBXL13	F-box and leucine rich repeat protein 13 [Source:HGNC Symbol;Acc:HGNC:21658]	13983	-0.3679047226905823	-0.011171405	No	
+row_47	SPSB1	splA/ryanodine receptor domain and SOCS box containing 1 [Source:HGNC Symbol;Acc:HGNC:30628]	14181	-0.3876839876174927	-0.0063505517	No	
+row_48	FBXO38	F-box protein 38 [Source:HGNC Symbol;Acc:HGNC:28844]	14294	-0.39767125248908997	0.0034087629	No	
+row_49	CUL1	cullin 1 [Source:HGNC Symbol;Acc:HGNC:2551]	14319	-0.39964112639427185	0.017949441	No	
+row_50	FBXL3	F-box and leucine rich repeat protein 3 [Source:HGNC Symbol;Acc:HGNC:13599]	14934	-0.4680286645889282	0.003663918	No	
+row_51	FBXW11	F-box and WD repeat domain containing 11 [Source:HGNC Symbol;Acc:HGNC:13607]	15345	-0.5166125297546387	0.0022052894	No	
+row_52	FBXO17	F-box protein 17 [Source:HGNC Symbol;Acc:HGNC:18754]	15704	-0.5626901388168335	0.0053503225	No	
+row_53	CUL2	cullin 2 [Source:HGNC Symbol;Acc:HGNC:2552]	16921	-0.7852373719215393	-0.028550927	No	
+row_54	FBXW5	F-box and WD repeat domain containing 5 [Source:HGNC Symbol;Acc:HGNC:13613]	16935	-0.7888830900192261	0.0019893402	No	
+row_55	FBXO42	F-box protein 42 [Source:HGNC Symbol;Acc:HGNC:29249]	16947	-0.7914851307868958	0.032739528	No	
+row_56	FBXW7	F-box and WD repeat domain containing 7 [Source:HGNC Symbol;Acc:HGNC:16712]	16991	-0.8017334938049316	0.062185172	No	
+row_57	SKP2	S-phase kinase associated protein 2 [Source:HGNC Symbol;Acc:HGNC:10901]	17084	-0.8254749178886414	0.08995192	No	

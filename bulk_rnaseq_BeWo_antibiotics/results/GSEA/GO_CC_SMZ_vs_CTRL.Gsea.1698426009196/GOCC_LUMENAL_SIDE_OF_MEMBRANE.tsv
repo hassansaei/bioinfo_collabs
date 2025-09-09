@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	190	1.9979485273361206	0.13601075	Yes	
+row_1	PKD2	polycystin 2, transient receptor potential cation channel [Source:HGNC Symbol;Acc:HGNC:9009]	272	1.8116581439971924	0.2642093	Yes	
+row_2	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	607	1.4288196563720703	0.35090768	Yes	
+row_3	PAM16	presequence translocase associated motor 16 [Source:HGNC Symbol;Acc:HGNC:29679]	2062	0.8184823393821716	0.33321494	Yes	
+row_4	SPPL2A	signal peptide peptidase like 2A [Source:HGNC Symbol;Acc:HGNC:30227]	2608	0.705309271812439	0.35573417	Yes	
+row_5	DNAJC19	DnaJ heat shock protein family (Hsp40) member C19 [Source:HGNC Symbol;Acc:HGNC:30528]	2642	0.7005818486213684	0.40522006	Yes	
+row_6	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	2802	0.6747303605079651	0.44609353	Yes	
+row_7	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	4522	0.4358644485473633	0.38627663	No	
+row_8	SPPL2B	signal peptide peptidase like 2B [Source:HGNC Symbol;Acc:HGNC:30627]	4883	0.39824289083480835	0.39620328	No	
+row_9	SPPL3	signal peptide peptidase like 3 [Source:HGNC Symbol;Acc:HGNC:30424]	6888	0.20250394940376282	0.30411327	No	
+row_10	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	6898	0.20176811516284943	0.31839213	No	
+row_11	CTSA	cathepsin A [Source:HGNC Symbol;Acc:HGNC:9251]	8988	0.03596382960677147	0.20958571	No	
+row_12	AQP2	aquaporin 2 [Source:HGNC Symbol;Acc:HGNC:634]	10779	-0.09819774329662323	0.12128166	No	
+row_13	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	11705	-0.16689223051071167	0.084145665	No	
+row_14	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	12674	-0.24238257110118866	0.050237823	No	
+row_15	HSPA8	heat shock protein family A (Hsp70) member 8 [Source:HGNC Symbol;Acc:HGNC:5241]	13829	-0.35062551498413086	0.014325634	No	
+row_16	HM13	histocompatibility minor 13 [Source:HGNC Symbol;Acc:HGNC:16435]	13962	-0.3656296730041504	0.034029268	No	
+row_17	COA8	cytochrome c oxidase assembly factor 8 [Source:HGNC Symbol;Acc:HGNC:20492]	14713	-0.4412522315979004	0.02629752	No	
+row_18	HLA-C	major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	15276	-0.5070794224739075	0.03340972	No	
+row_19	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	15977	-0.6028923988342285	0.040168885	No	
+row_20	BCAP31	B cell receptor associated protein 31 [Source:HGNC Symbol;Acc:HGNC:16695]	16014	-0.608430027961731	0.082754016	No	
+row_21	TAPBP	TAP binding protein [Source:HGNC Symbol;Acc:HGNC:11566]	17266	-0.8756284713745117	0.080070384	No	

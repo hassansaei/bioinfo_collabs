@@ -1,0 +1,33 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	WDTC1	WD and tetratricopeptide repeats 1 [Source:HGNC Symbol;Acc:HGNC:29175]	1525	0.9210353493690491	-0.0066925124	No	
+row_1	GLMN	glomulin, FKBP associated protein [Source:HGNC Symbol;Acc:HGNC:14373]	2690	0.6467618346214294	-0.017043674	No	
+row_2	DCAF16	DDB1 and CUL4 associated factor 16 [Source:HGNC Symbol;Acc:HGNC:25987]	5569	0.25669530034065247	-0.16777271	No	
+row_3	DCAF17	DDB1 and CUL4 associated factor 17 [Source:HGNC Symbol;Acc:HGNC:25784]	5666	0.24873830378055573	-0.1504123	No	
+row_4	DCAF4	DDB1 and CUL4 associated factor 4 [Source:HGNC Symbol;Acc:HGNC:20229]	6079	0.20953713357448578	-0.15588315	No	
+row_5	CRBN	cereblon [Source:HGNC Symbol;Acc:HGNC:30185]	6171	0.20080310106277466	-0.14268762	No	
+row_6	DCAF13	DDB1 and CUL4 associated factor 13 [Source:HGNC Symbol;Acc:HGNC:24535]	6632	0.1588733196258545	-0.15579411	No	
+row_7	DCAF11	DDB1 and CUL4 associated factor 11 [Source:HGNC Symbol;Acc:HGNC:20258]	6719	0.15072526037693024	-0.14696321	No	
+row_8	WDR77	WD repeat domain 77 [Source:HGNC Symbol;Acc:HGNC:29652]	6883	0.13733898103237152	-0.14405301	No	
+row_9	DTL	denticleless E3 ubiquitin protein ligase homolog [Source:HGNC Symbol;Acc:HGNC:30288]	7226	0.10757353156805038	-0.15478039	No	
+row_10	AMBRA1	autophagy and beclin 1 regulator 1 [Source:HGNC Symbol;Acc:HGNC:25990]	7453	0.08639975637197495	-0.16044182	No	
+row_11	DET1	DET1 partner of COP1 E3 ubiquitin ligase [Source:HGNC Symbol;Acc:HGNC:25477]	7534	0.07952846586704254	-0.15788347	No	
+row_12	COP1	COP1 E3 ubiquitin ligase [Source:HGNC Symbol;Acc:HGNC:17440]	7660	0.06894214451313019	-0.15904282	No	
+row_13	DCAF5	DDB1 and CUL4 associated factor 5 [Source:HGNC Symbol;Acc:HGNC:20224]	7765	0.058793921023607254	-0.15987374	No	
+row_14	DCAF8	DDB1 and CUL4 associated factor 8 [Source:HGNC Symbol;Acc:HGNC:24891]	7802	0.055777501314878464	-0.15685913	No	
+row_15	ERCC8	ERCC excision repair 8, CSA ubiquitin ligase complex subunit [Source:HGNC Symbol;Acc:HGNC:3439]	8809	-0.028744230046868324	-0.21523081	No	
+row_16	DCAF7	DDB1 and CUL4 associated factor 7 [Source:HGNC Symbol;Acc:HGNC:30915]	9119	-0.055811770260334015	-0.22878054	No	
+row_17	DCAF6	DDB1 and CUL4 associated factor 6 [Source:HGNC Symbol;Acc:HGNC:30002]	9158	-0.058560561388731	-0.22562787	No	
+row_18	RBX1	ring-box 1 [Source:HGNC Symbol;Acc:HGNC:9928]	9848	-0.11760760843753815	-0.2564783	No	
+row_19	DCAF12	DDB1 and CUL4 associated factor 12 [Source:HGNC Symbol;Acc:HGNC:19911]	9947	-0.12470684200525284	-0.25080097	No	
+row_20	DCAF4L1	DDB1 and CUL4 associated factor 4 like 1 [Source:HGNC Symbol;Acc:HGNC:27723]	12240	-0.3470239043235779	-0.35754737	Yes	
+row_21	DCAF15	DDB1 and CUL4 associated factor 15 [Source:HGNC Symbol;Acc:HGNC:25095]	12497	-0.37560561299324036	-0.33807084	Yes	
+row_22	CUL4B	cullin 4B [Source:HGNC Symbol;Acc:HGNC:2555]	12604	-0.3867904841899872	-0.30844864	Yes	
+row_23	TRPC4AP	transient receptor potential cation channel subfamily C member 4 associated protein [Source:HGNC Symbol;Acc:HGNC:16181]	12835	-0.4140298068523407	-0.2838125	Yes	
+row_24	DCAF10	DDB1 and CUL4 associated factor 10 [Source:HGNC Symbol;Acc:HGNC:23686]	13197	-0.46007010340690613	-0.26283464	Yes	
+row_25	CUL4A	cullin 4A [Source:HGNC Symbol;Acc:HGNC:2554]	13712	-0.5379830598831177	-0.24387917	Yes	
+row_26	DDB2	damage specific DNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:2718]	14047	-0.5917454957962036	-0.20898853	Yes	
+row_27	CDKN1B	cyclin dependent kinase inhibitor 1B [Source:HGNC Symbol;Acc:HGNC:1785]	14101	-0.6012611389160156	-0.15615785	Yes	
+row_28	DDA1	DET1 and DDB1 associated 1 [Source:HGNC Symbol;Acc:HGNC:28360]	14440	-0.6688063740730286	-0.11432668	Yes	
+row_29	FBXW5	F-box and WD repeat domain containing 5 [Source:HGNC Symbol;Acc:HGNC:13613]	14874	-0.7727036476135254	-0.06857588	Yes	
+row_30	DCAF1	DDB1 and CUL4 associated factor 1 [Source:HGNC Symbol;Acc:HGNC:30911]	14914	-0.7840073704719543	0.0021392663	Yes	
+row_31	DDB1	damage specific DNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2717]	15488	-1.0148030519485474	0.061961398	Yes	

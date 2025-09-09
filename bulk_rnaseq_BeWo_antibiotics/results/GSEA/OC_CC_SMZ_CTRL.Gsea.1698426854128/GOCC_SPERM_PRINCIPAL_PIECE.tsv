@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CATSPERG	cation channel sperm associated auxiliary subunit gamma [Source:HGNC Symbol;Acc:HGNC:25243]	59	2.406611919403076	0.13550542	Yes	
+row_1	AKAP3	A-kinase anchoring protein 3 [Source:HGNC Symbol;Acc:HGNC:373]	89	2.2388854026794434	0.26313704	Yes	
+row_2	SCNN1A	sodium channel epithelial 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:10599]	222	1.8445351123809814	0.36173126	Yes	
+row_3	FSIP2	fibrous sheath interacting protein 2 [Source:HGNC Symbol;Acc:HGNC:21675]	753	1.283246636390686	0.40374854	Yes	
+row_4	SPA17	sperm autoantigenic protein 17 [Source:HGNC Symbol;Acc:HGNC:11210]	843	1.2130213975906372	0.46845406	Yes	
+row_5	CATSPERE	catsper channel auxiliary subunit epsilon [Source:HGNC Symbol;Acc:HGNC:28491]	1010	1.1241542100906372	0.52335364	Yes	
+row_6	SLC9B2	solute carrier family 9 member B2 [Source:HGNC Symbol;Acc:HGNC:25143]	1214	1.0370197296142578	0.5709735	Yes	
+row_7	SLC9B1	solute carrier family 9 member B1 [Source:HGNC Symbol;Acc:HGNC:24244]	2208	0.7407246828079224	0.5535561	No	
+row_8	SLC22A14	solute carrier family 22 member 14 [Source:HGNC Symbol;Acc:HGNC:8495]	4140	0.42824530601501465	0.46118993	No	
+row_9	CFAP119	cilia and flagella associated protein 119 [Source:HGNC Symbol;Acc:HGNC:28078]	5285	0.28646120429039	0.4083614	No	
+row_10	ENKUR	enkurin, TRPC channel interacting protein [Source:HGNC Symbol;Acc:HGNC:28388]	5577	0.25552910566329956	0.40547985	No	
+row_11	IFT27	intraflagellar transport 27 [Source:HGNC Symbol;Acc:HGNC:18626]	6444	0.17507342994213104	0.3630747	No	
+row_12	IFT81	intraflagellar transport 81 [Source:HGNC Symbol;Acc:HGNC:14313]	7321	0.09809084236621857	0.31561404	No	
+row_13	PFKM	phosphofructokinase, muscle [Source:HGNC Symbol;Acc:HGNC:8877]	8205	0.01984289102256298	0.26320672	No	
+row_14	EFCAB2	EF-hand calcium binding domain 2 [Source:HGNC Symbol;Acc:HGNC:28166]	8777	-0.026503870263695717	0.23010719	No	
+row_15	ATP2B4	ATPase plasma membrane Ca2+ transporting 4 [Source:HGNC Symbol;Acc:HGNC:817]	10061	-0.13369449973106384	0.16001955	No	
+row_16	CATSPER1	cation channel sperm associated 1 [Source:HGNC Symbol;Acc:HGNC:17116]	12057	-0.32277971506118774	0.057676654	No	
+row_17	PGAM4	phosphoglycerate mutase family member 4 [Source:HGNC Symbol;Acc:HGNC:21731]	13676	-0.5338173508644104	-0.009604755	No	
+row_18	IFT172	intraflagellar transport 172 [Source:HGNC Symbol;Acc:HGNC:30391]	13987	-0.5835889577865601	0.0053206785	No	
+row_19	CATSPERZ	catsper channel auxiliary subunit zeta [Source:HGNC Symbol;Acc:HGNC:19231]	14249	-0.6291847825050354	0.025853062	No	
+row_20	TMEM249	transmembrane protein 249 [Source:HGNC Symbol;Acc:HGNC:44155]	14401	-0.660950243473053	0.054892763	No	
+row_21	CATSPERD	cation channel sperm associated auxiliary subunit delta [Source:HGNC Symbol;Acc:HGNC:28598]	15900	-1.2613617181777954	0.036935885	No	

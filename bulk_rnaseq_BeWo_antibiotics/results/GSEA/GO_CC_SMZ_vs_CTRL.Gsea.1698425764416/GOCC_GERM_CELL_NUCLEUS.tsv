@@ -1,0 +1,53 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TCFL5	transcription factor like 5 [Source:HGNC Symbol;Acc:HGNC:11646]	1772	0.8941382765769958	-0.05905442	No	
+row_1	H2AX	H2A.X variant histone [Source:HGNC Symbol;Acc:HGNC:4739]	1916	0.8570746779441833	-0.0325832	No	
+row_2	SPAG8	sperm associated antigen 8 [Source:HGNC Symbol;Acc:HGNC:14105]	2534	0.7219794988632202	-0.03680338	No	
+row_3	GTF2A1L	general transcription factor IIA subunit 1 like [Source:HGNC Symbol;Acc:HGNC:30727]	2835	0.6682491898536682	-0.026231691	No	
+row_4	TAF7	TATA-box binding protein associated factor 7 [Source:HGNC Symbol;Acc:HGNC:11541]	3053	0.6363391280174255	-0.012497095	No	
+row_5	PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	3342	0.5931622385978699	-0.0042727087	No	
+row_6	TBPL2	TATA-box binding protein like 2 [Source:HGNC Symbol;Acc:HGNC:19841]	4340	0.45642104744911194	-0.039355967	No	
+row_7	REC8	REC8 meiotic recombination protein [Source:HGNC Symbol;Acc:HGNC:16879]	4595	0.42935293912887573	-0.03583475	No	
+row_8	TOP2A	DNA topoisomerase II alpha [Source:HGNC Symbol;Acc:HGNC:11989]	5279	0.35254967212677	-0.05828179	No	
+row_9	TBPL1	TATA-box binding protein like 1 [Source:HGNC Symbol;Acc:HGNC:11589]	5557	0.32163020968437195	-0.06027592	No	
+row_10	MARCKS	myristoylated alanine rich protein kinase C substrate [Source:HGNC Symbol;Acc:HGNC:6759]	5614	0.3143337368965149	-0.050757386	No	
+row_11	TAF10	TATA-box binding protein associated factor 10 [Source:HGNC Symbol;Acc:HGNC:11543]	6010	0.277923047542572	-0.06079297	No	
+row_12	TESMIN	testis expressed metallothionein like protein [Source:HGNC Symbol;Acc:HGNC:7446]	6285	0.2537476718425751	-0.06532835	No	
+row_13	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	6509	0.23332056403160095	-0.067952886	No	
+row_14	HMGN1	high mobility group nucleosome binding domain 1 [Source:HGNC Symbol;Acc:HGNC:4984]	6600	0.22612300515174866	-0.06376067	No	
+row_15	TRIM24	tripartite motif containing 24 [Source:HGNC Symbol;Acc:HGNC:11812]	7401	0.15935729444026947	-0.10014474	No	
+row_16	GTF2B	general transcription factor IIB [Source:HGNC Symbol;Acc:HGNC:4648]	7519	0.1502801775932312	-0.10041279	No	
+row_17	RAN	RAN, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9846]	7584	0.14545446634292603	-0.09804231	No	
+row_18	ZMYND15	zinc finger MYND-type containing 15 [Source:HGNC Symbol;Acc:HGNC:20997]	8606	0.06654979288578033	-0.14992282	No	
+row_19	TAF4	TATA-box binding protein associated factor 4 [Source:HGNC Symbol;Acc:HGNC:11537]	8847	0.047594647854566574	-0.16084649	No	
+row_20	RAD51	RAD51 recombinase [Source:HGNC Symbol;Acc:HGNC:9817]	9257	0.014217708259820938	-0.1821243	No	
+row_21	TSN	translin [Source:HGNC Symbol;Acc:HGNC:12379]	9528	-0.004611097741872072	-0.1963608	No	
+row_22	TERF2	telomeric repeat binding factor 2 [Source:HGNC Symbol;Acc:HGNC:11729]	9688	-0.015558265149593353	-0.20423341	No	
+row_23	LIMK1	LIM domain kinase 1 [Source:HGNC Symbol;Acc:HGNC:6613]	10232	-0.05545174330472946	-0.23102684	No	
+row_24	TERF2IP	TERF2 interacting protein [Source:HGNC Symbol;Acc:HGNC:19246]	10347	-0.064785435795784	-0.23453705	No	
+row_25	TRIP13	thyroid hormone receptor interactor 13 [Source:HGNC Symbol;Acc:HGNC:12307]	10415	-0.0703871101140976	-0.23531419	No	
+row_26	AURKA	aurora kinase A [Source:HGNC Symbol;Acc:HGNC:11393]	10480	-0.07508383691310883	-0.23574421	No	
+row_27	MLH1	mutL homolog 1 [Source:HGNC Symbol;Acc:HGNC:7127]	11352	-0.14046339690685272	-0.2766721	No	
+row_28	MLH3	mutL homolog 3 [Source:HGNC Symbol;Acc:HGNC:7128]	11665	-0.16332362592220306	-0.28683552	No	
+row_29	SYCP2L	synaptonemal complex protein 2 like [Source:HGNC Symbol;Acc:HGNC:21537]	11699	-0.16604094207286835	-0.28199014	No	
+row_30	PATZ1	POZ/BTB and AT hook containing zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:13071]	12488	-0.22686108946800232	-0.3150469	No	
+row_31	TOPBP1	DNA topoisomerase II binding protein 1 [Source:HGNC Symbol;Acc:HGNC:17008]	12496	-0.22779116034507751	-0.3063555	No	
+row_32	TBP	TATA-box binding protein [Source:HGNC Symbol;Acc:HGNC:11588]	13022	-0.2745445668697357	-0.32346848	No	
+row_33	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	13081	-0.27934789657592773	-0.3154491	No	
+row_34	CTCF	CCCTC-binding factor [Source:HGNC Symbol;Acc:HGNC:13723]	13229	-0.2905135154724121	-0.31173858	No	
+row_35	ANKRD37	ankyrin repeat domain 37 [Source:HGNC Symbol;Acc:HGNC:29593]	14431	-0.4103078842163086	-0.3595521	Yes	
+row_36	ANKRD17	ankyrin repeat domain 17 [Source:HGNC Symbol;Acc:HGNC:23575]	14547	-0.4222286343574524	-0.34889075	Yes	
+row_37	DAZAP1	DAZ associated protein 1 [Source:HGNC Symbol;Acc:HGNC:2683]	14742	-0.44391605257987976	-0.34158555	Yes	
+row_38	TOP1	DNA topoisomerase I [Source:HGNC Symbol;Acc:HGNC:11986]	14966	-0.4705098867416382	-0.3347708	Yes	
+row_39	STPG4	sperm-tail PG-rich repeat containing 4 [Source:HGNC Symbol;Acc:HGNC:26850]	15468	-0.5313758850097656	-0.34038106	Yes	
+row_40	KDM3A	lysine demethylase 3A [Source:HGNC Symbol;Acc:HGNC:20815]	15684	-0.5594051480293274	-0.32960132	Yes	
+row_41	SMARCC1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 1 [Source:HGNC Symbol;Acc:HGNC:11104]	15731	-0.566967248916626	-0.30949482	Yes	
+row_42	YAP1	Yes1 associated transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:16262]	15966	-0.6014093160629272	-0.29805824	Yes	
+row_43	SPATA24	spermatogenesis associated 24 [Source:HGNC Symbol;Acc:HGNC:27322]	16325	-0.6587410569190979	-0.29096255	Yes	
+row_44	HSPA2	heat shock protein family A (Hsp70) member 2 [Source:HGNC Symbol;Acc:HGNC:5235]	16576	-0.7128509879112244	-0.2759455	Yes	
+row_45	CDK7	cyclin dependent kinase 7 [Source:HGNC Symbol;Acc:HGNC:1778]	16901	-0.778327465057373	-0.2622749	Yes	
+row_46	TAF3	TATA-box binding protein associated factor 3 [Source:HGNC Symbol;Acc:HGNC:17303]	16974	-0.7959452271461487	-0.23444447	Yes	
+row_47	CDK2	cyclin dependent kinase 2 [Source:HGNC Symbol;Acc:HGNC:1771]	17190	-0.8509737253189087	-0.21206138	Yes	
+row_48	DNMT1	DNA methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2976]	17431	-0.9358100891113281	-0.18763728	Yes	
+row_49	SLC2A1	solute carrier family 2 member 1 [Source:HGNC Symbol;Acc:HGNC:11005]	18386	-1.581323504447937	-0.17565696	Yes	
+row_50	SMARCB1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1 [Source:HGNC Symbol;Acc:HGNC:11103]	18428	-1.6486297845840454	-0.11223715	Yes	
+row_51	ZBTB16	zinc finger and BTB domain containing 16 [Source:HGNC Symbol;Acc:HGNC:12930]	18759	-3.2846202850341797	8.544378E-4	Yes	

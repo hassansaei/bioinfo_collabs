@@ -1,0 +1,43 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACE	angiotensin I converting enzyme [Source:HGNC Symbol;Acc:HGNC:2707]	22	2.761871814727783	0.08778695	No	
+row_1	SLC27A4	solute carrier family 27 member 4 [Source:HGNC Symbol;Acc:HGNC:10998]	686	1.3260577917099	0.09031763	No	
+row_2	SLC22A5	solute carrier family 22 member 5 [Source:HGNC Symbol;Acc:HGNC:10969]	1574	0.9068095684051514	0.065717444	No	
+row_3	TRPM6	transient receptor potential cation channel subfamily M member 6 [Source:HGNC Symbol;Acc:HGNC:17995]	1612	0.8942285180091858	0.09232654	No	
+row_4	AQP8	aquaporin 8 [Source:HGNC Symbol;Acc:HGNC:642]	1734	0.8594077825546265	0.11271119	No	
+row_5	ATP7A	ATPase copper transporting alpha [Source:HGNC Symbol;Acc:HGNC:869]	1798	0.8405647873878479	0.13600978	No	
+row_6	AMN	amnion associated transmembrane protein [Source:HGNC Symbol;Acc:HGNC:14604]	2388	0.7015213966369629	0.12288085	No	
+row_7	CLTRN	collectrin, amino acid transport regulator [Source:HGNC Symbol;Acc:HGNC:29437]	3372	0.5355253219604492	0.0804702	No	
+row_8	SLC3A1	solute carrier family 3 member 1 [Source:HGNC Symbol;Acc:HGNC:11025]	3556	0.5062193274497986	0.085692935	No	
+row_9	SLC28A2	solute carrier family 28 member 2 [Source:HGNC Symbol;Acc:HGNC:11002]	3663	0.4902298152446747	0.09507544	No	
+row_10	GNA12	G protein subunit alpha 12 [Source:HGNC Symbol;Acc:HGNC:4380]	3917	0.4547092616558075	0.09438533	No	
+row_11	HSP90AA1	heat shock protein 90 alpha family class A member 1 [Source:HGNC Symbol;Acc:HGNC:5253]	4222	0.41668665409088135	0.08937135	No	
+row_12	SLC28A1	solute carrier family 28 member 1 [Source:HGNC Symbol;Acc:HGNC:11001]	4724	0.3501391112804413	0.07024736	No	
+row_13	NHERF1	NHERF family PDZ scaffold protein 1 [Source:HGNC Symbol;Acc:HGNC:11075]	4942	0.3224477171897888	0.067475356	No	
+row_14	ATP6V0A4	ATPase H+ transporting V0 subunit a4 [Source:HGNC Symbol;Acc:HGNC:866]	5346	0.28083404898643494	0.05206589	No	
+row_15	PDZK1	PDZ domain containing 1 [Source:HGNC Symbol;Acc:HGNC:8821]	6755	0.14747585356235504	-0.02867436	No	
+row_16	FOLR1	folate receptor alpha [Source:HGNC Symbol;Acc:HGNC:3791]	7158	0.11385738849639893	-0.049411274	No	
+row_17	SLC26A6	solute carrier family 26 member 6 [Source:HGNC Symbol;Acc:HGNC:14472]	7502	0.08230040967464447	-0.06758379	No	
+row_18	MFSD10	major facilitator superfamily domain containing 10 [Source:HGNC Symbol;Acc:HGNC:16894]	7934	0.04487818479537964	-0.09230759	No	
+row_19	SLC46A1	solute carrier family 46 member 1 [Source:HGNC Symbol;Acc:HGNC:30521]	8001	0.03721088543534279	-0.0951146	No	
+row_20	ABCG2	ATP binding cassette subfamily G member 2 (Junior blood group) [Source:HGNC Symbol;Acc:HGNC:74]	8280	0.012897702865302563	-0.111579634	No	
+row_21	SLC9A3	solute carrier family 9 member A3 [Source:HGNC Symbol;Acc:HGNC:11073]	8446	0.0011133861262351274	-0.12156314	No	
+row_22	SLC26A4	solute carrier family 26 member 4 [Source:HGNC Symbol;Acc:HGNC:8818]	9379	-0.07824084162712097	-0.17563298	No	
+row_23	B4GALT1	beta-1,4-galactosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:924]	9792	-0.11342296749353409	-0.19699116	No	
+row_24	SLC34A3	solute carrier family 34 member 3 [Source:HGNC Symbol;Acc:HGNC:20305]	10445	-0.16665223240852356	-0.23120539	No	
+row_25	GNA13	G protein subunit alpha 13 [Source:HGNC Symbol;Acc:HGNC:4381]	12631	-0.3904443085193634	-0.3512877	No	
+row_26	PEX19	peroxisomal biogenesis factor 19 [Source:HGNC Symbol;Acc:HGNC:9713]	12919	-0.4240737557411194	-0.355031	No	
+row_27	SLC7A9	solute carrier family 7 member 9 [Source:HGNC Symbol;Acc:HGNC:11067]	13389	-0.488223671913147	-0.36775598	Yes	
+row_28	SHANK2	SH3 and multiple ankyrin repeat domains 2 [Source:HGNC Symbol;Acc:HGNC:14295]	13411	-0.4915817379951477	-0.35316834	Yes	
+row_29	SLC28A3	solute carrier family 28 member 3 [Source:HGNC Symbol;Acc:HGNC:16484]	13752	-0.5443824529647827	-0.35624775	Yes	
+row_30	SLC11A2	solute carrier family 11 member 2 [Source:HGNC Symbol;Acc:HGNC:10908]	13787	-0.551500678062439	-0.34051597	Yes	
+row_31	SLC19A1	solute carrier family 19 member 1 [Source:HGNC Symbol;Acc:HGNC:10937]	14231	-0.6266673803329468	-0.3471947	Yes	
+row_32	SLC5A6	solute carrier family 5 member 6 [Source:HGNC Symbol;Acc:HGNC:11041]	14394	-0.6581860184669495	-0.33579293	Yes	
+row_33	KCNK1	potassium two pore domain channel subfamily K member 1 [Source:HGNC Symbol;Acc:HGNC:6272]	15426	-0.9856314063072205	-0.36659387	Yes	
+row_34	LIMA1	LIM domain and actin binding 1 [Source:HGNC Symbol;Acc:HGNC:24636]	15429	-0.9859396815299988	-0.3349	Yes	
+row_35	AQP1	aquaporin 1 (Colton blood group) [Source:HGNC Symbol;Acc:HGNC:633]	15601	-1.0664751529693604	-0.3108697	Yes	
+row_36	SLC20A2	solute carrier family 20 member 2 [Source:HGNC Symbol;Acc:HGNC:10947]	15943	-1.3046462535858154	-0.28947687	Yes	
+row_37	SLC6A19	solute carrier family 6 member 19 [Source:HGNC Symbol;Acc:HGNC:27960]	16038	-1.414054274559021	-0.24955477	Yes	
+row_38	SLC34A2	solute carrier family 34 member 2 [Source:HGNC Symbol;Acc:HGNC:11020]	16145	-1.5567798614501953	-0.20575574	Yes	
+row_39	SLC7A11	solute carrier family 7 member 11 [Source:HGNC Symbol;Acc:HGNC:11059]	16354	-2.050433397293091	-0.15222083	Yes	
+row_40	ITLN1	intelectin 1 [Source:HGNC Symbol;Acc:HGNC:18259]	16413	-2.3730289936065674	-0.079167515	Yes	
+row_41	PLB1	phospholipase B1 [Source:HGNC Symbol;Acc:HGNC:30041]	16448	-2.6321308612823486	0.0037041355	Yes	

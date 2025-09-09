@@ -1,0 +1,47 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PYCR3	pyrroline-5-carboxylate reductase 3 [Source:HGNC Symbol;Acc:HGNC:25846]	2212	0.3726448714733124	-0.07387766	No	
+row_1	ALDH3A2	aldehyde dehydrogenase 3 family member A2 [Source:HGNC Symbol;Acc:HGNC:403]	2709	0.3215622305870056	-0.062199567	No	
+row_2	GAMT	guanidinoacetate N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:4136]	4628	0.18922282755374908	-0.14214712	No	
+row_3	GLUD2	glutamate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:4336]	5729	0.13421721756458282	-0.18494892	No	
+row_4	ODC1	ornithine decarboxylase 1 [Source:HGNC Symbol;Acc:HGNC:8109]	6125	0.11697505414485931	-0.19215669	No	
+row_5	ALDH4A1	aldehyde dehydrogenase 4 family member A1 [Source:HGNC Symbol;Acc:HGNC:406]	6493	0.10073374956846237	-0.19979689	No	
+row_6	OAT	ornithine aminotransferase [Source:HGNC Symbol;Acc:HGNC:8091]	6605	0.09663514047861099	-0.19425555	No	
+row_7	P4HA1	prolyl 4-hydroxylase subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:8546]	7160	0.07574319839477539	-0.21484534	No	
+row_8	AMD1	adenosylmethionine decarboxylase 1 [Source:HGNC Symbol;Acc:HGNC:457]	7377	0.06784176826477051	-0.21832688	No	
+row_9	NOS1	nitric oxide synthase 1 [Source:HGNC Symbol;Acc:HGNC:7872]	7845	0.0504361130297184	-0.23727491	No	
+row_10	GOT2	glutamic-oxaloacetic transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4433]	7946	0.04704836383461952	-0.23703073	No	
+row_11	AZIN2	antizyme inhibitor 2 [Source:HGNC Symbol;Acc:HGNC:29957]	8049	0.04322014003992081	-0.23734762	No	
+row_12	ASS1	argininosuccinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:758]	8715	0.01852511055767536	-0.27065378	No	
+row_13	SRM	spermidine synthase [Source:HGNC Symbol;Acc:HGNC:11296]	8737	0.0178521741181612	-0.26965648	No	
+row_14	NOS3	nitric oxide synthase 3 [Source:HGNC Symbol;Acc:HGNC:7876]	9196	0.0021567116491496563	-0.29385328	No	
+row_15	GOT1	glutamic-oxaloacetic transaminase 1 [Source:HGNC Symbol;Acc:HGNC:4432]	9379	-0.004524987656623125	-0.30303332	No	
+row_16	CPS1	carbamoyl-phosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:2323]	9493	-0.008386412635445595	-0.30807123	No	
+row_17	GATM	glycine amidinotransferase [Source:HGNC Symbol;Acc:HGNC:4175]	9660	-0.0142009686678648	-0.3152488	No	
+row_18	SAT1	spermidine/spermine N1-acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10540]	9924	-0.023736413568258286	-0.32647362	No	
+row_19	ALDH9A1	aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	9929	-0.02379859983921051	-0.32386303	No	
+row_20	PYCR2	pyrroline-5-carboxylate reductase 2 [Source:HGNC Symbol;Acc:HGNC:30262]	10784	-0.052220866084098816	-0.36326128	No	
+row_21	P4HA2	prolyl 4-hydroxylase subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:8547]	11285	-0.06968748569488525	-0.38168666	No	
+row_22	GLUD1	glutamate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4335]	12094	-0.09750767052173615	-0.4132548	No	
+row_23	ARG2	arginase 2 [Source:HGNC Symbol;Acc:HGNC:664]	12442	-0.11002657562494278	-0.41872442	No	
+row_24	ASL	argininosuccinate lyase [Source:HGNC Symbol;Acc:HGNC:746]	13458	-0.1525038480758667	-0.45481795	Yes	
+row_25	ALDH18A1	aldehyde dehydrogenase 18 family member A1 [Source:HGNC Symbol;Acc:HGNC:9722]	13698	-0.16326412558555603	-0.44820374	Yes	
+row_26	GLUL	glutamate-ammonia ligase [Source:HGNC Symbol;Acc:HGNC:4341]	14202	-0.1884889304637909	-0.45269114	Yes	
+row_27	SAT2	spermidine/spermine N1-acetyltransferase family member 2 [Source:HGNC Symbol;Acc:HGNC:23160]	14224	-0.18948392570018768	-0.43132633	Yes	
+row_28	ALDH1B1	aldehyde dehydrogenase 1 family member B1 [Source:HGNC Symbol;Acc:HGNC:407]	14300	-0.19334547221660614	-0.4123864	Yes	
+row_29	P4HA3	prolyl 4-hydroxylase subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:30135]	14448	-0.20255917310714722	-0.3961971	Yes	
+row_30	GLS	glutaminase [Source:HGNC Symbol;Acc:HGNC:4331]	14546	-0.20771324634552002	-0.37672672	Yes	
+row_31	NOS2	nitric oxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:7873]	14623	-0.21222472190856934	-0.35559973	Yes	
+row_32	CKB	creatine kinase B [Source:HGNC Symbol;Acc:HGNC:1991]	14661	-0.214377760887146	-0.33213505	Yes	
+row_33	PRODH	proline dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:9453]	14881	-0.22661998867988586	-0.31693462	Yes	
+row_34	PYCR1	pyrroline-5-carboxylate reductase 1 [Source:HGNC Symbol;Acc:HGNC:9721]	14952	-0.23047196865081787	-0.2933219	Yes	
+row_35	ALDH7A1	aldehyde dehydrogenase 7 family member A1 [Source:HGNC Symbol;Acc:HGNC:877]	15115	-0.2406407743692398	-0.27341437	Yes	
+row_36	ACY1	aminoacylase 1 [Source:HGNC Symbol;Acc:HGNC:177]	15475	-0.26681622862815857	-0.2609185	Yes	
+row_37	NAGS	N-acetylglutamate synthase [Source:HGNC Symbol;Acc:HGNC:17996]	15533	-0.27115458250045776	-0.23178391	Yes	
+row_38	CKMT1B	creatine kinase, mitochondrial 1B [Source:HGNC Symbol;Acc:HGNC:1995]	15619	-0.27817097306251526	-0.20331162	Yes	
+row_39	CKMT1A	creatine kinase, mitochondrial 1A [Source:HGNC Symbol;Acc:HGNC:31736]	16096	-0.3194984793663025	-0.19081064	Yes	
+row_40	SMS	spermine synthase [Source:HGNC Symbol;Acc:HGNC:11123]	16534	-0.36951741576194763	-0.17029168	Yes	
+row_41	CKMT2	creatine kinase, mitochondrial 2 [Source:HGNC Symbol;Acc:HGNC:1996]	16689	-0.39081335067749023	-0.13213609	Yes	
+row_42	ALDH2	aldehyde dehydrogenase 2 family member [Source:HGNC Symbol;Acc:HGNC:404]	17019	-0.4424206018447876	-0.0971996	Yes	
+row_43	DAO	D-amino acid oxidase [Source:HGNC Symbol;Acc:HGNC:2671]	17048	-0.4479258060455322	-0.045539323	Yes	
+row_44	GLS2	glutaminase 2 [Source:HGNC Symbol;Acc:HGNC:29570]	17503	-0.5352603197097778	-0.0062593534	Yes	
+row_45	CKM	creatine kinase, M-type [Source:HGNC Symbol;Acc:HGNC:1994]	17808	-0.6245784759521484	0.05162851	Yes	

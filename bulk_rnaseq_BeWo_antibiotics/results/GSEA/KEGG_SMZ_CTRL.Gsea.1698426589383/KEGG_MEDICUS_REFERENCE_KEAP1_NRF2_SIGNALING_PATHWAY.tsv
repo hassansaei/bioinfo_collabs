@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NQO1	NAD(P)H quinone dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:2874]	247	1.7973934412002563	0.20490256	Yes	
+row_1	MGST2	microsomal glutathione S-transferase 2 [Source:HGNC Symbol;Acc:HGNC:7063]	880	1.1931573152542114	0.31254452	Yes	
+row_2	GSTM2	glutathione S-transferase mu 2 [Source:HGNC Symbol;Acc:HGNC:4634]	1336	0.9894030094146729	0.40599263	Yes	
+row_3	GSTM4	glutathione S-transferase mu 4 [Source:HGNC Symbol;Acc:HGNC:4636]	3010	0.5942922234535217	0.37725657	Yes	
+row_4	GSTT2B	glutathione S-transferase theta 2B [Source:HGNC Symbol;Acc:HGNC:33437]	3268	0.5526309609413147	0.4292786	Yes	
+row_5	HMOX1	heme oxygenase 1 [Source:HGNC Symbol;Acc:HGNC:5013]	5013	0.315305233001709	0.36210868	No	
+row_6	GSTO2	glutathione S-transferase omega 2 [Source:HGNC Symbol;Acc:HGNC:23064]	5066	0.3092530071735382	0.39678735	No	
+row_7	GSTA4	glutathione S-transferase alpha 4 [Source:HGNC Symbol;Acc:HGNC:4629]	7236	0.10587747395038605	0.2782292	No	
+row_8	TXNRD1	thioredoxin reductase 1 [Source:HGNC Symbol;Acc:HGNC:12437]	7263	0.1038084626197815	0.28935188	No	
+row_9	MGST3	microsomal glutathione S-transferase 3 [Source:HGNC Symbol;Acc:HGNC:7064]	7281	0.10213172435760498	0.3008151	No	
+row_10	GSTO1	glutathione S-transferase omega 1 [Source:HGNC Symbol;Acc:HGNC:13312]	8242	0.016666550189256668	0.24464744	No	
+row_11	GSTP1	glutathione S-transferase pi 1 [Source:HGNC Symbol;Acc:HGNC:4638]	9154	-0.05845443159341812	0.19656274	No	
+row_12	GSTT2	glutathione S-transferase theta 2 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:4642]	9550	-0.09238719940185547	0.18391508	No	
+row_13	GSTM3	glutathione S-transferase mu 3 [Source:HGNC Symbol;Acc:HGNC:4635]	9651	-0.10148128867149353	0.19026631	No	
+row_14	KEAP1	kelch like ECH associated protein 1 [Source:HGNC Symbol;Acc:HGNC:23177]	10195	-0.14495010673999786	0.17507528	No	
+row_15	NFE2L2	NFE2 like bZIP transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:7782]	13958	-0.579053521156311	0.01781524	No	
+row_16	GSTM5	glutathione S-transferase mu 5 [Source:HGNC Symbol;Acc:HGNC:4637]	15685	-1.1182345151901245	0.04996057	No	

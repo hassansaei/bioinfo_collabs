@@ -1,0 +1,52 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PIK3CD	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [Source:HGNC Symbol;Acc:HGNC:8977]	177	1.9524857997894287	0.036654018	No	
+row_1	FGF22	fibroblast growth factor 22 [Source:HGNC Symbol;Acc:HGNC:3679]	323	1.6937698125839233	0.06897041	No	
+row_2	PDGFD	platelet derived growth factor D [Source:HGNC Symbol;Acc:HGNC:30620]	568	1.4205349683761597	0.08863749	No	
+row_3	NGFR	nerve growth factor receptor [Source:HGNC Symbol;Acc:HGNC:7809]	711	1.3068640232086182	0.11174176	No	
+row_4	FGF17	fibroblast growth factor 17 [Source:HGNC Symbol;Acc:HGNC:3673]	1070	1.098728895187378	0.11666881	No	
+row_5	PDGFC	platelet derived growth factor C [Source:HGNC Symbol;Acc:HGNC:8801]	1189	1.049322485923767	0.13497792	No	
+row_6	NTF4	neurotrophin 4 [Source:HGNC Symbol;Acc:HGNC:8024]	2138	0.7573727369308472	0.095769905	No	
+row_7	FGF8	fibroblast growth factor 8 [Source:HGNC Symbol;Acc:HGNC:3686]	2159	0.754257321357727	0.11286877	No	
+row_8	ANGPT1	angiopoietin 1 [Source:HGNC Symbol;Acc:HGNC:484]	2342	0.7116403579711914	0.11909022	No	
+row_9	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	4631	0.3629770576953888	-0.011108478	No	
+row_10	FLT3LG	fms related receptor tyrosine kinase 3 ligand [Source:HGNC Symbol;Acc:HGNC:3766]	4761	0.3457373082637787	-0.01055134	No	
+row_11	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	5046	0.3110339045524597	-0.02025417	No	
+row_12	NTRK1	neurotrophic receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:8031]	5088	0.307270884513855	-0.015284411	No	
+row_13	PDGFRA	platelet derived growth factor receptor alpha [Source:HGNC Symbol;Acc:HGNC:8803]	5427	0.27256327867507935	-0.02920222	No	
+row_14	PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	5537	0.2606273591518402	-0.029496484	No	
+row_15	PIK3R2	phosphoinositide-3-kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:8980]	5595	0.2542203962802887	-0.026786948	No	
+row_16	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	5772	0.2388497292995453	-0.03168071	No	
+row_17	FGFR4	fibroblast growth factor receptor 4 [Source:HGNC Symbol;Acc:HGNC:3691]	6019	0.21518218517303467	-0.041402135	No	
+row_18	ERBB4	erb-b2 receptor tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3432]	6344	0.18402999639511108	-0.05661901	No	
+row_19	FGFR3	fibroblast growth factor receptor 3 [Source:HGNC Symbol;Acc:HGNC:3690]	6446	0.17486152052879333	-0.058509685	No	
+row_20	PIK3R3	phosphoinositide-3-kinase regulatory subunit 3 [Source:HGNC Symbol;Acc:HGNC:8981]	6881	0.1376114934682846	-0.08153691	No	
+row_21	EFNA2	ephrin A2 [Source:HGNC Symbol;Acc:HGNC:3222]	9051	-0.049572303891181946	-0.21211526	No	
+row_22	AKT2	AKT serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:392]	9311	-0.07318251579999924	-0.2260744	No	
+row_23	EFNA1	ephrin A1 [Source:HGNC Symbol;Acc:HGNC:3221]	9596	-0.09658365696668625	-0.24098426	No	
+row_24	PDGFA	platelet derived growth factor subunit A [Source:HGNC Symbol;Acc:HGNC:8799]	9727	-0.1084352508187294	-0.24624978	No	
+row_25	IGF2	insulin like growth factor 2 [Source:HGNC Symbol;Acc:HGNC:5466]	10083	-0.13588404655456543	-0.26451916	No	
+row_26	EFNA4	ephrin A4 [Source:HGNC Symbol;Acc:HGNC:3224]	10101	-0.1371961236000061	-0.26222077	No	
+row_27	AKT3	AKT serine/threonine kinase 3 [Source:HGNC Symbol;Acc:HGNC:393]	11473	-0.26121723651885986	-0.3391761	No	
+row_28	EFNA5	ephrin A5 [Source:HGNC Symbol;Acc:HGNC:3225]	12120	-0.3308752179145813	-0.3703912	No	
+row_29	VEGFB	vascular endothelial growth factor B [Source:HGNC Symbol;Acc:HGNC:12681]	13022	-0.4390089213848114	-0.41447377	No	
+row_30	ERBB2	erb-b2 receptor tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:3430]	13888	-0.5676990747451782	-0.4532444	No	
+row_31	MET	MET proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:7029]	14362	-0.6515011787414551	-0.4661635	Yes	
+row_32	FGF21	fibroblast growth factor 21 [Source:HGNC Symbol;Acc:HGNC:3678]	14473	-0.6786897778511047	-0.45636758	Yes	
+row_33	ERBB3	erb-b2 receptor tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3431]	14765	-0.7451518774032593	-0.45595497	Yes	
+row_34	PIK3CB	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:8976]	14792	-0.7510265707969666	-0.43929908	Yes	
+row_35	PGF	placental growth factor [Source:HGNC Symbol;Acc:HGNC:8893]	14844	-0.7639036178588867	-0.42384946	Yes	
+row_36	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	14847	-0.7655122876167297	-0.40538368	Yes	
+row_37	PDGFB	platelet derived growth factor subunit B [Source:HGNC Symbol;Acc:HGNC:8800]	15093	-0.8350261449813843	-0.39999402	Yes	
+row_38	CSF1R	colony stimulating factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:2433]	15157	-0.8598797917366028	-0.3829431	Yes	
+row_39	IGF1R	insulin like growth factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:5465]	15294	-0.9205652475357056	-0.36885396	Yes	
+row_40	CSF1	colony stimulating factor 1 [Source:HGNC Symbol;Acc:HGNC:2432]	15368	-0.9535229802131653	-0.35013688	Yes	
+row_41	INSR	insulin receptor [Source:HGNC Symbol;Acc:HGNC:6091]	15372	-0.9552168250083923	-0.32712567	Yes	
+row_42	FGFR1	fibroblast growth factor receptor 1 [Source:HGNC Symbol;Acc:HGNC:3688]	15700	-1.1277798414230347	-0.31960976	Yes	
+row_43	FLT1	fms related receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:3763]	15809	-1.2025700807571411	-0.2969721	Yes	
+row_44	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	15933	-1.2933350801467896	-0.27304193	Yes	
+row_45	FLT4	fms related receptor tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	15959	-1.3225139379501343	-0.2424491	Yes	
+row_46	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	16032	-1.4044855833053589	-0.21272151	Yes	
+row_47	EFNA3	ephrin A3 [Source:HGNC Symbol;Acc:HGNC:3223]	16139	-1.5537834167480469	-0.18143459	Yes	
+row_48	ANGPT4	angiopoietin 4 [Source:HGNC Symbol;Acc:HGNC:487]	16440	-2.587000846862793	-0.13684712	Yes	
+row_49	FGF1	fibroblast growth factor 1 [Source:HGNC Symbol;Acc:HGNC:3665]	16441	-2.590094804763794	-0.07395742	Yes	
+row_50	EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	16493	-3.213573694229126	9.7225833E-4	Yes	

@@ -1,0 +1,141 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ODAD1	outer dynein arm docking complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:26560]	63	2.5759289264678955	0.038560096	Yes	
+row_1	KIF7	kinesin family member 7 [Source:HGNC Symbol;Acc:HGNC:30497]	274	1.8645572662353516	0.05849709	Yes	
+row_2	NDE1	nudE neurodevelopment protein 1 [Source:HGNC Symbol;Acc:HGNC:17619]	327	1.784368872642517	0.08480253	Yes	
+row_3	KATNAL2	katanin catalytic subunit A1 like 2 [Source:HGNC Symbol;Acc:HGNC:25387]	382	1.7162574529647827	0.10991057	Yes	
+row_4	DNAL4	dynein axonemal light chain 4 [Source:HGNC Symbol;Acc:HGNC:2955]	481	1.614211082458496	0.13123572	Yes	
+row_5	DYNLT2B	dynein light chain Tctex-type 2B [Source:HGNC Symbol;Acc:HGNC:28482]	487	1.6105834245681763	0.15701331	Yes	
+row_6	DNAI4	dynein axonemal intermediate chain 4 [Source:HGNC Symbol;Acc:HGNC:26252]	612	1.4922232627868652	0.1751065	Yes	
+row_7	KATNAL1	katanin catalytic subunit A1 like 1 [Source:HGNC Symbol;Acc:HGNC:28361]	705	1.424715518951416	0.19366124	Yes	
+row_8	EML1	EMAP like 1 [Source:HGNC Symbol;Acc:HGNC:3330]	771	1.3825434446334839	0.21284433	Yes	
+row_9	DYNLT3	dynein light chain Tctex-type 3 [Source:HGNC Symbol;Acc:HGNC:11694]	852	1.3295204639434814	0.2304432	Yes	
+row_10	DYNC2H1	dynein cytoplasmic 2 heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2962]	917	1.2915056943893433	0.24820401	Yes	
+row_11	DNAH10	dynein axonemal heavy chain 10 [Source:HGNC Symbol;Acc:HGNC:2941]	932	1.282322645187378	0.26824176	Yes	
+row_12	CFAP70	cilia and flagella associated protein 70 [Source:HGNC Symbol;Acc:HGNC:30726]	1124	1.1857202053070068	0.27813327	Yes	
+row_13	KIFC2	kinesin family member C2 [Source:HGNC Symbol;Acc:HGNC:29530]	1620	1.009069800376892	0.27042505	Yes	
+row_14	MAP1A	microtubule associated protein 1A [Source:HGNC Symbol;Acc:HGNC:6835]	1734	0.9768744111061096	0.28072596	Yes	
+row_15	DYNLL2	dynein light chain LC8-type 2 [Source:HGNC Symbol;Acc:HGNC:24596]	2177	0.8662602305412292	0.27328137	Yes	
+row_16	DISC1	DISC1 scaffold protein [Source:HGNC Symbol;Acc:HGNC:2888]	2180	0.8659062385559082	0.2871737	Yes	
+row_17	DNAH12	dynein axonemal heavy chain 12 [Source:HGNC Symbol;Acc:HGNC:2943]	2244	0.8522667288780212	0.2978868	Yes	
+row_18	KIF27	kinesin family member 27 [Source:HGNC Symbol;Acc:HGNC:18632]	2598	0.7783139944076538	0.2933384	Yes	
+row_19	DYNC2LI1	dynein cytoplasmic 2 light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:24595]	2836	0.7382023930549622	0.29376864	Yes	
+row_20	KIF3A	kinesin family member 3A [Source:HGNC Symbol;Acc:HGNC:6319]	2923	0.7218088507652283	0.30125847	Yes	
+row_21	DNAH2	dynein axonemal heavy chain 2 [Source:HGNC Symbol;Acc:HGNC:2948]	3176	0.6818746328353882	0.30005112	Yes	
+row_22	KIF21B	kinesin family member 21B [Source:HGNC Symbol;Acc:HGNC:29442]	3335	0.6580008268356323	0.30301765	Yes	
+row_23	DYNC1I1	dynein cytoplasmic 1 intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:2963]	3596	0.6241402626037598	0.30048952	Yes	
+row_24	ACTR10	actin related protein 10 [Source:HGNC Symbol;Acc:HGNC:17372]	3710	0.6091357469558716	0.30484936	Yes	
+row_25	KIF5A	kinesin family member 5A [Source:HGNC Symbol;Acc:HGNC:6323]	4012	0.56795734167099	0.2994248	Yes	
+row_26	DYNC2I2	dynein 2 intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:28296]	4112	0.5545654296875	0.3035821	Yes	
+row_27	ACTR1A	actin related protein 1A [Source:HGNC Symbol;Acc:HGNC:167]	4168	0.5480376482009888	0.30976823	Yes	
+row_28	KIF18B	kinesin family member 18B [Source:HGNC Symbol;Acc:HGNC:27102]	4257	0.5394436717033386	0.3142148	Yes	
+row_29	DYNC1LI1	dynein cytoplasmic 1 light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:18745]	4300	0.5343001484870911	0.32080954	Yes	
+row_30	KIF1B	kinesin family member 1B [Source:HGNC Symbol;Acc:HGNC:16636]	4590	0.5023282766342163	0.31490678	Yes	
+row_31	KIF25	kinesin family member 25 [Source:HGNC Symbol;Acc:HGNC:6390]	4633	0.4968402683734894	0.32089633	Yes	
+row_32	KIF28P	kinesin family member 28, pseudogene [Source:HGNC Symbol;Acc:HGNC:49205]	5002	0.454757958650589	0.31039304	No	
+row_33	KIF1C	kinesin family member 1C [Source:HGNC Symbol;Acc:HGNC:6317]	5056	0.44894713163375854	0.31507528	No	
+row_34	HAUS1	HAUS augmin like complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:25174]	5348	0.4215503931045532	0.3077705	No	
+row_35	KIF4B	kinesin family member 4B [Source:HGNC Symbol;Acc:HGNC:6322]	5379	0.41898462176322937	0.3130843	No	
+row_36	KIF21A	kinesin family member 21A [Source:HGNC Symbol;Acc:HGNC:19349]	5512	0.40658190846443176	0.31325012	No	
+row_37	HAUS3	HAUS augmin like complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:28719]	5799	0.3754207491874695	0.3054426	No	
+row_38	DNAH8	dynein axonemal heavy chain 8 [Source:HGNC Symbol;Acc:HGNC:2952]	5819	0.3733578324317932	0.31055284	No	
+row_39	DNHD1	dynein heavy chain domain 1 [Source:HGNC Symbol;Acc:HGNC:26532]	6075	0.34760144352912903	0.30379957	No	
+row_40	APPBP2	amyloid beta precursor protein binding protein 2 [Source:HGNC Symbol;Acc:HGNC:622]	6232	0.3311096727848053	0.30158195	No	
+row_41	DCTN5	dynactin subunit 5 [Source:HGNC Symbol;Acc:HGNC:24594]	6237	0.3308791220188141	0.30673352	No	
+row_42	DYNLT1	dynein light chain Tctex-type 1 [Source:HGNC Symbol;Acc:HGNC:11697]	6269	0.32772934436798096	0.31052452	No	
+row_43	DNAI7	dynein axonemal intermediate chain 7 [Source:HGNC Symbol;Acc:HGNC:29599]	6405	0.31351470947265625	0.30904126	No	
+row_44	KLC2	kinesin light chain 2 [Source:HGNC Symbol;Acc:HGNC:20716]	6438	0.3102499842643738	0.31250137	No	
+row_45	AURKB	aurora kinase B [Source:HGNC Symbol;Acc:HGNC:11390]	6658	0.29129135608673096	0.3065846	No	
+row_46	KIF11	kinesin family member 11 [Source:HGNC Symbol;Acc:HGNC:6388]	6831	0.27686944603919983	0.3027146	No	
+row_47	DYNLT2	dynein light chain Tctex-type 2 [Source:HGNC Symbol;Acc:HGNC:11695]	6856	0.27445951104164124	0.30598453	No	
+row_48	STAU1	staufen double-stranded RNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:11370]	6902	0.2705813944339752	0.30817318	No	
+row_49	KIF3B	kinesin family member 3B [Source:HGNC Symbol;Acc:HGNC:6320]	7177	0.25030291080474854	0.29892635	No	
+row_50	KIF4A	kinesin family member 4A [Source:HGNC Symbol;Acc:HGNC:13339]	7250	0.2434966117143631	0.2993678	No	
+row_51	CLIP2	CAP-Gly domain containing linker protein 2 [Source:HGNC Symbol;Acc:HGNC:2586]	7462	0.22660812735557556	0.29279402	No	
+row_52	DRC1	dynein regulatory complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:24245]	7757	0.2054436355829239	0.28185236	No	
+row_53	KIF18A	kinesin family member 18A [Source:HGNC Symbol;Acc:HGNC:29441]	7762	0.20506620407104492	0.28497133	No	
+row_54	SNX4	sorting nexin 4 [Source:HGNC Symbol;Acc:HGNC:11175]	7811	0.201887845993042	0.28590468	No	
+row_55	LRP8	LDL receptor related protein 8 [Source:HGNC Symbol;Acc:HGNC:6700]	7969	0.18963560461997986	0.28135294	No	
+row_56	KLC3	kinesin light chain 3 [Source:HGNC Symbol;Acc:HGNC:20717]	7977	0.1891627162694931	0.28406945	No	
+row_57	KLC1	kinesin light chain 1 [Source:HGNC Symbol;Acc:HGNC:6387]	8230	0.170334592461586	0.2745978	No	
+row_58	HAUS6	HAUS augmin like complex subunit 6 [Source:HGNC Symbol;Acc:HGNC:25948]	8240	0.16968543827533722	0.27690265	No	
+row_59	DNAH7	dynein axonemal heavy chain 7 [Source:HGNC Symbol;Acc:HGNC:18661]	8320	0.16358217597007751	0.27571344	No	
+row_60	KIF12	kinesin family member 12 [Source:HGNC Symbol;Acc:HGNC:21495]	8917	0.12123887985944748	0.24876256	No	
+row_61	KIF17	kinesin family member 17 [Source:HGNC Symbol;Acc:HGNC:19167]	9150	0.10477351397275925	0.23920186	No	
+row_62	HAUS4	HAUS augmin like complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:20163]	9164	0.10348387807607651	0.24024314	No	
+row_63	PEA15	proliferation and apoptosis adaptor protein 15 [Source:HGNC Symbol;Acc:HGNC:8822]	9221	0.09969685226678848	0.23913749	No	
+row_64	KIFAP3	kinesin associated protein 3 [Source:HGNC Symbol;Acc:HGNC:17060]	9291	0.0946236178278923	0.23731928	No	
+row_65	GABARAP	GABA type A receptor-associated protein [Source:HGNC Symbol;Acc:HGNC:4067]	9397	0.08676521480083466	0.2336279	No	
+row_66	MAP1S	microtubule associated protein 1S [Source:HGNC Symbol;Acc:HGNC:15715]	9475	0.08148345351219177	0.23120935	No	
+row_67	HAUS5	HAUS augmin like complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:29130]	9483	0.08096034824848175	0.2321778	No	
+row_68	EML2	EMAP like 2 [Source:HGNC Symbol;Acc:HGNC:18035]	9519	0.07828202098608017	0.23174478	No	
+row_69	KIFC1	kinesin family member C1 [Source:HGNC Symbol;Acc:HGNC:6389]	9541	0.07695338129997253	0.23196939	No	
+row_70	DNAL1	dynein axonemal light chain 1 [Source:HGNC Symbol;Acc:HGNC:23247]	9640	0.06967038661241531	0.22834137	No	
+row_71	KIF13B	kinesin family member 13B [Source:HGNC Symbol;Acc:HGNC:14405]	9732	0.06452323496341705	0.22496974	No	
+row_72	DYNC1I2	dynein cytoplasmic 1 intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:2964]	9778	0.06167295202612877	0.22378334	No	
+row_73	KATNA1	katanin catalytic subunit A1 [Source:HGNC Symbol;Acc:HGNC:6216]	9806	0.05953683704137802	0.22343555	No	
+row_74	CCDC103	coiled-coil domain containing 103 [Source:HGNC Symbol;Acc:HGNC:32700]	9888	0.052367690950632095	0.22035259	No	
+row_75	DCTN3	dynactin subunit 3 [Source:HGNC Symbol;Acc:HGNC:2713]	9908	0.0513954758644104	0.2202613	No	
+row_76	KIF5B	kinesin family member 5B [Source:HGNC Symbol;Acc:HGNC:6324]	10026	0.043145228177309036	0.21528316	No	
+row_77	HAUS2	HAUS augmin like complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:25530]	10041	0.04193229228258133	0.21528152	No	
+row_78	CDCA8	cell division cycle associated 8 [Source:HGNC Symbol;Acc:HGNC:14629]	10204	0.029944857582449913	0.20790732	No	
+row_79	DNAH14	dynein axonemal heavy chain 14 [Source:HGNC Symbol;Acc:HGNC:2945]	10361	0.01786785200238228	0.20062904	No	
+row_80	MID1	midline 1 [Source:HGNC Symbol;Acc:HGNC:7095]	10411	0.014170020818710327	0.19848117	No	
+row_81	KIF2A	kinesin family member 2A [Source:HGNC Symbol;Acc:HGNC:6318]	10446	0.011755986139178276	0.1970219	No	
+row_82	KIF2C	kinesin family member 2C [Source:HGNC Symbol;Acc:HGNC:6393]	10569	0.003341460367664695	0.19115815	No	
+row_83	BIRC5	baculoviral IAP repeat containing 5 [Source:HGNC Symbol;Acc:HGNC:593]	10577	0.002527679083868861	0.19085945	No	
+row_84	DNAH3	dynein axonemal heavy chain 3 [Source:HGNC Symbol;Acc:HGNC:2949]	10692	-0.003937665373086929	0.18539338	No	
+row_85	DYNLT4	dynein light chain Tctex-type 4 [Source:HGNC Symbol;Acc:HGNC:32315]	10952	-0.02136191539466381	0.17317544	No	
+row_86	SPTBN5	spectrin beta, non-erythrocytic 5 [Source:HGNC Symbol;Acc:HGNC:15680]	11222	-0.03949397802352905	0.16076536	No	
+row_87	MEFV	MEFV innate immunity regulator, pyrin [Source:HGNC Symbol;Acc:HGNC:6998]	11264	-0.04143049195408821	0.15944596	No	
+row_88	DCTN2	dynactin subunit 2 [Source:HGNC Symbol;Acc:HGNC:2712]	11389	-0.050296299159526825	0.15424378	No	
+row_89	FNTA	farnesyltransferase, CAAX box, alpha [Source:HGNC Symbol;Acc:HGNC:3782]	11413	-0.05187444016337395	0.15396622	No	
+row_90	DCTN1	dynactin subunit 1 [Source:HGNC Symbol;Acc:HGNC:2711]	11446	-0.05468432232737541	0.15329748	No	
+row_91	KIF16B	kinesin family member 16B [Source:HGNC Symbol;Acc:HGNC:15869]	11540	-0.06183813139796257	0.14978547	No	
+row_92	NUDCD3	NudC domain containing 3 [Source:HGNC Symbol;Acc:HGNC:22208]	11627	-0.06813283264636993	0.14671469	No	
+row_93	AURKA	aurora kinase A [Source:HGNC Symbol;Acc:HGNC:11393]	11732	-0.07508383691310883	0.14288309	No	
+row_94	DNAH6	dynein axonemal heavy chain 6 [Source:HGNC Symbol;Acc:HGNC:2951]	11770	-0.07745275646448135	0.14233968	No	
+row_95	HAUS7	HAUS augmin like complex subunit 7 [Source:HGNC Symbol;Acc:HGNC:32979]	11795	-0.07991871237754822	0.14246668	No	
+row_96	KATNBL1	katanin regulatory subunit B1 like 1 [Source:HGNC Symbol;Acc:HGNC:26199]	11796	-0.07995212078094482	0.14375836	No	
+row_97	KATNB1	katanin regulatory subunit B1 [Source:HGNC Symbol;Acc:HGNC:6217]	11799	-0.08012977987527847	0.1449559	No	
+row_98	KIF20A	kinesin family member 20A [Source:HGNC Symbol;Acc:HGNC:9787]	12083	-0.09968359768390656	0.13283916	No	
+row_99	PAFAH1B1	platelet activating factor acetylhydrolase 1b regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8574]	12103	-0.10178710520267487	0.13356198	No	
+row_100	KIF23	kinesin family member 23 [Source:HGNC Symbol;Acc:HGNC:6392]	12127	-0.10344404727220535	0.13411756	No	
+row_101	RANBP9	RAN binding protein 9 [Source:HGNC Symbol;Acc:HGNC:13727]	12207	-0.10899368673563004	0.13204646	No	
+row_102	DYNLL1	dynein light chain LC8-type 1 [Source:HGNC Symbol;Acc:HGNC:15476]	12481	-0.1285284459590912	0.12088078	No	
+row_103	MAP4	microtubule associated protein 4 [Source:HGNC Symbol;Acc:HGNC:6862]	12488	-0.12899194657802582	0.122673705	No	
+row_104	KIF20B	kinesin family member 20B [Source:HGNC Symbol;Acc:HGNC:7212]	12605	-0.13616281747817993	0.11924682	No	
+row_105	SHTN1	shootin 1 [Source:HGNC Symbol;Acc:HGNC:29319]	12683	-0.14090408384799957	0.11778826	No	
+row_106	KLC4	kinesin light chain 4 [Source:HGNC Symbol;Acc:HGNC:21624]	13028	-0.16476652026176453	0.10376411	No	
+row_107	DNAH5	dynein axonemal heavy chain 5 [Source:HGNC Symbol;Acc:HGNC:2950]	13309	-0.18503503501415253	0.0931718	No	
+row_108	DNAH17	dynein axonemal heavy chain 17 [Source:HGNC Symbol;Acc:HGNC:2946]	13316	-0.18535983562469482	0.09587538	No	
+row_109	INCENP	inner centromere protein [Source:HGNC Symbol;Acc:HGNC:6058]	13370	-0.1891632080078125	0.09636063	No	
+row_110	MAP7	microtubule associated protein 7 [Source:HGNC Symbol;Acc:HGNC:6869]	13562	-0.2031957060098648	0.090378754	No	
+row_111	DYNC1LI2	dynein cytoplasmic 1 light intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:2966]	13683	-0.21261662244796753	0.08799301	No	
+row_112	DYNLRB1	dynein light chain roadblock-type 1 [Source:HGNC Symbol;Acc:HGNC:15468]	13699	-0.21381062269210815	0.09071968	No	
+row_113	KIF15	kinesin family member 15 [Source:HGNC Symbol;Acc:HGNC:17273]	13808	-0.22046490013599396	0.0890428	No	
+row_114	KIF9	kinesin family member 9 [Source:HGNC Symbol;Acc:HGNC:16666]	14068	-0.23890741169452667	0.08033946	No	
+row_115	DNALI1	dynein axonemal light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:14353]	14083	-0.23958227038383484	0.083531	No	
+row_116	KIF22	kinesin family member 22 [Source:HGNC Symbol;Acc:HGNC:6391]	15088	-0.3219326436519623	0.04003201	No	
+row_117	KIF3C	kinesin family member 3C [Source:HGNC Symbol;Acc:HGNC:6321]	15257	-0.337215781211853	0.037330963	No	
+row_118	KIF14	kinesin family member 14 [Source:HGNC Symbol;Acc:HGNC:19181]	15576	-0.36952874064445496	0.027876051	No	
+row_119	DYNC1H1	dynein cytoplasmic 1 heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2961]	16180	-0.4262646734714508	0.005513534	No	
+row_120	NDEL1	nudE neurodevelopment protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:17620]	16473	-0.45741763710975647	-0.0012603139	No	
+row_121	HDAC6	histone deacetylase 6 [Source:HGNC Symbol;Acc:HGNC:14064]	16514	-0.46273642778396606	0.0042752833	No	
+row_122	RABGAP1	RAB GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:17155]	16672	-0.47580206394195557	0.004346761	No	
+row_123	TPR	translocated promoter region, nuclear basket protein [Source:HGNC Symbol;Acc:HGNC:12017]	16790	-0.48814520239830017	0.0065578916	No	
+row_124	DNAI3	dynein axonemal intermediate chain 3 [Source:HGNC Symbol;Acc:HGNC:30711]	16859	-0.49585506319999695	0.011270376	No	
+row_125	DNAH1	dynein axonemal heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2940]	16910	-0.5016477108001709	0.016949551	No	
+row_126	FBXW11	F-box and WD repeat domain containing 11 [Source:HGNC Symbol;Acc:HGNC:13607]	17039	-0.5166125297546387	0.019087026	No	
+row_127	KIF1A	kinesin family member 1A [Source:HGNC Symbol;Acc:HGNC:888]	17274	-0.5440123677253723	0.016525527	No	
+row_128	FNTB	farnesyltransferase, CAAX box, beta [Source:HGNC Symbol;Acc:HGNC:3785]	17301	-0.5471396446228027	0.024103804	No	
+row_129	DYNC2I1	dynein 2 intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:21862]	17595	-0.5856215953826904	0.019352676	No	
+row_130	DCTN4	dynactin subunit 4 [Source:HGNC Symbol;Acc:HGNC:15518]	17997	-0.6446049213409424	0.010315817	No	
+row_131	KIFC3	kinesin family member C3 [Source:HGNC Symbol;Acc:HGNC:6326]	18149	-0.6720348000526428	0.013848611	No	
+row_132	HAUS8	HAUS augmin like complex subunit 8 [Source:HGNC Symbol;Acc:HGNC:30532]	18346	-0.7114642262458801	0.015835645	No	
+row_133	DCTN6	dynactin subunit 6 [Source:HGNC Symbol;Acc:HGNC:16964]	18391	-0.7188321948051453	0.025314627	No	
+row_134	KIF13A	kinesin family member 13A [Source:HGNC Symbol;Acc:HGNC:14566]	18504	-0.7377083897590637	0.031800162	No	
+row_135	DNAI1	dynein axonemal intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:2954]	18761	-0.7894506454467773	0.03213676	No	
+row_136	PXN	paxillin [Source:HGNC Symbol;Acc:HGNC:9718]	18944	-0.8319356441497803	0.03674918	No	
+row_137	AURKC	aurora kinase C [Source:HGNC Symbol;Acc:HGNC:11391]	18959	-0.8373119831085205	0.049597472	No	
+row_138	ACTR1B	actin related protein 1B [Source:HGNC Symbol;Acc:HGNC:168]	19176	-0.8884555101394653	0.053473804	No	
+row_139	CCDC65	coiled-coil domain containing 65 [Source:HGNC Symbol;Acc:HGNC:29937]	20199	-1.427891492843628	0.026969263	No	

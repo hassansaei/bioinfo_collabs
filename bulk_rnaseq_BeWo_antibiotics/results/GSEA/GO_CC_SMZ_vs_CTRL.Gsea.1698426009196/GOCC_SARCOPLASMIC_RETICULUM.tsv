@@ -1,0 +1,61 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	JPH1	junctophilin 1 [Source:HGNC Symbol;Acc:HGNC:14201]	1111	1.1171634197235107	-0.029548597	No	
+row_1	NOS1AP	nitric oxide synthase 1 adaptor protein [Source:HGNC Symbol;Acc:HGNC:16859]	1157	1.0965982675552368	-0.0026654836	No	
+row_2	GSTM2	glutathione S-transferase mu 2 [Source:HGNC Symbol;Acc:HGNC:4634]	1513	0.9720000624656677	0.0043193456	No	
+row_3	TMEM38B	transmembrane protein 38B [Source:HGNC Symbol;Acc:HGNC:25535]	1539	0.9622750878334045	0.028683947	No	
+row_4	JPH3	junctophilin 3 [Source:HGNC Symbol;Acc:HGNC:14203]	1652	0.9242442846298218	0.04738239	No	
+row_5	AKAP6	A-kinase anchoring protein 6 [Source:HGNC Symbol;Acc:HGNC:376]	1656	0.9236025810241699	0.07189007	No	
+row_6	DMPK	DM1 protein kinase [Source:HGNC Symbol;Acc:HGNC:2933]	2839	0.6671207547187805	0.02652634	No	
+row_7	FKBP1B	FKBP prolyl isomerase 1B [Source:HGNC Symbol;Acc:HGNC:3712]	3177	0.6153342127799988	0.024947312	No	
+row_8	CACNA2D1	calcium voltage-gated channel auxiliary subunit alpha2delta 1 [Source:HGNC Symbol;Acc:HGNC:1399]	3214	0.610744297504425	0.03933507	No	
+row_9	CASQ2	calsequestrin 2 [Source:HGNC Symbol;Acc:HGNC:1513]	3448	0.5761363506317139	0.042268243	No	
+row_10	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	3572	0.5555022954940796	0.05053015	No	
+row_11	FSD2	fibronectin type III and SPRY domain containing 2 [Source:HGNC Symbol;Acc:HGNC:18024]	4324	0.45789003372192383	0.022616453	No	
+row_12	NOS1	nitric oxide synthase 1 [Source:HGNC Symbol;Acc:HGNC:7872]	4709	0.4174635708332062	0.013240301	No	
+row_13	JSRP1	junctional sarcoplasmic reticulum protein 1 [Source:HGNC Symbol;Acc:HGNC:24963]	4805	0.40719059109687805	0.01903771	No	
+row_14	RTN2	reticulon 2 [Source:HGNC Symbol;Acc:HGNC:10468]	5421	0.33572331070899963	-0.0048692594	No	
+row_15	MTMR12	myotubularin related protein 12 [Source:HGNC Symbol;Acc:HGNC:18191]	5641	0.31097739934921265	-0.00826974	No	
+row_16	STIM1	stromal interaction molecule 1 [Source:HGNC Symbol;Acc:HGNC:11386]	5756	0.30117127299308777	-0.0063195564	No	
+row_17	CAMK2B	calcium/calmodulin dependent protein kinase II beta [Source:HGNC Symbol;Acc:HGNC:1461]	6370	0.2457338273525238	-0.032523107	No	
+row_18	ATP2A1	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1 [Source:HGNC Symbol;Acc:HGNC:811]	6446	0.2387969195842743	-0.030154176	No	
+row_19	TMEM38A	transmembrane protein 38A [Source:HGNC Symbol;Acc:HGNC:28462]	6593	0.22644424438476562	-0.031910338	No	
+row_20	REEP5	receptor accessory protein 5 [Source:HGNC Symbol;Acc:HGNC:30077]	6691	0.21820077300071716	-0.031267468	No	
+row_21	CCDC78	coiled-coil domain containing 78 [Source:HGNC Symbol;Acc:HGNC:14153]	6850	0.20530924201011658	-0.03422955	No	
+row_22	ITPR3	inositol 1,4,5-trisphosphate receptor type 3 [Source:HGNC Symbol;Acc:HGNC:6182]	7285	0.16859568655490875	-0.052925244	No	
+row_23	ATP2A3	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 [Source:HGNC Symbol;Acc:HGNC:813]	7506	0.1509694755077362	-0.06065275	No	
+row_24	MANF	mesencephalic astrocyte derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:15461]	9349	0.007404583040624857	-0.15891553	No	
+row_25	CAMK2D	calcium/calmodulin dependent protein kinase II delta [Source:HGNC Symbol;Acc:HGNC:1462]	10207	-0.054591674357652664	-0.20326675	No	
+row_26	CAMK2G	calcium/calmodulin dependent protein kinase II gamma [Source:HGNC Symbol;Acc:HGNC:1463]	10810	-0.10096004605293274	-0.23274902	No	
+row_27	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	10834	-0.1030840203166008	-0.23122522	No	
+row_28	FKBP1A	FKBP prolyl isomerase 1A [Source:HGNC Symbol;Acc:HGNC:3711]	11068	-0.12156157195568085	-0.24043305	No	
+row_29	NOL3	nucleolar protein 3 [Source:HGNC Symbol;Acc:HGNC:7869]	11072	-0.12171965837478638	-0.23734246	No	
+row_30	THBS4	thrombospondin 4 [Source:HGNC Symbol;Acc:HGNC:11788]	11600	-0.15781047940254211	-0.26129735	No	
+row_31	CALU	calumenin [Source:HGNC Symbol;Acc:HGNC:1458]	12325	-0.21623997390270233	-0.29422194	No	
+row_32	HRC	histidine rich calcium binding protein [Source:HGNC Symbol;Acc:HGNC:5178]	12378	-0.21957984566688538	-0.29113683	No	
+row_33	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	12674	-0.24238257110118866	-0.30043182	No	
+row_34	HAX1	HCLS1 associated protein X-1 [Source:HGNC Symbol;Acc:HGNC:16915]	12813	-0.25572752952575684	-0.30097824	No	
+row_35	AGL	amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase [Source:HGNC Symbol;Acc:HGNC:321]	13158	-0.28608760237693787	-0.3117251	No	
+row_36	IRAG1	inositol 1,4,5-triphosphate receptor associated 1 [Source:HGNC Symbol;Acc:HGNC:7237]	13426	-0.30861860513687134	-0.31775436	No	
+row_37	CHERP	calcium homeostasis endoplasmic reticulum protein [Source:HGNC Symbol;Acc:HGNC:16930]	13872	-0.3544398248195648	-0.3320744	No	
+row_38	ATP2A2	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 [Source:HGNC Symbol;Acc:HGNC:812]	13930	-0.36293113231658936	-0.3254279	No	
+row_39	KLHL41	kelch like family member 41 [Source:HGNC Symbol;Acc:HGNC:16905]	14048	-0.37229791283607483	-0.32173836	No	
+row_40	ITPR1	inositol 1,4,5-trisphosphate receptor type 1 [Source:HGNC Symbol;Acc:HGNC:6180]	14210	-0.3906836211681366	-0.31990975	No	
+row_41	TMEM109	transmembrane protein 109 [Source:HGNC Symbol;Acc:HGNC:28771]	14434	-0.4113653600215912	-0.32084283	No	
+row_42	SLC2A4	solute carrier family 2 member 4 [Source:HGNC Symbol;Acc:HGNC:11009]	15273	-0.5070205330848694	-0.35209474	No	
+row_43	SYNE2	spectrin repeat containing nuclear envelope protein 2 [Source:HGNC Symbol;Acc:HGNC:17084]	15737	-0.569088876247406	-0.361644	No	
+row_44	HSP90B1	heat shock protein 90 beta family member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	16186	-0.6385055780410767	-0.36853746	Yes	
+row_45	S100A1	S100 calcium binding protein A1 [Source:HGNC Symbol;Acc:HGNC:10486]	16456	-0.688438892364502	-0.36452913	Yes	
+row_46	CMYA5	cardiomyopathy associated 5 [Source:HGNC Symbol;Acc:HGNC:14305]	16652	-0.7262883186340332	-0.35555443	Yes	
+row_47	POMT1	protein O-mannosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:9202]	16922	-0.7853242754936218	-0.34895846	Yes	
+row_48	CLEC18B	C-type lectin domain family 18 member B [Source:HGNC Symbol;Acc:HGNC:33849]	17245	-0.8705884218215942	-0.34291822	Yes	
+row_49	ITPR2	inositol 1,4,5-trisphosphate receptor type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	17445	-0.9477220773696899	-0.32824317	Yes	
+row_50	P3H2	prolyl 3-hydroxylase 2 [Source:HGNC Symbol;Acc:HGNC:19317]	17538	-0.9841770529747009	-0.30687493	Yes	
+row_51	ANK3	ankyrin 3 [Source:HGNC Symbol;Acc:HGNC:494]	17566	-0.9963696599006653	-0.28170663	Yes	
+row_52	ANK1	ankyrin 1 [Source:HGNC Symbol;Acc:HGNC:492]	17767	-1.0802079439163208	-0.2635465	Yes	
+row_53	RYR1	ryanodine receptor 1 [Source:HGNC Symbol;Acc:HGNC:10483]	17993	-1.2119293212890625	-0.24320462	Yes	
+row_54	CASQ1	calsequestrin 1 [Source:HGNC Symbol;Acc:HGNC:1512]	18042	-1.2437480688095093	-0.21255171	Yes	
+row_55	RYR3	ryanodine receptor 3 [Source:HGNC Symbol;Acc:HGNC:10485]	18151	-1.3216298818588257	-0.1830259	Yes	
+row_56	CACNA1S	calcium voltage-gated channel subunit alpha1 S [Source:HGNC Symbol;Acc:HGNC:1397]	18370	-1.5735254287719727	-0.15265214	Yes	
+row_57	HK2	hexokinase 2 [Source:HGNC Symbol;Acc:HGNC:4923]	18490	-1.7649935483932495	-0.111872725	Yes	
+row_58	JPH2	junctophilin 2 [Source:HGNC Symbol;Acc:HGNC:14202]	18646	-2.3044543266296387	-0.058609422	Yes	
+row_59	SLN	sarcolipin [Source:HGNC Symbol;Acc:HGNC:11089]	18665	-2.434567928314209	0.0054520904	Yes	

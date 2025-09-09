@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TTC30A	tetratricopeptide repeat domain 30A [Source:HGNC Symbol;Acc:HGNC:25853]	904	1.216961145401001	0.10008553	Yes	
+row_1	TTC30B	tetratricopeptide repeat domain 30B [Source:HGNC Symbol;Acc:HGNC:26425]	981	1.1743754148483276	0.23912345	Yes	
+row_2	IFT46	intraflagellar transport 46 [Source:HGNC Symbol;Acc:HGNC:26146]	1406	1.0048797130584717	0.3389574	Yes	
+row_3	IFT80	intraflagellar transport 80 [Source:HGNC Symbol;Acc:HGNC:29262]	1853	0.8742362856864929	0.42170054	Yes	
+row_4	IFT57	intraflagellar transport 57 [Source:HGNC Symbol;Acc:HGNC:17367]	1993	0.8386879563331604	0.5164787	Yes	
+row_5	TRIM59	tripartite motif containing 59 [Source:HGNC Symbol;Acc:HGNC:30834]	5020	0.3821713924407959	0.4017258	No	
+row_6	IFT52	intraflagellar transport 52 [Source:HGNC Symbol;Acc:HGNC:15901]	5540	0.3235500156879425	0.41347992	No	
+row_7	IFT25	intraflagellar transport 25 [Source:HGNC Symbol;Acc:HGNC:25019]	6131	0.2663559913635254	0.41448033	No	
+row_8	TRAF3IP1	TRAF3 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:17861]	6151	0.26486390829086304	0.44573924	No	
+row_9	IFT74	intraflagellar transport 74 [Source:HGNC Symbol;Acc:HGNC:21424]	6710	0.21732161939144135	0.4424711	No	
+row_10	IFT22	intraflagellar transport 22 [Source:HGNC Symbol;Acc:HGNC:21895]	7050	0.18879365921020508	0.447402	No	
+row_11	IFT27	intraflagellar transport 27 [Source:HGNC Symbol;Acc:HGNC:18626]	7411	0.15844528377056122	0.44751564	No	
+row_12	TTC26	tetratricopeptide repeat domain 26 [Source:HGNC Symbol;Acc:HGNC:21882]	7465	0.15399639308452606	0.4634536	No	
+row_13	IFT81	intraflagellar transport 81 [Source:HGNC Symbol;Acc:HGNC:14313]	8399	0.08155620843172073	0.42365184	No	
+row_14	CLUAP1	clusterin associated protein 1 [Source:HGNC Symbol;Acc:HGNC:19009]	9555	-0.006378973834216595	0.36285537	No	
+row_15	IFT20	intraflagellar transport 20 [Source:HGNC Symbol;Acc:HGNC:30989]	11911	-0.1831464171409607	0.25962406	No	
+row_16	IFT88	intraflagellar transport 88 [Source:HGNC Symbol;Acc:HGNC:20606]	12975	-0.270606130361557	0.23592637	No	
+row_17	IFT172	intraflagellar transport 172 [Source:HGNC Symbol;Acc:HGNC:30391]	15963	-0.6009508371353149	0.14990936	No	

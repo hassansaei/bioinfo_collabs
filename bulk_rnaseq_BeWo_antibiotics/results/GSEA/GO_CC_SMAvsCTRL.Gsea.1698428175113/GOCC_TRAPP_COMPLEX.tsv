@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TRAPPC4	trafficking protein particle complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:19943]	2777	0.748246967792511	-0.0030616436	Yes	
+row_1	TRAPPC9	trafficking protein particle complex subunit 9 [Source:HGNC Symbol;Acc:HGNC:30832]	2921	0.7222074866294861	0.11632455	Yes	
+row_2	TRAPPC6A	trafficking protein particle complex subunit 6A [Source:HGNC Symbol;Acc:HGNC:23069]	3311	0.6627238392829895	0.21344864	Yes	
+row_3	TRAPPC6B	trafficking protein particle complex subunit 6B [Source:HGNC Symbol;Acc:HGNC:23066]	4439	0.5194661021232605	0.24994008	Yes	
+row_4	TRAPPC3	trafficking protein particle complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:19942]	4525	0.5096244812011719	0.33495176	Yes	
+row_5	TRAPPC2B	trafficking protein particle complex subunit 2B [Source:HGNC Symbol;Acc:HGNC:10710]	4994	0.4555162489414215	0.39203563	Yes	
+row_6	TRAPPC14	trafficking protein particle complex subunit 14 [Source:HGNC Symbol;Acc:HGNC:25604]	5423	0.4156169593334198	0.4440716	Yes	
+row_7	TRAPPC11	trafficking protein particle complex subunit 11 [Source:HGNC Symbol;Acc:HGNC:25751]	6689	0.28889015316963196	0.43359205	Yes	
+row_8	TRAPPC13	trafficking protein particle complex subunit 13 [Source:HGNC Symbol;Acc:HGNC:25828]	7338	0.23556260764598846	0.4435372	Yes	
+row_9	TRAPPC5	trafficking protein particle complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:23067]	7365	0.2340085655450821	0.483201	Yes	
+row_10	TRAPPC1	trafficking protein particle complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:19894]	7407	0.23099391162395477	0.52161443	Yes	
+row_11	TRAPPC8	trafficking protein particle complex subunit 8 [Source:HGNC Symbol;Acc:HGNC:29169]	7754	0.20566506683826447	0.5408931	Yes	
+row_12	TRAPPC2L	trafficking protein particle complex subunit 2L [Source:HGNC Symbol;Acc:HGNC:30887]	8558	0.1467875838279724	0.5278421	No	
+row_13	TRAPPC10	trafficking protein particle complex subunit 10 [Source:HGNC Symbol;Acc:HGNC:11868]	12007	-0.09457071125507355	0.3781294	No	
+row_14	TRAPPC12	trafficking protein particle complex subunit 12 [Source:HGNC Symbol;Acc:HGNC:24284]	12263	-0.11245841532945633	0.38549817	No	
+row_15	TRAPPC2	trafficking protein particle complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:23068]	12617	-0.13670824468135834	0.39238194	No	

@@ -1,0 +1,96 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TEKTIP1	tektin bundle interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:34496]	122	2.2457923889160156	0.038108446	Yes	
+row_1	SNPH	syntaphilin [Source:HGNC Symbol;Acc:HGNC:15931]	184	2.053431987762451	0.07539941	Yes	
+row_2	REEP2	receptor accessory protein 2 [Source:HGNC Symbol;Acc:HGNC:17975]	317	1.794764518737793	0.10418456	Yes	
+row_3	MAPRE2	microtubule associated protein RP/EB family member 2 [Source:HGNC Symbol;Acc:HGNC:6891]	501	1.598439335823059	0.12665369	Yes	
+row_4	CFAP126	cilia and flagella associated protein 126 [Source:HGNC Symbol;Acc:HGNC:32325]	589	1.5079164505004883	0.15199518	Yes	
+row_5	BICD1	BICD cargo adaptor 1 [Source:HGNC Symbol;Acc:HGNC:1049]	623	1.4774515628814697	0.17935322	Yes	
+row_6	DYNLT3	dynein light chain Tctex-type 3 [Source:HGNC Symbol;Acc:HGNC:11694]	852	1.3295204639434814	0.19437404	Yes	
+row_7	TTC30A	tetratricopeptide repeat domain 30A [Source:HGNC Symbol;Acc:HGNC:25853]	1053	1.216961145401001	0.2085441	Yes	
+row_8	MAP9	microtubule associated protein 9 [Source:HGNC Symbol;Acc:HGNC:26118]	1066	1.2092405557632446	0.23166212	Yes	
+row_9	TTC30B	tetratricopeptide repeat domain 30B [Source:HGNC Symbol;Acc:HGNC:26425]	1152	1.1743754148483276	0.25056365	Yes	
+row_10	FAM161A	FAM161 centrosomal protein A [Source:HGNC Symbol;Acc:HGNC:25808]	1264	1.1292084455490112	0.26732156	Yes	
+row_11	TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	1476	1.0565061569213867	0.2778146	Yes	
+row_12	TUBB4B	tubulin beta 4B class IVb [Source:HGNC Symbol;Acc:HGNC:20771]	1520	1.0424859523773193	0.29616416	Yes	
+row_13	FAM166B	family with sequence similarity 166 member B [Source:HGNC Symbol;Acc:HGNC:34242]	1617	1.0101710557937622	0.31131515	Yes	
+row_14	TEKT2	tektin 2 [Source:HGNC Symbol;Acc:HGNC:11725]	1699	0.9855027198791504	0.3267087	Yes	
+row_15	CFAP206	cilia and flagella associated protein 206 [Source:HGNC Symbol;Acc:HGNC:21405]	2013	0.9017905592918396	0.32923278	Yes	
+row_16	PIERCE1	piercer of microtubule wall 1 [Source:HGNC Symbol;Acc:HGNC:28435]	2238	0.8530378937721252	0.33510906	Yes	
+row_17	DCXR	dicarbonyl and L-xylulose reductase [Source:HGNC Symbol;Acc:HGNC:18985]	2669	0.7674599289894104	0.32933766	Yes	
+row_18	CFAP144	cilia and flagella associated protein 144 [Source:HGNC Symbol;Acc:HGNC:34347]	2688	0.7640359997749329	0.34344012	Yes	
+row_19	SPAG8	sperm associated antigen 8 [Source:HGNC Symbol;Acc:HGNC:14105]	2922	0.7219794988632202	0.34631225	Yes	
+row_20	NIN	ninein [Source:HGNC Symbol;Acc:HGNC:14906]	3181	0.6812080144882202	0.34717536	Yes	
+row_21	PIERCE2	piercer of microtubule wall 2 [Source:HGNC Symbol;Acc:HGNC:44654]	3357	0.6552903652191162	0.35154775	Yes	
+row_22	EFHB	EF-hand domain family member B [Source:HGNC Symbol;Acc:HGNC:26330]	3575	0.6275951266288757	0.35334456	Yes	
+row_23	ARL6	ADP ribosylation factor like GTPase 6 [Source:HGNC Symbol;Acc:HGNC:13210]	4144	0.5515168309211731	0.33666182	Yes	
+row_24	ARL3	ADP ribosylation factor like GTPase 3 [Source:HGNC Symbol;Acc:HGNC:694]	4152	0.5501226782798767	0.3471044	Yes	
+row_25	CFAP141	cilia and flagella associated protein 141 [Source:HGNC Symbol;Acc:HGNC:32305]	4155	0.5496422052383423	0.35777953	Yes	
+row_26	CFAP52	cilia and flagella associated protein 52 [Source:HGNC Symbol;Acc:HGNC:16053]	4165	0.5484813451766968	0.36809313	Yes	
+row_27	GTSE1	G2 and S-phase expressed 1 [Source:HGNC Symbol;Acc:HGNC:13698]	4236	0.5412393808364868	0.3753124	Yes	
+row_28	KIF18B	kinesin family member 18B [Source:HGNC Symbol;Acc:HGNC:27102]	4257	0.5394436717033386	0.38491645	Yes	
+row_29	NME7	NME/NM23 family member 7 [Source:HGNC Symbol;Acc:HGNC:20461]	4601	0.5002952218055725	0.37811998	Yes	
+row_30	SPACA9	sperm acrosome associated 9 [Source:HGNC Symbol;Acc:HGNC:1367]	4875	0.4673096835613251	0.37406504	Yes	
+row_31	EFHC1	EF-hand domain containing 1 [Source:HGNC Symbol;Acc:HGNC:16406]	4877	0.4671667516231537	0.38317224	Yes	
+row_32	MAPRE3	microtubule associated protein RP/EB family member 3 [Source:HGNC Symbol;Acc:HGNC:6892]	5006	0.45430880784988403	0.3858806	Yes	
+row_33	TUBA1B	tubulin alpha 1b [Source:HGNC Symbol;Acc:HGNC:18809]	5179	0.4362383186817169	0.38610518	Yes	
+row_34	ARHGAP18	Rho GTPase activating protein 18 [Source:HGNC Symbol;Acc:HGNC:21035]	5570	0.4009745419025421	0.37508738	Yes	
+row_35	RAB3D	RAB3D, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9779]	5925	0.363666832447052	0.36508083	Yes	
+row_36	MISP	mitotic spindle positioning [Source:HGNC Symbol;Acc:HGNC:27000]	6091	0.3464551866054535	0.36388463	Yes	
+row_37	FAM161B	FAM161 centrosomal protein B [Source:HGNC Symbol;Acc:HGNC:19854]	6096	0.3454339802265167	0.3704609	Yes	
+row_38	APC2	APC regulator of WNT signaling pathway 2 [Source:HGNC Symbol;Acc:HGNC:24036]	6211	0.3331734538078308	0.3714728	Yes	
+row_39	DYNLT1	dynein light chain Tctex-type 1 [Source:HGNC Symbol;Acc:HGNC:11697]	6269	0.32772934436798096	0.37513688	Yes	
+row_40	CEP162	centrosomal protein 162 [Source:HGNC Symbol;Acc:HGNC:21107]	6275	0.32708194851875305	0.38130507	Yes	
+row_41	HID1	HID1 domain containing [Source:HGNC Symbol;Acc:HGNC:15736]	6291	0.3257736563682556	0.3869636	Yes	
+row_42	CFAP53	cilia and flagella associated protein 53 [Source:HGNC Symbol;Acc:HGNC:26530]	6403	0.31362098455429077	0.38773754	Yes	
+row_43	SAXO2	stabilizer of axonemal microtubules 2 [Source:HGNC Symbol;Acc:HGNC:33727]	6604	0.29638949036598206	0.38386613	No	
+row_44	CFAP210	cilia and flagella associated protein 210 [Source:HGNC Symbol;Acc:HGNC:25064]	6720	0.2865148186683655	0.38391525	No	
+row_45	ENKUR	enkurin, TRPC channel interacting protein [Source:HGNC Symbol;Acc:HGNC:28388]	7148	0.25238123536109924	0.3681945	No	
+row_46	KIF18A	kinesin family member 18A [Source:HGNC Symbol;Acc:HGNC:29441]	7762	0.20506620407104492	0.34254396	No	
+row_47	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	7832	0.2000935673713684	0.3431258	No	
+row_48	REEP3	receptor accessory protein 3 [Source:HGNC Symbol;Acc:HGNC:23711]	8113	0.17990189790725708	0.33309942	No	
+row_49	TUBG1	tubulin gamma 1 [Source:HGNC Symbol;Acc:HGNC:12417]	8376	0.1594419926404953	0.3235433	No	
+row_50	ENKD1	enkurin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25246]	8634	0.14165371656417847	0.31388056	No	
+row_51	SELENOS	selenoprotein S [Source:HGNC Symbol;Acc:HGNC:30396]	8729	0.13354821503162384	0.3119482	No	
+row_52	ODF3L2	outer dense fiber of sperm tails 3 like 2 [Source:HGNC Symbol;Acc:HGNC:26841]	9224	0.09921562671661377	0.28998286	No	
+row_53	GRAMD2B	GRAM domain containing 2B [Source:HGNC Symbol;Acc:HGNC:24911]	9441	0.0840715542435646	0.28117603	No	
+row_54	TUBG2	tubulin gamma 2 [Source:HGNC Symbol;Acc:HGNC:12419]	9785	0.061086397618055344	0.2657719	No	
+row_55	TPT1	tumor protein, translationally-controlled 1 [Source:HGNC Symbol;Acc:HGNC:12022]	9845	0.05590340495109558	0.26401186	No	
+row_56	SAXO1	stabilizer of axonemal microtubules 1 [Source:HGNC Symbol;Acc:HGNC:28566]	9926	0.049618951976299286	0.26111227	No	
+row_57	MID1	midline 1 [Source:HGNC Symbol;Acc:HGNC:7095]	10411	0.014170020818710327	0.2379642	No	
+row_58	KIF2C	kinesin family member 2C [Source:HGNC Symbol;Acc:HGNC:6393]	10569	0.003341460367664695	0.23043083	No	
+row_59	CLASP2	cytoplasmic linker associated protein 2 [Source:HGNC Symbol;Acc:HGNC:17078]	10602	6.046897615306079E-4	0.22889386	No	
+row_60	NUMA1	nuclear mitotic apparatus protein 1 [Source:HGNC Symbol;Acc:HGNC:8059]	11041	-0.027902569621801376	0.20824134	No	
+row_61	RIBC2	RIB43A domain with coiled-coils 2 [Source:HGNC Symbol;Acc:HGNC:13241]	11060	-0.02902700938284397	0.20793901	No	
+row_62	TUBA1C	tubulin alpha 1c [Source:HGNC Symbol;Acc:HGNC:20768]	11305	-0.044228918850421906	0.19699612	No	
+row_63	C4orf47	chromosome 4 open reading frame 47 [Source:HGNC Symbol;Acc:HGNC:34346]	11606	-0.0669165775179863	0.18378745	No	
+row_64	SRPRB	SRP receptor subunit beta [Source:HGNC Symbol;Acc:HGNC:24085]	11811	-0.08118558675050735	0.17550486	No	
+row_65	MNS1	meiosis specific nuclear structural 1 [Source:HGNC Symbol;Acc:HGNC:29636]	11856	-0.0840962678194046	0.17502338	No	
+row_66	PAFAH1B1	platelet activating factor acetylhydrolase 1b regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8574]	12103	-0.10178710520267487	0.16511172	No	
+row_67	CLMP	CXADR like membrane protein [Source:HGNC Symbol;Acc:HGNC:24039]	12309	-0.11628121137619019	0.15746853	No	
+row_68	SYBU	syntabulin [Source:HGNC Symbol;Acc:HGNC:26011]	12843	-0.15160293877124786	0.13464227	No	
+row_69	CYLD	CYLD lysine 63 deubiquitinase [Source:HGNC Symbol;Acc:HGNC:2584]	13285	-0.18344448506832123	0.11689287	No	
+row_70	MAPRE1	microtubule associated protein RP/EB family member 1 [Source:HGNC Symbol;Acc:HGNC:6890]	13454	-0.19595366716384888	0.11260193	No	
+row_71	REEP1	receptor accessory protein 1 [Source:HGNC Symbol;Acc:HGNC:25786]	13749	-0.21659024059772491	0.10261698	No	
+row_72	CLASP1	cytoplasmic linker associated protein 1 [Source:HGNC Symbol;Acc:HGNC:17088]	14218	-0.25085675716400146	0.08488193	No	
+row_73	PACRG	parkin coregulated [Source:HGNC Symbol;Acc:HGNC:19152]	14546	-0.2775307595729828	0.074494086	No	
+row_74	TEKT3	tektin 3 [Source:HGNC Symbol;Acc:HGNC:14293]	14559	-0.27837303280830383	0.07936887	No	
+row_75	REEP4	receptor accessory protein 4 [Source:HGNC Symbol;Acc:HGNC:26176]	14607	-0.28243833780288696	0.08262931	No	
+row_76	SERP1	stress associated endoplasmic reticulum protein 1 [Source:HGNC Symbol;Acc:HGNC:10759]	14736	-0.29119443893432617	0.08214092	No	
+row_77	CFAP77	cilia and flagella associated protein 77 [Source:HGNC Symbol;Acc:HGNC:33776]	15068	-0.3206446170806885	0.07240443	No	
+row_78	TOGARAM2	TOG array regulator of axonemal microtubules 2 [Source:HGNC Symbol;Acc:HGNC:33715]	15095	-0.3227420151233673	0.07747115	No	
+row_79	ARFGEF2	ADP ribosylation factor guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:15853]	15239	-0.33536508679389954	0.07712243	No	
+row_80	RPGRIP1L	RPGRIP1 like [Source:HGNC Symbol;Acc:HGNC:29168]	15414	-0.35254210233688354	0.07560992	No	
+row_81	CFAP20	cilia and flagella associated protein 20 [Source:HGNC Symbol;Acc:HGNC:29523]	15719	-0.38130709528923035	0.068369105	No	
+row_82	TUBGCP2	tubulin gamma complex associated protein 2 [Source:HGNC Symbol;Acc:HGNC:18599]	15844	-0.39412644505500793	0.0700916	No	
+row_83	TOGARAM1	TOG array regulator of axonemal microtubules 1 [Source:HGNC Symbol;Acc:HGNC:19959]	15991	-0.40645554661750793	0.070990905	No	
+row_84	DYNC1H1	dynein cytoplasmic 1 heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2961]	16180	-0.4262646734714508	0.070245616	No	
+row_85	TRPV4	transient receptor potential cation channel subfamily V member 4 [Source:HGNC Symbol;Acc:HGNC:18083]	16485	-0.45920199155807495	0.0645314	No	
+row_86	BCL10	BCL10 immune signaling adaptor [Source:HGNC Symbol;Acc:HGNC:989]	16501	-0.4611406922340393	0.07284288	No	
+row_87	TMEM214	transmembrane protein 214 [Source:HGNC Symbol;Acc:HGNC:25983]	16635	-0.47260788083076477	0.07566785	No	
+row_88	FBXW11	F-box and WD repeat domain containing 11 [Source:HGNC Symbol;Acc:HGNC:13607]	17039	-0.5166125297546387	0.06628714	No	
+row_89	CFAP107	cilia and flagella associated protein 107 [Source:HGNC Symbol;Acc:HGNC:28567]	18108	-0.6620599627494812	0.027570667	No	
+row_90	CFAP45	cilia and flagella associated protein 45 [Source:HGNC Symbol;Acc:HGNC:17229]	18450	-0.7276982069015503	0.025327653	No	
+row_91	FHDC1	FH2 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29363]	18662	-0.7682365775108337	0.030171162	No	
+row_92	BCAS3	BCAS3 microtubule associated cell migration factor [Source:HGNC Symbol;Acc:HGNC:14347]	19090	-0.8682765960693359	0.026520787	No	
+row_93	CCSAP	centriole, cilia and spindle associated protein [Source:HGNC Symbol;Acc:HGNC:29578]	19262	-0.9200007319450378	0.0362746	No	
+row_94	SAA1	serum amyloid A1 [Source:HGNC Symbol;Acc:HGNC:10513]	20482	-1.833785891532898	0.013213296	No	

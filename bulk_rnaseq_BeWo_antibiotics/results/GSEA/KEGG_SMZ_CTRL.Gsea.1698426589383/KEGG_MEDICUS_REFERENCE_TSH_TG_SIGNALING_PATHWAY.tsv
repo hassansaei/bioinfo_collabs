@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ADCY3	adenylate cyclase 3 [Source:HGNC Symbol;Acc:HGNC:234]	892	1.1849385499954224	0.008298276	No	
+row_1	PAX8	paired box 8 [Source:HGNC Symbol;Acc:HGNC:8622]	1060	1.1024119853973389	0.056222122	No	
+row_2	PRKACB	protein kinase cAMP-activated catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9381]	1113	1.0780417919158936	0.10983741	No	
+row_3	PRKACA	protein kinase cAMP-activated catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9380]	2435	0.6920962333679199	0.06616396	No	
+row_4	ADCY9	adenylate cyclase 9 [Source:HGNC Symbol;Acc:HGNC:240]	2805	0.6268526315689087	0.07679377	No	
+row_5	TTF2	transcription termination factor 2 [Source:HGNC Symbol;Acc:HGNC:12398]	4866	0.33140242099761963	-0.03069411	No	
+row_6	CREB3	cAMP responsive element binding protein 3 [Source:HGNC Symbol;Acc:HGNC:2347]	8158	0.02408767119050026	-0.22902538	No	
+row_7	CREB1	cAMP responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2345]	8363	0.007885235361754894	-0.24098279	No	
+row_8	CREB3L4	cAMP responsive element binding protein 3 like 4 [Source:HGNC Symbol;Acc:HGNC:18854]	10014	-0.12973879277706146	-0.3342236	No	
+row_9	TTF1	transcription termination factor 1 [Source:HGNC Symbol;Acc:HGNC:12397]	10378	-0.16060572862625122	-0.3477822	No	
+row_10	ADCY7	adenylate cyclase 7 [Source:HGNC Symbol;Acc:HGNC:238]	11601	-0.2733912765979767	-0.40750006	No	
+row_11	ATF2	activating transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:784]	11846	-0.29966971278190613	-0.40651825	No	
+row_12	ADCY6	adenylate cyclase 6 [Source:HGNC Symbol;Acc:HGNC:237]	11929	-0.3076670169830322	-0.39529	No	
+row_13	ATF6B	activating transcription factor 6 beta [Source:HGNC Symbol;Acc:HGNC:2349]	12188	-0.33906832337379456	-0.3930826	No	
+row_14	CREB3L3	cAMP responsive element binding protein 3 like 3 [Source:HGNC Symbol;Acc:HGNC:18855]	13160	-0.4556211531162262	-0.42798114	No	
+row_15	ADCY1	adenylate cyclase 1 [Source:HGNC Symbol;Acc:HGNC:232]	13515	-0.5094104409217834	-0.42262602	No	
+row_16	GNAS	GNAS complex locus [Source:HGNC Symbol;Acc:HGNC:4392]	14099	-0.6010052561759949	-0.42633644	No	
+row_17	ATF4	activating transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:786]	14991	-0.8034130930900574	-0.43806845	Yes	
+row_18	CREB3L2	cAMP responsive element binding protein 3 like 2 [Source:HGNC Symbol;Acc:HGNC:23720]	15897	-1.259765386581421	-0.42661828	Yes	
+row_19	CREB3L1	cAMP responsive element binding protein 3 like 1 [Source:HGNC Symbol;Acc:HGNC:18856]	16235	-1.6984179019927979	-0.3576196	Yes	
+row_20	ADCY5	adenylate cyclase 5 [Source:HGNC Symbol;Acc:HGNC:236]	16495	-3.268270254135132	-0.20122264	Yes	
+row_21	TG	thyroglobulin [Source:HGNC Symbol;Acc:HGNC:11764]	16508	-3.836176633834839	6.055704E-5	Yes	

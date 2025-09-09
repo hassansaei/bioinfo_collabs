@@ -1,0 +1,44 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FYN	FYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:4037]	213	1.0280348062515259	0.06545222	Yes	
+row_1	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	291	0.9453427791595459	0.13198498	Yes	
+row_2	RAC2	Rac family small GTPase 2 [Source:HGNC Symbol;Acc:HGNC:9802]	420	0.8451033234596252	0.18830463	Yes	
+row_3	MYH7B	myosin heavy chain 7B [Source:HGNC Symbol;Acc:HGNC:15906]	715	0.6999286413192749	0.22491436	Yes	
+row_4	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	835	0.6515724062919617	0.26725233	Yes	
+row_5	LAMA2	laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	838	0.6493379473686218	0.315669	Yes	
+row_6	CXADR	CXADR Ig-like cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:2559]	876	0.6331409215927124	0.36100695	Yes	
+row_7	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	1057	0.5750699639320374	0.3943718	Yes	
+row_8	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	1720	0.4376356601715088	0.39173657	Yes	
+row_9	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	2195	0.37514597177505493	0.39446735	Yes	
+row_10	CASP8	caspase 8 [Source:HGNC Symbol;Acc:HGNC:1509]	2269	0.3658818304538727	0.41791195	Yes	
+row_11	CYCS	cytochrome c, somatic [Source:HGNC Symbol;Acc:HGNC:19986]	2294	0.3634500503540039	0.44379053	Yes	
+row_12	CASP3	caspase 3 [Source:HGNC Symbol;Acc:HGNC:1504]	3571	0.25271257758140564	0.39456	No	
+row_13	EIF4G3	eukaryotic translation initiation factor 4 gamma 3 [Source:HGNC Symbol;Acc:HGNC:3298]	3624	0.24932077527046204	0.4104153	No	
+row_14	MYH14	myosin heavy chain 14 [Source:HGNC Symbol;Acc:HGNC:23212]	4078	0.22249475121498108	0.40285987	No	
+row_15	ABL1	ABL proto-oncogene 1, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:76]	4836	0.17860983312129974	0.37579697	No	
+row_16	CASP9	caspase 9 [Source:HGNC Symbol;Acc:HGNC:1511]	5397	0.14822420477867126	0.35697964	No	
+row_17	CD40	CD40 molecule [Source:HGNC Symbol;Acc:HGNC:11919]	6130	0.11677700281143188	0.32663065	No	
+row_18	ICAM1	intercellular adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5344]	6408	0.10457420349121094	0.3196585	No	
+row_19	SGCB	sarcoglycan beta [Source:HGNC Symbol;Acc:HGNC:10806]	6883	0.0853104293346405	0.3007306	No	
+row_20	ITGB2	integrin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6155]	6950	0.08315188437700272	0.30342114	No	
+row_21	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	7922	0.04768813028931618	0.2551511	No	
+row_22	ABL2	ABL proto-oncogene 2, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:77]	9020	0.007823857478797436	0.197176	No	
+row_23	RAC1	Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	9531	-0.009687976911664009	0.17067526	No	
+row_24	CAV1	caveolin 1 [Source:HGNC Symbol;Acc:HGNC:1527]	9619	-0.012893207371234894	0.16699453	No	
+row_25	EIF4G1	eukaryotic translation initiation factor 4 gamma 1 [Source:HGNC Symbol;Acc:HGNC:3296]	10168	-0.031199585646390915	0.14007281	No	
+row_26	MYH9	myosin heavy chain 9 [Source:HGNC Symbol;Acc:HGNC:7579]	10462	-0.04147760570049286	0.12753148	No	
+row_27	EIF4G2	eukaryotic translation initiation factor 4 gamma 2 [Source:HGNC Symbol;Acc:HGNC:3297]	10876	-0.05567814037203789	0.109645516	No	
+row_28	MYH10	myosin heavy chain 10 [Source:HGNC Symbol;Acc:HGNC:7568]	11124	-0.06377851963043213	0.10122624	No	
+row_29	MYH15	myosin heavy chain 15 [Source:HGNC Symbol;Acc:HGNC:31073]	11538	-0.07848590612411499	0.085044645	No	
+row_30	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	12097	-0.0976458340883255	0.06255447	No	
+row_31	SGCA	sarcoglycan alpha [Source:HGNC Symbol;Acc:HGNC:10805]	13390	-0.1495508849620819	0.004760847	No	
+row_32	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	13465	-0.1528988629579544	0.012236357	No	
+row_33	DAG1	dystroglycan 1 [Source:HGNC Symbol;Acc:HGNC:2666]	13534	-0.15671202540397644	0.020317106	No	
+row_34	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	14900	-0.22754688560962677	-0.03554494	No	
+row_35	BID	BH3 interacting domain death agonist [Source:HGNC Symbol;Acc:HGNC:1050]	15202	-0.2458934634923935	-0.033237822	No	
+row_36	ITGAL	integrin subunit alpha L [Source:HGNC Symbol;Acc:HGNC:6148]	15219	-0.24725210666656494	-0.015615385	No	
+row_37	RAC3	Rac family small GTPase 3 [Source:HGNC Symbol;Acc:HGNC:9803]	16097	-0.3196432888507843	-0.038545005	No	
+row_38	CD55	CD55 molecule (Cromer blood group) [Source:HGNC Symbol;Acc:HGNC:2665]	16228	-0.33437854051589966	-0.020497337	No	
+row_39	HLA-C	major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	16326	-0.34352314472198486	-4.7214453E-6	No	
+row_40	DMD	dystrophin [Source:HGNC Symbol;Acc:HGNC:2928]	16561	-0.37252452969551086	0.0153418	No	
+row_41	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	17171	-0.4686121940612793	0.017850567	No	
+row_42	MYH3	myosin heavy chain 3 [Source:HGNC Symbol;Acc:HGNC:7573]	18350	-0.9062311053276062	0.022687322	No	

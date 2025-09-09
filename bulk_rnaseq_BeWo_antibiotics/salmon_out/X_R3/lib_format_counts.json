@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /WORKSPACE/rnaseq_mehrdad/fastq/0_rawdata/X_R3_1.fq.gz, /WORKSPACE/rnaseq_mehrdad/fastq/0_rawdata/X_R3_2.fq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 40216077,
+    "num_assigned_fragments": 40216077,
+    "num_frags_with_concordant_consistent_mappings": 39272360,
+    "num_frags_with_inconsistent_or_orphan_mappings": 957440,
+    "strand_mapping_bias": 0.000010490728792966282,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 412,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 39272360,
+    "SF": 461078,
+    "SR": 495950,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

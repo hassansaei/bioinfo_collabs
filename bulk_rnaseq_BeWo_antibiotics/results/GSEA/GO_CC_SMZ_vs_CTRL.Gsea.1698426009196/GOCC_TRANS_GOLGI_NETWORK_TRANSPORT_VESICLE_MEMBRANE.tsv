@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AP1S3	adaptor related protein complex 1 subunit sigma 3 [Source:HGNC Symbol;Acc:HGNC:18971]	177	2.033594846725464	0.24425326	Yes	
+row_1	NRGN	neurogranin [Source:HGNC Symbol;Acc:HGNC:8000]	852	1.2558231353759766	0.36497033	Yes	
+row_2	CLTB	clathrin light chain B [Source:HGNC Symbol;Acc:HGNC:2091]	2457	0.7380744814872742	0.37149492	Yes	
+row_3	CLTCL1	clathrin heavy chain like 1 [Source:HGNC Symbol;Acc:HGNC:2093]	3101	0.6279434561729431	0.41553658	Yes	
+row_4	CLBA1	clathrin binding box of aftiphilin containing 1 [Source:HGNC Symbol;Acc:HGNC:20126]	3257	0.6041668653488159	0.48264012	Yes	
+row_5	AP1G2	adaptor related protein complex 1 subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:556]	4981	0.38553813099861145	0.4388383	No	
+row_6	AP1S2	adaptor related protein complex 1 subunit sigma 2 [Source:HGNC Symbol;Acc:HGNC:560]	5094	0.3725333511829376	0.47933868	No	
+row_7	AP4B1	adaptor related protein complex 4 subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:572]	7291	0.16824650764465332	0.38320142	No	
+row_8	AFTPH	aftiphilin [Source:HGNC Symbol;Acc:HGNC:25951]	8251	0.09305979311466217	0.34366137	No	
+row_9	AP1M1	adaptor related protein complex 1 subunit mu 1 [Source:HGNC Symbol;Acc:HGNC:13667]	9756	-0.022055231034755707	0.26619518	No	
+row_10	CLTA	clathrin light chain A [Source:HGNC Symbol;Acc:HGNC:2090]	9903	-0.03303736820816994	0.26252955	No	
+row_11	AP2A1	adaptor related protein complex 2 subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:561]	10170	-0.051425669342279434	0.25475755	No	
+row_12	AP1M2	adaptor related protein complex 1 subunit mu 2 [Source:HGNC Symbol;Acc:HGNC:558]	10193	-0.05350601673126221	0.2602591	No	
+row_13	AP1B1	adaptor related protein complex 1 subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:554]	10682	-0.0916946679353714	0.24567008	No	
+row_14	NCALD	neurocalcin delta [Source:HGNC Symbol;Acc:HGNC:7655]	10816	-0.10159046202898026	0.2512499	No	
+row_15	AP1G1	adaptor related protein complex 1 subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:555]	13046	-0.2770424783229828	0.16692501	No	
+row_16	SYNRG	synergin gamma [Source:HGNC Symbol;Acc:HGNC:557]	13285	-0.29479658603668213	0.19100729	No	
+row_17	CLTC	clathrin heavy chain [Source:HGNC Symbol;Acc:HGNC:2092]	13752	-0.3411791920661926	0.2087152	No	
+row_18	AP1S1	adaptor related protein complex 1 subunit sigma 1 [Source:HGNC Symbol;Acc:HGNC:559]	14960	-0.4706347584724426	0.20305076	No	

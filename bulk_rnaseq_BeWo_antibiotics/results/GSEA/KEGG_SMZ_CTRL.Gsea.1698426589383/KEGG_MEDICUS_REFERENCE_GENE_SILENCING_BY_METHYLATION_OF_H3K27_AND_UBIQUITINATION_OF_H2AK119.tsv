@@ -1,0 +1,36 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SCML1	Scm polycomb group protein like 1 [Source:HGNC Symbol;Acc:HGNC:10580]	156	2.0188326835632324	0.09947239	Yes	
+row_1	SCML2	Scm polycomb group protein like 2 [Source:HGNC Symbol;Acc:HGNC:10581]	498	1.4843919277191162	0.15887588	Yes	
+row_2	CBX6	chromobox 6 [Source:HGNC Symbol;Acc:HGNC:1556]	1062	1.1019344329833984	0.18416604	Yes	
+row_3	CBX2	chromobox 2 [Source:HGNC Symbol;Acc:HGNC:1552]	1164	1.05683171749115	0.23506483	Yes	
+row_4	EPOP	elongin BC and polycomb repressive complex 2 associated protein [Source:HGNC Symbol;Acc:HGNC:34493]	1286	1.0060889720916748	0.28201145	Yes	
+row_5	CBX7	chromobox 7 [Source:HGNC Symbol;Acc:HGNC:1557]	1567	0.9087928533554077	0.31405675	Yes	
+row_6	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	1861	0.8229159116744995	0.34067884	Yes	
+row_7	PHF19	PHD finger protein 19 [Source:HGNC Symbol;Acc:HGNC:24566]	2280	0.7230517268180847	0.35432476	Yes	
+row_8	H3-3B	H3.3 histone B [Source:HGNC Symbol;Acc:HGNC:4765]	3027	0.59036785364151	0.34090176	No	
+row_9	CBX4	chromobox 4 [Source:HGNC Symbol;Acc:HGNC:1554]	4056	0.4375353157520294	0.3021147	No	
+row_10	CTBP2	C-terminal binding protein 2 [Source:HGNC Symbol;Acc:HGNC:2495]	4928	0.32427752017974854	0.26674554	No	
+row_11	EZH2	enhancer of zeste 2 polycomb repressive complex 2 subunit [Source:HGNC Symbol;Acc:HGNC:3527]	4950	0.32186949253082275	0.28283978	No	
+row_12	EZH1	enhancer of zeste 1 polycomb repressive complex 2 subunit [Source:HGNC Symbol;Acc:HGNC:3526]	5506	0.2641492784023285	0.26340652	No	
+row_13	SUZ12	SUZ12 polycomb repressive complex 2 subunit [Source:HGNC Symbol;Acc:HGNC:17101]	5712	0.24448981881141663	0.2641567	No	
+row_14	PCGF2	polycomb group ring finger 2 [Source:HGNC Symbol;Acc:HGNC:12929]	6219	0.19597181677818298	0.24401864	No	
+row_15	ELOB	elongin B [Source:HGNC Symbol;Acc:HGNC:11619]	6348	0.18383513391017914	0.2461695	No	
+row_16	BMI1	BMI1 proto-oncogene, polycomb ring finger [Source:HGNC Symbol;Acc:HGNC:1066]	6401	0.1784961074590683	0.25264528	No	
+row_17	LCORL	ligand dependent nuclear receptor corepressor like [Source:HGNC Symbol;Acc:HGNC:30776]	7142	0.11476743221282959	0.21392189	No	
+row_18	RBBP7	RB binding protein 7, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9890]	7743	0.06075708568096161	0.18078168	No	
+row_19	CBX8	chromobox 8 [Source:HGNC Symbol;Acc:HGNC:15962]	8232	0.017406834289431572	0.15210037	No	
+row_20	H3-3A	H3.3 histone A [Source:HGNC Symbol;Acc:HGNC:4764]	8444	0.0012070134980604053	0.13935821	No	
+row_21	MTF2	metal response element binding transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:29535]	9802	-0.11452596634626389	0.063171096	No	
+row_22	CTBP1	C-terminal binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2494]	9833	-0.11689778417348862	0.06765825	No	
+row_23	ELOC	elongin C [Source:HGNC Symbol;Acc:HGNC:11617]	10198	-0.14506016671657562	0.053391982	No	
+row_24	RBBP4	RB binding protein 4, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9887]	10594	-0.17989231646060944	0.039123703	No	
+row_25	LCOR	ligand dependent nuclear receptor corepressor [Source:HGNC Symbol;Acc:HGNC:29503]	10840	-0.2011212557554245	0.035105694	No	
+row_26	RNF2	ring finger protein 2 [Source:HGNC Symbol;Acc:HGNC:10061]	11302	-0.2432285100221634	0.020249125	No	
+row_27	AEBP2	AE binding protein 2 [Source:HGNC Symbol;Acc:HGNC:24051]	12054	-0.3225010931491852	-0.007932126	No	
+row_28	PHC3	polyhomeotic homolog 3 [Source:HGNC Symbol;Acc:HGNC:15682]	12509	-0.37692520022392273	-0.015149201	No	
+row_29	PHF1	PHD finger protein 1 [Source:HGNC Symbol;Acc:HGNC:8919]	12802	-0.4104772210121155	-0.010722643	No	
+row_30	PHC2	polyhomeotic homolog 2 [Source:HGNC Symbol;Acc:HGNC:3183]	14097	-0.6008453369140625	-0.056842767	No	
+row_31	EED	embryonic ectoderm development [Source:HGNC Symbol;Acc:HGNC:3188]	14155	-0.6109349131584167	-0.027334973	No	
+row_32	JARID2	jumonji and AT-rich interaction domain containing 2 [Source:HGNC Symbol;Acc:HGNC:6196]	15169	-0.8645747900009155	-0.042167448	No	
+row_33	SCMH1	Scm polycomb group protein homolog 1 [Source:HGNC Symbol;Acc:HGNC:19003]	15284	-0.9158830642700195	3.363276E-4	No	
+row_34	PHC1	polyhomeotic homolog 1 [Source:HGNC Symbol;Acc:HGNC:3182]	16003	-1.3705466985702515	0.030713286	No	

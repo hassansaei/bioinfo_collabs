@@ -1,0 +1,68 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MYH14	myosin heavy chain 14 [Source:HGNC Symbol;Acc:HGNC:23212]	718	1.339969515800476	-0.006192616	No	
+row_1	FSCN1	fascin actin-bundling protein 1 [Source:HGNC Symbol;Acc:HGNC:11148]	1153	1.0978347063064575	-0.0030176654	No	
+row_2	ROR1	receptor tyrosine kinase like orphan receptor 1 [Source:HGNC Symbol;Acc:HGNC:10256]	2718	0.6888596415519714	-0.07009544	No	
+row_3	PDLIM3	PDZ and LIM domain 3 [Source:HGNC Symbol;Acc:HGNC:20767]	3637	0.5469179749488831	-0.10604064	No	
+row_4	TLNRD1	talin rod domain containing 1 [Source:HGNC Symbol;Acc:HGNC:13519]	3703	0.5393275022506714	-0.09655572	No	
+row_5	XIRP1	xin actin binding repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:14301]	3845	0.5212295055389404	-0.091569655	No	
+row_6	PDLIM7	PDZ and LIM domain 7 [Source:HGNC Symbol;Acc:HGNC:22958]	4085	0.488537460565567	-0.09260959	No	
+row_7	MST1R	macrophage stimulating 1 receptor [Source:HGNC Symbol;Acc:HGNC:7381]	4794	0.4083782434463501	-0.12065472	No	
+row_8	MARCKS	myristoylated alanine rich protein kinase C substrate [Source:HGNC Symbol;Acc:HGNC:6759]	5610	0.3143337368965149	-0.15668146	No	
+row_9	SYNPO2	synaptopodin 2 [Source:HGNC Symbol;Acc:HGNC:17732]	5658	0.30972132086753845	-0.15175173	No	
+row_10	MICALL2	MICAL like 2 [Source:HGNC Symbol;Acc:HGNC:29672]	6175	0.26323220133781433	-0.17301805	No	
+row_11	RFLNB	refilin B [Source:HGNC Symbol;Acc:HGNC:28705]	6179	0.2629108130931854	-0.16686042	No	
+row_12	GAS2L1	growth arrest specific 2 like 1 [Source:HGNC Symbol;Acc:HGNC:16955]	6481	0.2351859211921692	-0.17730401	No	
+row_13	PDLIM4	PDZ and LIM domain 4 [Source:HGNC Symbol;Acc:HGNC:16501]	6746	0.21494553983211517	-0.18625551	No	
+row_14	CYBA	cytochrome b-245 alpha chain [Source:HGNC Symbol;Acc:HGNC:2577]	7351	0.16290467977523804	-0.21463846	No	
+row_15	PDLIM1	PDZ and LIM domain 1 [Source:HGNC Symbol;Acc:HGNC:2067]	7539	0.1485588401556015	-0.22106788	No	
+row_16	MYO1C	myosin IC [Source:HGNC Symbol;Acc:HGNC:7597]	8254	0.09280620515346527	-0.2570174	No	
+row_17	PRICKLE4	prickle planar cell polarity protein 4 [Source:HGNC Symbol;Acc:HGNC:16805]	8264	0.09220395982265472	-0.2552829	No	
+row_18	VIL1	villin 1 [Source:HGNC Symbol;Acc:HGNC:12690]	8698	0.0595611110329628	-0.2770054	No	
+row_19	CORO1B	coronin 1B [Source:HGNC Symbol;Acc:HGNC:2253]	8809	0.049845140427351	-0.2816896	No	
+row_20	MYL12B	myosin light chain 12B [Source:HGNC Symbol;Acc:HGNC:29827]	8845	0.0473211370408535	-0.282424	No	
+row_21	TPM3	tropomyosin 3 [Source:HGNC Symbol;Acc:HGNC:12012]	8974	0.03738194331526756	-0.28837022	No	
+row_22	RFLNA	refilin A [Source:HGNC Symbol;Acc:HGNC:27051]	11002	-0.11591722071170807	-0.3939745	No	
+row_23	FHOD1	formin homology 2 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:17905]	11577	-0.15641972422599792	-0.4209091	No	
+row_24	SIPA1L3	signal induced proliferation associated 1 like 3 [Source:HGNC Symbol;Acc:HGNC:23801]	11787	-0.1733057051897049	-0.42792022	No	
+row_25	ILK	integrin linked kinase [Source:HGNC Symbol;Acc:HGNC:6040]	12262	-0.21217772364616394	-0.4481676	No	
+row_26	XIRP2	xin actin binding repeat containing 2 [Source:HGNC Symbol;Acc:HGNC:14303]	12342	-0.21712610125541687	-0.44717416	No	
+row_27	CNN2	calponin 2 [Source:HGNC Symbol;Acc:HGNC:2156]	12795	-0.2539753019809723	-0.46524066	No	
+row_28	FBLIM1	filamin binding LIM protein 1 [Source:HGNC Symbol;Acc:HGNC:24686]	12978	-0.2714047133922577	-0.4684506	No	
+row_29	LCP1	lymphocyte cytosolic protein 1 [Source:HGNC Symbol;Acc:HGNC:6528]	13253	-0.2930178940296173	-0.47606066	No	
+row_30	PDLIM5	PDZ and LIM domain 5 [Source:HGNC Symbol;Acc:HGNC:17468]	13486	-0.31592151522636414	-0.48087445	No	
+row_31	MYLK	myosin light chain kinase [Source:HGNC Symbol;Acc:HGNC:7590]	13771	-0.34334075450897217	-0.4878099	No	
+row_32	MYH10	myosin heavy chain 10 [Source:HGNC Symbol;Acc:HGNC:7568]	13806	-0.347919762134552	-0.48126706	No	
+row_33	PGM5	phosphoglucomutase 5 [Source:HGNC Symbol;Acc:HGNC:8908]	13833	-0.35077595710754395	-0.47422782	No	
+row_34	SYNPO	synaptopodin [Source:HGNC Symbol;Acc:HGNC:30672]	14083	-0.3762418329715729	-0.47850105	No	
+row_35	LIMCH1	LIM and calponin homology domains 1 [Source:HGNC Symbol;Acc:HGNC:29191]	14229	-0.39259302616119385	-0.4768202	No	
+row_36	PRKCZ	protein kinase C zeta [Source:HGNC Symbol;Acc:HGNC:9412]	14308	-0.3984306752681732	-0.47141632	No	
+row_37	ZYX	zyxin [Source:HGNC Symbol;Acc:HGNC:13200]	15063	-0.4815662205219269	-0.5001624	No	
+row_38	MYH9	myosin heavy chain 9 [Source:HGNC Symbol;Acc:HGNC:7579]	15144	-0.4898798167705536	-0.49266788	No	
+row_39	PTK2	protein tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:9611]	15947	-0.6002943515777588	-0.5211275	Yes	
+row_40	PLS3	plastin 3 [Source:HGNC Symbol;Acc:HGNC:9091]	15992	-0.6046127080917358	-0.50895077	Yes	
+row_41	TPM1	tropomyosin 1 [Source:HGNC Symbol;Acc:HGNC:12010]	16071	-0.6176009178161621	-0.49828	Yes	
+row_42	DCTN4	dynactin subunit 4 [Source:HGNC Symbol;Acc:HGNC:15518]	16225	-0.6446049213409424	-0.49097073	Yes	
+row_43	ABLIM1	actin binding LIM protein 1 [Source:HGNC Symbol;Acc:HGNC:78]	16343	-0.6646159887313843	-0.4812556	Yes	
+row_44	SH2B2	SH2B adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:17381]	16439	-0.6845748424530029	-0.4698844	Yes	
+row_45	FHL3	four and a half LIM domains 3 [Source:HGNC Symbol;Acc:HGNC:3704]	16541	-0.7083422541618347	-0.45826286	Yes	
+row_46	FERMT2	FERM domain containing kindlin 2 [Source:HGNC Symbol;Acc:HGNC:15767]	16694	-0.7353055477142334	-0.4487205	Yes	
+row_47	BAG3	BAG cochaperone 3 [Source:HGNC Symbol;Acc:HGNC:939]	16886	-0.7768116593360901	-0.44026616	Yes	
+row_48	LPP	LIM domain containing preferred translocation partner in lipoma [Source:HGNC Symbol;Acc:HGNC:6679]	16936	-0.7889445424079895	-0.42392707	Yes	
+row_49	PXN	paxillin [Source:HGNC Symbol;Acc:HGNC:9718]	17106	-0.8319356441497803	-0.41297162	Yes	
+row_50	GAS2L2	growth arrest specific 2 like 2 [Source:HGNC Symbol;Acc:HGNC:24846]	17309	-0.888042151927948	-0.4024325	Yes	
+row_51	TPM4	tropomyosin 4 [Source:HGNC Symbol;Acc:HGNC:12013]	17360	-0.9076811671257019	-0.38329348	Yes	
+row_52	DAAM1	dishevelled associated activator of morphogenesis 1 [Source:HGNC Symbol;Acc:HGNC:18142]	17409	-0.9292553067207336	-0.3635291	Yes	
+row_53	NEBL	nebulette [Source:HGNC Symbol;Acc:HGNC:16932]	17454	-0.9509423971176147	-0.34302965	Yes	
+row_54	FLNB	filamin B [Source:HGNC Symbol;Acc:HGNC:3755]	17505	-0.9673994779586792	-0.32245556	Yes	
+row_55	MYL9	myosin light chain 9 [Source:HGNC Symbol;Acc:HGNC:15754]	17511	-0.9695561528205872	-0.29942334	Yes	
+row_56	SHROOM4	shroom family member 4 [Source:HGNC Symbol;Acc:HGNC:29215]	17565	-0.995520293712616	-0.27833387	Yes	
+row_57	LIMA1	LIM domain and actin binding 1 [Source:HGNC Symbol;Acc:HGNC:24636]	17580	-1.0018079280853271	-0.25500786	Yes	
+row_58	FLNA	filamin A [Source:HGNC Symbol;Acc:HGNC:3754]	17615	-1.0157835483551025	-0.23241547	Yes	
+row_59	PLS1	plastin 1 [Source:HGNC Symbol;Acc:HGNC:9090]	17619	-1.0164521932601929	-0.20814934	Yes	
+row_60	PDLIM2	PDZ and LIM domain 2 [Source:HGNC Symbol;Acc:HGNC:13992]	17668	-1.04051673412323	-0.1857112	Yes	
+row_61	PALLD	palladin, cytoskeletal associated protein [Source:HGNC Symbol;Acc:HGNC:17068]	17676	-1.043899655342102	-0.16099937	Yes	
+row_62	ACTL8	actin like 8 [Source:HGNC Symbol;Acc:HGNC:24018]	17932	-1.1721832752227783	-0.14646606	Yes	
+row_63	CRYAB	crystallin alpha B [Source:HGNC Symbol;Acc:HGNC:2389]	18159	-1.3290214538574219	-0.12661302	Yes	
+row_64	SORBS1	sorbin and SH3 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:14565]	18357	-1.565059781074524	-0.09953698	Yes	
+row_65	ACTN1	actinin alpha 1 [Source:HGNC Symbol;Acc:HGNC:163]	18383	-1.5855568647384644	-0.062771	Yes	
+row_66	ACTA1	actin alpha 1, skeletal muscle [Source:HGNC Symbol;Acc:HGNC:129]	18761	-3.464296817779541	3.2080163E-4	Yes	

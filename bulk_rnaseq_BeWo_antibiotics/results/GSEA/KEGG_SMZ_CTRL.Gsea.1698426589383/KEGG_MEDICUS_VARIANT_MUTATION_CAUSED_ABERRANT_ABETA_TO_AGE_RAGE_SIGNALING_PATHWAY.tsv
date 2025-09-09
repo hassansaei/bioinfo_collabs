@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AGER	advanced glycosylation end-product specific receptor [Source:HGNC Symbol;Acc:HGNC:320]	4634	0.36229410767555237	-0.23455903	No	
+row_1	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	6338	0.18477848172187805	-0.3141503	No	
+row_2	KRAS	KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	7267	0.10338788479566574	-0.35717586	No	
+row_3	MAP2K2	mitogen-activated protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6842]	7594	0.07470175623893738	-0.3673774	No	
+row_4	NRAS	NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]	9001	-0.045294031500816345	-0.4468176	No	
+row_5	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	9528	-0.09097862988710403	-0.46706057	No	
+row_6	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	10610	-0.18140481412410736	-0.5093753	No	
+row_7	RAF1	Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]	10646	-0.18439659476280212	-0.48789388	No	
+row_8	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	11304	-0.2436649650335312	-0.4965344	No	
+row_9	RELA	RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	12358	-0.3592800199985504	-0.51438314	Yes	
+row_10	ARAF	A-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:646]	12925	-0.4253544509410858	-0.4942501	Yes	
+row_11	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	14326	-0.6418375372886658	-0.49696743	Yes	
+row_12	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	14515	-0.6898874044418335	-0.42005745	Yes	
+row_13	BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	15614	-1.0746053457260132	-0.3490708	Yes	
+row_14	IL6	interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	16489	-3.150475025177002	0.001212448	Yes	

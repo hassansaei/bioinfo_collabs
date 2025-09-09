@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CAMK1	calcium/calmodulin dependent protein kinase I [Source:HGNC Symbol;Acc:HGNC:1459]	2662	0.6527619957923889	-0.10202335	No	
+row_1	CALM2	calmodulin 2 [Source:HGNC Symbol;Acc:HGNC:1445]	2986	0.5981248021125793	-0.06716789	No	
+row_2	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	3756	0.47683534026145935	-0.07040115	No	
+row_3	CALM3	calmodulin 3 [Source:HGNC Symbol;Acc:HGNC:1449]	4034	0.44156381487846375	-0.04700691	No	
+row_4	CAMK2B	calcium/calmodulin dependent protein kinase II beta [Source:HGNC Symbol;Acc:HGNC:1461]	5517	0.26299071311950684	-0.112946294	No	
+row_5	CREB3	cAMP responsive element binding protein 3 [Source:HGNC Symbol;Acc:HGNC:2347]	8158	0.02408767119050026	-0.27086046	No	
+row_6	CREB1	cAMP responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2345]	8363	0.007885235361754894	-0.2825146	No	
+row_7	CAMK2D	calcium/calmodulin dependent protein kinase II delta [Source:HGNC Symbol;Acc:HGNC:1462]	8910	-0.0375392772257328	-0.31221056	No	
+row_8	CAMK4	calcium/calmodulin dependent protein kinase IV [Source:HGNC Symbol;Acc:HGNC:1464]	9313	-0.07322243601083755	-0.3299254	No	
+row_9	CACNA1H	calcium voltage-gated channel subunit alpha1 H [Source:HGNC Symbol;Acc:HGNC:1395]	9372	-0.07790328562259674	-0.32635173	No	
+row_10	CAMK2G	calcium/calmodulin dependent protein kinase II gamma [Source:HGNC Symbol;Acc:HGNC:1463]	9438	-0.08385289460420609	-0.32266107	No	
+row_11	CREB3L4	cAMP responsive element binding protein 3 like 4 [Source:HGNC Symbol;Acc:HGNC:18854]	10014	-0.12973879277706146	-0.34572333	No	
+row_12	CAMK1D	calcium/calmodulin dependent protein kinase ID [Source:HGNC Symbol;Acc:HGNC:19341]	11293	-0.24204297363758087	-0.4011976	No	
+row_13	ATF2	activating transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:784]	11846	-0.29966971278190613	-0.40739706	No	
+row_14	ATF6B	activating transcription factor 6 beta [Source:HGNC Symbol;Acc:HGNC:2349]	12188	-0.33906832337379456	-0.39721385	No	
+row_15	CREB3L3	cAMP responsive element binding protein 3 like 3 [Source:HGNC Symbol;Acc:HGNC:18855]	13160	-0.4556211531162262	-0.41462868	No	
+row_16	ATF4	activating transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:786]	14991	-0.8034130930900574	-0.45248115	Yes	
+row_17	CREB3L2	cAMP responsive element binding protein 3 like 2 [Source:HGNC Symbol;Acc:HGNC:23720]	15897	-1.259765386581421	-0.39269617	Yes	
+row_18	KCNJ5	potassium inwardly rectifying channel subfamily J member 5 [Source:HGNC Symbol;Acc:HGNC:6266]	16073	-1.464994192123413	-0.26995832	Yes	
+row_19	CACNA1D	calcium voltage-gated channel subunit alpha1 D [Source:HGNC Symbol;Acc:HGNC:1391]	16142	-1.5565013885498047	-0.13240184	Yes	
+row_20	CREB3L1	cAMP responsive element binding protein 3 like 1 [Source:HGNC Symbol;Acc:HGNC:18856]	16235	-1.6984179019927979	0.01661706	Yes	

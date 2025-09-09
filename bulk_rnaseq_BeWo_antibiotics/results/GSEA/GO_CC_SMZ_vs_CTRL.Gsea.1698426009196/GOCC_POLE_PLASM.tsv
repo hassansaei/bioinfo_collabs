@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANKRD34A	ankyrin repeat domain 34A [Source:HGNC Symbol;Acc:HGNC:27639]	54	2.5931551456451416	0.24626894	Yes	
+row_1	DDX4	DEAD-box helicase 4 [Source:HGNC Symbol;Acc:HGNC:18700]	413	1.6364049911499023	0.38440236	Yes	
+row_2	PIWIL4	piwi like RNA-mediated gene silencing 4 [Source:HGNC Symbol;Acc:HGNC:18444]	638	1.4109809398651123	0.5080231	Yes	
+row_3	HELZ2	helicase with zinc finger 2 [Source:HGNC Symbol;Acc:HGNC:30021]	3004	0.6427623629570007	0.4436594	No	
+row_4	MOV10	Mov10 RISC complex RNA helicase [Source:HGNC Symbol;Acc:HGNC:7200]	4853	0.4023561179637909	0.38376802	No	
+row_5	SNRPGP15	small nuclear ribonucleoprotein polypeptide G pseudogene 15 [Source:HGNC Symbol;Acc:HGNC:49371]	5166	0.36525940895080566	0.40222368	No	
+row_6	TDRD1	tudor domain containing 1 [Source:HGNC Symbol;Acc:HGNC:11712]	5684	0.307121604681015	0.40416133	No	
+row_7	TDRKH	tudor and KH domain containing [Source:HGNC Symbol;Acc:HGNC:11713]	5937	0.2842312455177307	0.4180315	No	
+row_8	PIWIL2	piwi like RNA-mediated gene silencing 2 [Source:HGNC Symbol;Acc:HGNC:17644]	6700	0.21754240989685059	0.39829716	No	
+row_9	DDX3X	DEAD-box helicase 3 X-linked [Source:HGNC Symbol;Acc:HGNC:2745]	9360	0.00648051593452692	0.25712162	No	
+row_10	SNRPG	small nuclear ribonucleoprotein polypeptide G [Source:HGNC Symbol;Acc:HGNC:11163]	9364	0.006053330842405558	0.25754324	No	
+row_11	EXD1	exonuclease 3'-5' domain containing 1 [Source:HGNC Symbol;Acc:HGNC:28507]	9658	-0.013868735171854496	0.24325073	No	
+row_12	CARHSP1	calcium regulated heat stable protein 1 [Source:HGNC Symbol;Acc:HGNC:17150]	11211	-0.13149823248386383	0.17312048	No	
+row_13	DDX3Y	DEAD-box helicase 3 Y-linked [Source:HGNC Symbol;Acc:HGNC:2699]	11866	-0.18001814186573029	0.15554024	No	
+row_14	PIWIL3	piwi like RNA-mediated gene silencing 3 [Source:HGNC Symbol;Acc:HGNC:18443]	17669	-1.0408692359924316	-0.053860724	No	
+row_15	HELZ	helicase with zinc finger [Source:HGNC Symbol;Acc:HGNC:16878]	17926	-1.16946280002594	0.044848617	No	

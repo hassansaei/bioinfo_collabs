@@ -1,0 +1,59 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PHLPP2	PH domain and leucine rich repeat protein phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:29149]	151	2.0862770080566406	0.046525706	Yes	
+row_1	SCNN1A	sodium channel epithelial 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:10599]	256	1.8300045728683472	0.08885699	Yes	
+row_2	PKD2	polycystin 2, transient receptor potential cation channel [Source:HGNC Symbol;Acc:HGNC:9009]	272	1.8116581439971924	0.13546497	Yes	
+row_3	CNGA4	cyclic nucleotide gated channel subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:2152]	327	1.726698875427246	0.17776519	Yes	
+row_4	GPR161	G protein-coupled receptor 161 [Source:HGNC Symbol;Acc:HGNC:23694]	661	1.3880748748779297	0.19629206	Yes	
+row_5	SMO	smoothened, frizzled class receptor [Source:HGNC Symbol;Acc:HGNC:11119]	699	1.3530802726745605	0.22972357	Yes	
+row_6	CNGB1	cyclic nucleotide gated channel subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:2151]	869	1.2403708696365356	0.25315052	Yes	
+row_7	BBS5	Bardet-Biedl syndrome 5 [Source:HGNC Symbol;Acc:HGNC:970]	943	1.1962387561798096	0.2805535	Yes	
+row_8	ADCY3	adenylate cyclase 3 [Source:HGNC Symbol;Acc:HGNC:234]	992	1.1691243648529053	0.3085831	Yes	
+row_9	CYS1	cystin 1 [Source:HGNC Symbol;Acc:HGNC:18525]	999	1.165964126586914	0.3387748	Yes	
+row_10	ARL13B	ADP ribosylation factor like GTPase 13B [Source:HGNC Symbol;Acc:HGNC:25419]	1756	0.8973882794380188	0.32185256	Yes	
+row_11	BBS7	Bardet-Biedl syndrome 7 [Source:HGNC Symbol;Acc:HGNC:18758]	2192	0.7909694910049438	0.31930202	Yes	
+row_12	TMEM17	transmembrane protein 17 [Source:HGNC Symbol;Acc:HGNC:26623]	2414	0.7462549805641174	0.32701907	Yes	
+row_13	CLTB	clathrin light chain B [Source:HGNC Symbol;Acc:HGNC:2091]	2457	0.7380744814872742	0.34408912	Yes	
+row_14	EVC	EvC ciliary complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:3497]	3016	0.6412621736526489	0.33104685	Yes	
+row_15	MOSMO	modulator of smoothened [Source:HGNC Symbol;Acc:HGNC:27087]	3147	0.6207786798477173	0.34034398	Yes	
+row_16	MXRA8	matrix remodeling associated 8 [Source:HGNC Symbol;Acc:HGNC:7542]	3435	0.5787624716758728	0.34015036	Yes	
+row_17	BBS4	Bardet-Biedl syndrome 4 [Source:HGNC Symbol;Acc:HGNC:969]	3488	0.568782389163971	0.35225567	Yes	
+row_18	EHD3	EH domain containing 3 [Source:HGNC Symbol;Acc:HGNC:3244]	3553	0.5584203600883484	0.36344847	Yes	
+row_19	CASK	calcium/calmodulin dependent serine protein kinase [Source:HGNC Symbol;Acc:HGNC:1497]	3871	0.5186425447463989	0.36007816	No	
+row_20	EHD1	EH domain containing 1 [Source:HGNC Symbol;Acc:HGNC:3242]	4574	0.4307793080806732	0.33383128	No	
+row_21	EFCAB7	EF-hand calcium binding domain 7 [Source:HGNC Symbol;Acc:HGNC:29379]	4773	0.41124364733695984	0.33401063	No	
+row_22	GUCY2D	guanylate cyclase 2D, retinal [Source:HGNC Symbol;Acc:HGNC:4689]	4852	0.40239065885543823	0.34037197	No	
+row_23	TMEM67	transmembrane protein 67 [Source:HGNC Symbol;Acc:HGNC:28396]	5087	0.3733055889606476	0.3376344	No	
+row_24	TXNDC15	thioredoxin domain containing 15 [Source:HGNC Symbol;Acc:HGNC:20652]	5173	0.3648923933506012	0.34264034	No	
+row_25	GNAT2	G protein subunit alpha transducin 2 [Source:HGNC Symbol;Acc:HGNC:4394]	5757	0.3011552095413208	0.31936154	No	
+row_26	SHANK3	SH3 and multiple ankyrin repeat domains 3 [Source:HGNC Symbol;Acc:HGNC:14294]	6149	0.26485487818717957	0.30539465	No	
+row_27	BBS2	Bardet-Biedl syndrome 2 [Source:HGNC Symbol;Acc:HGNC:967]	6274	0.2541576027870178	0.3054183	No	
+row_28	BBS1	Bardet-Biedl syndrome 1 [Source:HGNC Symbol;Acc:HGNC:966]	7312	0.1668820083141327	0.25436056	No	
+row_29	FFAR4	free fatty acid receptor 4 [Source:HGNC Symbol;Acc:HGNC:19061]	7502	0.15113577246665955	0.24821413	No	
+row_30	TMEM231	transmembrane protein 231 [Source:HGNC Symbol;Acc:HGNC:37234]	8263	0.09231679141521454	0.21000999	No	
+row_31	IQCE	IQ motif containing E [Source:HGNC Symbol;Acc:HGNC:29171]	8901	0.04312418773770332	0.17709255	No	
+row_32	TCTN3	tectonic family member 3 [Source:HGNC Symbol;Acc:HGNC:24519]	8948	0.039529960602521896	0.17566845	No	
+row_33	TTC8	tetratricopeptide repeat domain 8 [Source:HGNC Symbol;Acc:HGNC:20087]	10514	-0.07792790979146957	0.09406265	No	
+row_34	DRD2	dopamine receptor D2 [Source:HGNC Symbol;Acc:HGNC:3023]	10969	-0.1130935400724411	0.07275712	No	
+row_35	BBIP1	BBSome interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:28093]	11110	-0.1245247945189476	0.068533204	No	
+row_36	TSPEAR	thrombospondin type laminin G domain and EAR repeats [Source:HGNC Symbol;Acc:HGNC:1268]	11139	-0.12647880613803864	0.070346534	No	
+row_37	BBS9	Bardet-Biedl syndrome 9 [Source:HGNC Symbol;Acc:HGNC:30000]	11298	-0.13705532252788544	0.06548848	No	
+row_38	RAB8A	RAB8A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:7007]	11408	-0.14479337632656097	0.06345185	No	
+row_39	CNGA1	cyclic nucleotide gated channel subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:2148]	11862	-0.17974549531936646	0.043943997	No	
+row_40	TCTN2	tectonic family member 2 [Source:HGNC Symbol;Acc:HGNC:25774]	13010	-0.274312824010849	-0.010181563	No	
+row_41	MCHR1	melanin concentrating hormone receptor 1 [Source:HGNC Symbol;Acc:HGNC:4479]	13139	-0.2849891185760498	-0.009564879	No	
+row_42	PKD1	polycystin 1, transient receptor potential channel interacting [Source:HGNC Symbol;Acc:HGNC:9008]	13627	-0.32846078276634216	-0.026998177	No	
+row_43	TAS2R4	taste 2 receptor member 4 [Source:HGNC Symbol;Acc:HGNC:14911]	13670	-0.3330302834510803	-0.020527821	No	
+row_44	NAPEPLD	N-acyl phosphatidylethanolamine phospholipase D [Source:HGNC Symbol;Acc:HGNC:21683]	13903	-0.35824745893478394	-0.023552548	No	
+row_45	SNAP29	synaptosome associated protein 29 [Source:HGNC Symbol;Acc:HGNC:11133]	14482	-0.41737401485443115	-0.043522764	No	
+row_46	PTCH1	patched 1 [Source:HGNC Symbol;Acc:HGNC:9585]	14576	-0.426800012588501	-0.03732434	No	
+row_47	ROM1	retinal outer segment membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:10254]	14957	-0.47043734788894653	-0.045323353	No	
+row_48	SHANK2	SH3 and multiple ankyrin repeat domains 2 [Source:HGNC Symbol;Acc:HGNC:14295]	15285	-0.5086830854415894	-0.049488794	No	
+row_49	PROM2	prominin 2 [Source:HGNC Symbol;Acc:HGNC:20685]	15808	-0.5794762969017029	-0.062223867	No	
+row_50	GPI	glucose-6-phosphate isomerase [Source:HGNC Symbol;Acc:HGNC:4458]	16001	-0.6062796711921692	-0.05661989	No	
+row_51	GPR37L1	G protein-coupled receptor 37 like 1 [Source:HGNC Symbol;Acc:HGNC:14923]	17324	-0.8939263820648193	-0.10388393	No	
+row_52	PDE6G	phosphodiesterase 6G [Source:HGNC Symbol;Acc:HGNC:8789]	17383	-0.916732668876648	-0.08299369	No	
+row_53	GPR157	G protein-coupled receptor 157 [Source:HGNC Symbol;Acc:HGNC:23687]	17401	-0.9252287149429321	-0.059689775	No	
+row_54	PDE6B	phosphodiesterase 6B [Source:HGNC Symbol;Acc:HGNC:8786]	17726	-1.0641876459121704	-0.04915775	No	
+row_55	PRCD	photoreceptor disc component [Source:HGNC Symbol;Acc:HGNC:32528]	17845	-1.1197433471679688	-0.026161721	No	
+row_56	PKD1L1	polycystin 1 like 1, transient receptor potential channel interacting [Source:HGNC Symbol;Acc:HGNC:18053]	17907	-1.155412197113037	8.1423525E-4	No	
+row_57	DHRS3	dehydrogenase/reductase 3 [Source:HGNC Symbol;Acc:HGNC:17693]	18470	-1.723288655281067	0.015873954	No	

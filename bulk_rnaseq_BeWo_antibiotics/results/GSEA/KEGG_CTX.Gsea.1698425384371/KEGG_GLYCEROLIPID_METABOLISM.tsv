@@ -1,0 +1,43 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GK	glycerol kinase [Source:HGNC Symbol;Acc:HGNC:4289]	1724	0.43703535199165344	-0.056673735	No	
+row_1	MBOAT1	membrane bound O-acyltransferase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21579]	2262	0.36632996797561646	-0.055706035	No	
+row_2	DGKQ	diacylglycerol kinase theta [Source:HGNC Symbol;Acc:HGNC:2856]	2386	0.35361143946647644	-0.033668272	No	
+row_3	DGKI	diacylglycerol kinase iota [Source:HGNC Symbol;Acc:HGNC:2855]	2679	0.32395413517951965	-0.023050498	No	
+row_4	ALDH3A2	aldehyde dehydrogenase 3 family member A2 [Source:HGNC Symbol;Acc:HGNC:403]	2709	0.3215622305870056	0.0014124425	No	
+row_5	TKFC	triokinase and FMN cyclase [Source:HGNC Symbol;Acc:HGNC:24552]	4292	0.20995564758777618	-0.06604979	No	
+row_6	GPAM	glycerol-3-phosphate acyltransferase, mitochondrial [Source:HGNC Symbol;Acc:HGNC:24865]	4933	0.17311790585517883	-0.0862089	No	
+row_7	MBOAT2	membrane bound O-acyltransferase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:25193]	4957	0.17214874923229218	-0.07351163	No	
+row_8	AGPAT3	1-acylglycerol-3-phosphate O-acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:326]	4992	0.16996057331562042	-0.06157853	No	
+row_9	GLA	galactosidase alpha [Source:HGNC Symbol;Acc:HGNC:4296]	5272	0.15391412377357483	-0.06402124	No	
+row_10	GLYCTK	glycerate kinase [Source:HGNC Symbol;Acc:HGNC:24247]	7110	0.07757561653852463	-0.15580322	No	
+row_11	AGK	acylglycerol kinase [Source:HGNC Symbol;Acc:HGNC:21869]	7199	0.07405667006969452	-0.15451017	No	
+row_12	DGKA	diacylglycerol kinase alpha [Source:HGNC Symbol;Acc:HGNC:2849]	7306	0.07018744200468063	-0.15449092	No	
+row_13	DGAT1	diacylglycerol O-acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2843]	8968	0.009404873475432396	-0.2423925	No	
+row_14	AGPAT2	1-acylglycerol-3-phosphate O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:325]	9686	-0.015073172748088837	-0.2794459	No	
+row_15	ALDH9A1	aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	9929	-0.02379859983921051	-0.29043853	No	
+row_16	GPAT4	glycerol-3-phosphate acyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:20880]	10671	-0.0488976426422596	-0.326037	No	
+row_17	PLPP3	phospholipid phosphatase 3 [Source:HGNC Symbol;Acc:HGNC:9229]	11201	-0.06656945496797562	-0.34888968	No	
+row_18	AGPAT4	1-acylglycerol-3-phosphate O-acyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:20885]	11405	-0.07380353659391403	-0.35375568	No	
+row_19	PLPP1	phospholipid phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:9228]	11747	-0.08534633368253708	-0.36505428	No	
+row_20	PNLIPRP2	pancreatic lipase related protein 2 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:9157]	12546	-0.11382631212472916	-0.39844328	No	
+row_21	LCLAT1	lysocardiolipin acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:26756]	12956	-0.13091377913951874	-0.40968573	No	
+row_22	DGKE	diacylglycerol kinase epsilon [Source:HGNC Symbol;Acc:HGNC:2852]	13079	-0.13574951887130737	-0.4052173	No	
+row_23	PLPP2	phospholipid phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:9230]	13126	-0.13783249258995056	-0.39652354	No	
+row_24	AGPAT1	1-acylglycerol-3-phosphate O-acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:324]	13255	-0.143488809466362	-0.39174935	No	
+row_25	PNPLA3	patatin like phospholipase domain containing 3 [Source:HGNC Symbol;Acc:HGNC:18590]	13261	-0.1436934918165207	-0.38039297	No	
+row_26	AKR1A1	aldo-keto reductase family 1 member A1 [Source:HGNC Symbol;Acc:HGNC:380]	14090	-0.18183022737503052	-0.40988258	No	
+row_27	ALDH1B1	aldehyde dehydrogenase 1 family member B1 [Source:HGNC Symbol;Acc:HGNC:407]	14300	-0.19334547221660614	-0.4053992	No	
+row_28	DGKZ	diacylglycerol kinase zeta [Source:HGNC Symbol;Acc:HGNC:2857]	14333	-0.19496546685695648	-0.3913367	No	
+row_29	ALDH7A1	aldehyde dehydrogenase 7 family member A1 [Source:HGNC Symbol;Acc:HGNC:877]	15115	-0.2406407743692398	-0.41356036	No	
+row_30	CEL	carboxyl ester lipase [Source:HGNC Symbol;Acc:HGNC:1848]	15236	-0.24840104579925537	-0.39987284	No	
+row_31	MGLL	monoglyceride lipase [Source:HGNC Symbol;Acc:HGNC:17038]	16346	-0.3446909189224243	-0.43118826	Yes	
+row_32	DGKH	diacylglycerol kinase eta [Source:HGNC Symbol;Acc:HGNC:2854]	16702	-0.39298975467681885	-0.4183491	Yes	
+row_33	ALDH2	aldehyde dehydrogenase 2 family member [Source:HGNC Symbol;Acc:HGNC:404]	17019	-0.4424206018447876	-0.39942977	Yes	
+row_34	DGKD	diacylglycerol kinase delta [Source:HGNC Symbol;Acc:HGNC:2851]	17419	-0.5154609680175781	-0.37903267	Yes	
+row_35	AKR1B1	aldo-keto reductase family 1 member B [Source:HGNC Symbol;Acc:HGNC:381]	17543	-0.546482264995575	-0.34139374	Yes	
+row_36	DGAT2	diacylglycerol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:16940]	17546	-0.546965479850769	-0.29725686	Yes	
+row_37	GPAT3	glycerol-3-phosphate acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:28157]	17653	-0.5712579488754272	-0.2567064	Yes	
+row_38	LIPC	lipase C, hepatic type [Source:HGNC Symbol;Acc:HGNC:6619]	18187	-0.806967556476593	-0.21988234	Yes	
+row_39	DGKG	diacylglycerol kinase gamma [Source:HGNC Symbol;Acc:HGNC:2853]	18202	-0.8142684102058411	-0.15476407	Yes	
+row_40	LIPG	lipase G, endothelial type [Source:HGNC Symbol;Acc:HGNC:6623]	18501	-1.036912441253662	-0.086795904	Yes	
+row_41	GPAT2	glycerol-3-phosphate acyltransferase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:27168]	18632	-1.2531728744506836	0.0076330635	Yes	

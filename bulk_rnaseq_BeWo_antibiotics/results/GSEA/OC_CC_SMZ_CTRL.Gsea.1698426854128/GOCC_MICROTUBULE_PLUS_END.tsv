@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLAIN1	SLAIN motif family member 1 [Source:HGNC Symbol;Acc:HGNC:26387]	7	3.118934392929077	0.30537254	Yes	
+row_1	MAPRE2	microtubule associated protein RP/EB family member 2 [Source:HGNC Symbol;Acc:HGNC:6891]	387	1.6144909858703613	0.4406809	Yes	
+row_2	CLIP3	CAP-Gly domain containing linker protein 3 [Source:HGNC Symbol;Acc:HGNC:24314]	723	1.297270655632019	0.5475557	Yes	
+row_3	KIF18B	kinesin family member 18B [Source:HGNC Symbol;Acc:HGNC:27102]	3234	0.5563934445381165	0.4498848	No	
+row_4	MAPRE3	microtubule associated protein RP/EB family member 3 [Source:HGNC Symbol;Acc:HGNC:6892]	3800	0.4703601896762848	0.46173617	No	
+row_5	KNSTRN	kinetochore localized astrin (SPAG5) binding protein [Source:HGNC Symbol;Acc:HGNC:30767]	4051	0.43818411231040955	0.48953646	No	
+row_6	CLIP1	CAP-Gly domain containing linker protein 1 [Source:HGNC Symbol;Acc:HGNC:10461]	5329	0.2821909487247467	0.43975842	No	
+row_7	GAS2L1	growth arrest specific 2 like 1 [Source:HGNC Symbol;Acc:HGNC:16955]	5609	0.25350332260131836	0.44769287	No	
+row_8	CLIP2	CAP-Gly domain containing linker protein 2 [Source:HGNC Symbol;Acc:HGNC:2586]	5862	0.23031756281852722	0.45499152	No	
+row_9	TBCB	tubulin folding cofactor B [Source:HGNC Symbol;Acc:HGNC:1989]	7155	0.1142171248793602	0.3878347	No	
+row_10	KIF2C	kinesin family member 2C [Source:HGNC Symbol;Acc:HGNC:6393]	8199	0.02042587287724018	0.3265831	No	
+row_11	NUMA1	nuclear mitotic apparatus protein 1 [Source:HGNC Symbol;Acc:HGNC:8059]	8574	-0.01055943313986063	0.3049366	No	
+row_12	DST	dystonin [Source:HGNC Symbol;Acc:HGNC:1090]	8648	-0.01644599251449108	0.30212185	No	
+row_13	NCKAP5L	NCK associated protein 5 like [Source:HGNC Symbol;Acc:HGNC:29321]	8912	-0.037608157843351364	0.28985915	No	
+row_14	DCTN1	dynactin subunit 1 [Source:HGNC Symbol;Acc:HGNC:2711]	8913	-0.037668462842702866	0.29355234	No	
+row_15	MAPRE1	microtubule associated protein RP/EB family member 1 [Source:HGNC Symbol;Acc:HGNC:6890]	10590	-0.17929573357105255	0.20948794	No	
+row_16	CDK5RAP2	CDK5 regulatory subunit associated protein 2 [Source:HGNC Symbol;Acc:HGNC:18672]	10987	-0.21298541128635406	0.20635417	No	
+row_17	CLASP1	cytoplasmic linker associated protein 1 [Source:HGNC Symbol;Acc:HGNC:17088]	11211	-0.23366816341876984	0.21574008	No	
+row_18	CKAP5	cytoskeleton associated protein 5 [Source:HGNC Symbol;Acc:HGNC:28959]	12138	-0.33286985754966736	0.19221778	No	
+row_19	SLAIN2	SLAIN motif family member 2 [Source:HGNC Symbol;Acc:HGNC:29282]	12334	-0.3562215268611908	0.21531758	No	
+row_20	SPAG5	sperm associated antigen 5 [Source:HGNC Symbol;Acc:HGNC:13452]	12598	-0.3857499361038208	0.23718855	No	

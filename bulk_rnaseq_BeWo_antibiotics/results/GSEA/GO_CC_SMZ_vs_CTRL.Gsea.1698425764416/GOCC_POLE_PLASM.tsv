@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANKRD34A	ankyrin repeat domain 34A [Source:HGNC Symbol;Acc:HGNC:27639]	54	2.5931551456451416	0.22788568	Yes	
+row_1	DDX4	DEAD-box helicase 4 [Source:HGNC Symbol;Acc:HGNC:18700]	413	1.6364049911499023	0.3544248	Yes	
+row_2	PIWIL4	piwi like RNA-mediated gene silencing 4 [Source:HGNC Symbol;Acc:HGNC:18444]	638	1.4109809398651123	0.46804675	Yes	
+row_3	TDRD7	tudor domain containing 7 [Source:HGNC Symbol;Acc:HGNC:30831]	2027	0.8291817903518677	0.4678443	Yes	
+row_4	HELZ2	helicase with zinc finger 2 [Source:HGNC Symbol;Acc:HGNC:30021]	3007	0.6427623629570007	0.4728553	Yes	
+row_5	MOV10	Mov10 RISC complex RNA helicase [Source:HGNC Symbol;Acc:HGNC:7200]	4857	0.4023561179637909	0.41009486	No	
+row_6	SNRPGP15	small nuclear ribonucleoprotein polypeptide G pseudogene 15 [Source:HGNC Symbol;Acc:HGNC:49371]	5170	0.36525940895080566	0.4259672	No	
+row_7	TDRD1	tudor domain containing 1 [Source:HGNC Symbol;Acc:HGNC:11712]	5688	0.307121604681015	0.42573777	No	
+row_8	TDRKH	tudor and KH domain containing [Source:HGNC Symbol;Acc:HGNC:11713]	5941	0.2842312455177307	0.4375979	No	
+row_9	PIWIL2	piwi like RNA-mediated gene silencing 2 [Source:HGNC Symbol;Acc:HGNC:17644]	6704	0.21754240989685059	0.41633645	No	
+row_10	DDX3X	DEAD-box helicase 3 X-linked [Source:HGNC Symbol;Acc:HGNC:2745]	9367	0.00648051593452692	0.27500793	No	
+row_11	SNRPG	small nuclear ribonucleoprotein polypeptide G [Source:HGNC Symbol;Acc:HGNC:11163]	9371	0.006053330842405558	0.2753867	No	
+row_12	EXD1	exonuclease 3'-5' domain containing 1 [Source:HGNC Symbol;Acc:HGNC:28507]	9665	-0.013868735171854496	0.2610017	No	
+row_13	CARHSP1	calcium regulated heat stable protein 1 [Source:HGNC Symbol;Acc:HGNC:17150]	11218	-0.13149823248386383	0.18997006	No	
+row_14	DDX3Y	DEAD-box helicase 3 Y-linked [Source:HGNC Symbol;Acc:HGNC:2699]	11873	-0.18001814186573029	0.17112657	No	
+row_15	PIWIL3	piwi like RNA-mediated gene silencing 3 [Source:HGNC Symbol;Acc:HGNC:18443]	17676	-1.0408692359924316	-0.045538254	No	
+row_16	HELZ	helicase with zinc finger [Source:HGNC Symbol;Acc:HGNC:16878]	17933	-1.16946280002594	0.044885203	No	

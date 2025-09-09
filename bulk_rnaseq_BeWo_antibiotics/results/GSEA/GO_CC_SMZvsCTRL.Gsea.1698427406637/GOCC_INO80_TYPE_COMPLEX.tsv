@@ -1,0 +1,27 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACTR5	actin related protein 5 [Source:HGNC Symbol;Acc:HGNC:14671]	5168	0.36538776755332947	-0.23460515	No	
+row_1	ZNHIT1	zinc finger HIT-type containing 1 [Source:HGNC Symbol;Acc:HGNC:21688]	7287	0.16937974095344543	-0.32854915	No	
+row_2	TFPT	TCF3 fusion partner [Source:HGNC Symbol;Acc:HGNC:13630]	7822	0.12600640952587128	-0.3428826	No	
+row_3	ACTR6	actin related protein 6 [Source:HGNC Symbol;Acc:HGNC:24025]	8024	0.11168325692415237	-0.3410641	No	
+row_4	INO80E	INO80 complex subunit E [Source:HGNC Symbol;Acc:HGNC:26905]	8093	0.10565129667520523	-0.33282945	No	
+row_5	UCHL5	ubiquitin C-terminal hydrolase L5 [Source:HGNC Symbol;Acc:HGNC:19678]	9195	0.019658342003822327	-0.38934243	No	
+row_6	BRD8	bromodomain containing 8 [Source:HGNC Symbol;Acc:HGNC:19874]	9214	0.017806299030780792	-0.38830337	No	
+row_7	ACTL6A	actin like 6A [Source:HGNC Symbol;Acc:HGNC:24124]	9465	-6.14686228800565E-4	-0.40156767	No	
+row_8	CFDP1	craniofacial development protein 1 [Source:HGNC Symbol;Acc:HGNC:1873]	9823	-0.027307594195008278	-0.4175419	No	
+row_9	ING3	inhibitor of growth family member 3 [Source:HGNC Symbol;Acc:HGNC:14587]	11754	-0.17088396847248077	-0.5012904	No	
+row_10	RUVBL1	RuvB like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	12746	-0.2487514615058899	-0.52621675	Yes	
+row_11	EP400	E1A binding protein p400 [Source:HGNC Symbol;Acc:HGNC:11958]	12950	-0.26746630668640137	-0.5070154	Yes	
+row_12	DMAP1	DNA methyltransferase 1 associated protein 1 [Source:HGNC Symbol;Acc:HGNC:18291]	13137	-0.2842457890510559	-0.48502356	Yes	
+row_13	RUVBL2	RuvB like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	13221	-0.28999802470207214	-0.45689258	Yes	
+row_14	YY1	YY1 transcription factor [Source:HGNC Symbol;Acc:HGNC:12856]	13437	-0.3088878393173218	-0.4336809	Yes	
+row_15	SRCAP	Snf2 related CREBBP activator protein [Source:HGNC Symbol;Acc:HGNC:16974]	13549	-0.32102254033088684	-0.4035602	Yes	
+row_16	INO80B	INO80 complex subunit B [Source:HGNC Symbol;Acc:HGNC:13324]	13815	-0.34800851345062256	-0.37862316	Yes	
+row_17	ACTR8	actin related protein 8 [Source:HGNC Symbol;Acc:HGNC:14672]	14555	-0.42364224791526794	-0.37047482	Yes	
+row_18	INO80D	INO80 complex subunit D [Source:HGNC Symbol;Acc:HGNC:25997]	14600	-0.4281804859638214	-0.32475033	Yes	
+row_19	TRRAP	transformation/transcription domain associated protein [Source:HGNC Symbol;Acc:HGNC:12347]	15227	-0.5006874799728394	-0.30192557	Yes	
+row_20	MCRS1	microspherule protein 1 [Source:HGNC Symbol;Acc:HGNC:6960]	15838	-0.5833852291107178	-0.26896316	Yes	
+row_21	ANP32E	acidic nuclear phosphoprotein 32 family member E [Source:HGNC Symbol;Acc:HGNC:16673]	15874	-0.5884215831756592	-0.20476864	Yes	
+row_22	NFRKB	nuclear factor related to kappaB binding protein [Source:HGNC Symbol;Acc:HGNC:7802]	16537	-0.7057319283485413	-0.16084388	Yes	
+row_23	INO80	INO80 complex ATPase subunit [Source:HGNC Symbol;Acc:HGNC:26956]	16556	-0.7097048163414001	-0.08212641	Yes	
+row_24	INO80C	INO80 complex subunit C [Source:HGNC Symbol;Acc:HGNC:26994]	16917	-0.7825779318809509	-0.013467599	Yes	
+row_25	KAT5	lysine acetyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:5275]	17588	-1.0021305084228516	0.06330671	Yes	

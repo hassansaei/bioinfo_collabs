@@ -1,0 +1,52 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TRNP1	TMF1 regulated nuclear protein 1 [Source:HGNC Symbol;Acc:HGNC:34348]	237	1.8734689950942993	0.047524035	No	
+row_1	PADI2	peptidyl arginine deiminase 2 [Source:HGNC Symbol;Acc:HGNC:18341]	891	1.225941777229309	0.052020084	No	
+row_2	UHRF1	ubiquitin like with PHD and ring finger domains 1 [Source:HGNC Symbol;Acc:HGNC:12556]	1037	1.1477830410003662	0.08114634	No	
+row_3	JAK2	Janus kinase 2 [Source:HGNC Symbol;Acc:HGNC:6192]	1259	1.0581260919570923	0.10333183	No	
+row_4	CBX2	chromobox 2 [Source:HGNC Symbol;Acc:HGNC:1552]	1314	1.0395896434783936	0.1338442	No	
+row_5	PSIP1	PC4 and SFRS1 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:9527]	2927	0.6533243656158447	0.06870772	No	
+row_6	NSMF	NMDA receptor synaptonuclear signaling and neuronal migration factor [Source:HGNC Symbol;Acc:HGNC:29843]	5409	0.337698757648468	-0.052996792	No	
+row_7	H3-5	H3.5 histone [Source:HGNC Symbol;Acc:HGNC:33164]	5556	0.3209091126918793	-0.050487787	No	
+row_8	SKIC8	SKI8 subunit of superkiller complex [Source:HGNC Symbol;Acc:HGNC:30300]	5982	0.2802249491214752	-0.06419202	No	
+row_9	EXOSC3	exosome component 3 [Source:HGNC Symbol;Acc:HGNC:17944]	6229	0.25832945108413696	-0.06903616	No	
+row_10	ZC3H8	zinc finger CCCH-type containing 8 [Source:HGNC Symbol;Acc:HGNC:30941]	6295	0.2528422176837921	-0.06438623	No	
+row_11	H2AZ1	H2A.Z variant histone 1 [Source:HGNC Symbol;Acc:HGNC:4741]	6315	0.2508077025413513	-0.05734401	No	
+row_12	ICE2	interactor of little elongation complex ELL subunit 2 [Source:HGNC Symbol;Acc:HGNC:29885]	6592	0.22648437321186066	-0.06481401	No	
+row_13	ID2	inhibitor of DNA binding 2 [Source:HGNC Symbol;Acc:HGNC:5361]	6853	0.20488320291042328	-0.07212313	No	
+row_14	TRIM24	tripartite motif containing 24 [Source:HGNC Symbol;Acc:HGNC:11812]	7395	0.15935729444026947	-0.09590789	No	
+row_15	SIRT1	sirtuin 1 [Source:HGNC Symbol;Acc:HGNC:14929]	8706	0.05878255516290665	-0.1640093	No	
+row_16	TRIM28	tripartite motif containing 28 [Source:HGNC Symbol;Acc:HGNC:16384]	8961	0.038540665060281754	-0.17634171	No	
+row_17	H1-3	H1.3 linker histone, cluster member [Source:HGNC Symbol;Acc:HGNC:4717]	9045	0.03173065185546875	-0.17975682	No	
+row_18	CREB1	cAMP responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2345]	9611	-0.009688868187367916	-0.20963202	No	
+row_19	HSF1	heat shock transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5224]	10052	-0.04282580688595772	-0.23176426	No	
+row_20	EXOSC4	exosome component 4 [Source:HGNC Symbol;Acc:HGNC:18189]	10173	-0.05148335546255112	-0.2365216	No	
+row_21	CTR9	CTR9 homolog, Paf1/RNA polymerase II complex component [Source:HGNC Symbol;Acc:HGNC:16850]	10787	-0.09874758124351501	-0.26610026	No	
+row_22	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	11319	-0.13859742879867554	-0.29001766	No	
+row_23	SKIC3	SKI3 subunit of superkiller complex [Source:HGNC Symbol;Acc:HGNC:23639]	12250	-0.21088169515132904	-0.33293042	No	
+row_24	TCF3	transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:11633]	12695	-0.24389542639255524	-0.34881687	No	
+row_25	RNF2	ring finger protein 2 [Source:HGNC Symbol;Acc:HGNC:10061]	12856	-0.25994324684143066	-0.3490144	No	
+row_26	CBX3	chromobox 3 [Source:HGNC Symbol;Acc:HGNC:1553]	12919	-0.2653566300868988	-0.34380215	No	
+row_27	ALKBH1	alkB homolog 1, histone H2A dioxygenase [Source:HGNC Symbol;Acc:HGNC:17911]	12959	-0.26864922046661377	-0.33725533	No	
+row_28	TBP	TATA-box binding protein [Source:HGNC Symbol;Acc:HGNC:11588]	13015	-0.2745445668697357	-0.3313739	No	
+row_29	RUVBL2	RuvB like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	13214	-0.28999802470207214	-0.33263618	No	
+row_30	PELP1	proline, glutamate and leucine rich protein 1 [Source:HGNC Symbol;Acc:HGNC:30134]	13988	-0.3683042824268341	-0.36210352	No	
+row_31	DNMT3A	DNA methyltransferase 3 alpha [Source:HGNC Symbol;Acc:HGNC:2978]	14125	-0.38096150755882263	-0.35713103	No	
+row_32	RBMX	RNA binding motif protein X-linked [Source:HGNC Symbol;Acc:HGNC:9910]	14295	-0.39775022864341736	-0.3533823	No	
+row_33	AFF4	ALF transcription elongation factor 4 [Source:HGNC Symbol;Acc:HGNC:17869]	14807	-0.4550265073776245	-0.36606568	Yes	
+row_34	CECR2	CECR2 histone acetyl-lysine reader [Source:HGNC Symbol;Acc:HGNC:1840]	14906	-0.46514320373535156	-0.35635856	Yes	
+row_35	ELL	elongation factor for RNA polymerase II [Source:HGNC Symbol;Acc:HGNC:23114]	15001	-0.4740361273288727	-0.346152	Yes	
+row_36	ASH2L	ASH2 like, histone lysine methyltransferase complex subunit [Source:HGNC Symbol;Acc:HGNC:744]	15324	-0.5145809054374695	-0.3468244	Yes	
+row_37	EXOSC10	exosome component 10 [Source:HGNC Symbol;Acc:HGNC:9138]	15537	-0.5393450260162354	-0.34082422	Yes	
+row_38	H1-0	H1.0 linker histone [Source:HGNC Symbol;Acc:HGNC:4714]	15958	-0.6011019349098206	-0.34395295	Yes	
+row_39	SP1	Sp1 transcription factor [Source:HGNC Symbol;Acc:HGNC:11205]	16051	-0.6144629716873169	-0.3291283	Yes	
+row_40	RRP1B	ribosomal RNA processing 1B [Source:HGNC Symbol;Acc:HGNC:23818]	16162	-0.6351464986801147	-0.31460083	Yes	
+row_41	ICE1	interactor of little elongation complex ELL subunit 1 [Source:HGNC Symbol;Acc:HGNC:29154]	16181	-0.6381849050521851	-0.29506046	Yes	
+row_42	SETD5	SET domain containing 5 [Source:HGNC Symbol;Acc:HGNC:25566]	16952	-0.793181300163269	-0.3107181	Yes	
+row_43	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	17235	-0.8677941560745239	-0.2979062	Yes	
+row_44	BCAS3	BCAS3 microtubule associated cell migration factor [Source:HGNC Symbol;Acc:HGNC:14347]	17237	-0.8682765960693359	-0.27006572	Yes	
+row_45	KMT2E	lysine methyltransferase 2E (inactive) [Source:HGNC Symbol;Acc:HGNC:18541]	17577	-1.0014922618865967	-0.25600407	Yes	
+row_46	EXOSC5	exosome component 5 [Source:HGNC Symbol;Acc:HGNC:24662]	17647	-1.0333009958267212	-0.22649513	Yes	
+row_47	KLF4	KLF transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	18222	-1.3904526233673096	-0.2124933	Yes	
+row_48	JUN	Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	18261	-1.4391714334487915	-0.16828929	Yes	
+row_49	ANKRD2	ankyrin repeat domain 2 [Source:HGNC Symbol;Acc:HGNC:495]	18649	-2.328862428665161	-0.11414958	Yes	
+row_50	TCF23	transcription factor 23 [Source:HGNC Symbol;Acc:HGNC:18602]	18764	-3.7478110790252686	1.6039396E-4	Yes	

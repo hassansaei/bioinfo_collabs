@@ -1,0 +1,28 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL15RA	interleukin 15 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:5978]	334	1.6819411516189575	0.06164289	No	
+row_1	IL4R	interleukin 4 receptor [Source:HGNC Symbol;Acc:HGNC:6015]	746	1.2869889736175537	0.09938115	No	
+row_2	JAK2	Janus kinase 2 [Source:HGNC Symbol;Acc:HGNC:6192]	1130	1.0720953941345215	0.12835337	No	
+row_3	IL15	interleukin 15 [Source:HGNC Symbol;Acc:HGNC:5977]	1824	0.8327527046203613	0.12686296	No	
+row_4	EPOR	erythropoietin receptor [Source:HGNC Symbol;Acc:HGNC:3416]	2608	0.662599503993988	0.11162635	No	
+row_5	IL13RA1	interleukin 13 receptor subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:5974]	3954	0.4504368007183075	0.051962234	No	
+row_6	IFNAR1	interferon alpha and beta receptor subunit 1 [Source:HGNC Symbol;Acc:HGNC:5432]	4042	0.4396700859069824	0.06809487	No	
+row_7	JAK3	Janus kinase 3 [Source:HGNC Symbol;Acc:HGNC:6193]	4044	0.43948894739151	0.08943618	No	
+row_8	IL6R	interleukin 6 receptor [Source:HGNC Symbol;Acc:HGNC:6019]	4413	0.38973483443260193	0.08608922	No	
+row_9	IFNGR1	interferon gamma receptor 1 [Source:HGNC Symbol;Acc:HGNC:5439]	4742	0.3481115400791168	0.083142065	No	
+row_10	STAT5B	signal transducer and activator of transcription 5B [Source:HGNC Symbol;Acc:HGNC:11367]	4859	0.33259153366088867	0.09230086	No	
+row_11	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	5486	0.26704806089401245	0.06732689	No	
+row_12	IFNGR2	interferon gamma receptor 2 [Source:HGNC Symbol;Acc:HGNC:5440]	5910	0.22496812045574188	0.052619454	No	
+row_13	IFNAR2	interferon alpha and beta receptor subunit 2 [Source:HGNC Symbol;Acc:HGNC:5433]	9406	-0.08044073730707169	-0.15549994	No	
+row_14	IL23A	interleukin 23 subunit alpha [Source:HGNC Symbol;Acc:HGNC:15488]	10417	-0.16462166607379913	-0.20875853	No	
+row_15	PIM1	Pim-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:8986]	11158	-0.22932974994182587	-0.24248551	No	
+row_16	STAT2	signal transducer and activator of transcription 2 [Source:HGNC Symbol;Acc:HGNC:11363]	11573	-0.2705591320991516	-0.25442678	No	
+row_17	STAT6	signal transducer and activator of transcription 6 [Source:HGNC Symbol;Acc:HGNC:11368]	11979	-0.3134375810623169	-0.26373392	No	
+row_18	STAT5A	signal transducer and activator of transcription 5A [Source:HGNC Symbol;Acc:HGNC:11366]	12244	-0.3476082384586334	-0.2628228	No	
+row_19	IL2RG	interleukin 2 receptor subunit gamma [Source:HGNC Symbol;Acc:HGNC:6010]	12450	-0.37088093161582947	-0.25719893	No	
+row_20	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	13592	-0.5204893350601196	-0.30107528	No	
+row_21	JAK1	Janus kinase 1 [Source:HGNC Symbol;Acc:HGNC:6190]	14801	-0.7542292475700378	-0.33763388	Yes	
+row_22	EPO	erythropoietin [Source:HGNC Symbol;Acc:HGNC:3415]	15546	-1.0445477962493896	-0.33190453	Yes	
+row_23	CSF2RB	colony stimulating factor 2 receptor subunit beta [Source:HGNC Symbol;Acc:HGNC:2436]	15652	-1.0981589555740356	-0.28479722	Yes	
+row_24	IL6ST	interleukin 6 cytokine family signal transducer [Source:HGNC Symbol;Acc:HGNC:6021]	15750	-1.1633646488189697	-0.2340292	Yes	
+row_25	IL2RB	interleukin 2 receptor subunit beta [Source:HGNC Symbol;Acc:HGNC:6009]	16442	-2.598395824432373	-0.14941603	Yes	
+row_26	IL6	interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	16489	-3.150475025177002	0.0012132201	Yes	

@@ -1,0 +1,26 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TTC30A	tetratricopeptide repeat domain 30A [Source:HGNC Symbol;Acc:HGNC:25853]	1053	1.216961145401001	0.061227515	Yes	
+row_1	TTC30B	tetratricopeptide repeat domain 30B [Source:HGNC Symbol;Acc:HGNC:26425]	1152	1.1743754148483276	0.1646013	Yes	
+row_2	IFT46	intraflagellar transport 46 [Source:HGNC Symbol;Acc:HGNC:26146]	1634	1.0048797130584717	0.2338983	Yes	
+row_3	IFT80	intraflagellar transport 80 [Source:HGNC Symbol;Acc:HGNC:29262]	2148	0.8742362856864929	0.289626	Yes	
+row_4	IFT57	intraflagellar transport 57 [Source:HGNC Symbol;Acc:HGNC:17367]	2308	0.8386879563331604	0.35915738	Yes	
+row_5	WDR35	WD repeat domain 35 [Source:HGNC Symbol;Acc:HGNC:29250]	2329	0.8326693177223206	0.43483967	Yes	
+row_6	IFT43	intraflagellar transport 43 [Source:HGNC Symbol;Acc:HGNC:29669]	3917	0.582176685333252	0.4118769	No	
+row_7	TRIM59	tripartite motif containing 59 [Source:HGNC Symbol;Acc:HGNC:30834]	5744	0.3821713924407959	0.35897502	No	
+row_8	WDR19	WD repeat domain 19 [Source:HGNC Symbol;Acc:HGNC:18340]	5926	0.3635900318622589	0.38371253	No	
+row_9	IFT52	intraflagellar transport 52 [Source:HGNC Symbol;Acc:HGNC:15901]	6312	0.3235500156879425	0.394924	No	
+row_10	IFT25	intraflagellar transport 25 [Source:HGNC Symbol;Acc:HGNC:25019]	6957	0.2663559913635254	0.38837743	No	
+row_11	TRAF3IP1	TRAF3 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:17861]	6982	0.26486390829086304	0.4116004	No	
+row_12	IFT74	intraflagellar transport 74 [Source:HGNC Symbol;Acc:HGNC:21424]	7600	0.21732161939144135	0.40184262	No	
+row_13	TTC21B	tetratricopeptide repeat domain 21B [Source:HGNC Symbol;Acc:HGNC:25660]	7861	0.19790568947792053	0.4075182	No	
+row_14	IFT22	intraflagellar transport 22 [Source:HGNC Symbol;Acc:HGNC:21895]	7983	0.18879365921020508	0.41905993	No	
+row_15	IFT27	intraflagellar transport 27 [Source:HGNC Symbol;Acc:HGNC:18626]	8390	0.15844528377056122	0.4140606	No	
+row_16	TTC26	tetratricopeptide repeat domain 26 [Source:HGNC Symbol;Acc:HGNC:21882]	8445	0.15399639308452606	0.42563114	No	
+row_17	IFT122	intraflagellar transport 122 [Source:HGNC Symbol;Acc:HGNC:13556]	8896	0.1224721372127533	0.41519806	No	
+row_18	IFT81	intraflagellar transport 81 [Source:HGNC Symbol;Acc:HGNC:14313]	9472	0.08155620843172073	0.39496905	No	
+row_19	TTC21A	tetratricopeptide repeat domain 21A [Source:HGNC Symbol;Acc:HGNC:30761]	10032	0.042455513030290604	0.3719126	No	
+row_20	CLUAP1	clusterin associated protein 1 [Source:HGNC Symbol;Acc:HGNC:19009]	10735	-0.006378973834216595	0.33863747	No	
+row_21	IFT20	intraflagellar transport 20 [Source:HGNC Symbol;Acc:HGNC:30989]	13279	-0.1831464171409607	0.23282951	No	
+row_22	IFT88	intraflagellar transport 88 [Source:HGNC Symbol;Acc:HGNC:20606]	14453	-0.270606130361557	0.20115682	No	
+row_23	IFT140	intraflagellar transport 140 [Source:HGNC Symbol;Acc:HGNC:29077]	17024	-0.5151395797729492	0.12460637	No	
+row_24	IFT172	intraflagellar transport 172 [Source:HGNC Symbol;Acc:HGNC:30391]	17709	-0.6009508371353149	0.1469297	No	

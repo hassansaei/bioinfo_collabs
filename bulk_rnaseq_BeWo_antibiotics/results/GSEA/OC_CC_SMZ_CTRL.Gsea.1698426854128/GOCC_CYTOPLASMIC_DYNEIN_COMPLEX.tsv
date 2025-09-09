@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DYNLT2B	dynein light chain Tctex-type 2B [Source:HGNC Symbol;Acc:HGNC:28482]	381	1.6254490613937378	0.121597774	Yes	
+row_1	DYNLT3	dynein light chain Tctex-type 3 [Source:HGNC Symbol;Acc:HGNC:11694]	656	1.3433325290679932	0.22456957	Yes	
+row_2	DYNC2H1	dynein cytoplasmic 2 heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2962]	710	1.3079657554626465	0.33779573	Yes	
+row_3	DYNLL2	dynein light chain LC8-type 2 [Source:HGNC Symbol;Acc:HGNC:24596]	1658	0.883094310760498	0.35898015	Yes	
+row_4	DYNC2LI1	dynein cytoplasmic 2 light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:24595]	2157	0.7543755173683167	0.3959358	Yes	
+row_5	DYNC1I1	dynein cytoplasmic 1 intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:2963]	2819	0.6250476241111755	0.41149274	Yes	
+row_6	DYNC2I2	dynein 2 intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:28296]	3139	0.5706517100334167	0.44294825	Yes	
+row_7	DYNC1LI1	dynein cytoplasmic 1 light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:18745]	3291	0.5497349500656128	0.48273027	Yes	
+row_8	DYNLT1	dynein light chain Tctex-type 1 [Source:HGNC Symbol;Acc:HGNC:11697]	4767	0.3448661267757416	0.4239781	No	
+row_9	DYNLT2	dynein light chain Tctex-type 2 [Source:HGNC Symbol;Acc:HGNC:11695]	5337	0.28179508447647095	0.41455677	No	
+row_10	SNX4	sorting nexin 4 [Source:HGNC Symbol;Acc:HGNC:11175]	5981	0.21890239417552948	0.39504868	No	
+row_11	DYNC1I2	dynein cytoplasmic 1 intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:2964]	7550	0.07802867144346237	0.3069014	No	
+row_12	DYNLT4	dynein light chain Tctex-type 4 [Source:HGNC Symbol;Acc:HGNC:32315]	8653	-0.016972701996564865	0.24157993	No	
+row_13	NUDCD3	NudC domain containing 3 [Source:HGNC Symbol;Acc:HGNC:22208]	9071	-0.051009293645620346	0.22083141	No	
+row_14	DYNLL1	dynein light chain LC8-type 1 [Source:HGNC Symbol;Acc:HGNC:15476]	9771	-0.11166585981845856	0.18838046	No	
+row_15	DYNC1LI2	dynein cytoplasmic 1 light intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:2966]	10768	-0.19541926681995392	0.14537357	No	
+row_16	DYNLRB1	dynein light chain roadblock-type 1 [Source:HGNC Symbol;Acc:HGNC:15468]	10789	-0.1971319317817688	0.16171013	No	
+row_17	DYNC1H1	dynein cytoplasmic 1 heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2961]	12789	-0.40893009305000305	0.07688241	No	
+row_18	TPR	translocated promoter region, nuclear basket protein [Source:HGNC Symbol;Acc:HGNC:12017]	13278	-0.4709376096725464	0.0892117	No	
+row_19	DYNC2I1	dynein 2 intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:21862]	13898	-0.5693783164024353	0.1023599	No	
+row_20	DCTN4	dynactin subunit 4 [Source:HGNC Symbol;Acc:HGNC:15518]	14238	-0.6282283663749695	0.13772818	No	

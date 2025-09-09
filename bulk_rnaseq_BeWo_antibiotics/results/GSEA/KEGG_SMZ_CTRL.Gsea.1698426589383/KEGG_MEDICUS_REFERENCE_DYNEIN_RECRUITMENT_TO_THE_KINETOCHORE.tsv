@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DYNLT3	dynein light chain Tctex-type 3 [Source:HGNC Symbol;Acc:HGNC:11694]	656	1.3433325290679932	0.0659548	Yes	
+row_1	DYNC2H1	dynein cytoplasmic 2 heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2962]	710	1.3079657554626465	0.16571066	Yes	
+row_2	DYNLL2	dynein light chain LC8-type 2 [Source:HGNC Symbol;Acc:HGNC:24596]	1658	0.883094310760498	0.17777692	Yes	
+row_3	ZWILCH	zwilch kinetochore protein [Source:HGNC Symbol;Acc:HGNC:25468]	2085	0.7704496383666992	0.2125853	Yes	
+row_4	DYNC2LI1	dynein cytoplasmic 2 light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:24595]	2157	0.7543755173683167	0.26766688	Yes	
+row_5	ACTR10	actin related protein 10 [Source:HGNC Symbol;Acc:HGNC:17372]	2815	0.6254835724830627	0.2770473	Yes	
+row_6	DYNC1I1	dynein cytoplasmic 1 intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:2963]	2819	0.6250476241111755	0.32607305	Yes	
+row_7	SPDL1	spindle apparatus coiled-coil protein 1 [Source:HGNC Symbol;Acc:HGNC:26010]	3034	0.5892070531845093	0.35947537	Yes	
+row_8	ACTR1A	actin related protein 1A [Source:HGNC Symbol;Acc:HGNC:167]	3177	0.5644295811653137	0.39529544	Yes	
+row_9	DYNC1LI1	dynein cytoplasmic 1 light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:18745]	3291	0.5497349500656128	0.43171817	Yes	
+row_10	DCTN5	dynactin subunit 5 [Source:HGNC Symbol;Acc:HGNC:24594]	4745	0.3477216362953186	0.37093627	No	
+row_11	DYNLT1	dynein light chain Tctex-type 1 [Source:HGNC Symbol;Acc:HGNC:11697]	4767	0.3448661267757416	0.39681223	No	
+row_12	ZW10	zw10 kinetochore protein [Source:HGNC Symbol;Acc:HGNC:13194]	5458	0.27010443806648254	0.37621275	No	
+row_13	BUB1	BUB1 mitotic checkpoint serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1148]	7425	0.08889172226190567	0.26392922	No	
+row_14	DYNC1I2	dynein cytoplasmic 1 intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:2964]	7550	0.07802867144346237	0.26254877	No	
+row_15	DCTN3	dynactin subunit 3 [Source:HGNC Symbol;Acc:HGNC:2713]	7676	0.06773589551448822	0.26029736	No	
+row_16	DCTN2	dynactin subunit 2 [Source:HGNC Symbol;Acc:HGNC:2712]	8872	-0.03366129472851753	0.19044405	No	
+row_17	DCTN1	dynactin subunit 1 [Source:HGNC Symbol;Acc:HGNC:2711]	8913	-0.037668462842702866	0.19098267	No	
+row_18	PAFAH1B1	platelet activating factor acetylhydrolase 1b regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8574]	9446	-0.08466984331607819	0.16537079	No	
+row_19	DYNLL1	dynein light chain LC8-type 1 [Source:HGNC Symbol;Acc:HGNC:15476]	9771	-0.11166585981845856	0.15450405	No	
+row_20	KNTC1	kinetochore associated 1 [Source:HGNC Symbol;Acc:HGNC:17255]	9964	-0.12588179111480713	0.1527652	No	
+row_21	DYNC1LI2	dynein cytoplasmic 1 light intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:2966]	10768	-0.19541926681995392	0.11943004	No	
+row_22	DYNLRB1	dynein light chain roadblock-type 1 [Source:HGNC Symbol;Acc:HGNC:15468]	10789	-0.1971319317817688	0.13373609	No	
+row_23	DYNC1H1	dynein cytoplasmic 1 heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2961]	12789	-0.40893009305000305	0.044645876	No	
+row_24	NDEL1	nudE neurodevelopment protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:17620]	13037	-0.44022291898727417	0.06431702	No	
+row_25	CENPF	centromere protein F [Source:HGNC Symbol;Acc:HGNC:1857]	13623	-0.52519690990448	0.07017063	No	
+row_26	DCTN4	dynactin subunit 4 [Source:HGNC Symbol;Acc:HGNC:15518]	14238	-0.6282283663749695	0.082376055	No	
+row_27	DCTN6	dynactin subunit 6 [Source:HGNC Symbol;Acc:HGNC:16964]	14582	-0.7030670046806335	0.11691544	No	

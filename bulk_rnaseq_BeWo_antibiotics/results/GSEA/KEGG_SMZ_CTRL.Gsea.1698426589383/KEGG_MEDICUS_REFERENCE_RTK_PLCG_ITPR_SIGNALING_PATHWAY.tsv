@@ -1,0 +1,33 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FGF22	fibroblast growth factor 22 [Source:HGNC Symbol;Acc:HGNC:3679]	323	1.6937698125839233	0.052149992	No	
+row_1	PDGFD	platelet derived growth factor D [Source:HGNC Symbol;Acc:HGNC:30620]	568	1.4205349683761597	0.09751941	No	
+row_2	FGF17	fibroblast growth factor 17 [Source:HGNC Symbol;Acc:HGNC:3673]	1070	1.098728895187378	0.11365985	No	
+row_3	PDGFC	platelet derived growth factor C [Source:HGNC Symbol;Acc:HGNC:8801]	1189	1.049322485923767	0.15095045	No	
+row_4	FGF8	fibroblast growth factor 8 [Source:HGNC Symbol;Acc:HGNC:3686]	2159	0.754257321357727	0.12409679	No	
+row_5	MST1R	macrophage stimulating 1 receptor [Source:HGNC Symbol;Acc:HGNC:7381]	4161	0.4261644780635834	0.020715434	No	
+row_6	NTRK1	neurotrophic receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:8031]	5088	0.307270884513855	-0.022464024	No	
+row_7	PDGFRA	platelet derived growth factor receptor alpha [Source:HGNC Symbol;Acc:HGNC:8803]	5427	0.27256327867507935	-0.03142983	No	
+row_8	PLCG2	phospholipase C gamma 2 [Source:HGNC Symbol;Acc:HGNC:9066]	5484	0.26735207438468933	-0.023502668	No	
+row_9	PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	5537	0.2606273591518402	-0.015617633	No	
+row_10	FGFR4	fibroblast growth factor receptor 4 [Source:HGNC Symbol;Acc:HGNC:3691]	6019	0.21518218517303467	-0.03569247	No	
+row_11	PLCG1	phospholipase C gamma 1 [Source:HGNC Symbol;Acc:HGNC:9065]	6252	0.19187262654304504	-0.041643694	No	
+row_12	ITPR3	inositol 1,4,5-trisphosphate receptor type 3 [Source:HGNC Symbol;Acc:HGNC:6182]	6324	0.18596325814723969	-0.03807465	No	
+row_13	ERBB4	erb-b2 receptor tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3432]	6344	0.18402999639511108	-0.03143178	No	
+row_14	FGFR3	fibroblast growth factor receptor 3 [Source:HGNC Symbol;Acc:HGNC:3690]	6446	0.17486152052879333	-0.030153638	No	
+row_15	MST1	macrophage stimulating 1 [Source:HGNC Symbol;Acc:HGNC:7380]	7679	0.06766039878129959	-0.10205375	No	
+row_16	PDGFA	platelet derived growth factor subunit A [Source:HGNC Symbol;Acc:HGNC:8799]	9727	-0.1084352508187294	-0.22168642	No	
+row_17	ITPR1	inositol 1,4,5-trisphosphate receptor type 1 [Source:HGNC Symbol;Acc:HGNC:6180]	12476	-0.3734128773212433	-0.37263563	No	
+row_18	VEGFB	vascular endothelial growth factor B [Source:HGNC Symbol;Acc:HGNC:12681]	13022	-0.4390089213848114	-0.38711265	No	
+row_19	ERBB2	erb-b2 receptor tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:3430]	13888	-0.5676990747451782	-0.41555786	No	
+row_20	MET	MET proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:7029]	14362	-0.6515011787414551	-0.41666377	Yes	
+row_21	FGF21	fibroblast growth factor 21 [Source:HGNC Symbol;Acc:HGNC:3678]	14473	-0.6786897778511047	-0.3945885	Yes	
+row_22	ERBB3	erb-b2 receptor tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3431]	14765	-0.7451518774032593	-0.3806821	Yes	
+row_23	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	14847	-0.7655122876167297	-0.35316893	Yes	
+row_24	PDGFB	platelet derived growth factor subunit B [Source:HGNC Symbol;Acc:HGNC:8800]	15093	-0.8350261449813843	-0.33266369	Yes	
+row_25	ITPR2	inositol 1,4,5-trisphosphate receptor type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	15310	-0.9305514693260193	-0.3063518	Yes	
+row_26	FGFR1	fibroblast growth factor receptor 1 [Source:HGNC Symbol;Acc:HGNC:3688]	15700	-1.1277798414230347	-0.28218377	Yes	
+row_27	FLT1	fms related receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:3763]	15809	-1.2025700807571411	-0.2377944	Yes	
+row_28	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	15933	-1.2933350801467896	-0.19047032	Yes	
+row_29	FLT4	fms related receptor tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	15959	-1.3225139379501343	-0.13596284	Yes	
+row_30	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	16032	-1.4044855833053589	-0.080835156	Yes	
+row_31	FGF1	fibroblast growth factor 1 [Source:HGNC Symbol;Acc:HGNC:3665]	16441	-2.590094804763794	0.0041267755	Yes	

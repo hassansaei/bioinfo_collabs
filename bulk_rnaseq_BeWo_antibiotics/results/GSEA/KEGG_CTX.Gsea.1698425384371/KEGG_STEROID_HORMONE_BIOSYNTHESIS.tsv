@@ -1,0 +1,26 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CYP3A43	cytochrome P450 family 3 subfamily A member 43 [Source:HGNC Symbol;Acc:HGNC:17450]	232	1.0053669214248657	0.11544326	Yes	
+row_1	SULT2B1	sulfotransferase family 2B member 1 [Source:HGNC Symbol;Acc:HGNC:11459]	1093	0.5651853680610657	0.1414331	Yes	
+row_2	HSD11B2	hydroxysteroid 11-beta dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:5209]	1402	0.4882044792175293	0.18707451	Yes	
+row_3	SRD5A1	steroid 5 alpha-reductase 1 [Source:HGNC Symbol;Acc:HGNC:11284]	1816	0.4210846722126007	0.21858303	Yes	
+row_4	HSD17B6	hydroxysteroid 17-beta dehydrogenase 6 [Source:HGNC Symbol;Acc:HGNC:23316]	2602	0.33089569211006165	0.21878657	Yes	
+row_5	CYP11B2	cytochrome P450 family 11 subfamily B member 2 [Source:HGNC Symbol;Acc:HGNC:2592]	2633	0.32781457901000977	0.2588629	Yes	
+row_6	COMT	catechol-O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:2228]	2848	0.30886971950531006	0.2867179	Yes	
+row_7	AKR1D1	aldo-keto reductase family 1 member D1 [Source:HGNC Symbol;Acc:HGNC:388]	3334	0.2684161961078644	0.29497734	Yes	
+row_8	STS	steroid sulfatase [Source:HGNC Symbol;Acc:HGNC:11425]	3650	0.24693645536899567	0.30957216	Yes	
+row_9	CYP3A5	cytochrome P450 family 3 subfamily A member 5 [Source:HGNC Symbol;Acc:HGNC:2638]	3695	0.24439747631549835	0.33829674	Yes	
+row_10	CYP17A1	cytochrome P450 family 17 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2593]	4254	0.21223124861717224	0.33552006	No	
+row_11	AKR1C1	aldo-keto reductase family 1 member C1 [Source:HGNC Symbol;Acc:HGNC:384]	5149	0.1613754779100418	0.30835885	No	
+row_12	CYP3A4	cytochrome P450 family 3 subfamily A member 4 [Source:HGNC Symbol;Acc:HGNC:2637]	5620	0.13879749178886414	0.30093935	No	
+row_13	SRD5A3	steroid 5 alpha-reductase 3 [Source:HGNC Symbol;Acc:HGNC:25812]	5983	0.12274962663650513	0.29723933	No	
+row_14	HSD3B1	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5217]	7425	0.06619323790073395	0.22880547	No	
+row_15	HSD17B7	hydroxysteroid 17-beta dehydrogenase 7 [Source:HGNC Symbol;Acc:HGNC:5215]	7547	0.06164219230413437	0.23018928	No	
+row_16	HSD17B12	hydroxysteroid 17-beta dehydrogenase 12 [Source:HGNC Symbol;Acc:HGNC:18646]	8424	0.02930309623479843	0.18719718	No	
+row_17	CYP7B1	cytochrome P450 family 7 subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:2652]	11229	-0.0676736980676651	0.046262093	No	
+row_18	SRD5A2	steroid 5 alpha-reductase 2 [Source:HGNC Symbol;Acc:HGNC:11285]	12891	-0.12844853103160858	-0.025989722	No	
+row_19	AKR1C2	aldo-keto reductase family 1 member C2 [Source:HGNC Symbol;Acc:HGNC:385]	13889	-0.17235787212848663	-0.05724774	No	
+row_20	CYP19A1	cytochrome P450 family 19 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2594]	15054	-0.23690687119960785	-0.0892056	No	
+row_21	HSD17B1	hydroxysteroid 17-beta dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:5210]	16741	-0.39922642707824707	-0.12836571	No	
+row_22	CYP3A7	cytochrome P450 family 3 subfamily A member 7 [Source:HGNC Symbol;Acc:HGNC:2640]	16770	-0.4031747281551361	-0.078601904	No	
+row_23	CYP11A1	cytochrome P450 family 11 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2590]	17471	-0.524405300617218	-0.049263705	No	
+row_24	CYP1A1	cytochrome P450 family 1 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2595]	18383	-0.9340823888778687	0.02090549	No	

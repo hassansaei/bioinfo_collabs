@@ -1,0 +1,74 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TUBAL3	tubulin alpha like 3 [Source:HGNC Symbol;Acc:HGNC:23534]	104	1.2514853477478027	0.06181618	Yes	
+row_1	GRM1	glutamate metabotropic receptor 1 [Source:HGNC Symbol;Acc:HGNC:4593]	208	1.0314929485321045	0.111842	Yes	
+row_2	TUBB3	tubulin beta 3 class III [Source:HGNC Symbol;Acc:HGNC:20772]	323	0.9134883880615234	0.15492661	Yes	
+row_3	HTR2C	5-hydroxytryptamine receptor 2C [Source:HGNC Symbol;Acc:HGNC:5295]	486	0.8093613386154175	0.18983886	Yes	
+row_4	TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	512	0.7884122729301453	0.23094828	Yes	
+row_5	TUBA4A	tubulin alpha 4a [Source:HGNC Symbol;Acc:HGNC:12407]	697	0.7051149010658264	0.2590719	Yes	
+row_6	TJP1	tight junction protein 1 [Source:HGNC Symbol;Acc:HGNC:11827]	1731	0.4358908236026764	0.22730735	No	
+row_7	ADRB1	adrenoceptor beta 1 [Source:HGNC Symbol;Acc:HGNC:285]	1745	0.4324765205383301	0.24989572	No	
+row_8	PRKACB	protein kinase cAMP-activated catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9381]	2393	0.3527540862560272	0.23429371	No	
+row_9	TUBA3D	tubulin alpha 3d [Source:HGNC Symbol;Acc:HGNC:24071]	2466	0.3447188436985016	0.24900286	No	
+row_10	ADCY9	adenylate cyclase 9 [Source:HGNC Symbol;Acc:HGNC:240]	3666	0.24566760659217834	0.1981216	No	
+row_11	LPAR1	lysophosphatidic acid receptor 1 [Source:HGNC Symbol;Acc:HGNC:3166]	3747	0.2409411072731018	0.20681587	No	
+row_12	TUBB4B	tubulin beta 4B class IVb [Source:HGNC Symbol;Acc:HGNC:20771]	3814	0.23691919445991516	0.21604216	No	
+row_13	PRKCG	protein kinase C gamma [Source:HGNC Symbol;Acc:HGNC:9402]	4189	0.21609798073768616	0.20767953	No	
+row_14	DRD2	dopamine receptor D2 [Source:HGNC Symbol;Acc:HGNC:3023]	4301	0.20932810008525848	0.21301435	No	
+row_15	PLCB1	phospholipase C beta 1 [Source:HGNC Symbol;Acc:HGNC:15917]	4323	0.20792634785175323	0.22308576	No	
+row_16	PDGFC	platelet derived growth factor C [Source:HGNC Symbol;Acc:HGNC:8801]	4359	0.205630823969841	0.23228504	No	
+row_17	ADCY3	adenylate cyclase 3 [Source:HGNC Symbol;Acc:HGNC:234]	4389	0.20373055338859558	0.24170282	No	
+row_18	PDGFRA	platelet derived growth factor receptor alpha [Source:HGNC Symbol;Acc:HGNC:8803]	4416	0.20222166180610657	0.25119978	No	
+row_19	SOS2	SOS Ras/Rho guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:11188]	4634	0.18893812596797943	0.2497693	No	
+row_20	GNAI2	G protein subunit alpha i2 [Source:HGNC Symbol;Acc:HGNC:4385]	4701	0.18591462075710297	0.25624964	No	
+row_21	PRKCA	protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	5377	0.1493709236383438	0.22820091	No	
+row_22	EGF	epidermal growth factor [Source:HGNC Symbol;Acc:HGNC:3229]	5643	0.13791361451148987	0.22145697	No	
+row_23	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	5900	0.12643100321292877	0.21457605	No	
+row_24	PLCB3	phospholipase C beta 3 [Source:HGNC Symbol;Acc:HGNC:9056]	6403	0.10472292453050613	0.19337346	No	
+row_25	TUBA1B	tubulin alpha 1b [Source:HGNC Symbol;Acc:HGNC:18809]	6468	0.10208287090063095	0.19544743	No	
+row_26	PRKACA	protein kinase cAMP-activated catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9380]	6827	0.08725607395172119	0.18100376	No	
+row_27	MAP3K2	mitogen-activated protein kinase kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6854]	8196	0.037206463515758514	0.10986351	No	
+row_28	PDGFA	platelet derived growth factor subunit A [Source:HGNC Symbol;Acc:HGNC:8799]	8309	0.03355906158685684	0.1056819	No	
+row_29	PDGFD	platelet derived growth factor D [Source:HGNC Symbol;Acc:HGNC:30620]	8326	0.032979223877191544	0.10660194	No	
+row_30	SOS1	SOS Ras/Rac guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:11187]	8468	0.027872679755091667	0.10056364	No	
+row_31	NRAS	NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]	8487	0.027204278856515884	0.10106584	No	
+row_32	GNAI3	G protein subunit alpha i3 [Source:HGNC Symbol;Acc:HGNC:4387]	8550	0.02477405220270157	0.09908463	No	
+row_33	CDK1	cyclin dependent kinase 1 [Source:HGNC Symbol;Acc:HGNC:1722]	8774	0.016759159043431282	0.08806368	No	
+row_34	GNA11	G protein subunit alpha 11 [Source:HGNC Symbol;Acc:HGNC:4379]	9273	-0.0010392179246991873	0.061492883	No	
+row_35	PLCB2	phospholipase C beta 2 [Source:HGNC Symbol;Acc:HGNC:9055]	9601	-0.011959845200181007	0.044652943	No	
+row_36	MAP2K5	mitogen-activated protein kinase kinase 5 [Source:HGNC Symbol;Acc:HGNC:6845]	9700	-0.015516495332121849	0.04024851	No	
+row_37	HTR2B	5-hydroxytryptamine receptor 2B [Source:HGNC Symbol;Acc:HGNC:5294]	9754	-0.017637450248003006	0.038364295	No	
+row_38	RAF1	Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]	9809	-0.01943943463265896	0.03652363	No	
+row_39	ITPR3	inositol 1,4,5-trisphosphate receptor type 3 [Source:HGNC Symbol;Acc:HGNC:6182]	9834	-0.020512398332357407	0.036344748	No	
+row_40	MAP2K2	mitogen-activated protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6842]	9837	-0.02076934464275837	0.03735598	No	
+row_41	ITPR1	inositol 1,4,5-trisphosphate receptor type 1 [Source:HGNC Symbol;Acc:HGNC:6180]	9918	-0.02353992685675621	0.03434592	No	
+row_42	TUBA3E	tubulin alpha 3e [Source:HGNC Symbol;Acc:HGNC:20765]	10136	-0.030207430943846703	0.024369797	No	
+row_43	KRAS	KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	10164	-0.030962470918893814	0.024593119	No	
+row_44	TUBB	tubulin beta class I [Source:HGNC Symbol;Acc:HGNC:20778]	10275	-0.034730419516563416	0.020581506	No	
+row_45	CSNK1D	casein kinase 1 delta [Source:HGNC Symbol;Acc:HGNC:2452]	10352	-0.03738904371857643	0.018530918	No	
+row_46	TUBA1C	tubulin alpha 1c [Source:HGNC Symbol;Acc:HGNC:20768]	11135	-0.06409131735563278	-0.019830044	No	
+row_47	ADCY1	adenylate cyclase 1 [Source:HGNC Symbol;Acc:HGNC:232]	11185	-0.06593306362628937	-0.018900275	No	
+row_48	TUBB2A	tubulin beta 2A class IIa [Source:HGNC Symbol;Acc:HGNC:12412]	11377	-0.07316236197948456	-0.025173666	No	
+row_49	GNAI1	G protein subunit alpha i1 [Source:HGNC Symbol;Acc:HGNC:4384]	11731	-0.08485987782478333	-0.039479002	No	
+row_50	PRKX	protein kinase cAMP-dependent X-linked catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9441]	11938	-0.09154986590147018	-0.04556447	No	
+row_51	GNAQ	G protein subunit alpha q [Source:HGNC Symbol;Acc:HGNC:4390]	12271	-0.10431414842605591	-0.057699624	No	
+row_52	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	12279	-0.10452912002801895	-0.052446313	No	
+row_53	HTR2A	5-hydroxytryptamine receptor 2A [Source:HGNC Symbol;Acc:HGNC:5293]	12515	-0.11286668479442596	-0.05893469	No	
+row_54	TUBB6	tubulin beta 6 class V [Source:HGNC Symbol;Acc:HGNC:20776]	12983	-0.13187605142593384	-0.07680407	No	
+row_55	GNAS	GNAS complex locus [Source:HGNC Symbol;Acc:HGNC:4392]	13929	-0.1743002086877823	-0.11794685	No	
+row_56	ADCY6	adenylate cyclase 6 [Source:HGNC Symbol;Acc:HGNC:237]	14584	-0.21022380888462067	-0.14159659	No	
+row_57	MAPK7	mitogen-activated protein kinase 7 [Source:HGNC Symbol;Acc:HGNC:6880]	14662	-0.21440276503562927	-0.13417068	No	
+row_58	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	14779	-0.22054490447044373	-0.12849931	No	
+row_59	GUCY1A2	guanylate cyclase 1 soluble subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:4684]	14831	-0.22385431826114655	-0.1191744	No	
+row_60	PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	14855	-0.22503304481506348	-0.108288944	No	
+row_61	ITPR2	inositol 1,4,5-trisphosphate receptor type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	14862	-0.22564056515693665	-0.09646183	No	
+row_62	TUBB2B	tubulin beta 2B class IIb [Source:HGNC Symbol;Acc:HGNC:30829]	14932	-0.2296447455883026	-0.08778759	No	
+row_63	ADCY7	adenylate cyclase 7 [Source:HGNC Symbol;Acc:HGNC:238]	14962	-0.23140965402126312	-0.076879635	No	
+row_64	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	15234	-0.2482587993144989	-0.07800367	No	
+row_65	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	15359	-0.25745320320129395	-0.070773	No	
+row_66	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	15430	-0.263199120759964	-0.06034574	No	
+row_67	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	16289	-0.34074023365974426	-0.08787615	No	
+row_68	PDGFB	platelet derived growth factor subunit B [Source:HGNC Symbol;Acc:HGNC:8800]	16529	-0.36909258365631104	-0.08078384	No	
+row_69	TUBA8	tubulin alpha 8 [Source:HGNC Symbol;Acc:HGNC:12410]	17654	-0.5719960331916809	-0.11008634	No	
+row_70	TUBB8	tubulin beta 8 class VIII [Source:HGNC Symbol;Acc:HGNC:20773]	18253	-0.8434464335441589	-0.09665081	No	
+row_71	PRKG1	protein kinase cGMP-dependent 1 [Source:HGNC Symbol;Acc:HGNC:9414]	18420	-0.9634946584701538	-0.05365429	No	
+row_72	ADCY5	adenylate cyclase 5 [Source:HGNC Symbol;Acc:HGNC:236]	18671	-1.3481606245040894	0.005560408	No	

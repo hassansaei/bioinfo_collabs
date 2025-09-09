@@ -1,0 +1,59 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FGF22	fibroblast growth factor 22 [Source:HGNC Symbol;Acc:HGNC:3679]	323	1.6937698125839233	0.01885102	No	
+row_1	NRTN	neurturin [Source:HGNC Symbol;Acc:HGNC:8007]	437	1.5487875938415527	0.047172327	No	
+row_2	PDGFD	platelet derived growth factor D [Source:HGNC Symbol;Acc:HGNC:30620]	568	1.4205349683761597	0.071546316	No	
+row_3	NGFR	nerve growth factor receptor [Source:HGNC Symbol;Acc:HGNC:7809]	711	1.3068640232086182	0.092608206	No	
+row_4	FGF17	fibroblast growth factor 17 [Source:HGNC Symbol;Acc:HGNC:3673]	1070	1.098728895187378	0.09581199	No	
+row_5	ARTN	artemin [Source:HGNC Symbol;Acc:HGNC:727]	1075	1.0976670980453491	0.12050879	No	
+row_6	PDGFC	platelet derived growth factor C [Source:HGNC Symbol;Acc:HGNC:8801]	1189	1.049322485923767	0.13748182	No	
+row_7	NTF4	neurotrophin 4 [Source:HGNC Symbol;Acc:HGNC:8024]	2138	0.7573727369308472	0.0970678	No	
+row_8	FGF8	fibroblast growth factor 8 [Source:HGNC Symbol;Acc:HGNC:3686]	2159	0.754257321357727	0.112989515	No	
+row_9	ANGPT1	angiopoietin 1 [Source:HGNC Symbol;Acc:HGNC:484]	2342	0.7116403579711914	0.118096106	No	
+row_10	FLT3LG	fms related receptor tyrosine kinase 3 ligand [Source:HGNC Symbol;Acc:HGNC:3766]	4761	0.3457373082637787	-0.021021463	No	
+row_11	NTRK1	neurotrophic receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:8031]	5088	0.307270884513855	-0.033855226	No	
+row_12	PDGFRA	platelet derived growth factor receptor alpha [Source:HGNC Symbol;Acc:HGNC:8803]	5427	0.27256327867507935	-0.048206974	No	
+row_13	PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	5537	0.2606273591518402	-0.048910633	No	
+row_14	SOS2	SOS Ras/Rho guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:11188]	5646	0.25021693110466003	-0.04979004	No	
+row_15	FGFR4	fibroblast growth factor receptor 4 [Source:HGNC Symbol;Acc:HGNC:3691]	6019	0.21518218517303467	-0.067512155	No	
+row_16	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	6338	0.18477848172187805	-0.082642786	No	
+row_17	ERBB4	erb-b2 receptor tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3432]	6344	0.18402999639511108	-0.07876538	No	
+row_18	FGFR3	fibroblast growth factor receptor 3 [Source:HGNC Symbol;Acc:HGNC:3690]	6446	0.17486152052879333	-0.08093145	No	
+row_19	KRAS	KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	7267	0.10338788479566574	-0.12842436	No	
+row_20	SOS1	SOS Ras/Rac guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:11187]	7495	0.082548588514328	-0.1403465	No	
+row_21	MAP2K2	mitogen-activated protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6842]	7594	0.07470175623893738	-0.14460593	No	
+row_22	PSPN	persephin [Source:HGNC Symbol;Acc:HGNC:9579]	7630	0.07148347795009613	-0.14510916	No	
+row_23	NRAS	NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]	9001	-0.045294031500816345	-0.2273526	No	
+row_24	EFNA2	ephrin A2 [Source:HGNC Symbol;Acc:HGNC:3222]	9051	-0.049572303891181946	-0.22920464	No	
+row_25	EFNA1	ephrin A1 [Source:HGNC Symbol;Acc:HGNC:3221]	9596	-0.09658365696668625	-0.26007605	No	
+row_26	PDGFA	platelet derived growth factor subunit A [Source:HGNC Symbol;Acc:HGNC:8799]	9727	-0.1084352508187294	-0.2655141	No	
+row_27	IGF2	insulin like growth factor 2 [Source:HGNC Symbol;Acc:HGNC:5466]	10083	-0.13588404655456543	-0.28400463	No	
+row_28	EFNA4	ephrin A4 [Source:HGNC Symbol;Acc:HGNC:3224]	10101	-0.1371961236000061	-0.2819207	No	
+row_29	RAF1	Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]	10646	-0.18439659476280212	-0.31079695	No	
+row_30	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	11304	-0.2436649650335312	-0.34519503	No	
+row_31	EFNA5	ephrin A5 [Source:HGNC Symbol;Acc:HGNC:3225]	12120	-0.3308752179145813	-0.38721532	No	
+row_32	ARAF	A-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:646]	12925	-0.4253544509410858	-0.42642033	No	
+row_33	VEGFB	vascular endothelial growth factor B [Source:HGNC Symbol;Acc:HGNC:12681]	13022	-0.4390089213848114	-0.42228085	No	
+row_34	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	13128	-0.45169174671173096	-0.41840023	No	
+row_35	ERBB2	erb-b2 receptor tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:3430]	13888	-0.5676990747451782	-0.45163584	No	
+row_36	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	14326	-0.6418375372886658	-0.46361485	Yes	
+row_37	MET	MET proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:7029]	14362	-0.6515011787414551	-0.4509396	Yes	
+row_38	FGF21	fibroblast growth factor 21 [Source:HGNC Symbol;Acc:HGNC:3678]	14473	-0.6786897778511047	-0.4422053	Yes	
+row_39	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	14515	-0.6898874044418335	-0.42902258	Yes	
+row_40	ERBB3	erb-b2 receptor tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3431]	14765	-0.7451518774032593	-0.42722702	Yes	
+row_41	PGF	placental growth factor [Source:HGNC Symbol;Acc:HGNC:8893]	14844	-0.7639036178588867	-0.41461155	Yes	
+row_42	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	14847	-0.7655122876167297	-0.39734003	Yes	
+row_43	PDGFB	platelet derived growth factor subunit B [Source:HGNC Symbol;Acc:HGNC:8800]	15093	-0.8350261449813843	-0.39325932	Yes	
+row_44	CSF1R	colony stimulating factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:2433]	15157	-0.8598797917366028	-0.37755144	Yes	
+row_45	IGF1R	insulin like growth factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:5465]	15294	-0.9205652475357056	-0.3649019	Yes	
+row_46	CSF1	colony stimulating factor 1 [Source:HGNC Symbol;Acc:HGNC:2432]	15368	-0.9535229802131653	-0.3476742	Yes	
+row_47	INSR	insulin receptor [Source:HGNC Symbol;Acc:HGNC:6091]	15372	-0.9552168250083923	-0.3261532	Yes	
+row_48	BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	15614	-1.0746053457260132	-0.31638592	Yes	
+row_49	FGFR1	fibroblast growth factor receptor 1 [Source:HGNC Symbol;Acc:HGNC:3688]	15700	-1.1277798414230347	-0.29592836	Yes	
+row_50	FLT1	fms related receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:3763]	15809	-1.2025700807571411	-0.2751695	Yes	
+row_51	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	15933	-1.2933350801467896	-0.2532601	Yes	
+row_52	FLT4	fms related receptor tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	15959	-1.3225139379501343	-0.22473104	Yes	
+row_53	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	16032	-1.4044855833053589	-0.1971963	Yes	
+row_54	EFNA3	ephrin A3 [Source:HGNC Symbol;Acc:HGNC:3223]	16139	-1.5537834167480469	-0.168336	Yes	
+row_55	ANGPT4	angiopoietin 4 [Source:HGNC Symbol;Acc:HGNC:487]	16440	-2.587000846862793	-0.12779202	Yes	
+row_56	FGF1	fibroblast growth factor 1 [Source:HGNC Symbol;Acc:HGNC:3665]	16441	-2.590094804763794	-0.06894285	Yes	
+row_57	EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	16493	-3.213573694229126	9.723536E-4	Yes	

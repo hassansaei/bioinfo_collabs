@@ -1,0 +1,69 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PROS1	protein S [Source:HGNC Symbol;Acc:HGNC:9456]	571	1.527273416519165	0.0045484654	No	
+row_1	CFHR3	complement factor H related 3 [Source:HGNC Symbol;Acc:HGNC:16980]	984	1.2520614862442017	0.01098935	No	
+row_2	C1R	complement C1r [Source:HGNC Symbol;Acc:HGNC:1246]	1575	1.0227359533309937	0.003998926	No	
+row_3	ZNF177	zinc finger protein 177 [Source:HGNC Symbol;Acc:HGNC:12966]	1949	0.9206928610801697	0.005349674	No	
+row_4	ITIH4	inter-alpha-trypsin inhibitor heavy chain 4 [Source:HGNC Symbol;Acc:HGNC:6169]	2218	0.8578132390975952	0.0104522165	No	
+row_5	ZNF559-ZNF177	ZNF559-ZNF177 readthrough [Source:HGNC Symbol;Acc:HGNC:42964]	2684	0.7653552889823914	0.004086097	No	
+row_6	CLIC1	chloride intracellular channel 1 [Source:HGNC Symbol;Acc:HGNC:2062]	3721	0.6076768040657043	-0.033199687	No	
+row_7	ZBTB38	zinc finger and BTB domain containing 38 [Source:HGNC Symbol;Acc:HGNC:26636]	3978	0.5732927322387695	-0.033506233	No	
+row_8	SLC4A1	solute carrier family 4 member 1 (Diego blood group) [Source:HGNC Symbol;Acc:HGNC:11027]	5153	0.4393036663532257	-0.08100679	No	
+row_9	SDCBP	syndecan binding protein [Source:HGNC Symbol;Acc:HGNC:10662]	5217	0.43330565094947815	-0.07493098	No	
+row_10	FCN3	ficolin 3 [Source:HGNC Symbol;Acc:HGNC:3625]	5296	0.42620930075645447	-0.069729604	No	
+row_11	HPR	haptoglobin-related protein [Source:HGNC Symbol;Acc:HGNC:5156]	6679	0.28964290022850037	-0.13043465	No	
+row_12	LGALS3BP	galectin 3 binding protein [Source:HGNC Symbol;Acc:HGNC:6564]	7717	0.20852306485176086	-0.17617093	No	
+row_13	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	8467	0.15293094515800476	-0.2091563	No	
+row_14	A1BG	alpha-1-B glycoprotein [Source:HGNC Symbol;Acc:HGNC:5]	8518	0.1493915170431137	-0.20842849	No	
+row_15	CP	ceruloplasmin [Source:HGNC Symbol;Acc:HGNC:2295]	9332	0.09150201082229614	-0.24580051	No	
+row_16	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	9545	0.07685676217079163	-0.25443017	No	
+row_17	CIB2	calcium and integrin binding family member 2 [Source:HGNC Symbol;Acc:HGNC:24579]	9816	0.05854171887040138	-0.2662489	No	
+row_18	C9	complement C9 [Source:HGNC Symbol;Acc:HGNC:1358]	9914	0.050675489008426666	-0.2698709	No	
+row_19	KDM4D	lysine demethylase 4D [Source:HGNC Symbol;Acc:HGNC:25498]	10274	0.024940764531493187	-0.28669897	No	
+row_20	C8G	complement C8 gamma chain [Source:HGNC Symbol;Acc:HGNC:1354]	11133	-0.03363420441746712	-0.32746428	No	
+row_21	TF	transferrin [Source:HGNC Symbol;Acc:HGNC:11740]	11669	-0.0710245668888092	-0.35182962	No	
+row_22	ENG	endoglin [Source:HGNC Symbol;Acc:HGNC:3349]	12648	-0.1388271003961563	-0.3961811	No	
+row_23	CFB	complement factor B [Source:HGNC Symbol;Acc:HGNC:1037]	12775	-0.1471814513206482	-0.3991734	No	
+row_24	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	13139	-0.1726064383983612	-0.41308647	No	
+row_25	GRIPAP1	GRIP1 associated protein 1 [Source:HGNC Symbol;Acc:HGNC:18706]	13263	-0.18201912939548492	-0.41520044	No	
+row_26	C4B	complement C4B (Chido blood group) [Source:HGNC Symbol;Acc:HGNC:1324]	13932	-0.22876085340976715	-0.4426743	No	
+row_27	DNPEP	aspartyl aminopeptidase [Source:HGNC Symbol;Acc:HGNC:2981]	14315	-0.25810131430625916	-0.4557061	No	
+row_28	C1S	complement C1s [Source:HGNC Symbol;Acc:HGNC:1247]	14391	-0.2649417221546173	-0.4537544	No	
+row_29	PFN1	profilin 1 [Source:HGNC Symbol;Acc:HGNC:8881]	14424	-0.2674199044704437	-0.449672	No	
+row_30	TMPRSS13	transmembrane serine protease 13 [Source:HGNC Symbol;Acc:HGNC:29808]	14579	-0.27986639738082886	-0.45122477	No	
+row_31	INTS11	integrator complex subunit 11 [Source:HGNC Symbol;Acc:HGNC:26052]	14756	-0.2925494909286499	-0.45357397	No	
+row_32	HPX	hemopexin [Source:HGNC Symbol;Acc:HGNC:5171]	14917	-0.30512535572052	-0.45488504	No	
+row_33	ITGA2B	integrin subunit alpha 2b [Source:HGNC Symbol;Acc:HGNC:6138]	14961	-0.30938953161239624	-0.45045093	No	
+row_34	HSPA8	heat shock protein family A (Hsp70) member 8 [Source:HGNC Symbol;Acc:HGNC:5241]	15386	-0.35062551498413086	-0.46356523	No	
+row_35	ACSM1	acyl-CoA synthetase medium chain family member 1 [Source:HGNC Symbol;Acc:HGNC:18049]	15561	-0.3685343265533447	-0.4642183	No	
+row_36	PSMC5	proteasome 26S subunit, ATPase 5 [Source:HGNC Symbol;Acc:HGNC:9552]	15731	-0.3830035328865051	-0.46432507	Yes	
+row_37	EIF2A	eukaryotic translation initiation factor 2A [Source:HGNC Symbol;Acc:HGNC:3254]	15845	-0.3942948877811432	-0.4614873	Yes	
+row_38	AGT	angiotensinogen [Source:HGNC Symbol;Acc:HGNC:333]	15902	-0.39822742342948914	-0.45581153	Yes	
+row_39	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	16053	-0.41311362385749817	-0.4543661	Yes	
+row_40	SERPINF2	serpin family F member 2 [Source:HGNC Symbol;Acc:HGNC:9075]	16096	-0.4176627993583679	-0.44760448	Yes	
+row_41	GSN	gelsolin [Source:HGNC Symbol;Acc:HGNC:4620]	16123	-0.41944748163223267	-0.44003192	Yes	
+row_42	APOL1	apolipoprotein L1 [Source:HGNC Symbol;Acc:HGNC:618]	16711	-0.48048871755599976	-0.4582916	Yes	
+row_43	KRT1	keratin 1 [Source:HGNC Symbol;Acc:HGNC:6412]	16903	-0.5011691451072693	-0.45697442	Yes	
+row_44	C4A	complement C4A (Rodgers blood group) [Source:HGNC Symbol;Acc:HGNC:1323]	17173	-0.5319939851760864	-0.45877868	Yes	
+row_45	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	17382	-0.5562277436256409	-0.45712426	Yes	
+row_46	SERPING1	serpin family G member 1 [Source:HGNC Symbol;Acc:HGNC:1228]	17536	-0.5779046416282654	-0.452355	Yes	
+row_47	ANXA5	annexin A5 [Source:HGNC Symbol;Acc:HGNC:543]	18026	-0.6497089266777039	-0.46231556	Yes	
+row_48	MSN	moesin [Source:HGNC Symbol;Acc:HGNC:7373]	18308	-0.7040839195251465	-0.4610774	Yes	
+row_49	HSPA2	heat shock protein family A (Hsp70) member 2 [Source:HGNC Symbol;Acc:HGNC:5235]	18359	-0.7128509879112244	-0.4484888	Yes	
+row_50	MIR503	microRNA 503 [Source:HGNC Symbol;Acc:HGNC:32138]	18385	-0.7172858119010925	-0.4345984	Yes	
+row_51	OAZ3	ornithine decarboxylase antizyme 3 [Source:HGNC Symbol;Acc:HGNC:8097]	18522	-0.7411018013954163	-0.42557213	Yes	
+row_52	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	18784	-0.7947345972061157	-0.42145902	Yes	
+row_53	HP	haptoglobin [Source:HGNC Symbol;Acc:HGNC:5141]	18837	-0.8061805963516235	-0.4070025	Yes	
+row_54	POTEE	POTE ankyrin domain family member E [Source:HGNC Symbol;Acc:HGNC:33895]	19188	-0.8921342492103577	-0.40514114	Yes	
+row_55	C3	complement C3 [Source:HGNC Symbol;Acc:HGNC:1318]	19664	-1.0784261226654053	-0.4054005	Yes	
+row_56	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	19823	-1.1517287492752075	-0.38879398	Yes	
+row_57	POTEF	POTE ankyrin domain family member F [Source:HGNC Symbol;Acc:HGNC:33905]	19925	-1.2139185667037964	-0.36812314	Yes	
+row_58	ANGPTL4	angiopoietin like 4 [Source:HGNC Symbol;Acc:HGNC:16039]	20082	-1.318705677986145	-0.34790507	Yes	
+row_59	VTN	vitronectin [Source:HGNC Symbol;Acc:HGNC:12724]	20149	-1.374717116355896	-0.32215762	Yes	
+row_60	TFRC	transferrin receptor [Source:HGNC Symbol;Acc:HGNC:11763]	20209	-1.44473397731781	-0.29459798	Yes	
+row_61	IGKC	immunoglobulin kappa constant [Source:HGNC Symbol;Acc:HGNC:5716]	20325	-1.5764206647872925	-0.2669732	Yes	
+row_62	SLC2A1	solute carrier family 2 member 1 [Source:HGNC Symbol;Acc:HGNC:11005]	20330	-1.581323504447937	-0.23387979	Yes	
+row_63	APOA2	apolipoprotein A2 [Source:HGNC Symbol;Acc:HGNC:601]	20406	-1.6768109798431396	-0.20220833	Yes	
+row_64	ACTG2	actin gamma 2, smooth muscle [Source:HGNC Symbol;Acc:HGNC:145]	20530	-1.968213677406311	-0.16672303	Yes	
+row_65	HSPA6	heat shock protein family A (Hsp70) member 6 [Source:HGNC Symbol;Acc:HGNC:5239]	20606	-2.18302321434021	-0.124395825	Yes	
+row_66	F2	coagulation factor II, thrombin [Source:HGNC Symbol;Acc:HGNC:3535]	20701	-2.7828311920166016	-0.07036111	Yes	
+row_67	ACTA1	actin alpha 1, skeletal muscle [Source:HGNC Symbol;Acc:HGNC:129]	20748	-3.464296817779541	3.3860118E-4	Yes	

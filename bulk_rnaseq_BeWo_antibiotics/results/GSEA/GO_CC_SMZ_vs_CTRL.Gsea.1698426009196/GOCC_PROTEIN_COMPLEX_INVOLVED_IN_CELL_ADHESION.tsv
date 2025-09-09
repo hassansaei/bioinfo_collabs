@@ -1,0 +1,48 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ITGA2	integrin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6137]	85	2.3656411170959473	0.063852526	No	
+row_1	LAMA2	laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	1117	1.1134190559387207	0.040970653	No	
+row_2	ITGB7	integrin subunit beta 7 [Source:HGNC Symbol;Acc:HGNC:6162]	1511	0.9725736379623413	0.04809619	No	
+row_3	ITGAL	integrin subunit alpha L [Source:HGNC Symbol;Acc:HGNC:6148]	1771	0.8939525485038757	0.06010646	No	
+row_4	ITGA8	integrin subunit alpha 8 [Source:HGNC Symbol;Acc:HGNC:6144]	1824	0.8825291395187378	0.082843564	No	
+row_5	EMILIN1	elastin microfibril interfacer 1 [Source:HGNC Symbol;Acc:HGNC:19880]	2094	0.8111109137535095	0.091924645	No	
+row_6	ITGAV	integrin subunit alpha V [Source:HGNC Symbol;Acc:HGNC:6150]	2123	0.8053075075149536	0.113711186	No	
+row_7	ITGB5	integrin subunit beta 5 [Source:HGNC Symbol;Acc:HGNC:6160]	2410	0.7468687295913696	0.12002689	No	
+row_8	LGALS1	galectin 1 [Source:HGNC Symbol;Acc:HGNC:6561]	2877	0.6620579957962036	0.11427577	No	
+row_9	ITGA3	integrin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6139]	2923	0.6539905071258545	0.13077952	No	
+row_10	NLGN1	neuroligin 1 [Source:HGNC Symbol;Acc:HGNC:14291]	3341	0.5930965542793274	0.12565205	No	
+row_11	ITGA7	integrin subunit alpha 7 [Source:HGNC Symbol;Acc:HGNC:6143]	3913	0.5117925405502319	0.10994793	No	
+row_12	ITGA10	integrin subunit alpha 10 [Source:HGNC Symbol;Acc:HGNC:6135]	4096	0.48653918504714966	0.114292525	No	
+row_13	ITGAE	integrin subunit alpha E [Source:HGNC Symbol;Acc:HGNC:6147]	5322	0.34750229120254517	0.0589046	No	
+row_14	ITGB2	integrin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6155]	5709	0.305138498544693	0.04710788	No	
+row_15	TNR	tenascin R [Source:HGNC Symbol;Acc:HGNC:11953]	5866	0.2902575433254242	0.047166605	No	
+row_16	ITGA9	integrin subunit alpha 9 [Source:HGNC Symbol;Acc:HGNC:6145]	6026	0.27509185671806335	0.04662663	No	
+row_17	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	8568	0.06818961352109909	-0.08713188	No	
+row_18	PLAUR	plasminogen activator, urokinase receptor [Source:HGNC Symbol;Acc:HGNC:9053]	9146	0.023413337767124176	-0.11727598	No	
+row_19	ITGAD	integrin subunit alpha D [Source:HGNC Symbol;Acc:HGNC:6146]	9721	-0.019034605473279953	-0.14738643	No	
+row_20	LAMB2	laminin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6487]	9905	-0.03314337506890297	-0.15620334	No	
+row_21	ITGAX	integrin subunit alpha X [Source:HGNC Symbol;Acc:HGNC:6152]	9947	-0.03586355224251747	-0.15735655	No	
+row_22	TSPAN32	tetraspanin 32 [Source:HGNC Symbol;Acc:HGNC:13410]	11459	-0.14804401993751526	-0.23378795	No	
+row_23	EMILIN2	elastin microfibril interfacer 2 [Source:HGNC Symbol;Acc:HGNC:19881]	11798	-0.1742834597826004	-0.24680385	No	
+row_24	IZUMO1	izumo sperm-egg fusion 1 [Source:HGNC Symbol;Acc:HGNC:28539]	11821	-0.17606221139431	-0.24288888	No	
+row_25	JAM2	junctional adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:14686]	12323	-0.21617187559604645	-0.26340055	No	
+row_26	LAMB1	laminin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6486]	12513	-0.22920450568199158	-0.26686963	No	
+row_27	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	12708	-0.24592837691307068	-0.27012232	No	
+row_28	ITGA2B	integrin subunit alpha 2b [Source:HGNC Symbol;Acc:HGNC:6138]	13438	-0.30938953161239624	-0.30011782	No	
+row_29	LAMC1	laminin subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:6492]	14060	-0.37338197231292725	-0.3224943	No	
+row_30	LGALS2	galectin 2 [Source:HGNC Symbol;Acc:HGNC:6562]	15363	-0.5192050933837891	-0.37703118	No	
+row_31	PLAU	plasminogen activator, urokinase [Source:HGNC Symbol;Acc:HGNC:9052]	15778	-0.5757609605789185	-0.38249958	No	
+row_32	LAMA1	laminin subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:6481]	16328	-0.6613421440124512	-0.39270493	Yes	
+row_33	ITGA1	integrin subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:6134]	16508	-0.7013643980026245	-0.3819893	Yes	
+row_34	TNXB	tenascin XB [Source:HGNC Symbol;Acc:HGNC:11976]	17165	-0.8471106886863708	-0.3925394	Yes	
+row_35	ITGB4	integrin subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:6158]	17298	-0.8850558400154114	-0.37400252	Yes	
+row_36	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	17714	-1.0611683130264282	-0.36549076	Yes	
+row_37	MMRN2	multimerin 2 [Source:HGNC Symbol;Acc:HGNC:19888]	17743	-1.0700693130493164	-0.33604974	Yes	
+row_38	ITGB3	integrin subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:6156]	17803	-1.0975656509399414	-0.30746964	Yes	
+row_39	ITGAM	integrin subunit alpha M [Source:HGNC Symbol;Acc:HGNC:6149]	17872	-1.1332207918167114	-0.27833945	Yes	
+row_40	ITGA5	integrin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6141]	17978	-1.2030410766601562	-0.24916708	Yes	
+row_41	ITGA6	integrin subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:6142]	18080	-1.2629401683807373	-0.21804932	Yes	
+row_42	VTN	vitronectin [Source:HGNC Symbol;Acc:HGNC:12724]	18209	-1.374717116355896	-0.18514222	Yes	
+row_43	LYN	LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]	18210	-1.375346302986145	-0.14537968	Yes	
+row_44	PLP1	proteolipid protein 1 [Source:HGNC Symbol;Acc:HGNC:9086]	18551	-1.9345893859863281	-0.10761033	Yes	
+row_45	ITGB6	integrin subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:6161]	18589	-2.048588275909424	-0.050360132	Yes	
+row_46	TNN	tenascin N [Source:HGNC Symbol;Acc:HGNC:22942]	18597	-2.068932294845581	0.009080708	Yes	

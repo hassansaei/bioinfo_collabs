@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PIGM	phosphatidylinositol glycan anchor biosynthesis class M [Source:HGNC Symbol;Acc:HGNC:18858]	1532	0.4671022891998291	0.037161663	Yes	
+row_1	PIGK	phosphatidylinositol glycan anchor biosynthesis class K [Source:HGNC Symbol;Acc:HGNC:8965]	3078	0.2898827791213989	0.028534494	Yes	
+row_2	PIGF	phosphatidylinositol glycan anchor biosynthesis class F [Source:HGNC Symbol;Acc:HGNC:8962]	3096	0.2880129814147949	0.10091618	Yes	
+row_3	PIGX	phosphatidylinositol glycan anchor biosynthesis class X [Source:HGNC Symbol;Acc:HGNC:26046]	3317	0.27002549171447754	0.15789522	Yes	
+row_4	PIGY	phosphatidylinositol glycan anchor biosynthesis class Y [Source:HGNC Symbol;Acc:HGNC:28213]	3673	0.2453782707452774	0.20140326	Yes	
+row_5	PIGN	phosphatidylinositol glycan anchor biosynthesis class N [Source:HGNC Symbol;Acc:HGNC:8967]	3984	0.2279285490512848	0.24287076	Yes	
+row_6	PIGQ	phosphatidylinositol glycan anchor biosynthesis class Q [Source:HGNC Symbol;Acc:HGNC:14135]	4581	0.19128867983818054	0.25976312	Yes	
+row_7	PIGL	phosphatidylinositol glycan anchor biosynthesis class L [Source:HGNC Symbol;Acc:HGNC:8966]	5049	0.16689293086528778	0.27732697	Yes	
+row_8	PIGP	phosphatidylinositol glycan anchor biosynthesis class P [Source:HGNC Symbol;Acc:HGNC:3046]	5249	0.15538662672042847	0.30625468	Yes	
+row_9	PIGA	phosphatidylinositol glycan anchor biosynthesis class A [Source:HGNC Symbol;Acc:HGNC:8957]	5292	0.1527634561061859	0.34288737	Yes	
+row_10	PIGZ	phosphatidylinositol glycan anchor biosynthesis class Z [Source:HGNC Symbol;Acc:HGNC:30596]	6071	0.11957331746816635	0.3318253	Yes	
+row_11	PIGV	phosphatidylinositol glycan anchor biosynthesis class V [Source:HGNC Symbol;Acc:HGNC:26031]	6235	0.11225853115320206	0.35169837	Yes	
+row_12	GPAA1	glycosylphosphatidylinositol anchor attachment 1 [Source:HGNC Symbol;Acc:HGNC:4446]	8572	0.024011965841054916	0.23323512	No	
+row_13	PIGB	phosphatidylinositol glycan anchor biosynthesis class B [Source:HGNC Symbol;Acc:HGNC:8959]	8728	0.01811593770980835	0.22957914	No	
+row_14	PIGH	phosphatidylinositol glycan anchor biosynthesis class H [Source:HGNC Symbol;Acc:HGNC:8964]	8940	0.010384689085185528	0.22096951	No	
+row_15	DPM2	dolichyl-phosphate mannosyltransferase subunit 2, regulatory [Source:HGNC Symbol;Acc:HGNC:3006]	9290	-0.0015846086898818612	0.20276138	No	
+row_16	PIGT	phosphatidylinositol glycan anchor biosynthesis class T [Source:HGNC Symbol;Acc:HGNC:14938]	10143	-0.030405975878238678	0.1650634	No	
+row_17	PIGO	phosphatidylinositol glycan anchor biosynthesis class O [Source:HGNC Symbol;Acc:HGNC:23215]	10467	-0.04179912060499191	0.15847483	No	
+row_18	PIGC	phosphatidylinositol glycan anchor biosynthesis class C [Source:HGNC Symbol;Acc:HGNC:8960]	11901	-0.0906931608915329	0.10513425	No	
+row_19	PIGG	phosphatidylinositol glycan anchor biosynthesis class G [Source:HGNC Symbol;Acc:HGNC:25985]	12278	-0.10452068597078323	0.11167956	No	
+row_20	PIGS	phosphatidylinositol glycan anchor biosynthesis class S [Source:HGNC Symbol;Acc:HGNC:14937]	12989	-0.13206590712070465	0.107422635	No	
+row_21	PIGU	phosphatidylinositol glycan anchor biosynthesis class U [Source:HGNC Symbol;Acc:HGNC:15791]	13551	-0.1573420763015747	0.11754335	No	
+row_22	GPLD1	glycosylphosphatidylinositol specific phospholipase D1 [Source:HGNC Symbol;Acc:HGNC:4459]	14483	-0.2046525925397873	0.11997154	No	
+row_23	PGAP1	post-GPI attachment to proteins inositol deacylase 1 [Source:HGNC Symbol;Acc:HGNC:25712]	16930	-0.4277947247028351	0.09838947	No	

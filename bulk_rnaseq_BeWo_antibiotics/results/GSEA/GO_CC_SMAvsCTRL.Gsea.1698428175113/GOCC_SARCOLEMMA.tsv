@@ -1,0 +1,120 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AHNAK2	AHNAK nucleoprotein 2 [Source:HGNC Symbol;Acc:HGNC:20125]	135	2.206564426422119	0.02128753	No	
+row_1	POPDC2	popeye domain containing 2 [Source:HGNC Symbol;Acc:HGNC:17648]	287	1.8321006298065186	0.03707702	No	
+row_2	STAC3	SH3 and cysteine rich domain 3 [Source:HGNC Symbol;Acc:HGNC:28423]	310	1.8110275268554688	0.058851644	No	
+row_3	DTNA	dystrobrevin alpha [Source:HGNC Symbol;Acc:HGNC:3057]	543	1.5551786422729492	0.0672236	No	
+row_4	CACNB3	calcium voltage-gated channel auxiliary subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:1403]	941	1.2791979312896729	0.06411955	No	
+row_5	DYSF	dysferlin [Source:HGNC Symbol;Acc:HGNC:3097]	1193	1.1555571556091309	0.06653081	No	
+row_6	FKRP	fukutin related protein [Source:HGNC Symbol;Acc:HGNC:17997]	1237	1.1381173133850098	0.0788011	No	
+row_7	LAMA2	laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	1305	1.1134190559387207	0.08959694	No	
+row_8	NOS1AP	nitric oxide synthase 1 adaptor protein [Source:HGNC Symbol;Acc:HGNC:16859]	1347	1.0965982675552368	0.10144051	No	
+row_9	AKAP6	A-kinase anchoring protein 6 [Source:HGNC Symbol;Acc:HGNC:376]	1925	0.9236025810241699	0.08512949	No	
+row_10	CACNG6	calcium voltage-gated channel auxiliary subunit gamma 6 [Source:HGNC Symbol;Acc:HGNC:13625]	2220	0.8571850061416626	0.08169405	No	
+row_11	SYNC	syncoilin, intermediate filament protein [Source:HGNC Symbol;Acc:HGNC:28897]	2294	0.8420298099517822	0.08877639	No	
+row_12	CAVIN4	caveolae associated protein 4 [Source:HGNC Symbol;Acc:HGNC:33742]	2457	0.805723249912262	0.09108819	No	
+row_13	SLC27A6	solute carrier family 27 member 6 [Source:HGNC Symbol;Acc:HGNC:11000]	2848	0.7361533641815186	0.08147446	No	
+row_14	FLOT1	flotillin 1 [Source:HGNC Symbol;Acc:HGNC:3757]	2990	0.7089537978172302	0.08358339	No	
+row_15	POPDC3	popeye domain containing 3 [Source:HGNC Symbol;Acc:HGNC:17649]	3158	0.6841678619384766	0.08411985	No	
+row_16	CIB1	calcium and integrin binding 1 [Source:HGNC Symbol;Acc:HGNC:16920]	3527	0.634794294834137	0.07429382	No	
+row_17	CACNA2D1	calcium voltage-gated channel auxiliary subunit alpha2delta 1 [Source:HGNC Symbol;Acc:HGNC:1399]	3697	0.610744297504425	0.07380735	No	
+row_18	CACNG8	calcium voltage-gated channel auxiliary subunit gamma 8 [Source:HGNC Symbol;Acc:HGNC:13628]	3718	0.6082221269607544	0.08050911	No	
+row_19	CACNB1	calcium voltage-gated channel auxiliary subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:1401]	4212	0.543674647808075	0.06347681	No	
+row_20	CLCN1	chloride voltage-gated channel 1 [Source:HGNC Symbol;Acc:HGNC:2019]	4902	0.464822381734848	0.03595251	No	
+row_21	DTNBP1	dystrobrevin binding protein 1 [Source:HGNC Symbol;Acc:HGNC:17328]	5000	0.45489904284477234	0.036989395	No	
+row_22	SGCB	sarcoglycan beta [Source:HGNC Symbol;Acc:HGNC:10806]	5261	0.42967861890792847	0.02980977	No	
+row_23	NOS1	nitric oxide synthase 1 [Source:HGNC Symbol;Acc:HGNC:7872]	5401	0.4174635708332062	0.028339343	No	
+row_24	SLC8B1	solute carrier family 8 member B1 [Source:HGNC Symbol;Acc:HGNC:26175]	5462	0.411822646856308	0.03062585	No	
+row_25	SGCE	sarcoglycan epsilon [Source:HGNC Symbol;Acc:HGNC:10808]	5853	0.3704656660556793	0.016400065	No	
+row_26	RTN2	reticulon 2 [Source:HGNC Symbol;Acc:HGNC:10468]	6185	0.33572331070899963	0.004595053	No	
+row_27	FGF13	fibroblast growth factor 13 [Source:HGNC Symbol;Acc:HGNC:3670]	6219	0.3324359655380249	0.007188664	No	
+row_28	CACNG7	calcium voltage-gated channel auxiliary subunit gamma 7 [Source:HGNC Symbol;Acc:HGNC:13626]	6392	0.31509512662887573	0.0028280972	No	
+row_29	BVES	blood vessel epicardial substance [Source:HGNC Symbol;Acc:HGNC:1152]	6520	0.3036743402481079	5.0404127E-4	No	
+row_30	CAPN3	calpain 3 [Source:HGNC Symbol;Acc:HGNC:1480]	7479	0.22527337074279785	-0.043076288	No	
+row_31	PDE9A	phosphodiesterase 9A [Source:HGNC Symbol;Acc:HGNC:8795]	7727	0.20819686353206635	-0.052419305	No	
+row_32	CCDC78	coiled-coil domain containing 78 [Source:HGNC Symbol;Acc:HGNC:14153]	7760	0.20530924201011658	-0.051380556	No	
+row_33	ATP1B1	ATPase Na+/K+ transporting subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:804]	7915	0.19448547065258026	-0.056390032	No	
+row_34	SNTA1	syntrophin alpha 1 [Source:HGNC Symbol;Acc:HGNC:11167]	8499	0.15070019662380219	-0.08273964	No	
+row_35	SCN1B	sodium voltage-gated channel beta subunit 1 [Source:HGNC Symbol;Acc:HGNC:10586]	9066	0.11142393946647644	-0.10876082	No	
+row_36	PLEC	plectin [Source:HGNC Symbol;Acc:HGNC:9069]	9107	0.1078188493847847	-0.109339274	No	
+row_37	FXYD1	FXYD domain containing ion transport regulator 1 [Source:HGNC Symbol;Acc:HGNC:4025]	9142	0.10524237155914307	-0.109659486	No	
+row_38	KCNJ11	potassium inwardly rectifying channel subfamily J member 11 [Source:HGNC Symbol;Acc:HGNC:6257]	9223	0.09921814501285553	-0.11228468	No	
+row_39	UTRN	utrophin [Source:HGNC Symbol;Acc:HGNC:12635]	9300	0.0940304547548294	-0.11478148	No	
+row_40	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	9666	0.06818961352109909	-0.13160814	No	
+row_41	CIB2	calcium and integrin binding family member 2 [Source:HGNC Symbol;Acc:HGNC:24579]	9816	0.05854171887040138	-0.13808987	No	
+row_42	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	9854	0.054998729377985	-0.13918911	No	
+row_43	PRKG1	protein kinase cGMP-dependent 1 [Source:HGNC Symbol;Acc:HGNC:9414]	10002	0.04472551494836807	-0.14574817	No	
+row_44	PSEN1	presenilin 1 [Source:HGNC Symbol;Acc:HGNC:9508]	10004	0.044516049325466156	-0.14523518	No	
+row_45	LAMP1	lysosomal associated membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:6499]	10029	0.04284825176000595	-0.14585774	No	
+row_46	CACNB2	calcium voltage-gated channel auxiliary subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:1402]	10259	0.026574332267045975	-0.15661916	No	
+row_47	ALOX12	arachidonate 12-lipoxygenase, 12S type [Source:HGNC Symbol;Acc:HGNC:429]	10661	-0.002464027376845479	-0.1760192	No	
+row_48	RDX	radixin [Source:HGNC Symbol;Acc:HGNC:9944]	11057	-0.028795644640922546	-0.19479641	No	
+row_49	SLMAP	sarcolemma associated protein [Source:HGNC Symbol;Acc:HGNC:16643]	11266	-0.041572205722332	-0.20435108	No	
+row_50	NCSTN	nicastrin [Source:HGNC Symbol;Acc:HGNC:17091]	11363	-0.048079878091812134	-0.20839654	No	
+row_51	CAMK2D	calcium/calmodulin dependent protein kinase II delta [Source:HGNC Symbol;Acc:HGNC:1462]	11444	-0.054591674357652664	-0.21158457	No	
+row_52	CACNG1	calcium voltage-gated channel auxiliary subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:1405]	11942	-0.09060207009315491	-0.23452485	No	
+row_53	DLG1	discs large MAGUK scaffold protein 1 [Source:HGNC Symbol;Acc:HGNC:2900]	12051	-0.09759455919265747	-0.23852731	No	
+row_54	SGCA	sarcoglycan alpha [Source:HGNC Symbol;Acc:HGNC:10805]	12080	-0.09947293251752853	-0.23862953	No	
+row_55	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	12122	-0.1030840203166008	-0.23931617	No	
+row_56	COL6A2	collagen type VI alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2212]	12148	-0.10494735836982727	-0.23920399	No	
+row_57	COL6A1	collagen type VI alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2211]	12357	-0.12014415860176086	-0.24776772	No	
+row_58	ANK2	ankyrin 2 [Source:HGNC Symbol;Acc:HGNC:493]	12532	-0.1315504014492035	-0.25454006	No	
+row_59	ATP2B4	ATPase plasma membrane Ca2+ transporting 4 [Source:HGNC Symbol;Acc:HGNC:817]	12842	-0.15149489045143127	-0.2676025	No	
+row_60	SMPD4	sphingomyelin phosphodiesterase 4 [Source:HGNC Symbol;Acc:HGNC:32949]	13890	-0.22611214220523834	-0.3154849	No	
+row_61	DAG1	dystroglycan 1 [Source:HGNC Symbol;Acc:HGNC:2666]	13938	-0.2291346937417984	-0.31487253	No	
+row_62	ASB3	ankyrin repeat and SOCS box containing 3 [Source:HGNC Symbol;Acc:HGNC:16013]	13965	-0.23121628165245056	-0.3132163	No	
+row_63	KRT8	keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446]	14634	-0.2845325767993927	-0.34199682	No	
+row_64	MYOT	myotilin [Source:HGNC Symbol;Acc:HGNC:12399]	14726	-0.29047027230262756	-0.34274298	No	
+row_65	MLIP	muscular LMNA interacting protein [Source:HGNC Symbol;Acc:HGNC:21355]	15014	-0.3157455027103424	-0.35266784	No	
+row_66	ACP1	acid phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:122]	15092	-0.32239532470703125	-0.35233295	No	
+row_67	PPP3CB	protein phosphatase 3 catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9315]	15173	-0.32935166358947754	-0.3520557	No	
+row_68	PGM5	phosphoglucomutase 5 [Source:HGNC Symbol;Acc:HGNC:8908]	15391	-0.35077595710754395	-0.35814682	No	
+row_69	SLC9A1	solute carrier family 9 member A1 [Source:HGNC Symbol;Acc:HGNC:11071]	15871	-0.3963242173194885	-0.37635913	No	
+row_70	VCL	vinculin [Source:HGNC Symbol;Acc:HGNC:12665]	16079	-0.41571667790412903	-0.38114664	No	
+row_71	PPP3R1	protein phosphatase 3 regulatory subunit B, alpha [Source:HGNC Symbol;Acc:HGNC:9317]	16283	-0.43456435203552246	-0.3855026	No	
+row_72	AHNAK	AHNAK nucleoprotein [Source:HGNC Symbol;Acc:HGNC:347]	16556	-0.4664537310600281	-0.3927999	No	
+row_73	BIN1	bridging integrator 1 [Source:HGNC Symbol;Acc:HGNC:1052]	16594	-0.46903666853904724	-0.38867733	No	
+row_74	CAV2	caveolin 2 [Source:HGNC Symbol;Acc:HGNC:1528]	16631	-0.47252368927001953	-0.3844623	No	
+row_75	TRIM72	tripartite motif containing 72 [Source:HGNC Symbol;Acc:HGNC:32671]	16882	-0.4990740120410919	-0.39028212	No	
+row_76	SLC2A4	solute carrier family 2 member 4 [Source:HGNC Symbol;Acc:HGNC:11009]	16954	-0.5070205330848694	-0.38732803	No	
+row_77	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	16992	-0.5115795135498047	-0.38266888	No	
+row_78	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	17417	-0.5603972673416138	-0.39614677	No	
+row_79	SLC38A2	solute carrier family 38 member 2 [Source:HGNC Symbol;Acc:HGNC:13448]	17496	-0.5723649263381958	-0.39270774	No	
+row_80	BGN	biglycan [Source:HGNC Symbol;Acc:HGNC:1044]	17703	-0.600524365901947	-0.39511597	No	
+row_81	PPP3CA	protein phosphatase 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9314]	17927	-0.6342349648475647	-0.39792284	Yes	
+row_82	ANXA5	annexin A5 [Source:HGNC Symbol;Acc:HGNC:543]	18026	-0.6497089266777039	-0.3944775	Yes	
+row_83	SLC30A1	solute carrier family 30 member 1 [Source:HGNC Symbol;Acc:HGNC:11012]	18040	-0.6520808339118958	-0.38688338	Yes	
+row_84	DMD	dystrophin [Source:HGNC Symbol;Acc:HGNC:2928]	18097	-0.6591421961784363	-0.38128385	Yes	
+row_85	BSG	basigin (Ok blood group) [Source:HGNC Symbol;Acc:HGNC:1116]	18142	-0.6699143648147583	-0.37496698	Yes	
+row_86	SLC2A5	solute carrier family 2 member 5 [Source:HGNC Symbol;Acc:HGNC:11010]	18370	-0.7153235673904419	-0.376945	Yes	
+row_87	ANXA6	annexin A6 [Source:HGNC Symbol;Acc:HGNC:544]	18632	-0.7626866698265076	-0.37997317	Yes	
+row_88	REM1	RRAD and GEM like GTPase 1 [Source:HGNC Symbol;Acc:HGNC:15922]	18666	-0.7690589427947998	-0.37187287	Yes	
+row_89	TGFB3	transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	18672	-0.7697557806968689	-0.362407	Yes	
+row_90	ATP1A1	ATPase Na+/K+ transporting subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:799]	18866	-0.8124291300773621	-0.36151278	Yes	
+row_91	IGF1R	insulin like growth factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:5465]	19305	-0.9377384185791016	-0.37091005	Yes	
+row_92	DES	desmin [Source:HGNC Symbol;Acc:HGNC:2770]	19395	-0.9705752730369568	-0.3629818	Yes	
+row_93	ANK3	ankyrin 3 [Source:HGNC Symbol;Acc:HGNC:494]	19454	-0.9963696599006653	-0.35322607	Yes	
+row_94	SLC8A3	solute carrier family 8 member A3 [Source:HGNC Symbol;Acc:HGNC:11070]	19519	-1.0190850496292114	-0.3434746	Yes	
+row_95	CAV1	caveolin 1 [Source:HGNC Symbol;Acc:HGNC:1527]	19592	-1.050971508026123	-0.33370864	Yes	
+row_96	CORO1C	coronin 1C [Source:HGNC Symbol;Acc:HGNC:2254]	19606	-1.0576633214950562	-0.32099932	Yes	
+row_97	CACNA1C	calcium voltage-gated channel subunit alpha1 C [Source:HGNC Symbol;Acc:HGNC:1390]	19646	-1.0707327127456665	-0.30938506	Yes	
+row_98	ANK1	ankyrin 1 [Source:HGNC Symbol;Acc:HGNC:492]	19670	-1.0802079439163208	-0.29687598	Yes	
+row_99	SLC8A2	solute carrier family 8 member A2 [Source:HGNC Symbol;Acc:HGNC:11069]	19672	-1.0805860757827759	-0.2832961	Yes	
+row_100	AQP1	aquaporin 1 (Colton blood group) [Source:HGNC Symbol;Acc:HGNC:633]	19677	-1.0823153257369995	-0.26983976	Yes	
+row_101	ANXA8L1	annexin A8 like 1 [Source:HGNC Symbol;Acc:HGNC:23334]	19696	-1.0909862518310547	-0.25695246	Yes	
+row_102	SSPN	sarcospan [Source:HGNC Symbol;Acc:HGNC:11322]	19814	-1.1465691328048706	-0.24816138	Yes	
+row_103	CACNG4	calcium voltage-gated channel auxiliary subunit gamma 4 [Source:HGNC Symbol;Acc:HGNC:1408]	19906	-1.2051517963409424	-0.23737156	Yes	
+row_104	RYR1	ryanodine receptor 1 [Source:HGNC Symbol;Acc:HGNC:10483]	19918	-1.2119293212890625	-0.22261974	Yes	
+row_105	COL6A3	collagen type VI alpha 3 chain [Source:HGNC Symbol;Acc:HGNC:2213]	19937	-1.2196580171585083	-0.20810965	Yes	
+row_106	ANXA8	annexin A8 [Source:HGNC Symbol;Acc:HGNC:546]	19942	-1.2228527069091797	-0.19288085	Yes	
+row_107	OBSCN	obscurin, cytoskeletal calmodulin and titin-interacting RhoGEF [Source:HGNC Symbol;Acc:HGNC:15719]	19964	-1.239937424659729	-0.17826036	Yes	
+row_108	CASQ1	calsequestrin 1 [Source:HGNC Symbol;Acc:HGNC:1512]	19969	-1.2437480688095093	-0.16276805	Yes	
+row_109	RYR3	ryanodine receptor 3 [Source:HGNC Symbol;Acc:HGNC:10485]	20086	-1.3216298818588257	-0.15172063	Yes	
+row_110	SNTB1	syntrophin beta 1 [Source:HGNC Symbol;Acc:HGNC:11168]	20184	-1.4125072956085205	-0.13860638	Yes	
+row_111	FLNC	filamin C [Source:HGNC Symbol;Acc:HGNC:3756]	20276	-1.5301003456115723	-0.12371832	Yes	
+row_112	STBD1	starch binding domain 1 [Source:HGNC Symbol;Acc:HGNC:24854]	20300	-1.5531587600708008	-0.1052444	Yes	
+row_113	ATP1A2	ATPase Na+/K+ transporting subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:800]	20315	-1.5695642232894897	-0.08612745	Yes	
+row_114	CACNA1D	calcium voltage-gated channel subunit alpha1 D [Source:HGNC Symbol;Acc:HGNC:1391]	20321	-1.57337486743927	-0.06652634	Yes	
+row_115	CACNA1S	calcium voltage-gated channel subunit alpha1 S [Source:HGNC Symbol;Acc:HGNC:1397]	20322	-1.5735254287719727	-0.046681046	Yes	
+row_116	SLC2A1	solute carrier family 2 member 1 [Source:HGNC Symbol;Acc:HGNC:11005]	20330	-1.581323504447937	-0.027076598	Yes	
+row_117	SCN5A	sodium voltage-gated channel alpha subunit 5 [Source:HGNC Symbol;Acc:HGNC:10593]	20373	-1.6408932209014893	-0.00841684	Yes	
+row_118	KCND3	potassium voltage-gated channel subfamily D member 3 [Source:HGNC Symbol;Acc:HGNC:6239]	20596	-2.1311919689178467	0.0077043646	Yes	

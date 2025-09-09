@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LPAR5	lysophosphatidic acid receptor 5 [Source:HGNC Symbol;Acc:HGNC:13307]	193	1.9040809869766235	0.24164999	Yes	
+row_1	GNG10	G protein subunit gamma 10 [Source:HGNC Symbol;Acc:HGNC:4402]	544	1.4404531717300415	0.4120932	Yes	
+row_2	GNB4	G protein subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:20731]	881	1.1921143531799316	0.550342	Yes	
+row_3	GNG7	G protein subunit gamma 7 [Source:HGNC Symbol;Acc:HGNC:4410]	2740	0.6386626362800598	0.5226801	No	
+row_4	GNG3	G protein subunit gamma 3 [Source:HGNC Symbol;Acc:HGNC:4405]	4334	0.4001094102859497	0.47934255	No	
+row_5	LPAR3	lysophosphatidic acid receptor 3 [Source:HGNC Symbol;Acc:HGNC:14298]	4806	0.3400394022464752	0.49603292	No	
+row_6	LPAR2	lysophosphatidic acid receptor 2 [Source:HGNC Symbol;Acc:HGNC:3168]	6054	0.21170057356357574	0.4486024	No	
+row_7	GNG4	G protein subunit gamma 4 [Source:HGNC Symbol;Acc:HGNC:4407]	7892	0.047804318368434906	0.343596	No	
+row_8	GNB3	G protein subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:4400]	8218	0.01901216059923172	0.32642275	No	
+row_9	GNB5	G protein subunit beta 5 [Source:HGNC Symbol;Acc:HGNC:4401]	8267	0.014069882221519947	0.32538489	No	
+row_10	RHOA	ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	9813	-0.11511969566345215	0.24703756	No	
+row_11	GNG5	G protein subunit gamma 5 [Source:HGNC Symbol;Acc:HGNC:4408]	10153	-0.14030112326145172	0.24515386	No	
+row_12	GNB2	G protein subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:4398]	10762	-0.19513247907161713	0.23425788	No	
+row_13	GNG12	G protein subunit gamma 12 [Source:HGNC Symbol;Acc:HGNC:19663]	12206	-0.34078744053840637	0.19212082	No	
+row_14	GNB1	G protein subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:4396]	13567	-0.5162128210067749	0.17835711	No	

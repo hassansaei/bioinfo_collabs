@@ -1,0 +1,27 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KAT2B	lysine acetyltransferase 2B [Source:HGNC Symbol;Acc:HGNC:8638]	2411	0.8137000203132629	-0.07422595	No	
+row_1	MYBPC3	myosin binding protein C3 [Source:HGNC Symbol;Acc:HGNC:7551]	3825	0.5949862003326416	-0.111619465	No	
+row_2	KCTD6	potassium channel tetramerization domain containing 6 [Source:HGNC Symbol;Acc:HGNC:22235]	3852	0.5921986699104309	-0.08224927	No	
+row_3	MYOM1	myomesin 1 [Source:HGNC Symbol;Acc:HGNC:7613]	4382	0.5251214504241943	-0.0806122	No	
+row_4	KLHL40	kelch like family member 40 [Source:HGNC Symbol;Acc:HGNC:30372]	5428	0.4153765141963959	-0.10954183	No	
+row_5	LRRC39	leucine rich repeat containing 39 [Source:HGNC Symbol;Acc:HGNC:28228]	6592	0.2967809736728668	-0.15029664	No	
+row_6	PPP2R5A	protein phosphatase 2 regulatory subunit B'alpha [Source:HGNC Symbol;Acc:HGNC:9309]	8776	0.13032937049865723	-0.24886324	No	
+row_7	DST	dystonin [Source:HGNC Symbol;Acc:HGNC:1090]	11128	-0.03324636444449425	-0.3605545	No	
+row_8	ANK2	ankyrin 2 [Source:HGNC Symbol;Acc:HGNC:493]	12532	-0.1315504014492035	-0.4214313	No	
+row_9	PPP1R12A	protein phosphatase 1 regulatory subunit 12A [Source:HGNC Symbol;Acc:HGNC:7618]	13906	-0.2268764078617096	-0.47593135	No	
+row_10	NBR1	NBR1 autophagy cargo receptor [Source:HGNC Symbol;Acc:HGNC:6746]	13957	-0.23046013712882996	-0.4664255	No	
+row_11	LMOD2	leiomodin 2 [Source:HGNC Symbol;Acc:HGNC:6648]	15036	-0.3176254630088806	-0.50200206	No	
+row_12	KLHL41	kelch like family member 41 [Source:HGNC Symbol;Acc:HGNC:16905]	15625	-0.37229791283607483	-0.51111406	No	
+row_13	UNC45B	unc-45 myosin chaperone B [Source:HGNC Symbol;Acc:HGNC:14304]	16553	-0.46613287925720215	-0.5317267	No	
+row_14	SPTBN1	spectrin beta, non-erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11275]	17289	-0.544994592666626	-0.5389992	No	
+row_15	ALDOA	aldolase, fructose-bisphosphate A [Source:HGNC Symbol;Acc:HGNC:414]	18337	-0.709459662437439	-0.5528174	Yes	
+row_16	CMYA5	cardiomyopathy associated 5 [Source:HGNC Symbol;Acc:HGNC:14305]	18444	-0.7262883186340332	-0.52037215	Yes	
+row_17	ENO1	enolase 1 [Source:HGNC Symbol;Acc:HGNC:3350]	18546	-0.7451592683792114	-0.48670983	Yes	
+row_18	PPP1R12B	protein phosphatase 1 regulatory subunit 12B [Source:HGNC Symbol;Acc:HGNC:7619]	18617	-0.7608324289321899	-0.4507416	Yes	
+row_19	OBSL1	obscurin like cytoskeletal adaptor 1 [Source:HGNC Symbol;Acc:HGNC:29092]	18642	-0.7641928195953369	-0.41238058	Yes	
+row_20	MYL4	myosin light chain 4 [Source:HGNC Symbol;Acc:HGNC:7585]	19329	-0.9487822651863098	-0.39640826	Yes	
+row_21	ANK1	ankyrin 1 [Source:HGNC Symbol;Acc:HGNC:492]	19670	-1.0802079439163208	-0.35694873	Yes	
+row_22	OBSCN	obscurin, cytoskeletal calmodulin and titin-interacting RhoGEF [Source:HGNC Symbol;Acc:HGNC:15719]	19964	-1.239937424659729	-0.30696186	Yes	
+row_23	CRYAB	crystallin alpha B [Source:HGNC Symbol;Acc:HGNC:2389]	20095	-1.3290214538574219	-0.24450518	Yes	
+row_24	MYL3	myosin light chain 3 [Source:HGNC Symbol;Acc:HGNC:7584]	20651	-2.459059476852417	-0.14411245	Yes	
+row_25	MYL7	myosin light chain 7 [Source:HGNC Symbol;Acc:HGNC:21719]	20715	-2.882849931716919	0.001929507	Yes	

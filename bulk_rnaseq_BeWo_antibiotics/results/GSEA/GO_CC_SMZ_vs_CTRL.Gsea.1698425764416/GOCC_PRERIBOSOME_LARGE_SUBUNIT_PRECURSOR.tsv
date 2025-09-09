@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NIP7	nucleolar pre-rRNA processing protein NIP7 [Source:HGNC Symbol;Acc:HGNC:24328]	5999	0.27880698442459106	-0.26389623	No	
+row_1	NSA2	NSA2 ribosome biogenesis factor [Source:HGNC Symbol;Acc:HGNC:30728]	7305	0.16782230138778687	-0.2998037	No	
+row_2	MAK16	MAK16 homolog [Source:HGNC Symbol;Acc:HGNC:13703]	8135	0.10239555686712265	-0.32345912	No	
+row_3	RPF1	ribosome production factor 1 homolog [Source:HGNC Symbol;Acc:HGNC:30350]	8656	0.06268693506717682	-0.33860657	No	
+row_4	EBNA1BP2	EBNA1 binding protein 2 [Source:HGNC Symbol;Acc:HGNC:15531]	9266	0.013417559675872326	-0.36838278	No	
+row_5	LAS1L	LAS1 like ribosome biogenesis factor [Source:HGNC Symbol;Acc:HGNC:25726]	9471	-0.0010359493317082524	-0.3790509	No	
+row_6	RRS1	ribosome biogenesis regulator 1 homolog [Source:HGNC Symbol;Acc:HGNC:17083]	9793	-0.02513052150607109	-0.39112312	No	
+row_7	FTSJ3	FtsJ RNA 2'-O-methyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:17136]	10148	-0.04916582256555557	-0.40013298	No	
+row_8	EIF6	eukaryotic translation initiation factor 6 [Source:HGNC Symbol;Acc:HGNC:6159]	10717	-0.09331434220075607	-0.4116954	No	
+row_9	RRP15	ribosomal RNA processing 15 homolog [Source:HGNC Symbol;Acc:HGNC:24255]	10825	-0.10183747857809067	-0.39697045	No	
+row_10	ZNF622	zinc finger protein 622 [Source:HGNC Symbol;Acc:HGNC:30958]	11141	-0.12611263990402222	-0.38846493	No	
+row_11	WDR12	WD repeat domain 12 [Source:HGNC Symbol;Acc:HGNC:14098]	12457	-0.22502093017101288	-0.413431	No	
+row_12	NOC2L	NOC2 like nucleolar associated transcriptional repressor [Source:HGNC Symbol;Acc:HGNC:24517]	13901	-0.35721227526664734	-0.41870248	Yes	
+row_13	MRTO4	MRT4 homolog, ribosome maturation factor [Source:HGNC Symbol;Acc:HGNC:18477]	14047	-0.37209364771842957	-0.3517878	Yes	
+row_14	BOP1	BOP1 ribosomal biogenesis factor [Source:HGNC Symbol;Acc:HGNC:15519]	14907	-0.46473997831344604	-0.3043533	Yes	
+row_15	PPAN	peter pan homolog [Source:HGNC Symbol;Acc:HGNC:9227]	15017	-0.4751662015914917	-0.21484213	Yes	
+row_16	MDN1	midasin AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:18302]	16037	-0.6107765436172485	-0.1466416	Yes	
+row_17	WDR74	WD repeat domain 74 [Source:HGNC Symbol;Acc:HGNC:25529]	16491	-0.6966246962547302	-0.031043798	Yes	
+row_18	PES1	pescadillo ribosomal biogenesis factor 1 [Source:HGNC Symbol;Acc:HGNC:8848]	16817	-0.7614755034446716	0.104387745	Yes	

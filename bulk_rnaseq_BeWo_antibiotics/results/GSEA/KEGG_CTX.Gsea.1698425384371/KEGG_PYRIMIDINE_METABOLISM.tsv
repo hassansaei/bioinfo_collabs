@@ -1,0 +1,90 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NT5M	5',3'-nucleotidase, mitochondrial [Source:HGNC Symbol;Acc:HGNC:15769]	368	0.8827231526374817	0.03503688	Yes	
+row_1	ENTPD8	ectonucleoside triphosphate diphosphohydrolase 8 [Source:HGNC Symbol;Acc:HGNC:24860]	585	0.7570124268531799	0.07041357	Yes	
+row_2	POLR3GL	RNA polymerase III subunit GL [Source:HGNC Symbol;Acc:HGNC:28466]	1138	0.5500059723854065	0.07497524	Yes	
+row_3	POLR3G	RNA polymerase III subunit G [Source:HGNC Symbol;Acc:HGNC:30075]	1192	0.5370283126831055	0.105435334	Yes	
+row_4	DPYD	dihydropyrimidine dehydrogenase [Source:HGNC Symbol;Acc:HGNC:3012]	1583	0.45848172903060913	0.112991534	Yes	
+row_5	RRM1	ribonucleotide reductase catalytic subunit M1 [Source:HGNC Symbol;Acc:HGNC:10451]	2865	0.30757784843444824	0.06351134	Yes	
+row_6	POLR3C	RNA polymerase III subunit C [Source:HGNC Symbol;Acc:HGNC:30076]	3022	0.29418182373046875	0.07340286	Yes	
+row_7	POLE2	DNA polymerase epsilon 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9178]	3292	0.2723039984703064	0.07589094	Yes	
+row_8	ENTPD5	ectonucleoside triphosphate diphosphohydrolase 5 (inactive) [Source:HGNC Symbol;Acc:HGNC:3367]	3319	0.2699439823627472	0.0912364	Yes	
+row_9	POLR2B	RNA polymerase II subunit B [Source:HGNC Symbol;Acc:HGNC:9188]	3500	0.25662919878959656	0.0975153	Yes	
+row_10	PNP	purine nucleoside phosphorylase [Source:HGNC Symbol;Acc:HGNC:7892]	3568	0.25275054574012756	0.1096007	Yes	
+row_11	AK3	adenylate kinase 3 [Source:HGNC Symbol;Acc:HGNC:17376]	3569	0.2527395784854889	0.12527081	Yes	
+row_12	POLR2L	RNA polymerase II, I and III subunit L [Source:HGNC Symbol;Acc:HGNC:9199]	3676	0.2453240156173706	0.13480875	Yes	
+row_13	POLR2J3	RNA polymerase II subunit J3 [Source:HGNC Symbol;Acc:HGNC:33853]	3882	0.23408347368240356	0.13835196	Yes	
+row_14	POLR2J	RNA polymerase II subunit J [Source:HGNC Symbol;Acc:HGNC:9197]	4300	0.20940974354743958	0.1290206	Yes	
+row_15	POLR2J2	RNA polymerase II subunit J2 [Source:HGNC Symbol;Acc:HGNC:23208]	4409	0.20263603329658508	0.13580482	Yes	
+row_16	POLR1B	RNA polymerase I subunit B [Source:HGNC Symbol;Acc:HGNC:20454]	4584	0.19120529294013977	0.13834845	Yes	
+row_17	POLR2A	RNA polymerase II subunit A [Source:HGNC Symbol;Acc:HGNC:9187]	4615	0.1895352452993393	0.14849444	Yes	
+row_18	POLR2K	RNA polymerase II, I and III subunit K [Source:HGNC Symbol;Acc:HGNC:9198]	4714	0.18502089381217957	0.15472162	Yes	
+row_19	TYMS	thymidylate synthetase [Source:HGNC Symbol;Acc:HGNC:12441]	4758	0.1829807013273239	0.16376555	Yes	
+row_20	ENTPD1	ectonucleoside triphosphate diphosphohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:3363]	4787	0.18122835457324982	0.17350352	Yes	
+row_21	DUT	deoxyuridine triphosphatase [Source:HGNC Symbol;Acc:HGNC:3078]	5009	0.16899415850639343	0.17215492	Yes	
+row_22	POLD4	DNA polymerase delta 4, accessory subunit [Source:HGNC Symbol;Acc:HGNC:14106]	5055	0.16656287014484406	0.18007389	Yes	
+row_23	DCK	deoxycytidine kinase [Source:HGNC Symbol;Acc:HGNC:2704]	5135	0.16214385628700256	0.18589944	Yes	
+row_24	CMPK1	cytidine/uridine monophosphate kinase 1 [Source:HGNC Symbol;Acc:HGNC:18170]	5253	0.15516115725040436	0.18925855	Yes	
+row_25	POLR1E	RNA polymerase I subunit E [Source:HGNC Symbol;Acc:HGNC:17631]	5371	0.14949367940425873	0.19226627	Yes	
+row_26	POLA1	DNA polymerase alpha 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9173]	5576	0.14032256603240967	0.19004972	No	
+row_27	ENTPD4	ectonucleoside triphosphate diphosphohydrolase 4 [Source:HGNC Symbol;Acc:HGNC:14573]	5753	0.13267682492733002	0.18885751	No	
+row_28	POLR2D	RNA polymerase II subunit D [Source:HGNC Symbol;Acc:HGNC:9191]	5966	0.12333236634731293	0.18515946	No	
+row_29	POLD3	DNA polymerase delta 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:20932]	6555	0.09825630486011505	0.15978572	No	
+row_30	PNPT1	polyribonucleotide nucleotidyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:23166]	6589	0.09730883687734604	0.16405302	No	
+row_31	UCK1	uridine-cytidine kinase 1 [Source:HGNC Symbol;Acc:HGNC:14859]	6680	0.09315022081136703	0.16501226	No	
+row_32	POLR2G	RNA polymerase II subunit G [Source:HGNC Symbol;Acc:HGNC:9194]	6758	0.09007130563259125	0.16647625	No	
+row_33	PRIM1	DNA primase subunit 1 [Source:HGNC Symbol;Acc:HGNC:9369]	6873	0.08572986721992493	0.1656911	No	
+row_34	ENTPD6	ectonucleoside triphosphate diphosphohydrolase 6 [Source:HGNC Symbol;Acc:HGNC:3368]	6897	0.08496133983135223	0.16972798	No	
+row_35	UMPS	uridine monophosphate synthetase [Source:HGNC Symbol;Acc:HGNC:12563]	7026	0.08058977127075195	0.16787495	No	
+row_36	NME7	NME/NM23 family member 7 [Source:HGNC Symbol;Acc:HGNC:20461]	7267	0.0717238187789917	0.15947874	No	
+row_37	RRM2	ribonucleotide reductase regulatory subunit M2 [Source:HGNC Symbol;Acc:HGNC:10452]	7363	0.06830509006977081	0.15862997	No	
+row_38	RRM2B	ribonucleotide reductase regulatory TP53 inducible subunit M2B [Source:HGNC Symbol;Acc:HGNC:17296]	7443	0.06532508134841919	0.15845266	No	
+row_39	NUDT2	nudix hydrolase 2 [Source:HGNC Symbol;Acc:HGNC:8049]	7455	0.06466808915138245	0.1618735	No	
+row_40	POLR3K	RNA polymerase III subunit K [Source:HGNC Symbol;Acc:HGNC:14121]	7600	0.059689152985811234	0.1578684	No	
+row_41	CANT1	calcium activated nucleotidase 1 [Source:HGNC Symbol;Acc:HGNC:19721]	7792	0.05256830155849457	0.15090667	No	
+row_42	POLR3F	RNA polymerase III subunit F [Source:HGNC Symbol;Acc:HGNC:15763]	8331	0.03283621370792389	0.12415248	No	
+row_43	ITPA	inosine triphosphatase [Source:HGNC Symbol;Acc:HGNC:6176]	8457	0.028105203062295914	0.11920589	No	
+row_44	POLD1	DNA polymerase delta 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9175]	8526	0.025634150952100754	0.11715634	No	
+row_45	PRIM2	DNA primase subunit 2 [Source:HGNC Symbol;Acc:HGNC:9370]	8531	0.025554109364748	0.11852667	No	
+row_46	POLE	DNA polymerase epsilon, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9177]	8748	0.017403583973646164	0.10804687	No	
+row_47	POLR3H	RNA polymerase III subunit H [Source:HGNC Symbol;Acc:HGNC:30349]	8772	0.016824448481202126	0.1078592	No	
+row_48	POLR2E	RNA polymerase II, I and III subunit E [Source:HGNC Symbol;Acc:HGNC:9192]	8935	0.010750450193881989	0.09985661	No	
+row_49	POLR1C	RNA polymerase I and III subunit C [Source:HGNC Symbol;Acc:HGNC:20194]	9067	0.006478763651102781	0.09324808	No	
+row_50	TK2	thymidine kinase 2 [Source:HGNC Symbol;Acc:HGNC:11831]	9227	3.5967797157354653E-4	0.08476179	No	
+row_51	TXNRD1	thioredoxin reductase 1 [Source:HGNC Symbol;Acc:HGNC:12437]	9292	-0.0015960034215822816	0.081435904	No	
+row_52	POLR1A	RNA polymerase I subunit A [Source:HGNC Symbol;Acc:HGNC:17264]	9330	-0.0031965873204171658	0.07965411	No	
+row_53	POLR2H	RNA polymerase II, I and III subunit H [Source:HGNC Symbol;Acc:HGNC:9195]	9698	-0.015441645868122578	0.060972188	No	
+row_54	POLR1D	RNA polymerase I and III subunit D [Source:HGNC Symbol;Acc:HGNC:20422]	9765	-0.017916209995746613	0.058551144	No	
+row_55	NME3	NME/NM23 nucleoside diphosphate kinase 3 [Source:HGNC Symbol;Acc:HGNC:7851]	10302	-0.03576021268963814	0.03208527	No	
+row_56	DHODH	dihydroorotate dehydrogenase (quinone) [Source:HGNC Symbol;Acc:HGNC:2867]	10735	-0.05056757852435112	0.012102836	No	
+row_57	NT5C2	5'-nucleotidase, cytosolic II [Source:HGNC Symbol;Acc:HGNC:8022]	10796	-0.05274857208132744	0.012162511	No	
+row_58	DTYMK	deoxythymidylate kinase [Source:HGNC Symbol;Acc:HGNC:3061]	10903	-0.05623898655176163	0.009976992	No	
+row_59	CDA	cytidine deaminase [Source:HGNC Symbol;Acc:HGNC:1712]	10983	-0.05881473794579506	0.009396027	No	
+row_60	NME4	NME/NM23 nucleoside diphosphate kinase 4 [Source:HGNC Symbol;Acc:HGNC:7852]	11037	-0.061263635754585266	0.010358237	No	
+row_61	NME6	NME/NM23 nucleoside diphosphate kinase 6 [Source:HGNC Symbol;Acc:HGNC:20567]	11077	-0.06250360608100891	0.01214651	No	
+row_62	POLE3	DNA polymerase epsilon 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:13546]	11321	-0.07111715525388718	0.003552153	No	
+row_63	POLR3A	RNA polymerase III subunit A [Source:HGNC Symbol;Acc:HGNC:30074]	11337	-0.07166042178869247	0.007192474	No	
+row_64	CMPK2	cytidine/uridine monophosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:27015]	11455	-0.07553841173648834	0.0056148935	No	
+row_65	POLA2	DNA polymerase alpha 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:30073]	12061	-0.09614802151918411	-0.020799281	No	
+row_66	POLR2C	RNA polymerase II subunit C [Source:HGNC Symbol;Acc:HGNC:9189]	12479	-0.11127685755491257	-0.03621498	No	
+row_67	UCK2	uridine-cytidine kinase 2 [Source:HGNC Symbol;Acc:HGNC:12562]	13307	-0.14588971436023712	-0.071425036	No	
+row_68	TK1	thymidine kinase 1 [Source:HGNC Symbol;Acc:HGNC:11830]	13412	-0.15026266872882843	-0.067673974	No	
+row_69	CAD	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase [Source:HGNC Symbol;Acc:HGNC:1424]	13467	-0.15296843647956848	-0.061079483	No	
+row_70	POLD2	DNA polymerase delta 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9176]	13602	-0.15932108461856842	-0.058372177	No	
+row_71	POLR3B	RNA polymerase III subunit B [Source:HGNC Symbol;Acc:HGNC:30348]	13818	-0.16928207874298096	-0.059381843	No	
+row_72	NME2	NME/NM23 nucleoside diphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:7850]	13849	-0.17071759700775146	-0.050402578	No	
+row_73	NME1-NME2	NME1-NME2 readthrough [Source:HGNC Symbol;Acc:HGNC:33531]	14092	-0.18198882043361664	-0.052069265	No	
+row_74	POLR2F	RNA polymerase II, I and III subunit F [Source:HGNC Symbol;Acc:HGNC:9193]	14105	-0.1828138828277588	-0.04137678	No	
+row_75	UPP1	uridine phosphorylase 1 [Source:HGNC Symbol;Acc:HGNC:12576]	14319	-0.19431878626346588	-0.04072712	No	
+row_76	CTPS1	CTP synthase 1 [Source:HGNC Symbol;Acc:HGNC:2519]	14326	-0.1945498138666153	-0.028985918	No	
+row_77	NT5C	5', 3'-nucleotidase, cytosolic [Source:HGNC Symbol;Acc:HGNC:17144]	14371	-0.19730637967586517	-0.019107305	No	
+row_78	POLR2I	RNA polymerase II subunit I [Source:HGNC Symbol;Acc:HGNC:9196]	14416	-0.19995595514774323	-0.009064413	No	
+row_79	NT5C3A	5'-nucleotidase, cytosolic IIIA [Source:HGNC Symbol;Acc:HGNC:17820]	14675	-0.21504786610603333	-0.0095376205	No	
+row_80	UPRT	uracil phosphoribosyltransferase homolog [Source:HGNC Symbol;Acc:HGNC:28334]	14707	-0.2168073058128357	0.002245742	No	
+row_81	DCTD	dCMP deaminase [Source:HGNC Symbol;Acc:HGNC:2710]	14912	-0.2283068299293518	0.005484313	No	
+row_82	NME1	NME/NM23 nucleoside diphosphate kinase 1 [Source:HGNC Symbol;Acc:HGNC:7849]	15306	-0.2535090446472168	1.71464E-4	No	
+row_83	UCKL1	uridine-cytidine kinase 1 like 1 [Source:HGNC Symbol;Acc:HGNC:15938]	15543	-0.2720872163772583	0.004412043	No	
+row_84	POLR3D	RNA polymerase III subunit D [Source:HGNC Symbol;Acc:HGNC:1080]	16090	-0.3188326060771942	-0.0050381897	No	
+row_85	TYMP	thymidine phosphorylase [Source:HGNC Symbol;Acc:HGNC:3148]	16821	-0.41065749526023865	-0.018641604	No	
+row_86	POLR1H	RNA polymerase I subunit H [Source:HGNC Symbol;Acc:HGNC:13182]	17404	-0.5122425556182861	-0.018026702	No	
+row_87	TXNRD2	thioredoxin reductase 2 [Source:HGNC Symbol;Acc:HGNC:18155]	17662	-0.573945164680481	0.0038055948	No	
+row_88	UPB1	beta-ureidopropionase 1 [Source:HGNC Symbol;Acc:HGNC:16297]	18337	-0.8983911275863647	0.023438888	No	

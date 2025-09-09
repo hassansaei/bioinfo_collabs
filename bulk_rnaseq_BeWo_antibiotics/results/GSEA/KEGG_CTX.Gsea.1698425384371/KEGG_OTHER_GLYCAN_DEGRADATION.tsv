@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HEXB	hexosaminidase subunit beta [Source:HGNC Symbol;Acc:HGNC:4879]	2519	0.3408638536930084	0.014465843	Yes	
+row_1	AGA	aspartylglucosaminidase [Source:HGNC Symbol;Acc:HGNC:318]	2802	0.31293898820877075	0.13598356	Yes	
+row_2	MANBA	mannosidase beta [Source:HGNC Symbol;Acc:HGNC:6831]	4444	0.20061227679252625	0.13605073	Yes	
+row_3	NEU3	neuraminidase 3 [Source:HGNC Symbol;Acc:HGNC:7760]	4984	0.17018721997737885	0.181581	Yes	
+row_4	FUCA1	alpha-L-fucosidase 1 [Source:HGNC Symbol;Acc:HGNC:4006]	5114	0.1631622612476349	0.24589984	Yes	
+row_5	MAN2B2	mannosidase alpha class 2B member 2 [Source:HGNC Symbol;Acc:HGNC:29623]	5351	0.15023645758628845	0.29887524	Yes	
+row_6	GLB1	galactosidase beta 1 [Source:HGNC Symbol;Acc:HGNC:4298]	5713	0.13487349450588226	0.33848438	Yes	
+row_7	NEU2	neuraminidase 2 [Source:HGNC Symbol;Acc:HGNC:7759]	5747	0.13289859890937805	0.39471486	Yes	
+row_8	MAN2C1	mannosidase alpha class 2C member 1 [Source:HGNC Symbol;Acc:HGNC:6827]	8202	0.037139929831027985	0.28011736	No	
+row_9	GBA1	glucosylceramidase beta 1 [Source:HGNC Symbol;Acc:HGNC:4177]	9957	-0.024881910532712936	0.19748262	No	
+row_10	ENGASE	endo-beta-N-acetylglucosaminidase [Source:HGNC Symbol;Acc:HGNC:24622]	10172	-0.0313476137816906	0.1997543	No	
+row_11	MAN2B1	mannosidase alpha class 2B member 1 [Source:HGNC Symbol;Acc:HGNC:6826]	10496	-0.04274681210517883	0.20119002	No	
+row_12	HEXA	hexosaminidase subunit alpha [Source:HGNC Symbol;Acc:HGNC:4878]	12064	-0.09626340121030807	0.15966961	No	
+row_13	FUCA2	alpha-L-fucosidase 2 [Source:HGNC Symbol;Acc:HGNC:4008]	12193	-0.1016063392162323	0.19718221	No	
+row_14	NEU1	neuraminidase 1 [Source:HGNC Symbol;Acc:HGNC:7758]	16395	-0.3520132899284363	0.12685896	No	

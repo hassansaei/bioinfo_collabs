@@ -1,0 +1,60 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GDAP1	ganglioside induced differentiation associated protein 1 [Source:HGNC Symbol;Acc:HGNC:15968]	194	1.9930764436721802	0.07059983	Yes	
+row_1	DECR2	2,4-dienoyl-CoA reductase 2 [Source:HGNC Symbol;Acc:HGNC:2754]	225	1.8992526531219482	0.14615034	Yes	
+row_2	PJVK	pejvakin [Source:HGNC Symbol;Acc:HGNC:29502]	520	1.5072550773620605	0.19167191	Yes	
+row_3	PXMP2	peroxisomal membrane protein 2 [Source:HGNC Symbol;Acc:HGNC:9716]	910	1.211120843887329	0.22008802	Yes	
+row_4	PEX1	peroxisomal biogenesis factor 1 [Source:HGNC Symbol;Acc:HGNC:8850]	1236	1.069008469581604	0.24615046	Yes	
+row_5	ALDH3A2	aldehyde dehydrogenase 3 family member A2 [Source:HGNC Symbol;Acc:HGNC:403]	1573	0.9500795006752014	0.26679394	Yes	
+row_6	PECR	peroxisomal trans-2-enoyl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:18281]	2799	0.6760727167129517	0.22880952	Yes	
+row_7	PEX6	peroxisomal biogenesis factor 6 [Source:HGNC Symbol;Acc:HGNC:8859]	2874	0.6630240678787231	0.25178993	Yes	
+row_8	FAR1	fatty acyl-CoA reductase 1 [Source:HGNC Symbol;Acc:HGNC:26222]	3091	0.6303155422210693	0.26585492	Yes	
+row_9	PEX2	peroxisomal biogenesis factor 2 [Source:HGNC Symbol;Acc:HGNC:9717]	3284	0.6011325716972351	0.28001666	Yes	
+row_10	PNPLA8	patatin like phospholipase domain containing 8 [Source:HGNC Symbol;Acc:HGNC:28900]	3663	0.54408860206604	0.28192365	Yes	
+row_11	DHRS7B	dehydrogenase/reductase 7B [Source:HGNC Symbol;Acc:HGNC:24547]	3917	0.5117859840393066	0.2891968	Yes	
+row_12	TRIM37	tripartite motif containing 37 [Source:HGNC Symbol;Acc:HGNC:7523]	4293	0.4623306691646576	0.2879428	Yes	
+row_13	PEX5L	peroxisomal biogenesis factor 5 like [Source:HGNC Symbol;Acc:HGNC:30024]	4531	0.4353073537349701	0.29296398	Yes	
+row_14	GNPAT	glyceronephosphate O-acyltransferase [Source:HGNC Symbol;Acc:HGNC:4416]	4562	0.43171870708465576	0.3088989	Yes	
+row_15	PEX11B	peroxisomal biogenesis factor 11 beta [Source:HGNC Symbol;Acc:HGNC:8853]	4861	0.40117955207824707	0.30927464	Yes	
+row_16	PEX11G	peroxisomal biogenesis factor 11 gamma [Source:HGNC Symbol;Acc:HGNC:20208]	4922	0.39395004510879517	0.32207245	Yes	
+row_17	TMEM135	transmembrane protein 135 [Source:HGNC Symbol;Acc:HGNC:26167]	5490	0.32873326539993286	0.30513325	No	
+row_18	ATAD1	ATPase family AAA domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25903]	5701	0.30573558807373047	0.3063334	No	
+row_19	ABCD3	ATP binding cassette subfamily D member 3 [Source:HGNC Symbol;Acc:HGNC:67]	6038	0.2744811773300171	0.29953206	No	
+row_20	PEX7	peroxisomal biogenesis factor 7 [Source:HGNC Symbol;Acc:HGNC:8860]	6066	0.27220577001571655	0.30914733	No	
+row_21	PEX16	peroxisomal biogenesis factor 16 [Source:HGNC Symbol;Acc:HGNC:8857]	7119	0.18464568257331848	0.2604426	No	
+row_22	MPV17	mitochondrial inner membrane protein MPV17 [Source:HGNC Symbol;Acc:HGNC:7224]	7148	0.18151532113552094	0.26632032	No	
+row_23	PEX12	peroxisomal biogenesis factor 12 [Source:HGNC Symbol;Acc:HGNC:8854]	7310	0.16722078621387482	0.26451153	No	
+row_24	AGPS	alkylglycerone phosphate synthase [Source:HGNC Symbol;Acc:HGNC:327]	7322	0.16662874817848206	0.2706928	No	
+row_25	ABCD4	ATP binding cassette subfamily D member 4 [Source:HGNC Symbol;Acc:HGNC:68]	7651	0.14069050550460815	0.2588839	No	
+row_26	SYT7	synaptotagmin 7 [Source:HGNC Symbol;Acc:HGNC:11514]	7834	0.12553159892559052	0.2542596	No	
+row_27	IMPDH2	inosine monophosphate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6053]	7858	0.12400946766138077	0.25806838	No	
+row_28	SLC25A17	solute carrier family 25 member 17 [Source:HGNC Symbol;Acc:HGNC:10987]	8226	0.09556685388088226	0.24234276	No	
+row_29	PEX5	peroxisomal biogenesis factor 5 [Source:HGNC Symbol;Acc:HGNC:9719]	8371	0.08408261835575104	0.2380649	No	
+row_30	TTC1	tetratricopeptide repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:12391]	8513	0.07282605022192001	0.23349005	No	
+row_31	MAP2K2	mitogen-activated protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6842]	8719	0.05828997865319252	0.22490536	No	
+row_32	ACSL1	acyl-CoA synthetase long chain family member 1 [Source:HGNC Symbol;Acc:HGNC:3569]	8960	0.03920655697584152	0.21367548	No	
+row_33	CAT	catalase [Source:HGNC Symbol;Acc:HGNC:1516]	8983	0.03701328486204147	0.21400367	No	
+row_34	HMGCR	3-hydroxy-3-methylglutaryl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:5006]	9369	0.006228584796190262	0.19368716	No	
+row_35	PEX11A	peroxisomal biogenesis factor 11 alpha [Source:HGNC Symbol;Acc:HGNC:8852]	9433	7.495785248465836E-4	0.19035168	No	
+row_36	PEX3	peroxisomal biogenesis factor 3 [Source:HGNC Symbol;Acc:HGNC:8858]	9493	-0.00277186231687665	0.18731207	No	
+row_37	FNDC5	fibronectin type III domain containing 5 [Source:HGNC Symbol;Acc:HGNC:20240]	9803	-0.02566816844046116	0.17184573	No	
+row_38	PXMP4	peroxisomal membrane protein 4 [Source:HGNC Symbol;Acc:HGNC:15920]	10220	-0.05487259477376938	0.15184905	No	
+row_39	MAVS	mitochondrial antiviral signaling protein [Source:HGNC Symbol;Acc:HGNC:29233]	10399	-0.06955712288618088	0.1451646	No	
+row_40	USP30	ubiquitin specific peptidase 30 [Source:HGNC Symbol;Acc:HGNC:20065]	10691	-0.09201069921255112	0.13335498	No	
+row_41	RAB8B	RAB8B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:30273]	10913	-0.10844416171312332	0.12595285	No	
+row_42	PEX26	peroxisomal biogenesis factor 26 [Source:HGNC Symbol;Acc:HGNC:22965]	11457	-0.14758722484111786	0.10293723	No	
+row_43	HSD17B4	hydroxysteroid 17-beta dehydrogenase 4 [Source:HGNC Symbol;Acc:HGNC:5213]	12484	-0.226638063788414	0.057327475	No	
+row_44	NBR1	NBR1 autophagy cargo receptor [Source:HGNC Symbol;Acc:HGNC:6746]	12536	-0.23046013712882996	0.06396466	No	
+row_45	ABCD1	ATP binding cassette subfamily D member 1 [Source:HGNC Symbol;Acc:HGNC:61]	12617	-0.237932026386261	0.06935598	No	
+row_46	ACBD5	acyl-CoA binding domain containing 5 [Source:HGNC Symbol;Acc:HGNC:23338]	12821	-0.25579771399497986	0.0689015	No	
+row_47	ACOX1	acyl-CoA oxidase 1 [Source:HGNC Symbol;Acc:HGNC:119]	12877	-0.26116830110549927	0.07657243	No	
+row_48	PEX10	peroxisomal biogenesis factor 10 [Source:HGNC Symbol;Acc:HGNC:8851]	12939	-0.2663959860801697	0.08413517	No	
+row_49	ACSL3	acyl-CoA synthetase long chain family member 3 [Source:HGNC Symbol;Acc:HGNC:3570]	12976	-0.27075356245040894	0.0932106	No	
+row_50	PLAAT3	phospholipase A and acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:17825]	14481	-0.4157215654850006	0.029743703	No	
+row_51	PEX19	peroxisomal biogenesis factor 19 [Source:HGNC Symbol;Acc:HGNC:9713]	14718	-0.44092774391174316	0.035046652	No	
+row_52	PEX13	peroxisomal biogenesis factor 13 [Source:HGNC Symbol;Acc:HGNC:8855]	14831	-0.456307590007782	0.04759937	No	
+row_53	PEX14	peroxisomal biogenesis factor 14 [Source:HGNC Symbol;Acc:HGNC:8856]	15120	-0.4865820109844208	0.05197871	No	
+row_54	ACSL4	acyl-CoA synthetase long chain family member 4 [Source:HGNC Symbol;Acc:HGNC:3571]	15622	-0.5517446398735046	0.04762512	No	
+row_55	DAO	D-amino acid oxidase [Source:HGNC Symbol;Acc:HGNC:2671]	15907	-0.5935937166213989	0.056565307	No	
+row_56	FIS1	fission, mitochondrial 1 [Source:HGNC Symbol;Acc:HGNC:21689]	16128	-0.6244974732398987	0.070180245	No	
+row_57	ACSL6	acyl-CoA synthetase long chain family member 6 [Source:HGNC Symbol;Acc:HGNC:16496]	16171	-0.6353228092193604	0.09374501	No	
+row_58	FAR2	fatty acyl-CoA reductase 2 [Source:HGNC Symbol;Acc:HGNC:25531]	17846	-1.1157809495925903	0.049633972	No	

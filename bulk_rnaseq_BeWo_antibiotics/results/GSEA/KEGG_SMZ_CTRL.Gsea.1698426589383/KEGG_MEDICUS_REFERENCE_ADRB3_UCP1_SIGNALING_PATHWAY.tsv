@@ -1,0 +1,30 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ADCY3	adenylate cyclase 3 [Source:HGNC Symbol;Acc:HGNC:234]	892	1.1849385499954224	0.006770396	No	
+row_1	PRKACB	protein kinase cAMP-activated catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9381]	1113	1.0780417919158936	0.048821654	No	
+row_2	UCP1	uncoupling protein 1 [Source:HGNC Symbol;Acc:HGNC:12517]	2262	0.7285217642784119	0.01660401	No	
+row_3	PRKACA	protein kinase cAMP-activated catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9380]	2435	0.6920962333679199	0.04173419	No	
+row_4	DPF1	double PHD fingers 1 [Source:HGNC Symbol;Acc:HGNC:20225]	2764	0.6340892314910889	0.05441797	No	
+row_5	ADCY9	adenylate cyclase 9 [Source:HGNC Symbol;Acc:HGNC:240]	2805	0.6268526315689087	0.08420454	No	
+row_6	SMARCC2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 2 [Source:HGNC Symbol;Acc:HGNC:11105]	6668	0.15573672950267792	-0.14212269	No	
+row_7	SMARCD3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3 [Source:HGNC Symbol;Acc:HGNC:11108]	7557	0.07765345275402069	-0.19201234	No	
+row_8	ACTL6A	actin like 6A [Source:HGNC Symbol;Acc:HGNC:24124]	8250	0.016220353543758392	-0.23316653	No	
+row_9	ADCY7	adenylate cyclase 7 [Source:HGNC Symbol;Acc:HGNC:238]	11601	-0.2733912765979767	-0.4223815	Yes	
+row_10	SMARCD1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1 [Source:HGNC Symbol;Acc:HGNC:11106]	11817	-0.2950460612773895	-0.42026454	Yes	
+row_11	KDM3B	lysine demethylase 3B [Source:HGNC Symbol;Acc:HGNC:1337]	11927	-0.3075655400753021	-0.4110726	Yes	
+row_12	ADCY6	adenylate cyclase 6 [Source:HGNC Symbol;Acc:HGNC:237]	11929	-0.3076670169830322	-0.39532244	Yes	
+row_13	ARID1B	AT-rich interaction domain 1B [Source:HGNC Symbol;Acc:HGNC:18040]	12693	-0.39722374081611633	-0.42120507	Yes	
+row_14	DPF3	double PHD fingers 3 [Source:HGNC Symbol;Acc:HGNC:17427]	12834	-0.41401800513267517	-0.40842354	Yes	
+row_15	SMARCD2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2 [Source:HGNC Symbol;Acc:HGNC:11107]	13250	-0.4672585725784302	-0.4095919	Yes	
+row_16	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2 [Source:HGNC Symbol;Acc:HGNC:11098]	13261	-0.4684095084667206	-0.38612738	Yes	
+row_17	ADCY1	adenylate cyclase 1 [Source:HGNC Symbol;Acc:HGNC:232]	13515	-0.5094104409217834	-0.37530005	Yes	
+row_18	SMARCE1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1 [Source:HGNC Symbol;Acc:HGNC:11109]	13524	-0.5109355449676514	-0.3495288	Yes	
+row_19	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4 [Source:HGNC Symbol;Acc:HGNC:11100]	13688	-0.5355402231216431	-0.33189785	Yes	
+row_20	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	13726	-0.5400907397270203	-0.3063879	Yes	
+row_21	KDM3A	lysine demethylase 3A [Source:HGNC Symbol;Acc:HGNC:20815]	13744	-0.5431634783744812	-0.2795065	Yes	
+row_22	SMARCC1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 1 [Source:HGNC Symbol;Acc:HGNC:11104]	13779	-0.5498070120811462	-0.25331524	Yes	
+row_23	GNAS	GNAS complex locus [Source:HGNC Symbol;Acc:HGNC:4392]	14099	-0.6010052561759949	-0.24178553	Yes	
+row_24	ARID1A	AT-rich interaction domain 1A [Source:HGNC Symbol;Acc:HGNC:11110]	14578	-0.7020918130874634	-0.23470852	Yes	
+row_25	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	14894	-0.7784541845321655	-0.21381712	Yes	
+row_26	PPARG	peroxisome proliferator activated receptor gamma [Source:HGNC Symbol;Acc:HGNC:9236]	15739	-1.1567809581756592	-0.20558128	Yes	
+row_27	SMARCB1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1 [Source:HGNC Symbol;Acc:HGNC:11103]	16202	-1.6389726400375366	-0.14938767	Yes	
+row_28	ADCY5	adenylate cyclase 5 [Source:HGNC Symbol;Acc:HGNC:236]	16495	-3.268270254135132	8.4953755E-4	Yes	

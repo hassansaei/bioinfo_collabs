@@ -1,0 +1,71 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HMGB1	high mobility group box 1 [Source:HGNC Symbol;Acc:HGNC:4983]	2259	0.7765406966209412	-0.09777046	No	
+row_1	JAZF1	JAZF zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:28917]	2901	0.657922089099884	-0.11255684	No	
+row_2	TBX15	T-box transcription factor 15 [Source:HGNC Symbol;Acc:HGNC:11594]	3295	0.5995181798934937	-0.115814745	No	
+row_3	ZNF224	zinc finger protein 224 [Source:HGNC Symbol;Acc:HGNC:13017]	3474	0.5711919069290161	-0.10841774	No	
+row_4	HOXC9	homeobox C9 [Source:HGNC Symbol;Acc:HGNC:5130]	3561	0.5579854249954224	-0.096493565	No	
+row_5	GFI1	growth factor independent 1 transcriptional repressor [Source:HGNC Symbol;Acc:HGNC:4237]	3947	0.5083510279655457	-0.10202321	No	
+row_6	C1D	C1D nuclear receptor corepressor [Source:HGNC Symbol;Acc:HGNC:29911]	4007	0.5000014901161194	-0.09037252	No	
+row_7	SKI	SKI proto-oncogene [Source:HGNC Symbol;Acc:HGNC:10896]	4220	0.4712960124015808	-0.08775097	No	
+row_8	CTBP2	C-terminal binding protein 2 [Source:HGNC Symbol;Acc:HGNC:2495]	5686	0.3071420192718506	-0.15697378	No	
+row_9	MIER1	MIER1 transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:29657]	6435	0.23993849754333496	-0.18985651	No	
+row_10	DEPDC1	DEP domain containing 1 [Source:HGNC Symbol;Acc:HGNC:22949]	6465	0.23703359067440033	-0.18438838	No	
+row_11	ZFPM1	zinc finger protein, FOG family member 1 [Source:HGNC Symbol;Acc:HGNC:19762]	6982	0.19512993097305298	-0.20619543	No	
+row_12	DRAP1	DR1 associated protein 1 [Source:HGNC Symbol;Acc:HGNC:3019]	7067	0.18762928247451782	-0.20513037	No	
+row_13	MEN1	menin 1 [Source:HGNC Symbol;Acc:HGNC:7010]	7907	0.12065359950065613	-0.2464098	No	
+row_14	PRDM16	PR/SET domain 16 [Source:HGNC Symbol;Acc:HGNC:14000]	8134	0.10248024016618729	-0.2554571	No	
+row_15	DDX20	DEAD-box helicase 20 [Source:HGNC Symbol;Acc:HGNC:2743]	8488	0.07485028356313705	-0.27211177	No	
+row_16	LIN52	lin-52 DREAM MuvB core complex component [Source:HGNC Symbol;Acc:HGNC:19856]	8613	0.06600627303123474	-0.27678627	No	
+row_17	RBBP8	RB binding protein 8, endonuclease [Source:HGNC Symbol;Acc:HGNC:9891]	8689	0.060643117874860764	-0.27900007	No	
+row_18	N4BP2L2	NEDD4 binding protein 2 like 2 [Source:HGNC Symbol;Acc:HGNC:26916]	8982	0.03718674182891846	-0.29350895	No	
+row_19	HDAC3	histone deacetylase 3 [Source:HGNC Symbol;Acc:HGNC:4854]	9165	0.022578690201044083	-0.3025699	No	
+row_20	PHF12	PHD finger protein 12 [Source:HGNC Symbol;Acc:HGNC:20816]	10005	-0.039518676698207855	-0.3462517	No	
+row_21	REST	RE1 silencing transcription factor [Source:HGNC Symbol;Acc:HGNC:9966]	10167	-0.05092412978410721	-0.35335073	No	
+row_22	CTNNBIP1	catenin beta interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:16913]	10354	-0.06589867919683456	-0.36134285	No	
+row_23	HDAC1	histone deacetylase 1 [Source:HGNC Symbol;Acc:HGNC:4852]	10478	-0.07494354248046875	-0.36569923	No	
+row_24	GPS2	G protein pathway suppressor 2 [Source:HGNC Symbol;Acc:HGNC:4550]	10739	-0.09477487951517105	-0.37679228	No	
+row_25	GMNN	geminin DNA replication inhibitor [Source:HGNC Symbol;Acc:HGNC:17493]	10838	-0.10275627672672272	-0.37898868	No	
+row_26	MDM2	MDM2 proto-oncogene [Source:HGNC Symbol;Acc:HGNC:6973]	11187	-0.12964263558387756	-0.3937537	No	
+row_27	DR1	down-regulator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:3017]	11235	-0.1327676922082901	-0.3923351	No	
+row_28	CTBP1	C-terminal binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2494]	11247	-0.1336960345506668	-0.38896447	No	
+row_29	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	11326	-0.13859742879867554	-0.38903046	No	
+row_30	TBL1XR1	TBL1X/Y related 1 [Source:HGNC Symbol;Acc:HGNC:29529]	11786	-0.1726994663476944	-0.4084545	No	
+row_31	LIN54	lin-54 DREAM MuvB core complex component [Source:HGNC Symbol;Acc:HGNC:25397]	12034	-0.19286414980888367	-0.41594824	No	
+row_32	ARID4A	AT-rich interaction domain 4A [Source:HGNC Symbol;Acc:HGNC:9885]	12208	-0.2070692926645279	-0.4190654	No	
+row_33	ETV3	ETS variant transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:3492]	12268	-0.21214501559734344	-0.41593796	No	
+row_34	NCOR1	nuclear receptor corepressor 1 [Source:HGNC Symbol;Acc:HGNC:7672]	12319	-0.21510620415210724	-0.41224173	No	
+row_35	MAX	MYC associated factor X [Source:HGNC Symbol;Acc:HGNC:6913]	12854	-0.2589225471019745	-0.4331222	No	
+row_36	JUND	JunD proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6206]	12873	-0.2609431743621826	-0.42635807	No	
+row_37	TBL1X	transducin beta like 1 X-linked [Source:HGNC Symbol;Acc:HGNC:11585]	12977	-0.27082154154777527	-0.42384544	No	
+row_38	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	13081	-0.27934789657592773	-0.42108035	No	
+row_39	HEY2	hes related family bHLH transcription factor with YRPW motif 2 [Source:HGNC Symbol;Acc:HGNC:4881]	13546	-0.3209235370159149	-0.4363829	No	
+row_40	AKIRIN2	akirin 2 [Source:HGNC Symbol;Acc:HGNC:21407]	13592	-0.3246323764324188	-0.42917633	No	
+row_41	ZNF350	zinc finger protein 350 [Source:HGNC Symbol;Acc:HGNC:16656]	14247	-0.39338552951812744	-0.45249045	Yes	
+row_42	RELB	RELB proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9956]	14279	-0.3958040773868561	-0.44242814	Yes	
+row_43	SIN3A	SIN3 transcription regulator family member A [Source:HGNC Symbol;Acc:HGNC:19353]	14475	-0.4150160849094391	-0.44056422	Yes	
+row_44	RLIM	ring finger protein, LIM domain interacting [Source:HGNC Symbol;Acc:HGNC:13429]	14508	-0.41834259033203125	-0.429888	Yes	
+row_45	LIN9	lin-9 DREAM MuvB core complex component [Source:HGNC Symbol;Acc:HGNC:30830]	14693	-0.4367382824420929	-0.42679286	Yes	
+row_46	HDAC4	histone deacetylase 4 [Source:HGNC Symbol;Acc:HGNC:14063]	14753	-0.44490376114845276	-0.4167736	Yes	
+row_47	LIN37	lin-37 DREAM MuvB core complex component [Source:HGNC Symbol;Acc:HGNC:33234]	14849	-0.45833414793014526	-0.40828115	Yes	
+row_48	BIN1	bridging integrator 1 [Source:HGNC Symbol;Acc:HGNC:1052]	14952	-0.46903666853904724	-0.39984605	Yes	
+row_49	CBX5	chromobox 5 [Source:HGNC Symbol;Acc:HGNC:1555]	15142	-0.48852044343948364	-0.39548492	Yes	
+row_50	RBPJ	recombination signal binding protein for immunoglobulin kappa J region [Source:HGNC Symbol;Acc:HGNC:5724]	15296	-0.5090941190719604	-0.38859013	Yes	
+row_51	SP3	Sp3 transcription factor [Source:HGNC Symbol;Acc:HGNC:11208]	15585	-0.5464447140693665	-0.38780636	Yes	
+row_52	RCOR1	REST corepressor 1 [Source:HGNC Symbol;Acc:HGNC:17441]	15604	-0.5497767925262451	-0.37249002	Yes	
+row_53	H1-0	H1.0 linker histone [Source:HGNC Symbol;Acc:HGNC:4714]	15965	-0.6011019349098206	-0.3739369	Yes	
+row_54	SP1	Sp1 transcription factor [Source:HGNC Symbol;Acc:HGNC:11205]	16058	-0.6144629716873169	-0.3606612	Yes	
+row_55	NCOR2	nuclear receptor corepressor 2 [Source:HGNC Symbol;Acc:HGNC:7673]	16221	-0.643256425857544	-0.35027507	Yes	
+row_56	PASD1	PAS domain containing repressor 1 [Source:HGNC Symbol;Acc:HGNC:20686]	16238	-0.6455862522125244	-0.33201498	Yes	
+row_57	HDGF	heparin binding growth factor [Source:HGNC Symbol;Acc:HGNC:4856]	16575	-0.7128463387489319	-0.32887015	Yes	
+row_58	MDM4	MDM4 regulator of p53 [Source:HGNC Symbol;Acc:HGNC:6974]	16712	-0.7376199960708618	-0.31430003	Yes	
+row_59	TFAP4	transcription factor AP-4 [Source:HGNC Symbol;Acc:HGNC:11745]	16745	-0.7443240284919739	-0.29397172	Yes	
+row_60	CORO2A	coronin 2A [Source:HGNC Symbol;Acc:HGNC:2255]	16850	-0.7678750157356262	-0.2767951	Yes	
+row_61	FOXO3	forkhead box O3 [Source:HGNC Symbol;Acc:HGNC:3821]	17066	-0.8168144226074219	-0.2641033	Yes	
+row_62	SPEN	spen family transcriptional repressor [Source:HGNC Symbol;Acc:HGNC:17575]	17591	-1.0028043985366821	-0.26242325	Yes	
+row_63	PRDM10	PR/SET domain 10 [Source:HGNC Symbol;Acc:HGNC:13995]	17641	-1.02653968334198	-0.23464745	Yes	
+row_64	MXD1	MAX dimerization protein 1 [Source:HGNC Symbol;Acc:HGNC:6761]	18035	-1.231645107269287	-0.21918845	Yes	
+row_65	MYC	MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]	18054	-1.2461912631988525	-0.1832517	Yes	
+row_66	CDX2	caudal type homeobox 2 [Source:HGNC Symbol;Acc:HGNC:1806]	18127	-1.2925050258636475	-0.14883038	Yes	
+row_67	GLI3	GLI family zinc finger 3 [Source:HGNC Symbol;Acc:HGNC:4319]	18169	-1.3348957300186157	-0.11149669	Yes	
+row_68	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	18375	-1.571462631225586	-0.075925626	Yes	
+row_69	ZBTB16	zinc finger and BTB domain containing 16 [Source:HGNC Symbol;Acc:HGNC:12930]	18759	-3.2846202850341797	8.554071E-4	Yes	

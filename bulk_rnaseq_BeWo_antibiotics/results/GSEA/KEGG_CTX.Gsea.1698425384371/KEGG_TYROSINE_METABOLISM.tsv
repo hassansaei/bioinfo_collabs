@@ -1,0 +1,31 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	COMT	catechol-O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:2228]	2848	0.30886971950531006	-0.1137194	No	
+row_1	LCMT2	leucine carboxyl methyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:17558]	4274	0.21098926663398743	-0.16363682	No	
+row_2	DBH	dopamine beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:2689]	4624	0.1892859935760498	-0.15883996	No	
+row_3	TRMT11	tRNA methyltransferase 11 homolog [Source:HGNC Symbol;Acc:HGNC:21080]	5942	0.12456698715686798	-0.21368635	No	
+row_4	TAT	tyrosine aminotransferase [Source:HGNC Symbol;Acc:HGNC:11573]	6183	0.11405742168426514	-0.21238048	No	
+row_5	GSTZ1	glutathione S-transferase zeta 1 [Source:HGNC Symbol;Acc:HGNC:4643]	6369	0.10636691004037857	-0.20909196	No	
+row_6	AOX1	aldehyde oxidase 1 [Source:HGNC Symbol;Acc:HGNC:553]	7671	0.057524099946022034	-0.27137786	No	
+row_7	IL4I1	interleukin 4 induced 1 [Source:HGNC Symbol;Acc:HGNC:19094]	7766	0.05401553586125374	-0.2697107	No	
+row_8	GOT2	glutamic-oxaloacetic transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4433]	7946	0.04704836383461952	-0.27343965	No	
+row_9	HEMK1	HemK methyltransferase family member 1 [Source:HGNC Symbol;Acc:HGNC:24923]	8279	0.03437795490026474	-0.28689763	No	
+row_10	METTL2B	methyltransferase 2B, methylcytidine [Source:HGNC Symbol;Acc:HGNC:18272]	8857	0.01402492169290781	-0.31594267	No	
+row_11	ADH5	alcohol dehydrogenase 5 (class III), chi polypeptide [Source:HGNC Symbol;Acc:HGNC:253]	9368	-0.004221966024488211	-0.34262624	No	
+row_12	GOT1	glutamic-oxaloacetic transaminase 1 [Source:HGNC Symbol;Acc:HGNC:4432]	9379	-0.004524987656623125	-0.34259996	No	
+row_13	ALDH1A3	aldehyde dehydrogenase 1 family member A3 [Source:HGNC Symbol;Acc:HGNC:409]	9879	-0.022218717262148857	-0.36647058	No	
+row_14	TH	tyrosine hydroxylase [Source:HGNC Symbol;Acc:HGNC:11782]	11516	-0.07782759517431259	-0.44411546	No	
+row_15	NAA80	N-alpha-acetyltransferase 80, NatH catalytic subunit [Source:HGNC Symbol;Acc:HGNC:30252]	12921	-0.1299165040254593	-0.50294113	No	
+row_16	AOC3	amine oxidase copper containing 3 [Source:HGNC Symbol;Acc:HGNC:550]	13892	-0.17244790494441986	-0.53335416	Yes	
+row_17	MIF	macrophage migration inhibitory factor [Source:HGNC Symbol;Acc:HGNC:7097]	14256	-0.19136735796928406	-0.52904665	Yes	
+row_18	BUD23	BUD23 rRNA methyltransferase and ribosome maturation factor [Source:HGNC Symbol;Acc:HGNC:16405]	14279	-0.192440003156662	-0.50641596	Yes	
+row_19	METTL6	methyltransferase 6, methylcytidine [Source:HGNC Symbol;Acc:HGNC:28343]	14412	-0.19950199127197266	-0.4887796	Yes	
+row_20	LCMT1	leucine carboxyl methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:17557]	14436	-0.2010289877653122	-0.46513978	Yes	
+row_21	FAH	fumarylacetoacetate hydrolase [Source:HGNC Symbol;Acc:HGNC:3579]	15134	-0.24174721539020538	-0.47241756	Yes	
+row_22	AOC2	amine oxidase copper containing 2 [Source:HGNC Symbol;Acc:HGNC:549]	15328	-0.25507184863090515	-0.4511614	Yes	
+row_23	ALDH3B2	aldehyde dehydrogenase 3 family member B2 [Source:HGNC Symbol;Acc:HGNC:411]	16985	-0.4379817545413971	-0.4853231	Yes	
+row_24	PNMT	phenylethanolamine N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:9160]	17188	-0.47096893191337585	-0.43784118	Yes	
+row_25	HGD	homogentisate 1,2-dioxygenase [Source:HGNC Symbol;Acc:HGNC:4892]	17510	-0.5373104810714722	-0.388501	Yes	
+row_26	ALDH3B1	aldehyde dehydrogenase 3 family member B1 [Source:HGNC Symbol;Acc:HGNC:410]	17593	-0.5578610301017761	-0.32386935	Yes	
+row_27	TPO	thyroid peroxidase [Source:HGNC Symbol;Acc:HGNC:12015]	17738	-0.5996426939964294	-0.25737682	Yes	
+row_28	DDC	dopa decarboxylase [Source:HGNC Symbol;Acc:HGNC:2719]	18609	-1.1960482597351074	-0.15583882	Yes	
+row_29	HPD	4-hydroxyphenylpyruvate dioxygenase [Source:HGNC Symbol;Acc:HGNC:5147]	18666	-1.3309980630874634	0.005814711	Yes	

@@ -1,0 +1,83 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SATB2	SATB homeobox 2 [Source:HGNC Symbol;Acc:HGNC:21637]	898	1.2208168506622314	-0.012002587	No	
+row_1	HDAC11	histone deacetylase 11 [Source:HGNC Symbol;Acc:HGNC:19086]	1176	1.0928845405578613	0.0054379287	No	
+row_2	SAP30L	SAP30 like [Source:HGNC Symbol;Acc:HGNC:25663]	1591	0.9445481896400452	0.0111715235	No	
+row_3	HDAC9	histone deacetylase 9 [Source:HGNC Symbol;Acc:HGNC:14065]	2287	0.7710354328155518	-0.0032479293	No	
+row_4	HDAC10	histone deacetylase 10 [Source:HGNC Symbol;Acc:HGNC:18128]	3761	0.5323078036308289	-0.06633141	No	
+row_5	MBD3	methyl-CpG binding domain protein 3 [Source:HGNC Symbol;Acc:HGNC:6918]	5237	0.35754522681236267	-0.13468026	No	
+row_6	CHD5	chromodomain helicase DNA binding protein 5 [Source:HGNC Symbol;Acc:HGNC:16816]	6304	0.25226786732673645	-0.18425784	No	
+row_7	HINT1	histidine triad nucleotide binding protein 1 [Source:HGNC Symbol;Acc:HGNC:4912]	6747	0.21504081785678864	-0.20155454	No	
+row_8	RCOR2	REST corepressor 2 [Source:HGNC Symbol;Acc:HGNC:27455]	7275	0.17026948928833008	-0.22471964	No	
+row_9	ZNHIT1	zinc finger HIT-type containing 1 [Source:HGNC Symbol;Acc:HGNC:21688]	7287	0.16937974095344543	-0.22030857	No	
+row_10	CHD4	chromodomain helicase DNA binding protein 4 [Source:HGNC Symbol;Acc:HGNC:1919]	8019	0.11210515350103378	-0.2561031	No	
+row_11	ACTR6	actin related protein 6 [Source:HGNC Symbol;Acc:HGNC:24025]	8024	0.11168325692415237	-0.25302055	No	
+row_12	BRMS1L	BRMS1 like transcriptional repressor [Source:HGNC Symbol;Acc:HGNC:20512]	8764	0.053888339549303055	-0.29096135	No	
+row_13	ZNF541	zinc finger protein 541 [Source:HGNC Symbol;Acc:HGNC:25294]	8879	0.04526924714446068	-0.29572338	No	
+row_14	RBBP7	RB binding protein 7, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9890]	8889	0.04423534497618675	-0.29489917	No	
+row_15	HDAC3	histone deacetylase 3 [Source:HGNC Symbol;Acc:HGNC:4854]	9165	0.022578690201044083	-0.3089433	No	
+row_16	BRD8	bromodomain containing 8 [Source:HGNC Symbol;Acc:HGNC:19874]	9214	0.017806299030780792	-0.31098542	No	
+row_17	SAP18	Sin3A associated protein 18 [Source:HGNC Symbol;Acc:HGNC:10530]	9300	0.010932227596640587	-0.31520963	No	
+row_18	BRMS1	BRMS1 transcriptional repressor and anoikis regulator [Source:HGNC Symbol;Acc:HGNC:17262]	9659	-0.013144939206540585	-0.3339722	No	
+row_19	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase [Source:HGNC Symbol;Acc:HGNC:8127]	9705	-0.01730022393167019	-0.33586872	No	
+row_20	CFDP1	craniofacial development protein 1 [Source:HGNC Symbol;Acc:HGNC:1873]	9823	-0.027307594195008278	-0.34132138	No	
+row_21	PHF12	PHD finger protein 12 [Source:HGNC Symbol;Acc:HGNC:20816]	10005	-0.039518676698207855	-0.34983718	No	
+row_22	HDAC8	histone deacetylase 8 [Source:HGNC Symbol;Acc:HGNC:13315]	10342	-0.06453383713960648	-0.36590606	No	
+row_23	HDAC1	histone deacetylase 1 [Source:HGNC Symbol;Acc:HGNC:4852]	10478	-0.07494354248046875	-0.37091556	No	
+row_24	HR	HR lysine demethylase and nuclear receptor corepressor [Source:HGNC Symbol;Acc:HGNC:5172]	11134	-0.12567578256130219	-0.40224403	No	
+row_25	MBD2	methyl-CpG binding domain protein 2 [Source:HGNC Symbol;Acc:HGNC:6917]	11230	-0.13251566886901855	-0.4034145	No	
+row_26	HDAC2	histone deacetylase 2 [Source:HGNC Symbol;Acc:HGNC:4853]	11463	-0.1479276716709137	-0.41145858	No	
+row_27	TAF6L	TATA-box binding protein associated factor 6 like [Source:HGNC Symbol;Acc:HGNC:17305]	11587	-0.15661831200122833	-0.4134154	No	
+row_28	ING3	inhibitor of growth family member 3 [Source:HGNC Symbol;Acc:HGNC:14587]	11754	-0.17088396847248077	-0.41725138	Yes	
+row_29	TBL1XR1	TBL1X/Y related 1 [Source:HGNC Symbol;Acc:HGNC:29529]	11786	-0.1726994663476944	-0.41381216	Yes	
+row_30	CDK2AP2	cyclin dependent kinase 2 associated protein 2 [Source:HGNC Symbol;Acc:HGNC:30833]	11918	-0.1834605187177658	-0.41540465	Yes	
+row_31	HDAC7	histone deacetylase 7 [Source:HGNC Symbol;Acc:HGNC:14067]	11948	-0.1855810582637787	-0.41147825	Yes	
+row_32	RBBP4	RB binding protein 4, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9887]	12080	-0.19675567746162415	-0.41267833	Yes	
+row_33	PHF21A	PHD finger protein 21A [Source:HGNC Symbol;Acc:HGNC:24156]	12117	-0.19958743453025818	-0.40871295	Yes	
+row_34	MORF4L1	mortality factor 4 like 1 [Source:HGNC Symbol;Acc:HGNC:16989]	12180	-0.20417115092277527	-0.40600312	Yes	
+row_35	ARID4A	AT-rich interaction domain 4A [Source:HGNC Symbol;Acc:HGNC:9885]	12208	-0.2070692926645279	-0.40133548	Yes	
+row_36	ARID4B	AT-rich interaction domain 4B [Source:HGNC Symbol;Acc:HGNC:15550]	12251	-0.2105383574962616	-0.39736784	Yes	
+row_37	SUDS3	SDS3 homolog, SIN3A corepressor complex component [Source:HGNC Symbol;Acc:HGNC:29545]	12276	-0.21240198612213135	-0.3923823	Yes	
+row_38	NCOR1	nuclear receptor corepressor 1 [Source:HGNC Symbol;Acc:HGNC:7672]	12319	-0.21510620415210724	-0.38827983	Yes	
+row_39	RCOR3	REST corepressor 3 [Source:HGNC Symbol;Acc:HGNC:25594]	12429	-0.22326761484146118	-0.38752052	Yes	
+row_40	MTA2	metastasis associated 1 family member 2 [Source:HGNC Symbol;Acc:HGNC:7411]	12441	-0.22405694425106049	-0.38149557	Yes	
+row_41	RUVBL1	RuvB like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	12746	-0.2487514615058899	-0.3904152	Yes	
+row_42	SAP130	Sin3A associated protein 130 [Source:HGNC Symbol;Acc:HGNC:29813]	12915	-0.2642997205257416	-0.39160085	Yes	
+row_43	EP400	E1A binding protein p400 [Source:HGNC Symbol;Acc:HGNC:11958]	12950	-0.26746630668640137	-0.38552493	Yes	
+row_44	TBL1X	transducin beta like 1 X-linked [Source:HGNC Symbol;Acc:HGNC:11585]	12977	-0.27082154154777527	-0.37892208	Yes	
+row_45	TBL1Y	transducin beta like 1 Y-linked [Source:HGNC Symbol;Acc:HGNC:18502]	13021	-0.2744651436805725	-0.37312102	Yes	
+row_46	DMAP1	DNA methyltransferase 1 associated protein 1 [Source:HGNC Symbol;Acc:HGNC:18291]	13137	-0.2842457890510559	-0.37088278	Yes	
+row_47	RUVBL2	RuvB like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	13221	-0.28999802470207214	-0.366763	Yes	
+row_48	ING2	inhibitor of growth family member 2 [Source:HGNC Symbol;Acc:HGNC:6063]	13446	-0.30967268347740173	-0.369605	Yes	
+row_49	SRCAP	Snf2 related CREBBP activator protein [Source:HGNC Symbol;Acc:HGNC:16974]	13549	-0.32102254033088684	-0.36558583	Yes	
+row_50	KDM3B	lysine demethylase 3B [Source:HGNC Symbol;Acc:HGNC:1337]	13599	-0.32534417510032654	-0.35860398	Yes	
+row_51	DNTTIP1	deoxynucleotidyltransferase terminal interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:16160]	13934	-0.36281341314315796	-0.36576173	Yes	
+row_52	GATAD2A	GATA zinc finger domain containing 2A [Source:HGNC Symbol;Acc:HGNC:29989]	14318	-0.3990285098552704	-0.37447166	Yes	
+row_53	SIN3A	SIN3 transcription regulator family member A [Source:HGNC Symbol;Acc:HGNC:19353]	14475	-0.4150160849094391	-0.37056676	Yes	
+row_54	HDAC4	histone deacetylase 4 [Source:HGNC Symbol;Acc:HGNC:14063]	14753	-0.44490376114845276	-0.37225235	Yes	
+row_55	HDAC6	histone deacetylase 6 [Source:HGNC Symbol;Acc:HGNC:14064]	14883	-0.46273642778396606	-0.3654946	Yes	
+row_56	CBX5	chromobox 5 [Source:HGNC Symbol;Acc:HGNC:1555]	15142	-0.48852044343948364	-0.36487645	Yes	
+row_57	TRRAP	transformation/transcription domain associated protein [Source:HGNC Symbol;Acc:HGNC:12347]	15227	-0.5006874799728394	-0.3545913	Yes	
+row_58	TRERF1	transcriptional regulating factor 1 [Source:HGNC Symbol;Acc:HGNC:18273]	15260	-0.5042365789413452	-0.34141982	Yes	
+row_59	SIN3B	SIN3 transcription regulator family member B [Source:HGNC Symbol;Acc:HGNC:19354]	15301	-0.5104776620864868	-0.32849205	Yes	
+row_60	CSNK2A1	casein kinase 2 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2457]	15380	-0.520169734954834	-0.31731093	Yes	
+row_61	RCOR1	REST corepressor 1 [Source:HGNC Symbol;Acc:HGNC:17441]	15604	-0.5497767925262451	-0.3130124	Yes	
+row_62	SINHCAF	SIN3-HDAC complex associated factor [Source:HGNC Symbol;Acc:HGNC:30702]	15607	-0.5500786900520325	-0.296883	Yes	
+row_63	MTA1	metastasis associated 1 [Source:HGNC Symbol;Acc:HGNC:7410]	15641	-0.5537079572677612	-0.28230476	Yes	
+row_64	KDM3A	lysine demethylase 3A [Source:HGNC Symbol;Acc:HGNC:20815]	15684	-0.5594051480293274	-0.2680398	Yes	
+row_65	MTA3	metastasis associated 1 family member 3 [Source:HGNC Symbol;Acc:HGNC:23784]	15705	-0.561923623085022	-0.25252366	Yes	
+row_66	ANP32E	acidic nuclear phosphoprotein 32 family member E [Source:HGNC Symbol;Acc:HGNC:16673]	15874	-0.5884215831756592	-0.24414237	Yes	
+row_67	SAP30	Sin3A associated protein 30 [Source:HGNC Symbol;Acc:HGNC:10532]	16404	-0.6766105890274048	-0.25246906	Yes	
+row_68	CDK2AP1	cyclin dependent kinase 2 associated protein 1 [Source:HGNC Symbol;Acc:HGNC:14002]	16488	-0.6958096623420715	-0.23637113	Yes	
+row_69	RERE	arginine-glutamic acid dipeptide repeats [Source:HGNC Symbol;Acc:HGNC:9965]	16597	-0.7165677547454834	-0.22099783	Yes	
+row_70	JMJD1C	jumonji domain containing 1C [Source:HGNC Symbol;Acc:HGNC:12313]	16766	-0.7487751841545105	-0.20788346	Yes	
+row_71	ZNF217	zinc finger protein 217 [Source:HGNC Symbol;Acc:HGNC:13009]	16891	-0.7767287492752075	-0.19159031	Yes	
+row_72	SETD5	SET domain containing 5 [Source:HGNC Symbol;Acc:HGNC:25566]	16959	-0.793181300163269	-0.17176242	Yes	
+row_73	NRIP1	nuclear receptor interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:8001]	17048	-0.8128539323806763	-0.15247722	Yes	
+row_74	HDAC5	histone deacetylase 5 [Source:HGNC Symbol;Acc:HGNC:14068]	17153	-0.8430421948432922	-0.13315687	Yes	
+row_75	GATAD2B	GATA zinc finger domain containing 2B [Source:HGNC Symbol;Acc:HGNC:30778]	17286	-0.8802490234375	-0.11423611	Yes	
+row_76	MIDEAS	mitotic deacetylase associated SANT domain protein [Source:HGNC Symbol;Acc:HGNC:19853]	17337	-0.8972175121307373	-0.09042806	Yes	
+row_77	KMT2E	lysine methyltransferase 2E (inactive) [Source:HGNC Symbol;Acc:HGNC:18541]	17584	-1.0014922618865967	-0.07402684	Yes	
+row_78	KAT5	lysine acetyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:5275]	17588	-1.0021305084228516	-0.044607956	Yes	
+row_79	CHD3	chromodomain helicase DNA binding protein 3 [Source:HGNC Symbol;Acc:HGNC:1918]	17638	-1.0232001543045044	-0.017027851	Yes	
+row_80	ING1	inhibitor of growth family member 1 [Source:HGNC Symbol;Acc:HGNC:6062]	18134	-1.297742247581482	-0.0052021514	Yes	
+row_81	TET1	tet methylcytosine dioxygenase 1 [Source:HGNC Symbol;Acc:HGNC:29484]	18170	-1.3361293077468872	0.032363426	Yes	

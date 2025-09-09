@@ -1,0 +1,49 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ODAD1	outer dynein arm docking complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:26560]	55	2.5759289264678955	0.09138858	Yes	
+row_1	DNAL4	dynein axonemal light chain 4 [Source:HGNC Symbol;Acc:HGNC:2955]	426	1.614211082458496	0.13074125	Yes	
+row_2	DYNLT2B	dynein light chain Tctex-type 2B [Source:HGNC Symbol;Acc:HGNC:28482]	432	1.6105834245681763	0.18945062	Yes	
+row_3	DNAI4	dynein axonemal intermediate chain 4 [Source:HGNC Symbol;Acc:HGNC:26252]	535	1.4922232627868652	0.23864646	Yes	
+row_4	DYNLT3	dynein light chain Tctex-type 3 [Source:HGNC Symbol;Acc:HGNC:11694]	741	1.3295204639434814	0.27638465	Yes	
+row_5	DYNC2H1	dynein cytoplasmic 2 heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2962]	799	1.2915056943893433	0.32063344	Yes	
+row_6	DNAH10	dynein axonemal heavy chain 10 [Source:HGNC Symbol;Acc:HGNC:2941]	812	1.282322645187378	0.36694878	Yes	
+row_7	CFAP70	cilia and flagella associated protein 70 [Source:HGNC Symbol;Acc:HGNC:30726]	959	1.1857202053070068	0.40257168	Yes	
+row_8	DYNLL2	dynein light chain LC8-type 2 [Source:HGNC Symbol;Acc:HGNC:24596]	1879	0.8662602305412292	0.38522148	Yes	
+row_9	DISC1	DISC1 scaffold protein [Source:HGNC Symbol;Acc:HGNC:2888]	1882	0.8659062385559082	0.41682246	Yes	
+row_10	DNAH12	dynein axonemal heavy chain 12 [Source:HGNC Symbol;Acc:HGNC:2943]	1937	0.8522667288780212	0.44514737	Yes	
+row_11	DYNC2LI1	dynein cytoplasmic 2 light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:24595]	2458	0.7382023930549622	0.44441295	Yes	
+row_12	DNAH2	dynein axonemal heavy chain 2 [Source:HGNC Symbol;Acc:HGNC:2948]	2763	0.6818746328353882	0.45314947	Yes	
+row_13	DYNC1I1	dynein cytoplasmic 1 intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:2963]	3127	0.6241402626037598	0.4566215	Yes	
+row_14	DYNC2I2	dynein 2 intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:28296]	3579	0.5545654296875	0.45284697	Yes	
+row_15	DYNC1LI1	dynein cytoplasmic 1 light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:18745]	3745	0.5343001484870911	0.46360165	Yes	
+row_16	DNAH8	dynein axonemal heavy chain 8 [Source:HGNC Symbol;Acc:HGNC:2952]	5090	0.3733578324317932	0.40550905	No	
+row_17	DNHD1	dynein heavy chain domain 1 [Source:HGNC Symbol;Acc:HGNC:26532]	5324	0.34760144352912903	0.40579626	No	
+row_18	DYNLT1	dynein light chain Tctex-type 1 [Source:HGNC Symbol;Acc:HGNC:11697]	5500	0.32772934436798096	0.40845275	No	
+row_19	DNAI7	dynein axonemal intermediate chain 7 [Source:HGNC Symbol;Acc:HGNC:29599]	5623	0.31351470947265625	0.41341874	No	
+row_20	DYNLT2	dynein light chain Tctex-type 2 [Source:HGNC Symbol;Acc:HGNC:11695]	6039	0.27445951104164124	0.40130955	No	
+row_21	DRC1	dynein regulatory complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:24245]	6851	0.2054436355829239	0.36552835	No	
+row_22	SNX4	sorting nexin 4 [Source:HGNC Symbol;Acc:HGNC:11175]	6901	0.201887845993042	0.37030467	No	
+row_23	DNAH7	dynein axonemal heavy chain 7 [Source:HGNC Symbol;Acc:HGNC:18661]	7350	0.16358217597007751	0.35237333	No	
+row_24	DNAL1	dynein axonemal light chain 1 [Source:HGNC Symbol;Acc:HGNC:23247]	8550	0.06967038661241531	0.29090273	No	
+row_25	DYNC1I2	dynein cytoplasmic 1 intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:2964]	8678	0.06167295202612877	0.28637978	No	
+row_26	CCDC103	coiled-coil domain containing 103 [Source:HGNC Symbol;Acc:HGNC:32700]	8782	0.052367690950632095	0.2827976	No	
+row_27	DNAH14	dynein axonemal heavy chain 14 [Source:HGNC Symbol;Acc:HGNC:2945]	9213	0.01786785200238228	0.2604916	No	
+row_28	DNAH3	dynein axonemal heavy chain 3 [Source:HGNC Symbol;Acc:HGNC:2949]	9514	-0.003937665373086929	0.244617	No	
+row_29	DYNLT4	dynein light chain Tctex-type 4 [Source:HGNC Symbol;Acc:HGNC:32315]	9752	-0.02136191539466381	0.2327444	No	
+row_30	DCTN2	dynactin subunit 2 [Source:HGNC Symbol;Acc:HGNC:2712]	10161	-0.050296299159526825	0.21280058	No	
+row_31	DCTN1	dynactin subunit 1 [Source:HGNC Symbol;Acc:HGNC:2711]	10216	-0.05468432232737541	0.21191962	No	
+row_32	NUDCD3	NudC domain containing 3 [Source:HGNC Symbol;Acc:HGNC:22208]	10386	-0.06813283264636993	0.20539059	No	
+row_33	DNAH6	dynein axonemal heavy chain 6 [Source:HGNC Symbol;Acc:HGNC:2951]	10514	-0.07745275646448135	0.20144548	No	
+row_34	DYNLL1	dynein light chain LC8-type 1 [Source:HGNC Symbol;Acc:HGNC:15476]	11170	-0.1285284459590912	0.17117755	No	
+row_35	DNAH5	dynein axonemal heavy chain 5 [Source:HGNC Symbol;Acc:HGNC:2950]	11939	-0.18503503501415253	0.13694505	No	
+row_36	DNAH17	dynein axonemal heavy chain 17 [Source:HGNC Symbol;Acc:HGNC:2946]	11945	-0.18535983562469482	0.14346558	No	
+row_37	DYNC1LI2	dynein cytoplasmic 1 light intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:2966]	12280	-0.21261662244796753	0.13341692	No	
+row_38	DYNLRB1	dynein light chain roadblock-type 1 [Source:HGNC Symbol;Acc:HGNC:15468]	12296	-0.21381062269210815	0.14044529	No	
+row_39	DNALI1	dynein axonemal light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:14353]	12651	-0.23958227038383484	0.13031614	No	
+row_40	DYNC1H1	dynein cytoplasmic 1 heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2961]	14576	-0.4262646734714508	0.043191228	No	
+row_41	TPR	translocated promoter region, nuclear basket protein [Source:HGNC Symbol;Acc:HGNC:12017]	15134	-0.48814520239830017	0.03132457	No	
+row_42	DNAI3	dynein axonemal intermediate chain 3 [Source:HGNC Symbol;Acc:HGNC:30711]	15192	-0.49585506319999695	0.04643822	No	
+row_43	DNAH1	dynein axonemal heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2940]	15239	-0.5016477108001709	0.06235134	No	
+row_44	DYNC2I1	dynein 2 intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:21862]	15853	-0.5856215953826904	0.051063895	No	
+row_45	DCTN4	dynactin subunit 4 [Source:HGNC Symbol;Acc:HGNC:15518]	16232	-0.6446049213409424	0.054484356	No	
+row_46	DNAI1	dynein axonemal intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:2954]	16947	-0.7894506454467773	0.045267727	No	
+row_47	CCDC65	coiled-coil domain containing 65 [Source:HGNC Symbol;Acc:HGNC:29937]	18262	-1.427891492843628	0.027391938	No	

@@ -1,0 +1,42 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TCFL5	transcription factor like 5 [Source:HGNC Symbol;Acc:HGNC:11646]	1770	0.8941382765769958	-0.046683412	No	
+row_1	H2AX	H2A.X variant histone [Source:HGNC Symbol;Acc:HGNC:4739]	1914	0.8570746779441833	-0.00846966	No	
+row_2	SPAG8	sperm associated antigen 8 [Source:HGNC Symbol;Acc:HGNC:14105]	2532	0.7219794988632202	-0.002793963	No	
+row_3	GTF2A1L	general transcription factor IIA subunit 1 like [Source:HGNC Symbol;Acc:HGNC:30727]	2832	0.6682491898536682	0.016988222	No	
+row_4	TAF7	TATA-box binding protein associated factor 7 [Source:HGNC Symbol;Acc:HGNC:11541]	3050	0.6363391280174255	0.039442062	No	
+row_5	PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	3339	0.5931622385978699	0.055794805	No	
+row_6	REC8	REC8 meiotic recombination protein [Source:HGNC Symbol;Acc:HGNC:16879]	4592	0.42935293912887573	0.011907987	No	
+row_7	TOP2A	DNA topoisomerase II alpha [Source:HGNC Symbol;Acc:HGNC:11989]	5275	0.35254967212677	-0.0056501376	No	
+row_8	TBPL1	TATA-box binding protein like 1 [Source:HGNC Symbol;Acc:HGNC:11589]	5553	0.32163020968437195	-0.0032357918	No	
+row_9	TAF10	TATA-box binding protein associated factor 10 [Source:HGNC Symbol;Acc:HGNC:11543]	6006	0.277923047542572	-0.012504386	No	
+row_10	TESMIN	testis expressed metallothionein like protein [Source:HGNC Symbol;Acc:HGNC:7446]	6281	0.2537476718425751	-0.013561265	No	
+row_11	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	6505	0.23332056403160095	-0.012987565	No	
+row_12	TRIM24	tripartite motif containing 24 [Source:HGNC Symbol;Acc:HGNC:11812]	7395	0.15935729444026947	-0.051934205	No	
+row_13	RAN	RAN, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9846]	7578	0.14545446634292603	-0.05387161	No	
+row_14	ZMYND15	zinc finger MYND-type containing 15 [Source:HGNC Symbol;Acc:HGNC:20997]	8600	0.06654979288578033	-0.104831696	No	
+row_15	TAF4	TATA-box binding protein associated factor 4 [Source:HGNC Symbol;Acc:HGNC:11537]	8841	0.047594647854566574	-0.11510131	No	
+row_16	RAD51	RAD51 recombinase [Source:HGNC Symbol;Acc:HGNC:9817]	9250	0.014217708259820938	-0.13612744	No	
+row_17	TSN	translin [Source:HGNC Symbol;Acc:HGNC:12379]	9521	-0.004611097741872072	-0.15029846	No	
+row_18	TERF2	telomeric repeat binding factor 2 [Source:HGNC Symbol;Acc:HGNC:11729]	9681	-0.015558265149593353	-0.15795657	No	
+row_19	LIMK1	LIM domain kinase 1 [Source:HGNC Symbol;Acc:HGNC:6613]	10225	-0.05545174330472946	-0.18398571	No	
+row_20	TERF2IP	TERF2 interacting protein [Source:HGNC Symbol;Acc:HGNC:19246]	10340	-0.064785435795784	-0.18660744	No	
+row_21	TRIP13	thyroid hormone receptor interactor 13 [Source:HGNC Symbol;Acc:HGNC:12307]	10408	-0.0703871101140976	-0.18641976	No	
+row_22	MLH1	mutL homolog 1 [Source:HGNC Symbol;Acc:HGNC:7127]	11345	-0.14046339690685272	-0.22888687	No	
+row_23	MLH3	mutL homolog 3 [Source:HGNC Symbol;Acc:HGNC:7128]	11658	-0.16332362592220306	-0.2368102	No	
+row_24	PATZ1	POZ/BTB and AT hook containing zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:13071]	12481	-0.22686108946800232	-0.26856798	No	
+row_25	TOPBP1	DNA topoisomerase II binding protein 1 [Source:HGNC Symbol;Acc:HGNC:17008]	12489	-0.22779116034507751	-0.25675592	No	
+row_26	TBP	TATA-box binding protein [Source:HGNC Symbol;Acc:HGNC:11588]	13015	-0.2745445668697357	-0.27010337	No	
+row_27	CTCF	CCCTC-binding factor [Source:HGNC Symbol;Acc:HGNC:13723]	13222	-0.2905135154724121	-0.2655623	No	
+row_28	ANKRD37	ankyrin repeat domain 37 [Source:HGNC Symbol;Acc:HGNC:29593]	14424	-0.4103078842163086	-0.30774462	Yes	
+row_29	ANKRD17	ankyrin repeat domain 17 [Source:HGNC Symbol;Acc:HGNC:23575]	14540	-0.4222286343574524	-0.29129806	Yes	
+row_30	DAZAP1	DAZ associated protein 1 [Source:HGNC Symbol;Acc:HGNC:2683]	14735	-0.44391605257987976	-0.27790985	Yes	
+row_31	TOP1	DNA topoisomerase I [Source:HGNC Symbol;Acc:HGNC:11986]	14959	-0.4705098867416382	-0.26464757	Yes	
+row_32	STPG4	sperm-tail PG-rich repeat containing 4 [Source:HGNC Symbol;Acc:HGNC:26850]	15461	-0.5313758850097656	-0.26297405	Yes	
+row_33	KDM3A	lysine demethylase 3A [Source:HGNC Symbol;Acc:HGNC:20815]	15677	-0.5594051480293274	-0.24452907	Yes	
+row_34	SMARCC1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 1 [Source:HGNC Symbol;Acc:HGNC:11104]	15724	-0.566967248916626	-0.21665512	Yes	
+row_35	SPATA24	spermatogenesis associated 24 [Source:HGNC Symbol;Acc:HGNC:27322]	16318	-0.6587410569190979	-0.21308084	Yes	
+row_36	HSPA2	heat shock protein family A (Hsp70) member 2 [Source:HGNC Symbol;Acc:HGNC:5235]	16569	-0.7128509879112244	-0.1882961	Yes	
+row_37	CDK7	cyclin dependent kinase 7 [Source:HGNC Symbol;Acc:HGNC:1778]	16894	-0.778327465057373	-0.16396017	Yes	
+row_38	TAF3	TATA-box binding protein associated factor 3 [Source:HGNC Symbol;Acc:HGNC:17303]	16967	-0.7959452271461487	-0.12522528	Yes	
+row_39	CDK2	cyclin dependent kinase 2 [Source:HGNC Symbol;Acc:HGNC:1771]	17183	-0.8509737253189087	-0.09118261	Yes	
+row_40	ZBTB16	zinc finger and BTB domain containing 16 [Source:HGNC Symbol;Acc:HGNC:12930]	18751	-3.2846202850341797	8.54372E-4	Yes	

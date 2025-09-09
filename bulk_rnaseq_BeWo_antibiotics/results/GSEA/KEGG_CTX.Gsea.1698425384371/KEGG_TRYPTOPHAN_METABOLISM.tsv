@@ -1,0 +1,31 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EHHADH	enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:3247]	432	0.8361927270889282	0.07132844	No	
+row_1	TPH1	tryptophan hydroxylase 1 [Source:HGNC Symbol;Acc:HGNC:12008]	2370	0.3556957542896271	0.008143825	No	
+row_2	ALDH3A2	aldehyde dehydrogenase 3 family member A2 [Source:HGNC Symbol;Acc:HGNC:403]	2709	0.3215622305870056	0.026405076	No	
+row_3	OGDHL	oxoglutarate dehydrogenase L [Source:HGNC Symbol;Acc:HGNC:25590]	3903	0.23284564912319183	-0.010956027	No	
+row_4	AFMID	arylformamidase [Source:HGNC Symbol;Acc:HGNC:20910]	4557	0.19292008876800537	-0.024017015	No	
+row_5	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	5580	0.1402328461408615	-0.06270853	No	
+row_6	CAT	catalase [Source:HGNC Symbol;Acc:HGNC:1516]	7152	0.07611773163080215	-0.13792236	No	
+row_7	AOX1	aldehyde oxidase 1 [Source:HGNC Symbol;Acc:HGNC:553]	7671	0.057524099946022034	-0.15906271	No	
+row_8	IL4I1	interleukin 4 induced 1 [Source:HGNC Symbol;Acc:HGNC:19094]	7766	0.05401553586125374	-0.15798087	No	
+row_9	HADHA	hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:4801]	8334	0.03277762979269028	-0.18452802	No	
+row_10	WARS2	tryptophanyl tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:12730]	8654	0.020754827186465263	-0.19920258	No	
+row_11	AANAT	aralkylamine N-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:19]	8833	0.014871443621814251	-0.20701954	No	
+row_12	GCDH	glutaryl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4189]	8894	0.012230218388140202	-0.20883991	No	
+row_13	ALDH9A1	aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	9929	-0.02379859983921051	-0.2613124	No	
+row_14	ECHS1	enoyl-CoA hydratase, short chain 1 [Source:HGNC Symbol;Acc:HGNC:3151]	10869	-0.05546606704592705	-0.30514315	No	
+row_15	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	11560	-0.07902368903160095	-0.33303234	No	
+row_16	ACAT2	acetyl-CoA acetyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:94]	12661	-0.11874742805957794	-0.37830958	No	
+row_17	ASMT	acetylserotonin O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:750]	13939	-0.1747041791677475	-0.42671353	No	
+row_18	ALDH1B1	aldehyde dehydrogenase 1 family member B1 [Source:HGNC Symbol;Acc:HGNC:407]	14300	-0.19334547221660614	-0.42409652	No	
+row_19	OGDH	oxoglutarate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8124]	14393	-0.19862614572048187	-0.40658712	No	
+row_20	ALDH7A1	aldehyde dehydrogenase 7 family member A1 [Source:HGNC Symbol;Acc:HGNC:877]	15115	-0.2406407743692398	-0.41788977	No	
+row_21	AADAT	aminoadipate aminotransferase [Source:HGNC Symbol;Acc:HGNC:17929]	16049	-0.3149793744087219	-0.43211156	Yes	
+row_22	WARS1	tryptophanyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:12729]	16121	-0.32295966148376465	-0.39944956	Yes	
+row_23	INMT	indolethylamine N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:6069]	16463	-0.36181753873825073	-0.3768051	Yes	
+row_24	ALDH2	aldehyde dehydrogenase 2 family member [Source:HGNC Symbol;Acc:HGNC:404]	17019	-0.4424206018447876	-0.3564795	Yes	
+row_25	KMO	kynurenine 3-monooxygenase [Source:HGNC Symbol;Acc:HGNC:6381]	17091	-0.4536159634590149	-0.3090715	Yes	
+row_26	ACMSD	aminocarboxymuconate semialdehyde decarboxylase [Source:HGNC Symbol;Acc:HGNC:19288]	17444	-0.5198186635971069	-0.26918173	Yes	
+row_27	CYP1A2	cytochrome P450 family 1 subfamily A member 2 [Source:HGNC Symbol;Acc:HGNC:2596]	18312	-0.8826379776000977	-0.21581638	Yes	
+row_28	CYP1A1	cytochrome P450 family 1 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2595]	18383	-0.9340823888778687	-0.11412925	Yes	
+row_29	DDC	dopa decarboxylase [Source:HGNC Symbol;Acc:HGNC:2719]	18609	-1.1960482597351074	0.008855124	Yes	

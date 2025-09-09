@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KCNC4	potassium voltage-gated channel subfamily C member 4 [Source:HGNC Symbol;Acc:HGNC:6236]	754	1.3211569786071777	0.02680212	No	
+row_1	CX3CR1	C-X3-C motif chemokine receptor 1 [Source:HGNC Symbol;Acc:HGNC:2558]	1068	1.1320198774337769	0.06753124	No	
+row_2	AMIGO1	adhesion molecule with Ig like domain 1 [Source:HGNC Symbol;Acc:HGNC:20824]	1202	1.0812047719955444	0.115283206	No	
+row_3	KCNC3	potassium voltage-gated channel subfamily C member 3 [Source:HGNC Symbol;Acc:HGNC:6235]	2308	0.7676527500152588	0.095287025	No	
+row_4	SLC6A3	solute carrier family 6 member 3 [Source:HGNC Symbol;Acc:HGNC:11049]	2992	0.6447128653526306	0.091562405	No	
+row_5	SLC12A2	solute carrier family 12 member 2 [Source:HGNC Symbol;Acc:HGNC:10911]	3034	0.638117790222168	0.12174507	No	
+row_6	RGS8	regulator of G protein signaling 8 [Source:HGNC Symbol;Acc:HGNC:16810]	4604	0.42830392718315125	0.059786946	No	
+row_7	HPCA	hippocalcin [Source:HGNC Symbol;Acc:HGNC:5144]	6411	0.24170787632465363	-0.024277212	No	
+row_8	ATP2B1	ATPase plasma membrane Ca2+ transporting 1 [Source:HGNC Symbol;Acc:HGNC:814]	6973	0.1953764706850052	-0.044288054	No	
+row_9	UNC5A	unc-5 netrin receptor A [Source:HGNC Symbol;Acc:HGNC:12567]	11607	-0.1585659682750702	-0.2833511	No	
+row_10	DAB2IP	DAB2 interacting protein [Source:HGNC Symbol;Acc:HGNC:17294]	15733	-0.5686102509498596	-0.47451922	No	
+row_11	KCNE3	potassium voltage-gated channel subfamily E regulatory subunit 3 [Source:HGNC Symbol;Acc:HGNC:6243]	16630	-0.7229918241500854	-0.48563364	Yes	
+row_12	INSR	insulin receptor [Source:HGNC Symbol;Acc:HGNC:6091]	17515	-0.9718837738037109	-0.48348263	Yes	
+row_13	SLC4A8	solute carrier family 4 member 8 [Source:HGNC Symbol;Acc:HGNC:11034]	18251	-1.4252798557281494	-0.45038533	Yes	
+row_14	ATP2B2	ATPase plasma membrane Ca2+ transporting 2 [Source:HGNC Symbol;Acc:HGNC:815]	18381	-1.5830864906311035	-0.37696135	Yes	
+row_15	SLC6A2	solute carrier family 6 member 2 [Source:HGNC Symbol;Acc:HGNC:11048]	18433	-1.6586503982543945	-0.29554406	Yes	
+row_16	CD22	CD22 molecule [Source:HGNC Symbol;Acc:HGNC:1643]	18528	-1.8690309524536133	-0.20574835	Yes	
+row_17	FLRT1	fibronectin leucine rich transmembrane protein 1 [Source:HGNC Symbol;Acc:HGNC:3760]	18608	-2.0976998805999756	-0.10355305	Yes	
+row_18	TACR3	tachykinin receptor 3 [Source:HGNC Symbol;Acc:HGNC:11528]	18633	-2.2075326442718506	0.0071471613	Yes	

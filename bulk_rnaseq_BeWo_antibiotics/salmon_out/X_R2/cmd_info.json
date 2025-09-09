@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.10.0",
+    "index": "human_salmon_index",
+    "libType": "A",
+    "mates1": "/WORKSPACE/rnaseq_mehrdad/fastq/0_rawdata/X_R2_1.fq.gz",
+    "mates2": "/WORKSPACE/rnaseq_mehrdad/fastq/0_rawdata/X_R2_2.fq.gz",
+    "threads": "12",
+    "validateMappings": [],
+    "output": "salmon_out/X_R2_1.fq.gz",
+    "auxDir": "aux_info"
+}

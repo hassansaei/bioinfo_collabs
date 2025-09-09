@@ -1,0 +1,33 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TAF7	TATA-box binding protein associated factor 7 [Source:HGNC Symbol;Acc:HGNC:11541]	3512	0.6363391280174255	-0.11758598	No	
+row_1	MEN1	menin 1 [Source:HGNC Symbol;Acc:HGNC:7010]	8926	0.12065359950065613	-0.3689441	No	
+row_2	TAF4	TATA-box binding protein associated factor 4 [Source:HGNC Symbol;Acc:HGNC:11537]	9961	0.047594647854566574	-0.41495767	No	
+row_3	LAS1L	LAS1 like ribosome biogenesis factor [Source:HGNC Symbol;Acc:HGNC:25726]	10643	-0.0010359493317082524	-0.44773364	No	
+row_4	TEX10	testis expressed 10 [Source:HGNC Symbol;Acc:HGNC:25988]	11106	-0.0319032147526741	-0.46742564	No	
+row_5	TAF6	TATA-box binding protein associated factor 6 [Source:HGNC Symbol;Acc:HGNC:11540]	11298	-0.04400850832462311	-0.47305408	No	
+row_6	WDR5	WD repeat domain 5 [Source:HGNC Symbol;Acc:HGNC:12757]	11361	-0.047971032559871674	-0.47213483	No	
+row_7	CHD8	chromodomain helicase DNA binding protein 8 [Source:HGNC Symbol;Acc:HGNC:20153]	12405	-0.12363974750041962	-0.51238286	Yes	
+row_8	SENP3	SUMO specific peptidase 3 [Source:HGNC Symbol;Acc:HGNC:17862]	12447	-0.1258995682001114	-0.5040969	Yes	
+row_9	RBBP5	RB binding protein 5, histone lysine methyltransferase complex subunit [Source:HGNC Symbol;Acc:HGNC:9888]	12626	-0.13737772405147552	-0.5014859	Yes	
+row_10	HCFC2	host cell factor C2 [Source:HGNC Symbol;Acc:HGNC:24972]	12679	-0.1407131403684616	-0.492523	Yes	
+row_11	E2F6	E2F transcription factor 6 [Source:HGNC Symbol;Acc:HGNC:3120]	12702	-0.14211662113666534	-0.48199812	Yes	
+row_12	TAF1	TATA-box binding protein associated factor 1 [Source:HGNC Symbol;Acc:HGNC:11535]	13399	-0.19136998057365417	-0.49998036	Yes	
+row_13	KMT2B	lysine methyltransferase 2B [Source:HGNC Symbol;Acc:HGNC:15840]	13726	-0.21514374017715454	-0.4981707	Yes	
+row_14	RUVBL1	RuvB like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	14189	-0.2487514615058899	-0.5001835	Yes	
+row_15	MAX	MYC associated factor X [Source:HGNC Symbol;Acc:HGNC:6913]	14322	-0.2589225471019745	-0.48544353	Yes	
+row_16	RNF2	ring finger protein 2 [Source:HGNC Symbol;Acc:HGNC:10061]	14333	-0.25994324684143066	-0.46473345	Yes	
+row_17	RUVBL2	RuvB like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	14719	-0.28999802470207214	-0.45966804	Yes	
+row_18	DPY30	dpy-30 histone methyltransferase complex regulatory subunit [Source:HGNC Symbol;Acc:HGNC:24590]	15496	-0.36249014735221863	-0.4675595	Yes	
+row_19	PELP1	proline, glutamate and leucine rich protein 1 [Source:HGNC Symbol;Acc:HGNC:30134]	15559	-0.3683042824268341	-0.44052413	Yes	
+row_20	C17orf49	chromosome 17 open reading frame 49 [Source:HGNC Symbol;Acc:HGNC:28737]	15919	-0.39981475472450256	-0.42525098	Yes	
+row_21	KAT8	lysine acetyltransferase 8 [Source:HGNC Symbol;Acc:HGNC:17933]	16466	-0.456674724817276	-0.41436553	Yes	
+row_22	TAF9	TATA-box binding protein associated factor 9 [Source:HGNC Symbol;Acc:HGNC:11542]	16875	-0.4978778064250946	-0.39346194	Yes	
+row_23	ASH2L	ASH2 like, histone lysine methyltransferase complex subunit [Source:HGNC Symbol;Acc:HGNC:744]	17016	-0.5145809054374695	-0.35826468	Yes	
+row_24	KMT2A	lysine methyltransferase 2A [Source:HGNC Symbol;Acc:HGNC:7132]	17118	-0.5264255404472351	-0.3202199	Yes	
+row_25	PHF20	PHD finger protein 20 [Source:HGNC Symbol;Acc:HGNC:16098]	17348	-0.5527885556221008	-0.28620222	Yes	
+row_26	MCRS1	microspherule protein 1 [Source:HGNC Symbol;Acc:HGNC:6960]	17579	-0.5833852291107178	-0.2497383	Yes	
+row_27	MGA	MAX dimerization protein MGA [Source:HGNC Symbol;Acc:HGNC:14010]	17588	-0.5846244692802429	-0.20246114	Yes	
+row_28	HCFC1	host cell factor C1 [Source:HGNC Symbol;Acc:HGNC:4839]	17661	-0.5949782729148865	-0.15742806	Yes	
+row_29	INO80C	INO80 complex subunit C [Source:HGNC Symbol;Acc:HGNC:26994]	18731	-0.7825779318809509	-0.14520885	Yes	
+row_30	KANSL1	KAT8 regulatory NSL complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:24565]	19601	-1.0544651746749878	-0.10117261	Yes	
+row_31	PRPF31	pre-mRNA processing factor 31 [Source:HGNC Symbol;Acc:HGNC:15446]	20516	-1.9233741760253906	0.011532551	Yes	

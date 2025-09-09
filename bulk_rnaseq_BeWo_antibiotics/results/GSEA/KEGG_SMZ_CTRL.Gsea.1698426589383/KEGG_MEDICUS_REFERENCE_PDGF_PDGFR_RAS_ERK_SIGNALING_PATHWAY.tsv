@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PDGFRA	platelet derived growth factor receptor alpha [Source:HGNC Symbol;Acc:HGNC:8803]	5427	0.27256327867507935	-0.28307763	No	
+row_1	PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	5537	0.2606273591518402	-0.24572857	No	
+row_2	SOS2	SOS Ras/Rho guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:11188]	5646	0.25021693110466003	-0.21007471	No	
+row_3	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	6338	0.18477848172187805	-0.22080617	No	
+row_4	KRAS	KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	7267	0.10338788479566574	-0.25963485	No	
+row_5	SOS1	SOS Ras/Rac guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:11187]	7495	0.082548588514328	-0.25947547	No	
+row_6	MAP2K2	mitogen-activated protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6842]	7594	0.07470175623893738	-0.25281802	No	
+row_7	NRAS	NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]	9001	-0.045294031500816345	-0.33042693	No	
+row_8	PDGFA	platelet derived growth factor subunit A [Source:HGNC Symbol;Acc:HGNC:8799]	9727	-0.1084352508187294	-0.3560961	No	
+row_9	RAF1	Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]	10646	-0.18439659476280212	-0.38065535	No	
+row_10	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	11304	-0.2436649650335312	-0.37939343	No	
+row_11	ARAF	A-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:646]	12925	-0.4253544509410858	-0.40587577	Yes	
+row_12	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	13128	-0.45169174671173096	-0.34194016	Yes	
+row_13	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	14326	-0.6418375372886658	-0.30626282	Yes	
+row_14	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	14515	-0.6898874044418335	-0.20130381	Yes	
+row_15	PDGFB	platelet derived growth factor subunit B [Source:HGNC Symbol;Acc:HGNC:8800]	15093	-0.8350261449813843	-0.09545117	Yes	
+row_16	BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	15614	-1.0746053457260132	0.054265376	Yes	

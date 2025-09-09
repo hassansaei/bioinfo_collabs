@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RRP36	ribosomal RNA processing 36 [Source:HGNC Symbol;Acc:HGNC:21374]	4449	0.44442155957221985	-0.19143645	No	
+row_1	KRI1	KRI1 homolog [Source:HGNC Symbol;Acc:HGNC:25769]	7600	0.14442528784275055	-0.34454823	No	
+row_2	NOP9	NOP9 nucleolar protein [Source:HGNC Symbol;Acc:HGNC:19826]	7739	0.1323118805885315	-0.33825305	No	
+row_3	IMP3	IMP U3 small nucleolar ribonucleoprotein 3 [Source:HGNC Symbol;Acc:HGNC:14497]	8146	0.1015550047159195	-0.3494272	No	
+row_4	UTP6	UTP6 small subunit processome component [Source:HGNC Symbol;Acc:HGNC:18279]	9354	0.007618874777108431	-0.41302103	No	
+row_5	WDR3	WD repeat domain 3 [Source:HGNC Symbol;Acc:HGNC:12755]	9537	-0.005127598997205496	-0.42219952	No	
+row_6	WDR36	WD repeat domain 36 [Source:HGNC Symbol;Acc:HGNC:30696]	9998	-0.03908860310912132	-0.44270113	No	
+row_7	NOL6	nucleolar protein 6 [Source:HGNC Symbol;Acc:HGNC:19910]	11863	-0.17942483723163605	-0.5236066	Yes	
+row_8	IMP4	IMP U3 small nucleolar ribonucleoprotein 4 [Source:HGNC Symbol;Acc:HGNC:30856]	12013	-0.19111093878746033	-0.5118295	Yes	
+row_9	NOC4L	nucleolar complex associated 4 homolog [Source:HGNC Symbol;Acc:HGNC:28461]	12155	-0.20205532014369965	-0.49849612	Yes	
+row_10	SRFBP1	serum response factor binding protein 1 [Source:HGNC Symbol;Acc:HGNC:26333]	12246	-0.21011757850646973	-0.48161033	Yes	
+row_11	WDR12	WD repeat domain 12 [Source:HGNC Symbol;Acc:HGNC:14098]	12457	-0.22502093017101288	-0.46958706	Yes	
+row_12	RRP7A	ribosomal RNA processing 7 homolog A [Source:HGNC Symbol;Acc:HGNC:24286]	12665	-0.24068008363246918	-0.4557876	Yes	
+row_13	TBL3	transducin beta like 3 [Source:HGNC Symbol;Acc:HGNC:11587]	12829	-0.2560539245605469	-0.43805447	Yes	
+row_14	NOC2L	NOC2 like nucleolar associated transcriptional repressor [Source:HGNC Symbol;Acc:HGNC:24517]	13901	-0.35721227526664734	-0.4583126	Yes	
+row_15	RRP7BP	ribosomal RNA processing 7 homolog B, pseudogene [Source:HGNC Symbol;Acc:HGNC:30454]	14175	-0.385731041431427	-0.43306276	Yes	
+row_16	BMS1	BMS1 ribosome biogenesis factor [Source:HGNC Symbol;Acc:HGNC:23505]	14421	-0.4094390273094177	-0.40387252	Yes	
+row_17	MPHOSPH10	M-phase phosphoprotein 10 [Source:HGNC Symbol;Acc:HGNC:7213]	14514	-0.4188036024570465	-0.3655549	Yes	
+row_18	UTP18	UTP18 small subunit processome component [Source:HGNC Symbol;Acc:HGNC:24274]	14692	-0.4365908205509186	-0.32993525	Yes	
+row_19	BOP1	BOP1 ribosomal biogenesis factor [Source:HGNC Symbol;Acc:HGNC:15519]	14907	-0.46473997831344604	-0.2933839	Yes	
+row_20	HEATR1	HEAT repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:25517]	15012	-0.47464945912361145	-0.24994245	Yes	
+row_21	PWP2	PWP2 small subunit processome component [Source:HGNC Symbol;Acc:HGNC:9711]	15037	-0.4771493971347809	-0.2019759	Yes	
+row_22	SLX9	SLX9 ribosome biogenesis factor [Source:HGNC Symbol;Acc:HGNC:15811]	15045	-0.4785352051258087	-0.15295953	Yes	
+row_23	RSL1D1	ribosomal L1 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:24534]	15589	-0.5474417209625244	-0.12542103	Yes	
+row_24	UTP20	UTP20 small subunit processome component [Source:HGNC Symbol;Acc:HGNC:17897]	16001	-0.6048247814178467	-0.08491925	Yes	
+row_25	NOP14	NOP14 nucleolar protein [Source:HGNC Symbol;Acc:HGNC:16821]	16228	-0.6439850926399231	-0.030508017	Yes	
+row_26	PES1	pescadillo ribosomal biogenesis factor 1 [Source:HGNC Symbol;Acc:HGNC:8848]	16817	-0.7614755034446716	0.016720707	Yes	
+row_27	UTP4	UTP4 small subunit processome component [Source:HGNC Symbol;Acc:HGNC:1983]	17182	-0.8493704199790955	0.08496903	Yes	

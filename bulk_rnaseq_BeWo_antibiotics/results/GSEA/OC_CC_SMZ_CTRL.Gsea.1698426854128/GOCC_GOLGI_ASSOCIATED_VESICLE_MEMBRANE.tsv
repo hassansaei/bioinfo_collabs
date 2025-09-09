@@ -1,0 +1,50 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AP1S3	adaptor related protein complex 1 subunit sigma 3 [Source:HGNC Symbol;Acc:HGNC:18971]	147	2.0472888946533203	0.08974006	Yes	
+row_1	CNGA4	cyclic nucleotide gated channel subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:2152]	291	1.7338324785232544	0.1646159	Yes	
+row_2	CSPG5	chondroitin sulfate proteoglycan 5 [Source:HGNC Symbol;Acc:HGNC:2467]	578	1.4111580848693848	0.21525307	Yes	
+row_3	CNGB1	cyclic nucleotide gated channel subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:2151]	781	1.2560700178146362	0.26351866	Yes	
+row_4	CLTB	clathrin light chain B [Source:HGNC Symbol;Acc:HGNC:2091]	2153	0.7551378011703491	0.21662518	Yes	
+row_5	SPPL2A	signal peptide peptidase like 2A [Source:HGNC Symbol;Acc:HGNC:30227]	2279	0.7231025099754333	0.2438818	Yes	
+row_6	CLTCL1	clathrin heavy chain like 1 [Source:HGNC Symbol;Acc:HGNC:2093]	2700	0.6456519961357117	0.24948452	Yes	
+row_7	CLBA1	clathrin binding box of aftiphilin containing 1 [Source:HGNC Symbol;Acc:HGNC:20126]	2853	0.6202183365821838	0.27014235	Yes	
+row_8	RHOQ	ras homolog family member Q [Source:HGNC Symbol;Acc:HGNC:17736]	3874	0.46062299609184265	0.23037769	Yes	
+row_9	ZDHHC13	zinc finger DHHC-type palmitoyltransferase 13 [Source:HGNC Symbol;Acc:HGNC:18413]	4068	0.43633517622947693	0.23968244	Yes	
+row_10	SPPL2B	signal peptide peptidase like 2B [Source:HGNC Symbol;Acc:HGNC:30627]	4232	0.4150508642196655	0.24978386	Yes	
+row_11	AP1G2	adaptor related protein complex 1 subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:556]	4318	0.40204381942749023	0.26399687	Yes	
+row_12	AP1S2	adaptor related protein complex 1 subunit sigma 2 [Source:HGNC Symbol;Acc:HGNC:560]	4370	0.39654725790023804	0.28001046	Yes	
+row_13	SPPL3	signal peptide peptidase like 3 [Source:HGNC Symbol;Acc:HGNC:30424]	5975	0.22005921602249146	0.19317389	No	
+row_14	TMEM199	transmembrane protein 199 [Source:HGNC Symbol;Acc:HGNC:18085]	6134	0.2033350169658661	0.19337529	No	
+row_15	AP4B1	adaptor related protein complex 4 subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:572]	6326	0.1859274059534073	0.19073299	No	
+row_16	GOPC	golgi associated PDZ and coiled-coil motif containing [Source:HGNC Symbol;Acc:HGNC:17643]	6374	0.1810315102338791	0.19660267	No	
+row_17	ITM2B	integral membrane protein 2B [Source:HGNC Symbol;Acc:HGNC:6174]	6839	0.14038284122943878	0.17518066	No	
+row_18	AFTPH	aftiphilin [Source:HGNC Symbol;Acc:HGNC:25951]	7200	0.10996855050325394	0.15861079	No	
+row_19	TMED7	transmembrane p24 trafficking protein 7 [Source:HGNC Symbol;Acc:HGNC:24253]	7240	0.10544923692941666	0.16132374	No	
+row_20	ZDHHC17	zinc finger DHHC-type palmitoyltransferase 17 [Source:HGNC Symbol;Acc:HGNC:18412]	7369	0.0942145362496376	0.1580885	No	
+row_21	TMED3	transmembrane p24 trafficking protein 3 [Source:HGNC Symbol;Acc:HGNC:28889]	7408	0.09039473533630371	0.16013664	No	
+row_22	DIPK2A	divergent protein kinase domain 2A [Source:HGNC Symbol;Acc:HGNC:28490]	7420	0.0892581045627594	0.16377024	No	
+row_23	GPR89A	G protein-coupled receptor 89A [Source:HGNC Symbol;Acc:HGNC:31984]	7693	0.06616812944412231	0.15043534	No	
+row_24	AP1M1	adaptor related protein complex 1 subunit mu 1 [Source:HGNC Symbol;Acc:HGNC:13667]	8522	-0.005585850682109594	0.10040385	No	
+row_25	CLTA	clathrin light chain A [Source:HGNC Symbol;Acc:HGNC:2090]	8652	-0.016950061544775963	0.093384065	No	
+row_26	AP2A1	adaptor related protein complex 2 subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:561]	8879	-0.0342978909611702	0.08130765	No	
+row_27	AP1M2	adaptor related protein complex 1 subunit mu 2 [Source:HGNC Symbol;Acc:HGNC:558]	8906	-0.0366828516125679	0.081496105	No	
+row_28	TMED2	transmembrane p24 trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	8918	-0.03801446035504341	0.08265999	No	
+row_29	AP1B1	adaptor related protein complex 1 subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:554]	9322	-0.07409434765577316	0.0617489	No	
+row_30	NCALD	neurocalcin delta [Source:HGNC Symbol;Acc:HGNC:7655]	9606	-0.09746834635734558	0.04925429	No	
+row_31	COPE	COPI coat complex subunit epsilon [Source:HGNC Symbol;Acc:HGNC:2234]	11041	-0.21814726293087006	-0.027346976	No	
+row_32	KDELR2	KDEL endoplasmic reticulum protein retention receptor 2 [Source:HGNC Symbol;Acc:HGNC:6305]	11263	-0.23922431468963623	-0.029243097	No	
+row_33	KDELR1	KDEL endoplasmic reticulum protein retention receptor 1 [Source:HGNC Symbol;Acc:HGNC:6304]	11377	-0.250959187746048	-0.024012685	No	
+row_34	AP1G1	adaptor related protein complex 1 subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:555]	11461	-0.25993824005126953	-0.016527034	No	
+row_35	SYNRG	synergin gamma [Source:HGNC Symbol;Acc:HGNC:557]	11640	-0.27645474672317505	-0.014016577	No	
+row_36	PI4KA	phosphatidylinositol 4-kinase alpha [Source:HGNC Symbol;Acc:HGNC:8983]	11717	-0.28378432989120483	-0.004956403	No	
+row_37	COPZ1	COPI coat complex subunit zeta 1 [Source:HGNC Symbol;Acc:HGNC:2243]	11726	-0.2843456268310547	0.0082618	No	
+row_38	PKD1	polycystin 1, transient receptor potential channel interacting [Source:HGNC Symbol;Acc:HGNC:9008]	11961	-0.31149327754974365	0.009058978	No	
+row_39	CLTC	clathrin heavy chain [Source:HGNC Symbol;Acc:HGNC:2092]	12068	-0.32401043176651	0.018235384	No	
+row_40	KDELR3	KDEL endoplasmic reticulum protein retention receptor 3 [Source:HGNC Symbol;Acc:HGNC:6306]	12533	-0.37900421023368835	0.008313869	No	
+row_41	COPB2	COPI coat complex subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:2232]	12627	-0.390242338180542	0.021472104	No	
+row_42	COPB1	COPI coat complex subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:2231]	12701	-0.39776718616485596	0.036207996	No	
+row_43	AP1S1	adaptor related protein complex 1 subunit sigma 1 [Source:HGNC Symbol;Acc:HGNC:559]	13146	-0.4537670910358429	0.031104716	No	
+row_44	SCYL1	SCY1 like pseudokinase 1 [Source:HGNC Symbol;Acc:HGNC:14372]	13319	-0.4777396321296692	0.04368071	No	
+row_45	COPG2	COPI coat complex subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:2237]	14267	-0.6337507963180542	0.01669477	No	
+row_46	COPA	COPI coat complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:2230]	14838	-0.7621959447860718	0.018801937	No	
+row_47	COPG1	COPI coat complex subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:2236]	15111	-0.8403404355049133	0.04277872	No	
+row_48	ARCN1	archain 1 [Source:HGNC Symbol;Acc:HGNC:649]	15196	-0.8732874989509583	0.07976434	No	

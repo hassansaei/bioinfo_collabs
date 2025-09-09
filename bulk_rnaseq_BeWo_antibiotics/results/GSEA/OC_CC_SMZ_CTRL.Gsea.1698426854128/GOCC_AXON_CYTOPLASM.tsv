@@ -1,0 +1,57 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HSPB1	heat shock protein family B (small) member 1 [Source:HGNC Symbol;Acc:HGNC:5246]	201	1.8897055387496948	0.069088936	Yes	
+row_1	AP3B2	adaptor related protein complex 3 subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:567]	991	1.1342726945877075	0.06993929	Yes	
+row_2	MAP1A	microtubule associated protein 1A [Source:HGNC Symbol;Acc:HGNC:6835]	1341	0.9869847893714905	0.09119378	Yes	
+row_3	RANGAP1	Ran GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:9854]	2191	0.7455644607543945	0.071673386	Yes	
+row_4	BLOC1S2	biogenesis of lysosomal organelles complex 1 subunit 2 [Source:HGNC Symbol;Acc:HGNC:20984]	2206	0.7410429120063782	0.10270599	Yes	
+row_5	KIF3A	kinesin family member 3A [Source:HGNC Symbol;Acc:HGNC:6319]	2216	0.7377808094024658	0.13390212	Yes	
+row_6	TRAK2	trafficking kinesin protein 2 [Source:HGNC Symbol;Acc:HGNC:13206]	2404	0.6992451548576355	0.15262221	Yes	
+row_7	HAP1	huntingtin associated protein 1 [Source:HGNC Symbol;Acc:HGNC:4812]	2436	0.6917872428894043	0.1805024	Yes	
+row_8	AGTPBP1	ATP/GTP binding carboxypeptidase 1 [Source:HGNC Symbol;Acc:HGNC:17258]	2595	0.6641470789909363	0.19947489	Yes	
+row_9	AP3M2	adaptor related protein complex 3 subunit mu 2 [Source:HGNC Symbol;Acc:HGNC:570]	2793	0.6294030547142029	0.21458225	Yes	
+row_10	ACTR10	actin related protein 10 [Source:HGNC Symbol;Acc:HGNC:17372]	2815	0.6254835724830627	0.24021748	Yes	
+row_11	KIF5A	kinesin family member 5A [Source:HGNC Symbol;Acc:HGNC:6323]	3088	0.5792810916900635	0.24861018	Yes	
+row_12	KIF1B	kinesin family member 1B [Source:HGNC Symbol;Acc:HGNC:16636]	3477	0.5199314951896667	0.2473994	Yes	
+row_13	DLG2	discs large MAGUK scaffold protein 2 [Source:HGNC Symbol;Acc:HGNC:2901]	3548	0.5069848299026489	0.2649582	Yes	
+row_14	SOD1	superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	3630	0.49451813101768494	0.28131208	Yes	
+row_15	AP3S1	adaptor related protein complex 3 subunit sigma 1 [Source:HGNC Symbol;Acc:HGNC:2013]	3768	0.4750249981880188	0.29342386	Yes	
+row_16	ARL8A	ADP ribosylation factor like GTPase 8A [Source:HGNC Symbol;Acc:HGNC:25192]	3772	0.4749007523059845	0.31367418	Yes	
+row_17	DTNBP1	dystrobrevin binding protein 1 [Source:HGNC Symbol;Acc:HGNC:17328]	3788	0.4717962443828583	0.33306164	Yes	
+row_18	KIF1C	kinesin family member 1C [Source:HGNC Symbol;Acc:HGNC:6317]	3829	0.4659907817840576	0.35067993	Yes	
+row_19	SPAST	spastin [Source:HGNC Symbol;Acc:HGNC:11233]	4901	0.3270544111728668	0.29966095	No	
+row_20	TRIM46	tripartite motif containing 46 [Source:HGNC Symbol;Acc:HGNC:19019]	5402	0.2750437259674072	0.28110698	No	
+row_21	KIF3B	kinesin family member 3B [Source:HGNC Symbol;Acc:HGNC:6320]	5483	0.2674582898616791	0.28775236	No	
+row_22	KIF4A	kinesin family member 4A [Source:HGNC Symbol;Acc:HGNC:13339]	5538	0.2605344355106354	0.29568002	No	
+row_23	AP3B1	adaptor related protein complex 3 subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:566]	6115	0.20556335151195526	0.26951772	No	
+row_24	BLOC1S1	biogenesis of lysosomal organelles complex 1 subunit 1 [Source:HGNC Symbol;Acc:HGNC:4200]	6190	0.19857031106948853	0.27356383	No	
+row_25	AP3M1	adaptor related protein complex 3 subunit mu 1 [Source:HGNC Symbol;Acc:HGNC:569]	6682	0.15440107882022858	0.2503662	No	
+row_26	MGARP	mitochondria localized glutamic acid rich protein [Source:HGNC Symbol;Acc:HGNC:29969]	6699	0.1531333476305008	0.25598237	No	
+row_27	HSBP1	heat shock factor binding protein 1 [Source:HGNC Symbol;Acc:HGNC:5203]	7058	0.12200699746608734	0.23947412	No	
+row_28	KIF5B	kinesin family member 5B [Source:HGNC Symbol;Acc:HGNC:6324]	7756	0.05979631468653679	0.19968633	No	
+row_29	ZC3H14	zinc finger CCCH-type containing 14 [Source:HGNC Symbol;Acc:HGNC:20509]	7786	0.05731553956866264	0.20038986	No	
+row_30	RAB21	RAB21, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:18263]	8110	0.02777080237865448	0.1819542	No	
+row_31	TERF2	telomeric repeat binding factor 2 [Source:HGNC Symbol;Acc:HGNC:11729]	8441	0.0014638915890827775	0.16196129	No	
+row_32	SNAPIN	SNAP associated protein [Source:HGNC Symbol;Acc:HGNC:17145]	8529	-0.0061234659515321255	0.15693727	No	
+row_33	SPG7	SPG7 matrix AAA peptidase subunit, paraplegin [Source:HGNC Symbol;Acc:HGNC:11237]	8603	-0.013289042748510838	0.15307243	No	
+row_34	DST	dystonin [Source:HGNC Symbol;Acc:HGNC:1090]	8648	-0.01644599251449108	0.1511059	No	
+row_35	BLOC1S5	biogenesis of lysosomal organelles complex 1 subunit 5 [Source:HGNC Symbol;Acc:HGNC:18561]	8717	-0.021444423124194145	0.14789581	No	
+row_36	BLOC1S6	biogenesis of lysosomal organelles complex 1 subunit 6 [Source:HGNC Symbol;Acc:HGNC:8549]	8926	-0.03861521929502487	0.13691594	No	
+row_37	OPA1	OPA1 mitochondrial dynamin like GTPase [Source:HGNC Symbol;Acc:HGNC:8140]	9057	-0.05001744255423546	0.13116713	No	
+row_38	PAFAH1B1	platelet activating factor acetylhydrolase 1b regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8574]	9446	-0.08466984331607819	0.11122917	No	
+row_39	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3 [Source:HGNC Symbol;Acc:HGNC:6884]	9946	-0.12468724697828293	0.086266875	No	
+row_40	SYBU	syntabulin [Source:HGNC Symbol;Acc:HGNC:26011]	10078	-0.13554202020168304	0.084137	No	
+row_41	BLOC1S4	biogenesis of lysosomal organelles complex 1 subunit 4 [Source:HGNC Symbol;Acc:HGNC:24206]	10350	-0.15837261080741882	0.07448084	No	
+row_42	AP3S2	adaptor related protein complex 3 subunit sigma 2 [Source:HGNC Symbol;Acc:HGNC:571]	10454	-0.16726569831371307	0.07541759	No	
+row_43	ARMCX3	armadillo repeat containing X-linked 3 [Source:HGNC Symbol;Acc:HGNC:24065]	11487	-0.2629498839378357	0.02401073	No	
+row_44	BLOC1S3	biogenesis of lysosomal organelles complex 1 subunit 3 [Source:HGNC Symbol;Acc:HGNC:20914]	11606	-0.27353179454803467	0.02860796	No	
+row_45	AP3D1	adaptor related protein complex 3 subunit delta 1 [Source:HGNC Symbol;Acc:HGNC:568]	12466	-0.37201276421546936	-0.0075922958	No	
+row_46	MAPT	microtubule associated protein tau [Source:HGNC Symbol;Acc:HGNC:6893]	12635	-0.39107775688171387	-9.764111E-4	No	
+row_47	DYNC1H1	dynein cytoplasmic 1 heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2961]	12789	-0.40893009305000305	0.0073192045	No	
+row_48	ARL8B	ADP ribosylation factor like GTPase 8B [Source:HGNC Symbol;Acc:HGNC:25564]	12921	-0.42420434951782227	0.017609058	No	
+row_49	NDEL1	nudE neurodevelopment protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:17620]	13037	-0.44022291898727417	0.029560521	No	
+row_50	HDAC6	histone deacetylase 6 [Source:HGNC Symbol;Acc:HGNC:14064]	13072	-0.44542044401168823	0.046658423	No	
+row_51	FBXW11	F-box and WD repeat domain containing 11 [Source:HGNC Symbol;Acc:HGNC:13607]	13453	-0.4993903934955597	0.045050066	No	
+row_52	RAB27B	RAB27B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9767]	13932	-0.5746084451675415	0.04072198	No	
+row_53	CALY	calcyon neuron specific vesicular protein [Source:HGNC Symbol;Acc:HGNC:17938]	14531	-0.6930994391441345	0.03419892	No	
+row_54	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	15134	-0.8511897325515747	0.034234617	No	
+row_55	TRAK1	trafficking kinesin protein 1 [Source:HGNC Symbol;Acc:HGNC:29947]	15727	-1.1451679468154907	0.047526512	No	

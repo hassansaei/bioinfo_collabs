@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLB	DNA polymerase beta [Source:HGNC Symbol;Acc:HGNC:9174]	2146	0.3804400861263275	-0.03989503	Yes	
+row_1	HMGB1P1	high mobility group box 1 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:4993]	2645	0.3271155059337616	-0.0023203974	Yes	
+row_2	HMGB1	high mobility group box 1 [Source:HGNC Symbol;Acc:HGNC:4983]	2661	0.32523730397224426	0.060655557	Yes	
+row_3	POLE2	DNA polymerase epsilon 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9178]	3292	0.2723039984703064	0.08043949	Yes	
+row_4	NEIL3	nei like DNA glycosylase 3 [Source:HGNC Symbol;Acc:HGNC:24573]	3713	0.24311812222003937	0.105704516	Yes	
+row_5	MBD4	methyl-CpG binding domain 4, DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:6919]	3989	0.2277565598487854	0.13569349	Yes	
+row_6	PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	4214	0.21450479328632355	0.16580492	Yes	
+row_7	POLD4	DNA polymerase delta 4, accessory subunit [Source:HGNC Symbol;Acc:HGNC:14106]	5055	0.16656287014484406	0.15364975	Yes	
+row_8	PARP1	poly(ADP-ribose) polymerase 1 [Source:HGNC Symbol;Acc:HGNC:270]	5259	0.15485814213752747	0.1731854	Yes	
+row_9	OGG1	8-oxoguanine DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:8125]	5543	0.1416483223438263	0.18586244	Yes	
+row_10	MPG	N-methylpurine DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:7211]	5898	0.12647980451583862	0.191777	Yes	
+row_11	PARP2	poly(ADP-ribose) polymerase 2 [Source:HGNC Symbol;Acc:HGNC:272]	6465	0.10222632437944412	0.18162477	Yes	
+row_12	POLD3	DNA polymerase delta 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:20932]	6555	0.09825630486011505	0.19614355	Yes	
+row_13	FEN1	flap structure-specific endonuclease 1 [Source:HGNC Symbol;Acc:HGNC:3650]	7440	0.06544780731201172	0.16181304	No	
+row_14	NTHL1	nth like DNA glycosylase 1 [Source:HGNC Symbol;Acc:HGNC:8028]	7787	0.05269743874669075	0.15368633	No	
+row_15	POLD1	DNA polymerase delta 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9175]	8526	0.025634150952100754	0.11933827	No	
+row_16	POLE	DNA polymerase epsilon, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9177]	8748	0.017403583973646164	0.11095989	No	
+row_17	PARP4	poly(ADP-ribose) polymerase family member 4 [Source:HGNC Symbol;Acc:HGNC:271]	9326	-0.0030240078922361135	0.08076805	No	
+row_18	UNG	uracil DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:12572]	9370	-0.004250428173691034	0.079307325	No	
+row_19	APEX2	apurinic/apyrimidinic endodeoxyribonuclease 2 [Source:HGNC Symbol;Acc:HGNC:17889]	10370	-0.0379980131983757	0.033458516	No	
+row_20	POLE3	DNA polymerase epsilon 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:13546]	11321	-0.07111715525388718	-0.0032816064	No	
+row_21	SMUG1	single-strand-selective monofunctional uracil-DNA glycosylase 1 [Source:HGNC Symbol;Acc:HGNC:17148]	11330	-0.07145392149686813	0.010303071	No	
+row_22	POLL	DNA polymerase lambda [Source:HGNC Symbol;Acc:HGNC:9184]	12242	-0.10342102497816086	-0.018021762	No	
+row_23	TDG	thymine DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:11700]	12394	-0.1085122749209404	-0.0047997735	No	
+row_24	PARP3	poly(ADP-ribose) polymerase family member 3 [Source:HGNC Symbol;Acc:HGNC:273]	12466	-0.11080852895975113	0.013140751	No	
+row_25	APEX1	apurinic/apyrimidinic endodeoxyribonuclease 1 [Source:HGNC Symbol;Acc:HGNC:587]	12675	-0.11940082907676697	0.025456756	No	
+row_26	LIG1	DNA ligase 1 [Source:HGNC Symbol;Acc:HGNC:6598]	12844	-0.12630897760391235	0.04126152	No	
+row_27	POLD2	DNA polymerase delta 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9176]	13602	-0.15932108461856842	0.03211461	No	
+row_28	MUTYH	mutY DNA glycosylase [Source:HGNC Symbol;Acc:HGNC:7527]	14086	-0.18151317536830902	0.041938175	No	
+row_29	LIG3	DNA ligase 3 [Source:HGNC Symbol;Acc:HGNC:6600]	14488	-0.2048271745443344	0.060708378	No	
+row_30	XRCC1	X-ray repair cross complementing 1 [Source:HGNC Symbol;Acc:HGNC:12828]	14596	-0.2106299251317978	0.09630231	No	
+row_31	NEIL1	nei like DNA glycosylase 1 [Source:HGNC Symbol;Acc:HGNC:18448]	15954	-0.30659013986587524	0.08402166	No	
+row_32	NEIL2	nei like DNA glycosylase 2 [Source:HGNC Symbol;Acc:HGNC:18956]	16270	-0.33879315853118896	0.13364983	No	

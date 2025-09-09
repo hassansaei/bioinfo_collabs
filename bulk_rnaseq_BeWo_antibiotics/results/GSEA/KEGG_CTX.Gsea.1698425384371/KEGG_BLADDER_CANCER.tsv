@@ -1,0 +1,39 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FGFR3	fibroblast growth factor receptor 3 [Source:HGNC Symbol;Acc:HGNC:3690]	2852	0.3084624707698822	-0.11050208	No	
+row_1	RPS6KA5	ribosomal protein S6 kinase A5 [Source:HGNC Symbol;Acc:HGNC:10434]	4162	0.2178141176700592	-0.15091315	No	
+row_2	CDKN1A	cyclin dependent kinase inhibitor 1A [Source:HGNC Symbol;Acc:HGNC:1784]	4547	0.19326800107955933	-0.14527777	No	
+row_3	MDM2	MDM2 proto-oncogene [Source:HGNC Symbol;Acc:HGNC:6973]	4845	0.1784723401069641	-0.13699967	No	
+row_4	EGF	epidermal growth factor [Source:HGNC Symbol;Acc:HGNC:3229]	5643	0.13791361451148987	-0.1608886	No	
+row_5	CDKN2A	cyclin dependent kinase inhibitor 2A [Source:HGNC Symbol;Acc:HGNC:1787]	5886	0.12670248746871948	-0.15667422	No	
+row_6	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	5900	0.12643100321292877	-0.14027539	No	
+row_7	E2F1	E2F transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:3113]	6157	0.11553109437227249	-0.13831846	No	
+row_8	RB1	RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	7625	0.058960285037755966	-0.20863754	No	
+row_9	NRAS	NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]	8487	0.027204278856515884	-0.25090912	No	
+row_10	E2F2	E2F transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:3114]	8674	0.02009492740035057	-0.25811878	No	
+row_11	DAPK1	death associated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:2674]	9088	0.005710397846996784	-0.27938753	No	
+row_12	RAF1	Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]	9809	-0.01943943463265896	-0.31518406	No	
+row_13	ARAF	A-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:646]	9812	-0.019480237737298012	-0.3126572	No	
+row_14	MAP2K2	mitogen-activated protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6842]	9837	-0.02076934464275837	-0.31113014	No	
+row_15	E2F3	E2F transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:3115]	9956	-0.02484956756234169	-0.31406802	No	
+row_16	KRAS	KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	10164	-0.030962470918893814	-0.32092917	No	
+row_17	ERBB2	erb-b2 receptor tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:3430]	10479	-0.04212894290685654	-0.33199102	No	
+row_18	MMP9	matrix metallopeptidase 9 [Source:HGNC Symbol;Acc:HGNC:7176]	11382	-0.07324257493019104	-0.37022662	No	
+row_19	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	11423	-0.0743878185749054	-0.3623046	No	
+row_20	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	12279	-0.10452912002801895	-0.39380217	No	
+row_21	MMP2	matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	13376	-0.14895039796829224	-0.43215588	No	
+row_22	VEGFB	vascular endothelial growth factor B [Source:HGNC Symbol;Acc:HGNC:12681]	13866	-0.1714664250612259	-0.4350715	Yes	
+row_23	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	14073	-0.180475115776062	-0.4216662	Yes	
+row_24	BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	14743	-0.21902965009212494	-0.42775774	Yes	
+row_25	CDK4	cyclin dependent kinase 4 [Source:HGNC Symbol;Acc:HGNC:1773]	14796	-0.22169740498065948	-0.4005609	Yes	
+row_26	PGF	placental growth factor [Source:HGNC Symbol;Acc:HGNC:8893]	15074	-0.23825691640377045	-0.383133	Yes	
+row_27	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	15359	-0.25745320320129395	-0.36348346	Yes	
+row_28	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	15430	-0.263199120759964	-0.33163646	Yes	
+row_29	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	15778	-0.2913217842578888	-0.31077027	Yes	
+row_30	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	16289	-0.34074023365974426	-0.29192197	Yes	
+row_31	VEGFC	vascular endothelial growth factor C [Source:HGNC Symbol;Acc:HGNC:12682]	16360	-0.34592339396476746	-0.24889123	Yes	
+row_32	RASSF1	Ras association domain family member 1 [Source:HGNC Symbol;Acc:HGNC:9882]	16453	-0.3593675494194031	-0.20521702	Yes	
+row_33	DAPK3	death associated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:2676]	16637	-0.3837910592556	-0.16309735	Yes	
+row_34	TYMP	thymidine phosphorylase [Source:HGNC Symbol;Acc:HGNC:3148]	16821	-0.41065749526023865	-0.11734553	Yes	
+row_35	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	17171	-0.4686121940612793	-0.07261764	Yes	
+row_36	MYC	MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]	17561	-0.5497249364852905	-0.01905856	Yes	
+row_37	DAPK2	death associated protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:2675]	17793	-0.6198038458824158	0.052406773	Yes	

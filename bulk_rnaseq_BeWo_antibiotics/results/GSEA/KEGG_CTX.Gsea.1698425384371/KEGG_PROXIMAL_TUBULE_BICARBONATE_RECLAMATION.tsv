@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC4A4	solute carrier family 4 member 4 [Source:HGNC Symbol;Acc:HGNC:11030]	3537	0.25458452105522156	-0.13587208	No	
+row_1	GLUD2	glutamate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:4336]	5729	0.13421721756458282	-0.22489776	No	
+row_2	SLC25A10	solute carrier family 25 member 10 [Source:HGNC Symbol;Acc:HGNC:10980]	6610	0.09629925340414047	-0.2518828	No	
+row_3	ATP1B1	ATPase Na+/K+ transporting subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:804]	7122	0.0771368220448494	-0.26316226	No	
+row_4	MDH1	malate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6970]	7894	0.048376090824604034	-0.29425278	No	
+row_5	SLC38A3	solute carrier family 38 member 3 [Source:HGNC Symbol;Acc:HGNC:18044]	9149	0.0035013332962989807	-0.36037624	No	
+row_6	SLC9A3	solute carrier family 9 member A3 [Source:HGNC Symbol;Acc:HGNC:11073]	11166	-0.06506893783807755	-0.4543809	No	
+row_7	GLUD1	glutamate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4335]	12094	-0.09750767052173615	-0.48362133	No	
+row_8	PCK2	phosphoenolpyruvate carboxykinase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:8725]	13446	-0.15190303325653076	-0.5242091	Yes	
+row_9	ATP1B3	ATPase Na+/K+ transporting subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:806]	14142	-0.18480898439884186	-0.5230181	Yes	
+row_10	GLS	glutaminase [Source:HGNC Symbol;Acc:HGNC:4331]	14546	-0.20771324634552002	-0.5015221	Yes	
+row_11	ATP1A4	ATPase Na+/K+ transporting subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:14073]	16244	-0.33594343066215515	-0.5224735	Yes	
+row_12	ATP1A1	ATPase Na+/K+ transporting subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:799]	16610	-0.37933439016342163	-0.46344078	Yes	
+row_13	GLS2	glutaminase 2 [Source:HGNC Symbol;Acc:HGNC:29570]	17503	-0.5352603197097778	-0.40023777	Yes	
+row_14	CA2	carbonic anhydrase 2 [Source:HGNC Symbol;Acc:HGNC:1373]	17756	-0.6056177020072937	-0.28835976	Yes	
+row_15	AQP1	aquaporin 1 (Colton blood group) [Source:HGNC Symbol;Acc:HGNC:633]	18228	-0.8272676467895508	-0.14229342	Yes	
+row_16	ATP1A2	ATPase Na+/K+ transporting subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:800]	18230	-0.8283563256263733	0.029052839	Yes	

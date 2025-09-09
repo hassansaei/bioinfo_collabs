@@ -1,0 +1,37 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PCGF5	polycomb group ring finger 5 [Source:HGNC Symbol;Acc:HGNC:28264]	268	1.8151713609695435	0.08318766	Yes	
+row_1	SCML2	Scm polycomb group protein like 2 [Source:HGNC Symbol;Acc:HGNC:10581]	560	1.4705790281295776	0.14664075	Yes	
+row_2	CBX6	chromobox 6 [Source:HGNC Symbol;Acc:HGNC:1556]	1192	1.0866172313690186	0.17132913	Yes	
+row_3	CBX2	chromobox 2 [Source:HGNC Symbol;Acc:HGNC:1552]	1315	1.0395896434783936	0.22065292	Yes	
+row_4	EPOP	elongin BC and polycomb repressive complex 2 associated protein [Source:HGNC Symbol;Acc:HGNC:34493]	1449	0.9894006848335266	0.26669422	Yes	
+row_5	CBX7	chromobox 7 [Source:HGNC Symbol;Acc:HGNC:1557]	1778	0.8923412561416626	0.2971171	Yes	
+row_6	CBX4	chromobox 4 [Source:HGNC Symbol;Acc:HGNC:1554]	4680	0.4201168417930603	0.16487804	No	
+row_7	EZH2	enhancer of zeste 2 polycomb repressive complex 2 subunit [Source:HGNC Symbol;Acc:HGNC:3527]	5711	0.30517295002937317	0.12630552	No	
+row_8	SKP1	S-phase kinase associated protein 1 [Source:HGNC Symbol;Acc:HGNC:10899]	5716	0.30508652329444885	0.14247756	No	
+row_9	EZH1	enhancer of zeste 1 polycomb repressive complex 2 subunit [Source:HGNC Symbol;Acc:HGNC:3526]	6356	0.24734248220920563	0.121663556	No	
+row_10	SUZ12	SUZ12 polycomb repressive complex 2 subunit [Source:HGNC Symbol;Acc:HGNC:17101]	6580	0.22733893990516663	0.121973716	No	
+row_11	YY2	YY2 transcription factor [Source:HGNC Symbol;Acc:HGNC:31684]	6759	0.21421939134597778	0.123980545	No	
+row_12	PCGF2	polycomb group ring finger 2 [Source:HGNC Symbol;Acc:HGNC:12929]	7013	0.19292187690734863	0.12084139	No	
+row_13	BMI1	BMI1 proto-oncogene, polycomb ring finger [Source:HGNC Symbol;Acc:HGNC:1066]	7370	0.16142819821834564	0.11051453	No	
+row_14	PCGF6	polycomb group ring finger 6 [Source:HGNC Symbol;Acc:HGNC:21156]	7514	0.15073049068450928	0.11097917	No	
+row_15	RBBP7	RB binding protein 7, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9890]	8889	0.04423534497618675	0.040035848	No	
+row_16	PCGF3	polycomb group ring finger 3 [Source:HGNC Symbol;Acc:HGNC:10066]	9283	0.012066749855875969	0.019712739	No	
+row_17	CBX8	chromobox 8 [Source:HGNC Symbol;Acc:HGNC:15962]	9437	4.990137531422079E-4	0.011575185	No	
+row_18	BAP1	BRCA1 associated protein 1 [Source:HGNC Symbol;Acc:HGNC:950]	10321	-0.06278663128614426	-0.032171156	No	
+row_19	HDAC2	histone deacetylase 2 [Source:HGNC Symbol;Acc:HGNC:4853]	11463	-0.1479276716709137	-0.08511211	No	
+row_20	RBBP4	RB binding protein 4, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9887]	12080	-0.19675567746162415	-0.10741569	No	
+row_21	RNF2	ring finger protein 2 [Source:HGNC Symbol;Acc:HGNC:10061]	12863	-0.25994324684143066	-0.13518366	No	
+row_22	YY1	YY1 transcription factor [Source:HGNC Symbol;Acc:HGNC:12856]	13437	-0.3088878393173218	-0.14917032	No	
+row_23	AEBP2	AE binding protein 2 [Source:HGNC Symbol;Acc:HGNC:24051]	13744	-0.33997106552124023	-0.14723998	No	
+row_24	UBAP2L	ubiquitin associated protein 2 like [Source:HGNC Symbol;Acc:HGNC:29877]	13837	-0.35065239667892456	-0.13331655	No	
+row_25	PCGF1	polycomb group ring finger 1 [Source:HGNC Symbol;Acc:HGNC:17615]	13865	-0.3531019687652588	-0.115793034	No	
+row_26	ASXL2	ASXL transcriptional regulator 2 [Source:HGNC Symbol;Acc:HGNC:23805]	14110	-0.37846875190734863	-0.10848664	No	
+row_27	PHC3	polyhomeotic homolog 3 [Source:HGNC Symbol;Acc:HGNC:15682]	14261	-0.39457330107688904	-0.095299296	No	
+row_28	KDM2B	lysine demethylase 2B [Source:HGNC Symbol;Acc:HGNC:13610]	15547	-0.5404230952262878	-0.13484433	No	
+row_29	ASXL1	ASXL transcriptional regulator 1 [Source:HGNC Symbol;Acc:HGNC:18318]	15751	-0.5703611373901367	-0.11504401	No	
+row_30	ZFP42	ZFP42 zinc finger protein [Source:HGNC Symbol;Acc:HGNC:30949]	15862	-0.5866239070892334	-0.089407615	No	
+row_31	PHC2	polyhomeotic homolog 2 [Source:HGNC Symbol;Acc:HGNC:3183]	16073	-0.6170082092285156	-0.06747552	No	
+row_32	EED	embryonic ectoderm development [Source:HGNC Symbol;Acc:HGNC:3188]	16143	-0.627526044845581	-0.037454523	No	
+row_33	JARID2	jumonji and AT-rich interaction domain containing 2 [Source:HGNC Symbol;Acc:HGNC:6196]	17288	-0.8811413645744324	-0.05117637	No	
+row_34	RYBP	RING1 and YY1 binding protein [Source:HGNC Symbol;Acc:HGNC:10480]	17679	-1.041841983795166	-0.01603257	No	
+row_35	PHC1	polyhomeotic homolog 1 [Source:HGNC Symbol;Acc:HGNC:3182]	18225	-1.3864628076553345	0.029348934	No	

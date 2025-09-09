@@ -1,0 +1,91 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BCL7A	BAF chromatin remodeling complex subunit BCL7A [Source:HGNC Symbol;Acc:HGNC:1004]	741	1.4010883569717407	0.0029685441	No	
+row_1	BCL11A	BCL11 transcription factor A [Source:HGNC Symbol;Acc:HGNC:13221]	1553	1.0324910879135132	-0.007664048	No	
+row_2	BCL7C	BAF chromatin remodeling complex subunit BCL7C [Source:HGNC Symbol;Acc:HGNC:1006]	3015	0.7039808034896851	-0.05885238	No	
+row_3	DPF1	double PHD fingers 1 [Source:HGNC Symbol;Acc:HGNC:20225]	3637	0.6180543303489685	-0.07177528	No	
+row_4	SS18	SS18 subunit of BAF chromatin remodeling complex [Source:HGNC Symbol;Acc:HGNC:11340]	4862	0.4694354236125946	-0.117994815	No	
+row_5	BAZ1A	bromodomain adjacent to zinc finger domain 1A [Source:HGNC Symbol;Acc:HGNC:960]	5455	0.4127753973007202	-0.13520278	No	
+row_6	ACTR5	actin related protein 5 [Source:HGNC Symbol;Acc:HGNC:14671]	5906	0.36538776755332947	-0.14685269	No	
+row_7	MBD3	methyl-CpG binding domain protein 3 [Source:HGNC Symbol;Acc:HGNC:6918]	5978	0.35754522681236267	-0.1403806	No	
+row_8	SS18L1	SS18L1 subunit of BAF chromatin remodeling complex [Source:HGNC Symbol;Acc:HGNC:15592]	6700	0.2884002923965454	-0.16727717	No	
+row_9	CHD5	chromodomain helicase DNA binding protein 5 [Source:HGNC Symbol;Acc:HGNC:16816]	7151	0.25226786732673645	-0.18206166	No	
+row_10	SUZ12	SUZ12 polycomb repressive complex 2 subunit [Source:HGNC Symbol;Acc:HGNC:17101]	7450	0.22733893990516663	-0.19018185	No	
+row_11	BCL7B	BAF chromatin remodeling complex subunit BCL7B [Source:HGNC Symbol;Acc:HGNC:1005]	7775	0.20402364432811737	-0.20020622	No	
+row_12	RB1	RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	7784	0.20348957180976868	-0.19495459	No	
+row_13	ZNHIT1	zinc finger HIT-type containing 1 [Source:HGNC Symbol;Acc:HGNC:21688]	8246	0.16937974095344543	-0.2125682	No	
+row_14	SMARCC2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 2 [Source:HGNC Symbol;Acc:HGNC:11105]	8671	0.1386084407567978	-0.22924411	No	
+row_15	TFPT	TCF3 fusion partner [Source:HGNC Symbol;Acc:HGNC:13630]	8834	0.12600640952587128	-0.23359141	No	
+row_16	CHD4	chromodomain helicase DNA binding protein 4 [Source:HGNC Symbol;Acc:HGNC:1919]	9055	0.11210515350103378	-0.24113044	No	
+row_17	ACTR6	actin related protein 6 [Source:HGNC Symbol;Acc:HGNC:24025]	9062	0.11168325692415237	-0.238326	No	
+row_18	INO80E	INO80 complex subunit E [Source:HGNC Symbol;Acc:HGNC:26905]	9136	0.10565129667520523	-0.23893075	No	
+row_19	SMARCD3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3 [Source:HGNC Symbol;Acc:HGNC:11108]	9755	0.06262356787919998	-0.26709962	No	
+row_20	BRD7	bromodomain containing 7 [Source:HGNC Symbol;Acc:HGNC:14310]	9796	0.06038892641663551	-0.26736176	No	
+row_21	SMARCA5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5 [Source:HGNC Symbol;Acc:HGNC:11101]	9920	0.05031070113182068	-0.27191946	No	
+row_22	RBBP7	RB binding protein 7, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9890]	10007	0.04423534497618675	-0.2748551	No	
+row_23	UCHL5	ubiquitin C-terminal hydrolase L5 [Source:HGNC Symbol;Acc:HGNC:19678]	10341	0.019658342003822327	-0.29042378	No	
+row_24	BRD8	bromodomain containing 8 [Source:HGNC Symbol;Acc:HGNC:19874]	10362	0.017806299030780792	-0.29089814	No	
+row_25	ACTL6A	actin like 6A [Source:HGNC Symbol;Acc:HGNC:24124]	10636	-6.14686228800565E-4	-0.30409122	No	
+row_26	HMGXB4	HMG-box containing 4 [Source:HGNC Symbol;Acc:HGNC:5003]	10921	-0.018903637304902077	-0.31730977	No	
+row_27	CFDP1	craniofacial development protein 1 [Source:HGNC Symbol;Acc:HGNC:1873]	11028	-0.027307594195008278	-0.32168227	No	
+row_28	DEK	DEK proto-oncogene [Source:HGNC Symbol;Acc:HGNC:2768]	11073	-0.029836183413863182	-0.3229846	No	
+row_29	ARID2	AT-rich interaction domain 2 [Source:HGNC Symbol;Acc:HGNC:18037]	11322	-0.04565659910440445	-0.33371982	No	
+row_30	POLE3	DNA polymerase epsilon 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:13546]	11382	-0.049520768225193024	-0.33520252	No	
+row_31	HDAC1	histone deacetylase 1 [Source:HGNC Symbol;Acc:HGNC:4852]	11730	-0.07494354248046875	-0.3499167	No	
+row_32	PHF10	PHD finger protein 10 [Source:HGNC Symbol;Acc:HGNC:18250]	12037	-0.09647409617900848	-0.3620503	No	
+row_33	MBD2	methyl-CpG binding domain protein 2 [Source:HGNC Symbol;Acc:HGNC:6917]	12544	-0.13251566886901855	-0.3828629	No	
+row_34	HDAC2	histone deacetylase 2 [Source:HGNC Symbol;Acc:HGNC:4853]	12789	-0.1479276716709137	-0.3905706	No	
+row_35	ING3	inhibitor of growth family member 3 [Source:HGNC Symbol;Acc:HGNC:14587]	13107	-0.17088396847248077	-0.40117458	No	
+row_36	PBRM1	polybromo 1 [Source:HGNC Symbol;Acc:HGNC:30064]	13161	-0.17440392076969147	-0.3989064	No	
+row_37	CDK2AP2	cyclin dependent kinase 2 associated protein 2 [Source:HGNC Symbol;Acc:HGNC:30833]	13286	-0.1834605187177658	-0.39982286	No	
+row_38	RBBP4	RB binding protein 4, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9887]	13465	-0.19675567746162415	-0.40298387	No	
+row_39	BRD9	bromodomain containing 9 [Source:HGNC Symbol;Acc:HGNC:25818]	13701	-0.21390962600708008	-0.40842772	No	
+row_40	ERCC6	ERCC excision repair 6, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:3438]	13751	-0.21676668524742126	-0.4047921	No	
+row_41	CHRAC1	chromatin accessibility complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:13544]	13837	-0.2224961221218109	-0.4027397	No	
+row_42	MTA2	metastasis associated 1 family member 2 [Source:HGNC Symbol;Acc:HGNC:7411]	13856	-0.22405694425106049	-0.39740202	No	
+row_43	RUVBL1	RuvB like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	14189	-0.2487514615058899	-0.4065741	No	
+row_44	EP400	E1A binding protein p400 [Source:HGNC Symbol;Acc:HGNC:11958]	14425	-0.26746630668640137	-0.41053388	No	
+row_45	DMAP1	DNA methyltransferase 1 associated protein 1 [Source:HGNC Symbol;Acc:HGNC:18291]	14631	-0.2842457890510559	-0.412577	Yes	
+row_46	RUVBL2	RuvB like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	14719	-0.28999802470207214	-0.4087509	Yes	
+row_47	YY1	YY1 transcription factor [Source:HGNC Symbol;Acc:HGNC:12856]	14953	-0.3088878393173218	-0.4114661	Yes	
+row_48	SMARCD1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1 [Source:HGNC Symbol;Acc:HGNC:11106]	14977	-0.31188318133354187	-0.40393665	Yes	
+row_49	BAZ1B	bromodomain adjacent to zinc finger domain 1B [Source:HGNC Symbol;Acc:HGNC:961]	14978	-0.31196290254592896	-0.39529207	Yes	
+row_50	BICRAL	BICRA like chromatin remodeling complex associated protein [Source:HGNC Symbol;Acc:HGNC:21111]	15010	-0.31521499156951904	-0.38805744	Yes	
+row_51	SRCAP	Snf2 related CREBBP activator protein [Source:HGNC Symbol;Acc:HGNC:16974]	15075	-0.32102254033088684	-0.38225868	Yes	
+row_52	INO80B	INO80 complex subunit B [Source:HGNC Symbol;Acc:HGNC:13324]	15362	-0.34800851345062256	-0.38645443	Yes	
+row_53	BPTF	bromodomain PHD finger transcription factor [Source:HGNC Symbol;Acc:HGNC:3581]	15751	-0.3853522837162018	-0.394551	Yes	
+row_54	GATAD2A	GATA zinc finger domain containing 2A [Source:HGNC Symbol;Acc:HGNC:29989]	15908	-0.3990285098552704	-0.39104247	Yes	
+row_55	C17orf49	chromosome 17 open reading frame 49 [Source:HGNC Symbol;Acc:HGNC:28737]	15919	-0.39981475472450256	-0.38044736	Yes	
+row_56	DDX21	DExD-box helicase 21 [Source:HGNC Symbol;Acc:HGNC:2744]	16031	-0.41056013107299805	-0.37444177	Yes	
+row_57	ARID1B	AT-rich interaction domain 1B [Source:HGNC Symbol;Acc:HGNC:18040]	16069	-0.4147287905216217	-0.36473992	Yes	
+row_58	ACTR8	actin related protein 8 [Source:HGNC Symbol;Acc:HGNC:14672]	16158	-0.42364224791526794	-0.3572589	Yes	
+row_59	INO80D	INO80 complex subunit D [Source:HGNC Symbol;Acc:HGNC:25997]	16206	-0.4281804859638214	-0.34766814	Yes	
+row_60	DPF3	double PHD fingers 3 [Source:HGNC Symbol;Acc:HGNC:17427]	16245	-0.4312589466571808	-0.3375566	Yes	
+row_61	CECR2	CECR2 histone acetyl-lysine reader [Source:HGNC Symbol;Acc:HGNC:1840]	16547	-0.46514320373535156	-0.33923236	Yes	
+row_62	MYBBP1A	MYB binding protein 1a [Source:HGNC Symbol;Acc:HGNC:7546]	16598	-0.4694482088088989	-0.32864323	Yes	
+row_63	SMARCD2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2 [Source:HGNC Symbol;Acc:HGNC:11107]	16749	-0.48443320393562317	-0.32247776	Yes	
+row_64	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2 [Source:HGNC Symbol;Acc:HGNC:11098]	16754	-0.48497092723846436	-0.30923265	Yes	
+row_65	TRRAP	transformation/transcription domain associated protein [Source:HGNC Symbol;Acc:HGNC:12347]	16896	-0.5006874799728394	-0.30218127	Yes	
+row_66	BAZ2A	bromodomain adjacent to zinc finger domain 2A [Source:HGNC Symbol;Acc:HGNC:962]	17111	-0.5256267786026001	-0.29797116	Yes	
+row_67	SMARCE1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1 [Source:HGNC Symbol;Acc:HGNC:11109]	17129	-0.5276339054107666	-0.2841729	Yes	
+row_68	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4 [Source:HGNC Symbol;Acc:HGNC:11100]	17345	-0.5522624254226685	-0.27927312	Yes	
+row_69	MTA1	metastasis associated 1 [Source:HGNC Symbol;Acc:HGNC:7410]	17359	-0.5537079572677612	-0.26455876	Yes	
+row_70	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	17382	-0.5562277436256409	-0.2502101	Yes	
+row_71	MTA3	metastasis associated 1 family member 3 [Source:HGNC Symbol;Acc:HGNC:23784]	17427	-0.561923623085022	-0.23676814	Yes	
+row_72	SMARCC1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 1 [Source:HGNC Symbol;Acc:HGNC:11104]	17455	-0.566967248916626	-0.22236381	Yes	
+row_73	DPF2	double PHD fingers 2 [Source:HGNC Symbol;Acc:HGNC:9964]	17458	-0.5675179958343506	-0.20673452	Yes	
+row_74	MCRS1	microspherule protein 1 [Source:HGNC Symbol;Acc:HGNC:6960]	17579	-0.5833852291107178	-0.1963754	Yes	
+row_75	ANP32E	acidic nuclear phosphoprotein 32 family member E [Source:HGNC Symbol;Acc:HGNC:16673]	17616	-0.5884215831756592	-0.18181206	Yes	
+row_76	BICRA	BRD4 interacting chromatin remodeling complex associated protein [Source:HGNC Symbol;Acc:HGNC:4332]	17634	-0.5908826589584351	-0.16626115	Yes	
+row_77	SF3B1	splicing factor 3b subunit 1 [Source:HGNC Symbol;Acc:HGNC:10768]	17660	-0.5949413776397705	-0.15098488	Yes	
+row_78	SMARCA1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1 [Source:HGNC Symbol;Acc:HGNC:11097]	17862	-0.6216039657592773	-0.14348619	Yes	
+row_79	CDK2AP1	cyclin dependent kinase 2 associated protein 1 [Source:HGNC Symbol;Acc:HGNC:14002]	18266	-0.6958096623420715	-0.14370574	Yes	
+row_80	NFRKB	nuclear factor related to kappaB binding protein [Source:HGNC Symbol;Acc:HGNC:7802]	18319	-0.7057319283485413	-0.12666592	Yes	
+row_81	INO80	INO80 complex ATPase subunit [Source:HGNC Symbol;Acc:HGNC:26956]	18338	-0.7097048163414001	-0.10787081	Yes	
+row_82	ARID1A	AT-rich interaction domain 1A [Source:HGNC Symbol;Acc:HGNC:11110]	18397	-0.7197762131690979	-0.09073216	Yes	
+row_83	RSF1	remodeling and spacing factor 1 [Source:HGNC Symbol;Acc:HGNC:18118]	18518	-0.7407364845275879	-0.07601278	Yes	
+row_84	INO80C	INO80 complex subunit C [Source:HGNC Symbol;Acc:HGNC:26994]	18731	-0.7825779318809509	-0.06458573	Yes	
+row_85	GATAD2B	GATA zinc finger domain containing 2B [Source:HGNC Symbol;Acc:HGNC:30778]	19141	-0.8802490234375	-0.05998475	Yes	
+row_86	KAT5	lysine acetyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:5275]	19471	-1.0021305084228516	-0.04813531	Yes	
+row_87	CHD3	chromodomain helicase DNA binding protein 3 [Source:HGNC Symbol;Acc:HGNC:1918]	19527	-1.0232001543045044	-0.022443533	Yes	
+row_88	NCR1	natural cytotoxicity triggering receptor 1 [Source:HGNC Symbol;Acc:HGNC:6731]	20062	-1.302196741104126	-0.012198849	Yes	
+row_89	SMARCB1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1 [Source:HGNC Symbol;Acc:HGNC:11103]	20379	-1.6486297845840454	0.018194316	Yes	

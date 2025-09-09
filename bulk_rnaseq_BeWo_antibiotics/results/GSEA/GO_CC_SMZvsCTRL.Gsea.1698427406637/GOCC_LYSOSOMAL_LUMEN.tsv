@@ -1,0 +1,74 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NSG2	neuronal vesicle trafficking associated 2 [Source:HGNC Symbol;Acc:HGNC:24955]	62	2.4632678031921387	0.052275818	Yes	
+row_1	SMPD1	sphingomyelin phosphodiesterase 1 [Source:HGNC Symbol;Acc:HGNC:11120]	73	2.426152229309082	0.106494315	Yes	
+row_2	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	190	1.9979485273361206	0.14538161	Yes	
+row_3	ASAH1	N-acylsphingosine amidohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:735]	521	1.5068689584732056	0.16174427	Yes	
+row_4	CSPG5	chondroitin sulfate proteoglycan 5 [Source:HGNC Symbol;Acc:HGNC:2467]	632	1.4122951030731201	0.1877354	Yes	
+row_5	HYAL1	hyaluronidase 1 [Source:HGNC Symbol;Acc:HGNC:5320]	722	1.3384289741516113	0.21318233	Yes	
+row_6	ACP2	acid phosphatase 2, lysosomal [Source:HGNC Symbol;Acc:HGNC:123]	848	1.2578980922698975	0.23488703	Yes	
+row_7	SDC3	syndecan 3 [Source:HGNC Symbol;Acc:HGNC:10660]	955	1.1871740818023682	0.25601155	Yes	
+row_8	FUCA1	alpha-L-fucosidase 1 [Source:HGNC Symbol;Acc:HGNC:4006]	1219	1.0752547979354858	0.26621586	Yes	
+row_9	HEXB	hexosaminidase subunit beta [Source:HGNC Symbol;Acc:HGNC:4879]	1277	1.052607536315918	0.28692338	Yes	
+row_10	CTSK	cathepsin K [Source:HGNC Symbol;Acc:HGNC:2536]	1338	1.03128182888031	0.3069892	Yes	
+row_11	IDS	iduronate 2-sulfatase [Source:HGNC Symbol;Acc:HGNC:5389]	1472	0.9794861674308777	0.32198298	Yes	
+row_12	MANBA	mannosidase beta [Source:HGNC Symbol;Acc:HGNC:6831]	1609	0.9390676021575928	0.3359042	Yes	
+row_13	CTSL	cathepsin L [Source:HGNC Symbol;Acc:HGNC:2537]	1932	0.8530279397964478	0.3379388	Yes	
+row_14	HGSNAT	heparan-alpha-glucosaminide N-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:26527]	1990	0.8392193913459778	0.35383058	Yes	
+row_15	LAMP2	lysosomal associated membrane protein 2 [Source:HGNC Symbol;Acc:HGNC:6501]	2239	0.7799573540687561	0.35817266	Yes	
+row_16	IDUA	alpha-L-iduronidase [Source:HGNC Symbol;Acc:HGNC:5391]	2421	0.7441307306289673	0.36528856	Yes	
+row_17	LIPA	lipase A, lysosomal acid type [Source:HGNC Symbol;Acc:HGNC:6617]	2614	0.7047623991966248	0.37092784	Yes	
+row_18	MAN2B2	mannosidase alpha class 2B member 2 [Source:HGNC Symbol;Acc:HGNC:29623]	2816	0.6727671027183533	0.37536383	Yes	
+row_19	CTSB	cathepsin B [Source:HGNC Symbol;Acc:HGNC:2527]	2950	0.6509645581245422	0.38294357	Yes	
+row_20	NCAN	neurocan [Source:HGNC Symbol;Acc:HGNC:2465]	3156	0.6201246380805969	0.3859777	Yes	
+row_21	ARSA	arylsulfatase A [Source:HGNC Symbol;Acc:HGNC:713]	3709	0.5390247106552124	0.36862835	No	
+row_22	RNASET2	ribonuclease T2 [Source:HGNC Symbol;Acc:HGNC:21686]	3927	0.510513186454773	0.36854714	No	
+row_23	GLB1	galactosidase beta 1 [Source:HGNC Symbol;Acc:HGNC:4298]	3946	0.5083783268928528	0.37905777	No	
+row_24	GPC1	glypican 1 [Source:HGNC Symbol;Acc:HGNC:4449]	4109	0.4853149950504303	0.3813486	No	
+row_25	ARSB	arylsulfatase B [Source:HGNC Symbol;Acc:HGNC:714]	4374	0.45272088050842285	0.3774502	No	
+row_26	ATP13A2	ATPase cation transporting 13A2 [Source:HGNC Symbol;Acc:HGNC:30213]	4582	0.43053165078163147	0.37609863	No	
+row_27	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	4621	0.4267667531967163	0.3836981	No	
+row_28	HSP90AA1	heat shock protein 90 alpha family class A member 1 [Source:HGNC Symbol;Acc:HGNC:5253]	4863	0.40101945400238037	0.37986264	No	
+row_29	GUSB	glucuronidase beta [Source:HGNC Symbol;Acc:HGNC:4696]	4949	0.38960370421409607	0.38411045	No	
+row_30	GLA	galactosidase alpha [Source:HGNC Symbol;Acc:HGNC:4296]	5095	0.372780978679657	0.38477057	No	
+row_31	SGSH	N-sulfoglucosamine sulfohydrolase [Source:HGNC Symbol;Acc:HGNC:10818]	5644	0.3109889626502991	0.36248884	No	
+row_32	CTSF	cathepsin F [Source:HGNC Symbol;Acc:HGNC:2531]	5802	0.296710729598999	0.3607906	No	
+row_33	CTSD	cathepsin D [Source:HGNC Symbol;Acc:HGNC:2529]	6315	0.25099650025367737	0.33907977	No	
+row_34	GYG1	glycogenin 1 [Source:HGNC Symbol;Acc:HGNC:4699]	6384	0.24453453719615936	0.34096262	No	
+row_35	PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	6393	0.24388553202152252	0.34603888	No	
+row_36	PLBD2	phospholipase B domain containing 2 [Source:HGNC Symbol;Acc:HGNC:27283]	6423	0.24066944420337677	0.34991974	No	
+row_37	GALNS	galactosamine (N-acetyl)-6-sulfatase [Source:HGNC Symbol;Acc:HGNC:4122]	6533	0.2315749078989029	0.34931794	No	
+row_38	CHID1	chitinase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:28474]	6803	0.20995987951755524	0.33967358	No	
+row_39	IFI30	IFI30 lysosomal thiol reductase [Source:HGNC Symbol;Acc:HGNC:5398]	6967	0.19614440202713013	0.33538496	No	
+row_40	NPC2	NPC intracellular cholesterol transporter 2 [Source:HGNC Symbol;Acc:HGNC:14537]	7333	0.16539756953716278	0.31960204	No	
+row_41	NAGLU	N-acetyl-alpha-glucosaminidase [Source:HGNC Symbol;Acc:HGNC:7632]	7648	0.14091694355010986	0.3059935	No	
+row_42	SCARB2	scavenger receptor class B member 2 [Source:HGNC Symbol;Acc:HGNC:1665]	7654	0.14029091596603394	0.30889225	No	
+row_43	GNS	glucosamine (N-acetyl)-6-sulfatase [Source:HGNC Symbol;Acc:HGNC:4422]	7902	0.12082178145647049	0.2984125	No	
+row_44	BCAN	brevican [Source:HGNC Symbol;Acc:HGNC:23059]	7976	0.1154928058385849	0.2971158	No	
+row_45	TXNDC5	thioredoxin domain containing 5 [Source:HGNC Symbol;Acc:HGNC:21073]	8687	0.0608539916574955	0.26052734	No	
+row_46	TCN2	transcobalamin 2 [Source:HGNC Symbol;Acc:HGNC:11653]	8739	0.056463565677404404	0.25907475	No	
+row_47	PLD3	phospholipase D family member 3 [Source:HGNC Symbol;Acc:HGNC:17158]	8783	0.05233396589756012	0.25795674	No	
+row_48	CTSA	cathepsin A [Source:HGNC Symbol;Acc:HGNC:9251]	8994	0.03596382960677147	0.24754022	No	
+row_49	LGMN	legumain [Source:HGNC Symbol;Acc:HGNC:9472]	9631	-0.01009148359298706	0.21376272	No	
+row_50	MAN2B1	mannosidase alpha class 2B member 1 [Source:HGNC Symbol;Acc:HGNC:6826]	10743	-0.09491050988435745	0.15650241	No	
+row_51	GAA	alpha glucosidase [Source:HGNC Symbol;Acc:HGNC:4065]	10752	-0.09587221592664719	0.1582383	No	
+row_52	HEXA	hexosaminidase subunit alpha [Source:HGNC Symbol;Acc:HGNC:4878]	10871	-0.10515286773443222	0.15430224	No	
+row_53	GPC2	glypican 2 [Source:HGNC Symbol;Acc:HGNC:4450]	11080	-0.12176432460546494	0.145929	No	
+row_54	PSAP	prosaposin [Source:HGNC Symbol;Acc:HGNC:9498]	11154	-0.12696130573749542	0.14489113	No	
+row_55	PPT1	palmitoyl-protein thioesterase 1 [Source:HGNC Symbol;Acc:HGNC:9325]	11253	-0.13424088060855865	0.14268087	No	
+row_56	SDC2	syndecan 2 [Source:HGNC Symbol;Acc:HGNC:10659]	11319	-0.13798779249191284	0.14231957	No	
+row_57	GBA1	glucosylceramidase beta 1 [Source:HGNC Symbol;Acc:HGNC:4177]	11867	-0.17963659763336182	0.11712696	No	
+row_58	CSPG4	chondroitin sulfate proteoglycan 4 [Source:HGNC Symbol;Acc:HGNC:2466]	12705	-0.24420812726020813	0.077886045	No	
+row_59	TPP1	tripeptidyl peptidase 1 [Source:HGNC Symbol;Acc:HGNC:2073]	12979	-0.2709420621395111	0.06940404	No	
+row_60	PPT2	palmitoyl-protein thioesterase 2 [Source:HGNC Symbol;Acc:HGNC:9326]	13707	-0.3361646831035614	0.038119808	No	
+row_61	HSPA8	heat shock protein family A (Hsp70) member 8 [Source:HGNC Symbol;Acc:HGNC:5241]	13836	-0.35062551498413086	0.03918887	No	
+row_62	GM2A	ganglioside GM2 activator [Source:HGNC Symbol;Acc:HGNC:4367]	14367	-0.4033401608467102	0.019953713	No	
+row_63	SDC4	syndecan 4 [Source:HGNC Symbol;Acc:HGNC:10661]	14393	-0.4064547121524811	0.027789861	No	
+row_64	NAAA	N-acylethanolamine acid amidase [Source:HGNC Symbol;Acc:HGNC:736]	14550	-0.42274677753448486	0.028989462	No	
+row_65	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	15148	-0.48901107907295227	0.008105403	No	
+row_66	NEU1	neuraminidase 1 [Source:HGNC Symbol;Acc:HGNC:7758]	15408	-0.5242263078689575	0.0060880464	No	
+row_67	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	15900	-0.5922202467918396	-0.006799258	No	
+row_68	BGN	biglycan [Source:HGNC Symbol;Acc:HGNC:1044]	15957	-0.600524365901947	0.0037591474	No	
+row_69	GPC4	glypican 4 [Source:HGNC Symbol;Acc:HGNC:4452]	17140	-0.8394761681556702	-0.040494055	No	
+row_70	CTSV	cathepsin V [Source:HGNC Symbol;Acc:HGNC:2538]	17471	-0.9542778730392456	-0.03660223	No	
+row_71	ACAN	aggrecan [Source:HGNC Symbol;Acc:HGNC:319]	18256	-1.4214599132537842	-0.04644127	No	
+row_72	CTSS	cathepsin S [Source:HGNC Symbol;Acc:HGNC:2545]	18760	-3.285067558288574	8.017423E-4	No	

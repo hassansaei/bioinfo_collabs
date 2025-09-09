@@ -1,0 +1,24 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PIK3CD	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [Source:HGNC Symbol;Acc:HGNC:8977]	177	1.9524857997894287	0.16624069	Yes	
+row_1	GNG10	G protein subunit gamma 10 [Source:HGNC Symbol;Acc:HGNC:4402]	544	1.4404531717300415	0.27460635	Yes	
+row_2	GNB4	G protein subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:20731]	881	1.1921143531799316	0.36228183	Yes	
+row_3	CHUK	component of inhibitor of nuclear factor kappa B kinase complex [Source:HGNC Symbol;Acc:HGNC:1974]	1513	0.9252734780311584	0.4078775	Yes	
+row_4	GNG7	G protein subunit gamma 7 [Source:HGNC Symbol;Acc:HGNC:4410]	2740	0.6386626362800598	0.39140528	No	
+row_5	GNG3	G protein subunit gamma 3 [Source:HGNC Symbol;Acc:HGNC:4405]	4334	0.4001094102859497	0.33105028	No	
+row_6	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	5046	0.3110339045524597	0.316118	No	
+row_7	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	5772	0.2388497292995453	0.29379368	No	
+row_8	IKBKG	inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [Source:HGNC Symbol;Acc:HGNC:5961]	6303	0.18773259222507477	0.27866352	No	
+row_9	GNG4	G protein subunit gamma 4 [Source:HGNC Symbol;Acc:HGNC:4407]	7892	0.047804318368434906	0.18667826	No	
+row_10	GNB3	G protein subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:4400]	8218	0.01901216059923172	0.16868906	No	
+row_11	GNB5	G protein subunit beta 5 [Source:HGNC Symbol;Acc:HGNC:4401]	8267	0.014069882221519947	0.16705298	No	
+row_12	AKT2	AKT serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:392]	9311	-0.07318251579999924	0.1104244	No	
+row_13	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	9528	-0.09097862988710403	0.105569616	No	
+row_14	GNG5	G protein subunit gamma 5 [Source:HGNC Symbol;Acc:HGNC:4408]	10153	-0.14030112326145172	0.08043873	No	
+row_15	IKBKB	inhibitor of nuclear factor kappa B kinase subunit beta [Source:HGNC Symbol;Acc:HGNC:5960]	10292	-0.15366096794605255	0.08599658	No	
+row_16	GNB2	G protein subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:4398]	10762	-0.19513247907161713	0.07523704	No	
+row_17	AKT3	AKT serine/threonine kinase 3 [Source:HGNC Symbol;Acc:HGNC:393]	11473	-0.26121723651885986	0.05584996	No	
+row_18	GNG12	G protein subunit gamma 12 [Source:HGNC Symbol;Acc:HGNC:19663]	12206	-0.34078744053840637	0.04234086	No	
+row_19	RELA	RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	12358	-0.3592800199985504	0.06574785	No	
+row_20	GNB1	G protein subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:4396]	13567	-0.5162128210067749	0.039268352	No	
+row_21	PIK3CB	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:8976]	14792	-0.7510265707969666	0.03310229	No	
+row_22	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	14909	-0.783081591129303	0.09704621	No	

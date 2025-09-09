@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GRID2IP	Grid2 interacting protein [Source:HGNC Symbol;Acc:HGNC:18464]	53	2.4333572387695312	0.22514516	Yes	
+row_1	PSD	pleckstrin and Sec7 domain containing [Source:HGNC Symbol;Acc:HGNC:9507]	496	1.4860382080078125	0.3378063	Yes	
+row_2	ACTN2	actinin alpha 2 [Source:HGNC Symbol;Acc:HGNC:164]	1077	1.0976241827011108	0.40565062	Yes	
+row_3	FAM81A	family with sequence similarity 81 member A [Source:HGNC Symbol;Acc:HGNC:28379]	1238	1.0275336503982544	0.49237952	Yes	
+row_4	CRIPT	CXXC repeat containing interactor of PDZ3 domain [Source:HGNC Symbol;Acc:HGNC:14312]	5197	0.29575175046920776	0.28018284	No	
+row_5	CDKL5	cyclin dependent kinase like 5 [Source:HGNC Symbol;Acc:HGNC:11411]	5260	0.2882828116416931	0.303478	No	
+row_6	BAIAP2	BAR/IMD domain containing adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:947]	6664	0.1563713252544403	0.23309657	No	
+row_7	PRR7	proline rich 7, synaptic [Source:HGNC Symbol;Acc:HGNC:28130]	8245	0.016503088176250458	0.1388587	No	
+row_8	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	9901	-0.12174873799085617	0.049950767	No	
+row_9	PTK2B	protein tyrosine kinase 2 beta [Source:HGNC Symbol;Acc:HGNC:9612]	11258	-0.2382953017950058	-0.009893154	No	
+row_10	ZDHHC5	zinc finger DHHC-type palmitoyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:18472]	11290	-0.2419046014547348	0.010929012	No	
+row_11	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	13543	-0.5130640864372253	-0.07744875	No	
+row_12	CTNND1	catenin delta 1 [Source:HGNC Symbol;Acc:HGNC:2515]	14490	-0.6838716864585876	-0.070621565	No	
+row_13	TNIK	TRAF2 and NCK interacting kinase [Source:HGNC Symbol;Acc:HGNC:30765]	14540	-0.6951361894607544	-0.0083571505	No	
+row_14	LYN	LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]	15998	-1.360393762588501	0.030979108	No	

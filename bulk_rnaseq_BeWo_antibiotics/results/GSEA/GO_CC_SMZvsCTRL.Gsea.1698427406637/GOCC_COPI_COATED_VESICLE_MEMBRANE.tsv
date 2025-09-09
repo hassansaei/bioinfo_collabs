@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TMEM199	transmembrane protein 199 [Source:HGNC Symbol;Acc:HGNC:18085]	7069	0.18739156424999237	-0.34766984	No	
+row_1	TMED7	transmembrane p24 trafficking protein 7 [Source:HGNC Symbol;Acc:HGNC:24253]	8311	0.0882420688867569	-0.40009215	No	
+row_2	TMED3	transmembrane p24 trafficking protein 3 [Source:HGNC Symbol;Acc:HGNC:28889]	8502	0.07367169857025146	-0.39875555	No	
+row_3	DIPK2A	divergent protein kinase domain 2A [Source:HGNC Symbol;Acc:HGNC:28490]	8528	0.07181274890899658	-0.38891247	No	
+row_4	TMED2	transmembrane p24 trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	10227	-0.05529496818780899	-0.4708238	No	
+row_5	COPE	COPI coat complex subunit epsilon [Source:HGNC Symbol;Acc:HGNC:2234]	12591	-0.2349165827035904	-0.5602313	Yes	
+row_6	KDELR2	KDEL endoplasmic reticulum protein retention receptor 2 [Source:HGNC Symbol;Acc:HGNC:6305]	12830	-0.2566010355949402	-0.53298527	Yes	
+row_7	KDELR1	KDEL endoplasmic reticulum protein retention receptor 1 [Source:HGNC Symbol;Acc:HGNC:6304]	12956	-0.2681666314601898	-0.4979156	Yes	
+row_8	COPZ1	COPI coat complex subunit zeta 1 [Source:HGNC Symbol;Acc:HGNC:2243]	13363	-0.30092307925224304	-0.4727277	Yes	
+row_9	KDELR3	KDEL endoplasmic reticulum protein retention receptor 3 [Source:HGNC Symbol;Acc:HGNC:6306]	14288	-0.39683613181114197	-0.4602268	Yes	
+row_10	COPB2	COPI coat complex subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:2232]	14392	-0.4064474403858185	-0.40246454	Yes	
+row_11	COPB1	COPI coat complex subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:2231]	14464	-0.4143674373626709	-0.34176385	Yes	
+row_12	SCYL1	SCY1 like pseudokinase 1 [Source:HGNC Symbol;Acc:HGNC:14372]	15179	-0.4946868121623993	-0.30284044	Yes	
+row_13	COPG2	COPI coat complex subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:2237]	16262	-0.6502577662467957	-0.25932372	Yes	
+row_14	COPA	COPI coat complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:2230]	16905	-0.7791346311569214	-0.17229523	Yes	
+row_15	COPG1	COPI coat complex subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:2236]	17214	-0.8568040728569031	-0.055374723	Yes	
+row_16	ARCN1	archain 1 [Source:HGNC Symbol;Acc:HGNC:649]	17322	-0.8901893496513367	0.07745619	Yes	
